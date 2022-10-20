@@ -1,0 +1,164 @@
+# Copyright (C) 2018 WPForms Form Locker
+# This file is distributed under the same license as the WPForms Form Locker package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Form Locker\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: hi\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. translators: %s - WPForms.com documentation page URL.
+#: wpforms-form-locker.php:62
+msgid ""
+"The WPForms Form Locker plugin has been deactivated. Your site is running an "
+"outdated version of PHP that is no longer supported and is not compatible "
+"with the Form Locker addon. <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Read more</a> for additional information."
+msgstr ""
+"WPForms फार्म लॉकर प्लगइन निष्क्रिय कर दिया गया है । आपकी साइट PHP का पुराना संस्करण "
+"चला रही है जो अब समर्थित नहीं है और फॉर्म लॉकर के ऐडऑन के साथ संगत नहीं है। अतिरिक्त "
+"जानकारी के लिए <a href=“%s” target=“_blank” rel=“noopener noreferrer”> और पढ़ें "
+"</a>।"
+
+#: src/Admin.php:152
+msgid "Require unique answer"
+msgstr "अनोखे उत्तर की आवश्यकता है"
+
+#: src/Admin.php:153
+msgid "Check this option to require only unique answers for the current field."
+msgstr "वर्तमान फ़ील्ड के लिए केवल अनोखे उत्तरों की आवश्यकता के लिए इस विकल्प की जाँच करें।"
+
+#: src/Admin.php:172, src/Admin.php:189
+msgid "Form Locker"
+msgstr "फार्म लॉकर"
+
+#: src/Admin.php:197
+msgid "Enable password protection"
+msgstr "पासवर्ड सुरक्षा सक्षम करें"
+
+#: src/Admin.php:199, src/Admin.php:208, src/Lockers/Password.php:142
+msgid "Password"
+msgstr "पासवर्ड"
+
+#: src/Admin.php:216
+msgid "Display Message"
+msgstr "संदेश प्रदर्शित करें"
+
+#: src/Admin.php:221
+msgid "This message is displayed to visitors above the password form."
+msgstr "यह संदेश पासवर्ड फ़ॉर्म के ऊपर आगंतुकों के लिए प्रदर्शित किया जाता है ।"
+
+#: src/Admin.php:230
+msgid "Enable scheduling"
+msgstr "शेड्यूलिंग सक्षम करें"
+
+#: src/Admin.php:232
+msgid "Scheduling"
+msgstr "शेड्यूलिंग"
+
+#: src/Admin.php:233
+msgid "Accept form entries during the date/time window below."
+msgstr "नीचे दिनांक/समय विंडो के दौरान फॉर्म प्रविष्टियां स्वीकार करें ।"
+
+#: src/Admin.php:244
+msgid "Start Date"
+msgstr "प्रारंभ दिनांक"
+
+#: src/Admin.php:248
+msgid "Clear Start Date"
+msgstr "स्पष्ट प्रारंभ दिनांक"
+
+#: src/Admin.php:257
+msgid "Start Time"
+msgstr "प्रारंभ समय"
+
+#: src/Admin.php:261
+msgid "Clear Start Time"
+msgstr "स्पष्ट प्रारंभ समय"
+
+#: src/Admin.php:270
+msgid "End Date"
+msgstr "अंतिम दिनांक"
+
+#: src/Admin.php:274
+msgid "Clear End Date"
+msgstr "स्पष्ट अंतिम दिनांक"
+
+#: src/Admin.php:283
+msgid "End Time"
+msgstr "अंतिम समय"
+
+#: src/Admin.php:287
+msgid "Clear End Time"
+msgstr "स्पष्ट अंतिम समय"
+
+#: src/Admin.php:298, src/Admin.php:334
+msgid "Closed Message"
+msgstr "बंद संदेश"
+
+#: src/Admin.php:303, src/Admin.php:339
+msgid "This message is displayed to visitors when the form is closed."
+msgstr "यह संदेश आगंतुकों के लिए प्रदर्शित किया जाता है जब फ़ॉर्म बंद है ।"
+
+#: src/Admin.php:312
+msgid "Enable limit on total form entries"
+msgstr "कुल फ़ॉर्म प्रविष्टियों पर सीमा सक्षम करें"
+
+#: src/Admin.php:314
+msgid "Entry Limit"
+msgstr "प्रवेश सीमा"
+
+#: src/Admin.php:323
+msgid "Limit"
+msgstr "सीमा"
+
+#: src/Admin.php:348
+msgid "Enable restricting entries to logged in users only"
+msgstr "केवल लॉग इन उपयोगकर्ताओं के लिए प्रतिबंधित प्रविष्टियों को सक्षम करें"
+
+#: src/Admin.php:350
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+#: src/Admin.php:359
+msgid "Message"
+msgstr "संदेश"
+
+#: src/Admin.php:364
+msgid "This message is displayed to logged out visitors in place of the form."
+msgstr "यह संदेश फ़ॉर्म के स्थान पर लॉग आउट आगंतुकों के लिए प्रदर्शित किया जाता है ।"
+
+#: src/Lockers/Password.php:136
+msgid "The password is incorrect."
+msgstr "पासवर्ड गलत है ।"
+
+#: src/Lockers/Password.php:152
+msgid "Sending..."
+msgstr "भेजना…"
+
+#: src/Lockers/Password.php:153
+msgid "Submit"
+msgstr "जमा करें"
+
+#: src/Lockers/UniqueAnswer.php:103
+msgid "Unique Answer"
+msgstr "अनोखा जवाब"
+
+#: src/Lockers/UniqueAnswer.php:105, src/Lockers/UniqueAnswer.php:121,
+#: src/Lockers/UniqueAnswer.php:174
+msgid "The value must be unique."
+msgstr "मान अनोखा होना चाहिए।"

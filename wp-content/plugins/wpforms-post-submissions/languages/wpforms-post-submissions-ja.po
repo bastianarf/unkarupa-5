@@ -1,0 +1,170 @@
+# Copyright (C) 2019 WPForms Post Submissions
+# This file is distributed under the same license as the WPForms Post Submissions package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# Ali Darwich <b.a.darwich@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Post Submissions\n"
+"Last-Translator: Ali Darwich <b.a.darwich@gmail.com>, 2019\n"
+"Language-Team: Japanese (https://www.transifex.com/wp-translations/teams/64435/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: class-post-submissions-template.php:21
+msgid "Blog Post Submission Form"
+msgstr "ブログ投稿提出フォーム"
+
+#: class-post-submissions-template.php:23
+msgid ""
+"User-submitted content made easy. Allow your users to submit guest blog "
+"posts in WordPress. You can add and remove fields as needed."
+msgstr ""
+"ユーザーが投稿したコンテンツが簡単になりました。ユーザーが WordPress "
+"でゲストブログの投稿を送信できるようにします。必要に応じてフィールドを追加および削除できます。"
+
+#: class-post-submissions-template.php:28
+msgid "Don&#39;t Forget"
+msgstr "忘れないでください"
+
+#: class-post-submissions-template.php:29
+msgid ""
+"Additional post submission options are available in the settings panel."
+msgstr "設定パネルで追加の投稿投稿オプションを利用できます。"
+
+#: class-post-submissions-template.php:37
+msgid "Author Details"
+msgstr "投稿者の詳細"
+
+#: class-post-submissions-template.php:38
+msgid ""
+"Please enter your contact details, so we can give you proper credit for this"
+" blog post."
+msgstr "連絡先の詳細を入力してください。そうすれば、このブログ投稿に対して適切なクレジットが付与されます。"
+
+#: class-post-submissions-template.php:44
+msgid "Name"
+msgstr "名前"
+
+#: class-post-submissions-template.php:52
+msgid "Email"
+msgstr "メール"
+
+#: class-post-submissions-template.php:59
+msgid "Short Author Bio"
+msgstr "ショート投稿者の略歴"
+
+#: class-post-submissions-template.php:60
+msgid "Please keep it below 300 characters."
+msgstr "300文字以下にしてください。"
+
+#: class-post-submissions-template.php:67
+msgid "Create a Blog Post"
+msgstr "ブログ投稿を作成する"
+
+#: class-post-submissions-template.php:68
+msgid "Please submit your guest blog posts by using the fields below."
+msgstr "以下のフィールドを使用してゲストブログの投稿を送信してください。"
+
+#: class-post-submissions-template.php74, class-post-submissions.php:319
+msgid "Post Title"
+msgstr "投稿タイトル"
+
+#: class-post-submissions-template.php81, class-post-submissions.php:332
+msgid "Post Content"
+msgstr "投稿のコンテンツ"
+
+#: class-post-submissions-template.php:88
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: class-post-submissions-template.php:89
+msgid "Please make sure the dimensions are (600 x 300px)."
+msgstr "寸法が（600 x 300px）であることを確認してください。"
+
+#: class-post-submissions-template.php98, class-post-submissions.php:345
+msgid "Post Excerpt"
+msgstr "投稿抜粋"
+
+#: class-post-submissions-template.php:105
+msgid "Category"
+msgstr "カテゴリー"
+
+#: class-post-submissions-template.php:108
+msgid "First Choice"
+msgstr "選択1"
+
+#: class-post-submissions-template.php:121
+msgid "Submit"
+msgstr "送信"
+
+#: class-post-submissions-template.php:122
+msgid "Sending..."
+msgstr "送信中・・・"
+
+#: class-post-submissions.php277, class-post-submissions.php294,
+#: class-post-submissions.php:304
+msgid "Post Submissions"
+msgstr "Post Submissions"
+
+#: class-post-submissions.php:295
+msgid "Click here for documentation on Post Submissions addon"
+msgstr "「Post Submissions」アドオンについて"
+
+#: class-post-submissions.php322, class-post-submissions.php335,
+#: class-post-submissions.php348, class-post-submissions.php361,
+#: class-post-submissions.php:449
+msgid "--- Select Field ---"
+msgstr "---フィールドを選択する---"
+
+#: class-post-submissions.php:358
+msgid "Post Featured Image"
+msgstr "投稿のアイキャッチ画像"
+
+#: class-post-submissions.php:379
+msgid "Post Type"
+msgstr "投稿タイプ"
+
+#: class-post-submissions.php:392
+msgid "Post Status"
+msgstr "投稿ステータス"
+
+#: class-post-submissions.php:394
+msgid "Select the default status used for new posts."
+msgstr "新しい投稿に使用されるデフォールトのステータスを選択してください。"
+
+#: class-post-submissions.php:408
+msgid "Current User"
+msgstr "現在のユーザー"
+
+#: class-post-submissions.php:422
+msgid "Post Author"
+msgstr "著者"
+
+#: class-post-submissions.php:424
+msgid ""
+"Select the post author used for new posts. Selecting Current User will use "
+"the current WordPress user that submits the form."
+msgstr ""
+"新規投稿に使用する投稿者を選択してください。「現在のユーザー」を選択すると、フォームを送信した現在のWordPressユーザーが使用されます。"
+
+#: class-post-submissions.php:426
+msgid "--- Select User ---"
+msgstr "--- ユーザーを選択 ---"
+
+#: class-post-submissions.php:432
+msgid "Custom Post Meta"
+msgstr "カスタム投稿メタ"
+
+#: class-post-submissions.php:444
+msgid "Enter meta key..."
+msgstr "メタキーを入力"

@@ -1,0 +1,161 @@
+# Copyright (C) 2019 WPForms Zapier
+# This file is distributed under the same license as the WPForms Zapier package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# edson katayama <midiamentira@gmail.com>, 2019
+# Diana K. Cury <dianakac@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Zapier\n"
+"Last-Translator: Diana K. Cury <dianakac@gmail.com>, 2019\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/wp-translations/teams/64435/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. translators: %s - field id.
+#: class-zapier.php:81
+msgid "Field #%s"
+msgstr "Campo #%s"
+
+#: class-zapier.php:108
+msgid "First"
+msgstr "Nome"
+
+#: class-zapier.php:109
+msgid "Middle"
+msgstr "Meio"
+
+#: class-zapier.php:110
+msgid "Last"
+msgstr "Sobrenome"
+
+#: class-zapier.php:142
+msgid "Line 1"
+msgstr "Linha 1"
+
+#: class-zapier.php:143
+msgid "Line 2"
+msgstr "Linha 2"
+
+#: class-zapier.php:144
+msgid "City"
+msgstr "Cidade"
+
+#: class-zapier.php:145
+msgid "State"
+msgstr "Estado"
+
+#: class-zapier.php:146
+msgid "Region"
+msgstr "Região"
+
+#: class-zapier.php:147
+msgid "Postal"
+msgstr "CEP"
+
+#: class-zapier.php:148
+msgid "Country"
+msgstr "País"
+
+#: class-zapier.php:154
+msgid "Date"
+msgstr "Data"
+
+#: class-zapier.php:155
+msgid "Time"
+msgstr "Hora"
+
+#: class-zapier.php:156
+msgid "Unix Timestamp"
+msgstr "Timestamp do Unix"
+
+#: class-zapier.php:168
+msgid "Plain Amount"
+msgstr "Valor simples"
+
+#: class-zapier.php:233
+msgid "Zapier Zap error"
+msgstr "Erro do Zapier"
+
+#: class-zapier.php:301
+msgid "Invalid WPForms Zapier API key"
+msgstr "Chave de API do Zapier WPForms inválida"
+
+#: class-zapier.php:407
+msgid "No data"
+msgstr "Sem dados"
+
+#. translators: %s - API key.
+#. translators: %s - API key.
+#: class-zapier.php454, class-zapier.php:579
+msgid "Your WPForms Zapier API key is %s"
+msgstr "Sua chave de API do Zapier WPForms é %s"
+
+#: class-zapier.php:462
+msgid "No Zaps are connected to this form."
+msgstr "Nenhum Zap está conectado a este formulário."
+
+#: class-zapier.php:467
+msgid "No name"
+msgstr "Sem nome"
+
+#: class-zapier.php:468
+msgid "Yes"
+msgstr "Sim"
+
+#: class-zapier.php:468
+msgid "No"
+msgstr "Não"
+
+#: class-zapier.php:472
+msgid "Date Connected"
+msgstr "Data conectada"
+
+#: class-zapier.php:473
+msgid "Live"
+msgstr "Live"
+
+#: class-zapier.php:474
+msgid "Edit this Zap"
+msgstr "Editar este Zap"
+
+#. translators: %s - WPForms.com Zapier documentation article URL.
+#. translators: %s - WPForms.com Zapier documentation article URL.
+#: class-zapier.php483, class-zapier.php:593
+msgid ""
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Click here for "
+"documentation on connecting WPForms with Zapier.</a>"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Clique aqui "
+"para documentação sobre como conectar WPForms com Zapier</a>."
+
+#. translators: %s - provider name.
+#: class-zapier.php:563
+msgid "Integrate %s with WPForms"
+msgstr "Integre %s com WPForms"
+
+#: class-zapier.php:568
+msgid "Connected"
+msgstr "Conectado"
+
+#: class-zapier.php:587
+msgid "No forms are currently connected."
+msgstr "Nenhum formulário está conectado no momento."
+
+#: class-zapier.php:607
+msgid "The forms below are currently connected to Zapier."
+msgstr "Os formulários abaixo estão atualmente conectados ao Zapier."
+
+#. translators: %s - connection date.
+#: class-zapier.php:616
+msgid "Connected on: %s"
+msgstr "Conectado em: %s"

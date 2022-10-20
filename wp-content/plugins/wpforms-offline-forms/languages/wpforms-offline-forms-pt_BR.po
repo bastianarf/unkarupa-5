@@ -1,0 +1,79 @@
+# Copyright (C) 2019 WPForms Offline Forms
+# This file is distributed under the same license as the WPForms Offline Forms package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# edson katayama <midiamentira@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Offline Forms\n"
+"Last-Translator: edson katayama <midiamentira@gmail.com>, 2019\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/wp-translations/teams/64435/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: class-offline-forms.php:57
+msgid "Enable offline mode for the form"
+msgstr "Ativar o modo off-line para o formulário"
+
+#: class-offline-forms.php:59
+msgid ""
+"This will allow users to submit forms even without internet connection. Form"
+" data will be saved into their browsers and will give them ability to "
+"resubmit once internet is back with just 1 click of a button."
+msgstr ""
+"Isso permitirá que os usuários enviem formulários mesmo sem conexão com a "
+"Internet. Os dados do formulário serão salvos em seus navegadores e "
+"permitirão que eles sejam reenviados quando a Internet voltar, com apenas um"
+" clique de 1 botão."
+
+#: class-offline-forms.php:115
+msgid ""
+"You appear to be offline right now. Your data will be saved in your browser,"
+" even if you close this page or browser. To complete your submission, you'll"
+" need to return here once your internet connection is restored."
+msgstr ""
+"Você parece estar off-line agora. Seus dados serão salvos no seu navegador, "
+"mesmo se você fechar esta página ou navegador. Para concluir sua inscrição, "
+"você precisará retornar aqui assim que sua conexão com a Internet for "
+"restaurada."
+
+#: class-offline-forms.php:116
+msgid ""
+"We've saved your information from your previous attempt to complete this "
+"form. You can restore your saved data when your internet connection is "
+"active."
+msgstr ""
+"Salvamos suas informações da sua tentativa anterior de concluir este "
+"formulário. Você pode restaurar seus dados salvos quando sua conexão com a "
+"Internet estiver ativa."
+
+#: class-offline-forms.php:117
+msgid ""
+"We see you previously attempted to complete this form. Would you like to "
+"restore then to submit one by one? After restoring, your browser will no "
+"longer have this data saved."
+msgstr ""
+"Vimos que você tentou anteriormente preencher este formulário. Você gostaria"
+" de restaurar, em seguida, enviar um por um? Após a restauração, seu "
+"navegador não terá mais esses dados salvos."
+
+#: class-offline-forms.php:118
+msgid "Restore"
+msgstr "Restaurar"
+
+#: class-offline-forms.php:119
+msgid "Clear"
+msgstr "Limpar"
+
+#: class-offline-forms.php:120
+msgid "Clear All"
+msgstr "Limpar tudo"

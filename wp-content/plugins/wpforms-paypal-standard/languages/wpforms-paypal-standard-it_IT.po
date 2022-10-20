@@ -1,0 +1,233 @@
+# Copyright (C) 2019 WPForms PayPal Standard
+# This file is distributed under the same license as the WPForms PayPal Standard package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# raffaella isidori <words@raffaellaisidori.com>, 2019
+# Laura Sacco <laurasacco12@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms PayPal Standard\n"
+"Last-Translator: Laura Sacco <laurasacco12@gmail.com>, 2019\n"
+"Language-Team: Italian (Italy) (https://www.transifex.com/wp-translations/teams/64435/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: class-paypal-standard.php:48
+msgid "Enable PayPal Standard payments"
+msgstr "Abilita i pagamenti standard con PayPal"
+
+#: class-paypal-standard.php:59
+msgid "PayPal Email Address"
+msgstr "Indirizzo email di PayPal"
+
+#: class-paypal-standard.php:62
+msgid "Enter your PayPal address for the payment to be sent"
+msgstr ""
+"Inserisci il tuo indirizzo email di PayPal per poter inviare il pagamento"
+
+#: class-paypal-standard.php:70
+msgid "Mode"
+msgstr "Modalità"
+
+#: class-paypal-standard.php:75
+msgid "Production"
+msgstr "Produzione"
+
+#: class-paypal-standard.php:76
+msgid "Test / Sandbox"
+msgstr "Test/Sandbox"
+
+#: class-paypal-standard.php:78
+msgid ""
+"Select Production to receive real payments or select Test to use the PayPal "
+"developer sandbox"
+msgstr ""
+"Scegli Produzione per ricevere pagamenti reali o scegli Test per usare il "
+"sandbox di sviluppo di PayPal"
+
+#: class-paypal-standard.php:86
+msgid "Payment Type"
+msgstr "Tipo di pagamento"
+
+#: class-paypal-standard.php:91
+msgid "Products and Services"
+msgstr "Prodotti e Servizi"
+
+#: class-paypal-standard.php:92
+msgid "Donation"
+msgstr "Donazione"
+
+#: class-paypal-standard.php:94
+msgid "Select the type of payment you are receiving."
+msgstr "Seleziona il tipo di pagamento che stai ricevendo."
+
+#: class-paypal-standard.php:102
+msgid "Cancel URL"
+msgstr "Cancella la URL"
+
+#: class-paypal-standard.php:105
+msgid ""
+"Enter the URL to send users to if they do not complete the PayPal checkout"
+msgstr ""
+"Inserisci la URL da inviare agli utenti se non completano il checkout con "
+"Paypal"
+
+#: class-paypal-standard.php:113
+msgid "Shipping"
+msgstr "Spedizione"
+
+#: class-paypal-standard.php:118
+msgid "Don't ask for an address"
+msgstr "Non chiedere un indirizzo"
+
+#: class-paypal-standard.php:119
+msgid "Ask for an address, but do not require"
+msgstr "Chiedi un indirizzo, ma non obbligatorio"
+
+#: class-paypal-standard.php:120
+msgid "Ask for an address and require it"
+msgstr "Chiedi un indirizzo e rendilo obbligatorio"
+
+#: class-paypal-standard.php:129
+msgid "Don't ask buyer to include a note with payment"
+msgstr "Non chiedere all'acquirente di includere una nota con il pagamento"
+
+#: class-paypal-standard.php:144
+msgid "Process"
+msgstr "Elabora"
+
+#: class-paypal-standard.php:145
+msgid "Don't process"
+msgstr "Non elaborare"
+
+#: class-paypal-standard.php:147
+msgid "this charge if"
+msgstr "questo cambia se"
+
+#: class-paypal-standard.php:148
+msgid "PayPal Standard payment"
+msgstr "Pagamento standard con PayPal"
+
+#. translators: %s - Addons page URL in admin area.
+#: class-paypal-standard.php:157
+msgid ""
+"Install the <a href=\"%s\">Conditional Logic addon</a> to enable conditional"
+" logic for PayPal Standard payments."
+msgstr ""
+"Installa l'<a href=\"%s\">addon Conditional Logic</a> per abilitare la "
+"logica condizionale per i pagamenti con PayPal."
+
+#: class-paypal-standard.php:223
+msgid "PayPal Standard Payment stopped by conditional logic"
+msgstr ""
+"Il pagamento standard con PayPal è stato fermato dalla logica condizionale."
+
+#: class-paypal-standard.php:241
+msgid "PayPal Standard Payment stopped, missing payment fields"
+msgstr ""
+"Il pagamento standard con PayPal è stato fermato, mancano i campi per il "
+"pagamento."
+
+#: class-paypal-standard.php:247
+msgid "PayPal Standard Payment stopped, invalid/empty amount"
+msgstr ""
+"Il pagamento standard con PayPal è stato fermato, l'importo non è valido o "
+"il campo è vuoto"
+
+#: class-paypal-standard.php480, class-paypal-standard.php:514
+msgid "PayPal Standard IPN Error"
+msgstr "Errore IPN di PayPal Standard"
+
+#: class-paypal-standard.php:499
+msgid "Payment failed: recipient emails do not match"
+msgstr "Il pagamento è fallito: le email del ricevente non corrispondono"
+
+#: class-paypal-standard.php:503
+msgid "Payment failed: currency formats do not match"
+msgstr "Il pagamento è fallito: il formato delle valute non corrisponde"
+
+#: class-paypal-standard.php:507
+msgid "Payment failed: payment amounts do not match"
+msgstr "Il pagamento è fallito: gli importi da pagare non corrispondono"
+
+#. translators: %s - Paypal payment transaction ID.
+#: class-paypal-standard.php:543
+msgid "Payment refunded: PayPal refund transaction ID: %s"
+msgstr ""
+"Il pagamento è stato rimborsato: il numero di ID della transazione di "
+"rimborso è: %s"
+
+#: class-paypal-standard.php:554
+msgid "Payment made via eCheck and will clear automatically in 5-8 days"
+msgstr ""
+"Pagamento effettuato tramite eCheck e sarà validato automaticamente in 5-8 "
+"giorni"
+
+#: class-paypal-standard.php:557
+msgid ""
+"Payment requires a confirmed customer address and must be accepted manually "
+"through PayPal"
+msgstr ""
+"Il pagamento richiede un indirizzo del cliente confermato e deve essere "
+"accettato manualmente tramite PayPal"
+
+#: class-paypal-standard.php:560
+msgid ""
+"Payment must be accepted manually through PayPal due to international "
+"account regulations"
+msgstr ""
+"Il pagamento deve essere accettato manualmente tramite PayPal a causa dei "
+"regolamenti internazionali sugli account"
+
+#: class-paypal-standard.php:563
+msgid ""
+"Payment received in non-shop currency and must be accepted manually through "
+"PayPal"
+msgstr ""
+"Il pagamento ricevuto non è nella valuta del negozio e deve essere accettato"
+" manualmente tramite PayPal"
+
+#: class-paypal-standard.php:567
+msgid ""
+"Payment is being reviewed by PayPal staff as high-risk or in possible "
+"violation of government regulations"
+msgstr ""
+"Il pagamento è in fase di revisione da parte dello staff di PayPal per alto "
+"rischio o in possibile violazione delle norme governative"
+
+#: class-paypal-standard.php:570
+msgid "Payment was sent to non-confirmed or non-registered email address."
+msgstr ""
+"Il pagamento è stato inviato all’indirizzo email non confermato o non "
+"registrato."
+
+#: class-paypal-standard.php:573
+msgid "PayPal account must be upgraded before this payment can be accepted"
+msgstr ""
+"L’account PayPal deve essere aggiornato prima che questo pagamento venga "
+"accettato"
+
+#: class-paypal-standard.php:576
+msgid ""
+"PayPal account is not verified. Verify account in order to accept this "
+"payment"
+msgstr ""
+"Account PayPal non verificato. Verifica account dell’ordine per accettare il"
+" pagamento"
+
+#: class-paypal-standard.php:579
+msgid ""
+"Payment is pending for unknown reasons. Contact PayPal support for "
+"assistance"
+msgstr ""
+"Pagamento sospeso per motivi sconosciuti. Contatta il supporto di PayPal per"
+" l’assistenza"

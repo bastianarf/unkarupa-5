@@ -1,0 +1,60 @@
+# Copyright (C) 2018 WPForms AWeber
+# This file is distributed under the same license as the WPForms AWeber package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms AWeber\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: hi\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-aweber.php:370
+msgid "Add New Account"
+msgstr "नया खाता जोड़ें"
+
+#: class-aweber.php:373, class-aweber.php:471
+msgid "AWeber requires external authentication."
+msgstr "AWeber बाहरी प्रमाणीकरण की आवश्यकता है।"
+
+#: class-aweber.php:376
+msgid "Click here to authorize."
+msgstr "अधिकृत करने के लिए यहां क्लिक करें।"
+
+#. translators: %s - current provider name.
+#. translators: %s - current provider name.
+#: class-aweber.php:384, class-aweber.php:482
+msgid "%s Authorization Code"
+msgstr "%s प्राधिकरण कोड"
+
+#. translators: %s - current provider name.
+#. translators: %s - current provider name.
+#: class-aweber.php:393, class-aweber.php:491
+msgid "%s Account Nickname"
+msgstr "%s खाता उपनाम"
+
+#: class-aweber.php:398
+msgid "Connect"
+msgstr "संबंध जोड़ना"
+
+#: class-aweber.php:438
+msgid "Options"
+msgstr "विकल्प"
+
+#: class-aweber.php:446
+msgid "Lead Tags"
+msgstr "लीड टैग"
+
+#: class-aweber.php:447
+msgid "Comma-separated list of tags to assign to a new lead in AWeber."
+msgstr "AWeber में एक नई लीड को नियुक्त करने के लिए टैग की कॉमा सेपरेटेड सूची।"

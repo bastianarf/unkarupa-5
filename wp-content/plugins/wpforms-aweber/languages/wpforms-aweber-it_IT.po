@@ -1,0 +1,73 @@
+# Copyright (C) 2019 WPForms AWeber
+# This file is distributed under the same license as the WPForms AWeber package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# raffaella isidori <words@raffaellaisidori.com>, 2019
+# Laura Sacco <laurasacco12@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms AWeber\n"
+"Last-Translator: Laura Sacco <laurasacco12@gmail.com>, 2019\n"
+"Language-Team: Italian (Italy) (https://www.transifex.com/wp-translations/teams/64435/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: class-aweber.php370, build/wpforms-aweber/class-aweber.php:370
+msgid "Add New Account"
+msgstr "Aggiungi un nuovo account"
+
+#: class-aweber.php373, class-aweber.php471,
+#: build/wpforms-aweber/class-aweber.php373,
+#: build/wpforms-aweber/class-aweber.php:471
+msgid "AWeber requires external authentication."
+msgstr "AWeber richiede un'autenticazione esterna."
+
+#: class-aweber.php376, build/wpforms-aweber/class-aweber.php:376
+msgid "Click here to authorize."
+msgstr "Fai clic qui per autorizzare."
+
+#. translators: %s - current provider name.
+#. translators: %s - current provider name.
+#. translators: %s - current provider name.
+#. translators: %s - current provider name.
+#: class-aweber.php384, class-aweber.php482,
+#: build/wpforms-aweber/class-aweber.php384,
+#: build/wpforms-aweber/class-aweber.php:482
+msgid "%s Authorization Code"
+msgstr "%s Codice di autorizzazione"
+
+#. translators: %s - current provider name.
+#. translators: %s - current provider name.
+#. translators: %s - current provider name.
+#. translators: %s - current provider name.
+#: class-aweber.php393, class-aweber.php491,
+#: build/wpforms-aweber/class-aweber.php393,
+#: build/wpforms-aweber/class-aweber.php:491
+msgid "%s Account Nickname"
+msgstr "%s Nickname dell'account"
+
+#: class-aweber.php398, build/wpforms-aweber/class-aweber.php:398
+msgid "Connect"
+msgstr "Connetti"
+
+#: class-aweber.php438, build/wpforms-aweber/class-aweber.php:438
+msgid "Options"
+msgstr "Opzioni"
+
+#: class-aweber.php446, build/wpforms-aweber/class-aweber.php:446
+msgid "Lead Tags"
+msgstr "Tag dei lead"
+
+#: class-aweber.php447, build/wpforms-aweber/class-aweber.php:447
+msgid "Comma-separated list of tags to assign to a new lead in AWeber."
+msgstr ""
+"Lista di tag separati da virgola dalla assegnare a un nuovo lead in AWeber. "

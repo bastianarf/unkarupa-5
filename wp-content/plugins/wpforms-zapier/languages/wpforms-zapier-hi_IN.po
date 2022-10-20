@@ -1,0 +1,161 @@
+# Copyright (C) 2018 WPForms Zapier
+# This file is distributed under the same license as the WPForms Zapier package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Zapier\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: hi\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. translators: %s - field id.
+#: class-zapier.php:80
+msgid "Field #%s"
+msgstr "फ़ील्ड #%s"
+
+#: class-zapier.php:107
+msgid "First"
+msgstr "पहला"
+
+#: class-zapier.php:108
+msgid "Middle"
+msgstr "मध्य"
+
+#: class-zapier.php:109
+msgid "Last"
+msgstr "अंतिम"
+
+#: class-zapier.php:130
+msgid "Line 1"
+msgstr "पंक्ति 1"
+
+#: class-zapier.php:131
+msgid "Line 2"
+msgstr "पंक्ति 2"
+
+#: class-zapier.php:132
+msgid "City"
+msgstr "शहर"
+
+#: class-zapier.php:133
+msgid "State"
+msgstr "राज्य"
+
+#: class-zapier.php:134
+msgid "Region"
+msgstr "क्षेत्र"
+
+#: class-zapier.php:135
+msgid "Postal"
+msgstr "डाक"
+
+#: class-zapier.php:136
+msgid "Country"
+msgstr "देश"
+
+#: class-zapier.php:142
+msgid "Date"
+msgstr "दिनांक"
+
+#: class-zapier.php:143
+msgid "Time"
+msgstr "समय"
+
+#: class-zapier.php:144
+msgid "Unix Timestamp"
+msgstr "यूनिक्स टाइमस्टैम्प"
+
+#: class-zapier.php:156
+msgid "Plain Amount"
+msgstr "सादा राशि"
+
+#: class-zapier.php:221
+msgid "Zapier Zap error"
+msgstr "Zapier Zap त्रुटि"
+
+#: class-zapier.php:289
+msgid "Invalid WPForms Zapier API key"
+msgstr "अमान्य WPForms Zapier API कुंजी"
+
+#: class-zapier.php:395
+msgid "No data"
+msgstr "कोई आकड़ा उपलब्ध नहीं है"
+
+#. translators: %s - API key.
+#. translators: %s - API key.
+#: class-zapier.php:442, class-zapier.php:567
+msgid "Your WPForms Zapier API key is %s"
+msgstr "आपकी WPForms Zapier API कुंजी %s है"
+
+#: class-zapier.php:450
+msgid "No Zaps are connected to this form."
+msgstr "कोई भी Zaps इस फॉर्म से नहीं जुड़ा है।"
+
+#: class-zapier.php:455
+msgid "No name"
+msgstr "नाम नहीं"
+
+#: class-zapier.php:456
+msgid "Yes"
+msgstr "हाँ"
+
+#: class-zapier.php:456
+msgid "No"
+msgstr "नहीं"
+
+#: class-zapier.php:460
+msgid "Date Connected"
+msgstr "दिनांक जुड़ा हुआ"
+
+#: class-zapier.php:461
+msgid "Live"
+msgstr "लाइव"
+
+#: class-zapier.php:462
+msgid "Edit this Zap"
+msgstr "इस जैप को संपादित करें"
+
+#. translators: %s - WPForms.com Zapier documentation article URL.
+#. translators: %s - WPForms.com Zapier documentation article URL.
+#: class-zapier.php:471, class-zapier.php:581
+msgid ""
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Click here for "
+"documentation on connecting WPForms with Zapier.</a>"
+msgstr ""
+"<a href=“%s” target=“_blank” rel=“noopener noreferrer”>WPForms को Zapier के "
+"साथ जोड़ने के लिए दस्तावेज़ के लिए यहां क्लिक करें।</a>"
+
+#. translators: %s - provider name.
+#: class-zapier.php:551
+msgid "Integrate %s with WPForms"
+msgstr "WPForms के साथ %s को एकीकृत करें"
+
+#: class-zapier.php:556
+msgid "Connected"
+msgstr "जुड़े हुए"
+
+#: class-zapier.php:575
+msgid "No forms are currently connected."
+msgstr "वर्तमान में कोई फॉर्म कनेक्ट नहीं हैं।"
+
+#: class-zapier.php:595
+msgid "The forms below are currently connected to Zapier."
+msgstr "नीचे दिए गए फॉर्म वर्तमान में Zapier से जुड़े हैं ।"
+
+#. translators: %s - connection date.
+#: class-zapier.php:604
+msgid "Connected on: %s"
+msgstr "पर जोड़ा गया: %s"

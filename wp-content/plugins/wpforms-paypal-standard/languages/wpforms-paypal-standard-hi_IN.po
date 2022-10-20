@@ -1,0 +1,214 @@
+# Copyright (C) 2018 WPForms PayPal Standard
+# This file is distributed under the same license as the WPForms PayPal Standard package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms PayPal Standard\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: hi\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-paypal-standard.php:48
+msgid "Enable PayPal Standard payments"
+msgstr "PayPal मानक भुगतान सक्षम करें"
+
+#: class-paypal-standard.php:59
+msgid "PayPal Email Address"
+msgstr "PayPal ईमेल पता"
+
+#: class-paypal-standard.php:62
+msgid "Enter your PayPal address for the payment to be sent"
+msgstr "भेजे जाने वाले भुगतान के लिए अपना PayPal पता दर्ज करें"
+
+#: class-paypal-standard.php:70
+msgid "Mode"
+msgstr "मोड"
+
+#: class-paypal-standard.php:75
+msgid "Production"
+msgstr "उत्पादन"
+
+#: class-paypal-standard.php:76
+msgid "Test / Sandbox"
+msgstr "टेस्ट / सैंडबॉक्स"
+
+#: class-paypal-standard.php:78
+msgid ""
+"Select Production to receive real payments or select Test to use the Paypal "
+"developer sandbox"
+msgstr ""
+"वास्तविक भुगतान प्राप्त करने के लिए उत्पादन का चयन करें या PayPal डेवलपर सैंडबॉक्स का "
+"उपयोग करने के लिए परीक्षण का चयन करें"
+
+#: class-paypal-standard.php:86
+msgid "Payment Type"
+msgstr "भुगतान प्रकार"
+
+#: class-paypal-standard.php:91
+msgid "Products and Services"
+msgstr "उत्पाद और सेवाएं"
+
+#: class-paypal-standard.php:92
+msgid "Donation"
+msgstr "दान"
+
+#: class-paypal-standard.php:94
+msgid "Select the type of payment you are receiving."
+msgstr "आपके द्वारा प्राप्त किए जा रहे भुगतान के प्रकार का चयन करें।"
+
+#: class-paypal-standard.php:102
+msgid "Cancel URL"
+msgstr "URL रद्द करें"
+
+#: class-paypal-standard.php:105
+msgid ""
+"Enter the URL to send users to if they do not complete the PayPal checkout"
+msgstr ""
+"यदि वे PayPal चेकआउट पूरा नहीं करने के लिए उपयोगकर्ताओं को भेजने के लिए URL दर्ज करें"
+
+#: class-paypal-standard.php:113
+msgid "Shipping"
+msgstr "शिपिंग"
+
+#: class-paypal-standard.php:118
+msgid "Don't ask for an address"
+msgstr "पता न पूछें"
+
+#: class-paypal-standard.php:119
+msgid "Ask for an address, but do not require"
+msgstr "एक पते के लिए पूछें, लेकिन आवश्यकता नहीं है"
+
+#: class-paypal-standard.php:120
+msgid "Ask for an address and require it"
+msgstr "एक पते के लिए पूछें और इसकी आवश्यकता है"
+
+#: class-paypal-standard.php:129
+msgid "Don't ask buyer to include a note with payment"
+msgstr "खरीदार को भुगतान के साथ एक नोट शामिल करने के लिए न कहें"
+
+#: class-paypal-standard.php:144
+msgid "Process"
+msgstr "प्रक्रिया"
+
+#: class-paypal-standard.php:145
+msgid "Don't process"
+msgstr "प्रक्रिया न करें"
+
+#: class-paypal-standard.php:147
+msgid "this charge if"
+msgstr "यह चार्ज अगर"
+
+#: class-paypal-standard.php:148
+msgid "PayPal Standard payment"
+msgstr "PayPal मानक भुगतान"
+
+#. translators: %s - Addons page URL in admin area.
+#: class-paypal-standard.php:157
+msgid ""
+"Install the <a href=\"%s\">Conditional Logic addon</a> to enable conditional "
+"logic for PayPal Standard payments."
+msgstr ""
+"PayPal मानक भुगतान के लिए सशर्त तर्क सक्षम करने के लिए <a href=“%s”>सशर्त लॉजिक "
+"एडऑन</a> स्थापित करें।"
+
+#: class-paypal-standard.php:223
+msgid "PayPal Standard Payment stopped by conditional logic"
+msgstr "PayPal मानक भुगतान सशर्त तर्क द्वारा बंद कर दिया"
+
+#: class-paypal-standard.php:241
+msgid "PayPal Standard Payment stopped, missing payment fields"
+msgstr "PayPal मानक भुगतान बंद कर दिया, भुगतान फ़ील्ड गायब हैं"
+
+#: class-paypal-standard.php:247
+msgid "PayPal Standard Payment stopped, invalid/empty amount"
+msgstr "पेपैल मानक भुगतान बंद कर दिया, अमान्य / खाली राशि"
+
+#: class-paypal-standard.php:479, class-paypal-standard.php:513
+msgid "PayPal Standard IPN Error"
+msgstr "PayPal मानक IPN त्रुटि"
+
+#: class-paypal-standard.php:498
+msgid "Payment failed: recipient emails do not match"
+msgstr "भुगतान विफल: प्राप्तकर्ता ईमेल मेल नहीं खाते"
+
+#: class-paypal-standard.php:502
+msgid "Payment failed: currency formats do not match"
+msgstr "भुगतान विफल: मुद्रा स्वरूप मेल नहीं खाते"
+
+#: class-paypal-standard.php:506
+msgid "Payment failed: payment amounts do not match"
+msgstr "भुगतान विफल: भुगतान राशि मेल नहीं खाती"
+
+#. translators: %s - Paypal payment transaction ID.
+#: class-paypal-standard.php:542
+msgid "Payment refunded: PayPal refund transaction ID: %s"
+msgstr "भुगतान वापसी: PayPal वापसी लेनदेन आईडी: %s"
+
+#: class-paypal-standard.php:553
+msgid "Payment made via eCheck and will clear automatically in 5-8 days"
+msgstr "भुगतान eCheck के माध्यम से किया गया और 5-8 दिनों में अपने आप स्पष्ट हो जाएगा"
+
+#: class-paypal-standard.php:556
+msgid ""
+"Payment requires a confirmed customer address and must be accepted manually "
+"through PayPal"
+msgstr ""
+"भुगतान के लिए एक पुष्टि ग्राहक पते की आवश्यकता होती है और इसे PayPal के माध्यम से मैन्युअल "
+"रूप से स्वीकार किया जाना चाहिए"
+
+#: class-paypal-standard.php:559
+msgid ""
+"Payment must be accepted manually through PayPal due to international "
+"account regulations"
+msgstr ""
+"भुगतान को मैन्युअल रूप से अंतर्राष्ट्रीय खाते के नियमों के कारण PayPal के माध्यम से स्वीकार "
+"किया जाना चाहिए"
+
+#: class-paypal-standard.php:562
+msgid ""
+"Payment received in non-shop currency and must be accepted manually through "
+"PayPal"
+msgstr ""
+"गैर-दुकान मुद्रा में प्राप्त भुगतान और PayPal के माध्यम से मैन्युअल रूप से स्वीकार किया जाना "
+"चाहिए"
+
+#: class-paypal-standard.php:566
+msgid ""
+"Payment is being reviewed by PayPal staff as high-risk or in possible "
+"violation of government regulations"
+msgstr ""
+"भुगतान की समीक्षा PayPal स्टाफ द्वारा उच्च-जोखिम के रूप में या सरकारी नियमों के संभावित "
+"उल्लंघन में की जा रही है"
+
+#: class-paypal-standard.php:569
+msgid "Payment was sent to non-confirmed or non-registered email address."
+msgstr "भुगतान गैर-पुष्टि या गैर-पंजीकृत ई-मेल पते पर भेजा गया था।"
+
+#: class-paypal-standard.php:572
+msgid "PayPal account must be upgraded before this payment can be accepted"
+msgstr "इस भुगतान को स्वीकार किए जाने से पहले PayPal खाते को अपग्रेड किया जाना चाहिए"
+
+#: class-paypal-standard.php:575
+msgid ""
+"PayPal account is not verified. Verify account in order to accept this "
+"payment"
+msgstr ""
+"PayPal खाता सत्यापित नहीं है। इस भुगतान को स्वीकार करने के लिए खाते को सत्यापित करें"
+
+#: class-paypal-standard.php:578
+msgid ""
+"Payment is pending for unknown reasons. Contact PayPal support for assistance"
+msgstr "अज्ञात कारणों से भुगतान लंबित है। सहायता के लिए PayPal समर्थन से संपर्क करें"

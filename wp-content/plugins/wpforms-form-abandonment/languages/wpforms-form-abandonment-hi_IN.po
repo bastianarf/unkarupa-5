@@ -1,0 +1,81 @@
+# Copyright (C) 2018 WPForms Form Abandonment
+# This file is distributed under the same license as the WPForms Form Abandonment package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Form Abandonment\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: hi\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-form-abandonment.php:84, class-form-abandonment.php:101
+msgid "Form Abandonment"
+msgstr "फार्म परित्याग"
+
+#: class-form-abandonment.php:102
+msgid "Click here for documentation on Form Abandonment addon"
+msgstr "फार्म परित्याग एडऑन पर प्रलेखन के लिए यहां क्लिक करें"
+
+#: class-form-abandonment.php:110
+msgid "Enable form abandonment lead capture"
+msgstr "फार्म परित्याग लीड कैप्चर सक्षम करें"
+
+#: class-form-abandonment.php:122
+msgid "Save only if email address or phone number is provided"
+msgstr "यदि ईमेल पता या फ़ोन नंबर प्रदान किया गया है केवल तभी सहेजें"
+
+#: class-form-abandonment.php:125
+msgid "Always save abandoned entries"
+msgstr "हमेशा परित्यक्त प्रविष्टियों को बचाएं"
+
+#: class-form-abandonment.php:126
+msgid ""
+"We believe abandoned form entries are only helpful if you have some way to "
+"contact the user. However this option is good for users that have anonymous "
+"form submissions."
+msgstr ""
+"हमारा मानना ​​है कि यदि आप उपयोगकर्ता से संपर्क करने का कोई तरीका रखते हैं तो परित्यक्त "
+"फॉर्म प्रविष्टियाँ केवल सहायक हैं। हालांकि यह विकल्प उन उपयोगकर्ताओं के लिए अच्छा है जिनके "
+"पास अस्पष्ट फ़ॉर्म सबमिशन है।"
+
+#: class-form-abandonment.php:137
+msgid "Prevent duplicate abandon entries"
+msgstr "डुप्लिकेट परित्यक्त प्रविष्टियों को रोकें"
+
+#: class-form-abandonment.php:139
+msgid ""
+"When checked only the most recent abandoned entry from the user is saved. "
+"See the Form Abandonment documentation for more info regarding this setting."
+msgstr ""
+"जब उपयोगकर्ता से केवल हाल ही में छोड़ी गई प्रविष्टि की जाँच की जाती है तो उसे सहेजा "
+"जाता है। इस सेटिंग के बारे में अधिक जानकारी के लिए फार्म परित्याग दस्तावेज़ देखें।"
+
+#: class-form-abandonment.php:166
+msgid "Enable for abandoned forms entries"
+msgstr "परित्यक्त फार्म प्रविष्टियों के लिए सक्षम करें"
+
+#: class-form-abandonment.php:171
+msgid ""
+"When enabled this notification will <em>only</em> send for abandoned form "
+"entries. This setting should only be used with <strong>new</strong> "
+"notifications."
+msgstr ""
+"सक्षम होने पर यह अधिसूचना <em> केवल </em> परित्यक्त फॉर्म प्रविष्टियों के लिए भेज देगी। "
+"इस सेटिंग का उपयोग केवल <strong> नई </strong> सूचनाओं के साथ किया जाना चाहिए।"
+
+#: class-form-abandonment.php:236
+msgid "Abandoned"
+msgstr "परित्यक्त"

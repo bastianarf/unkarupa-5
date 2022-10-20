@@ -1,0 +1,173 @@
+# Copyright (C) 2019 WPForms Form Locker
+# This file is distributed under the same license as the WPForms Form Locker package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# Christian Herrmann, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Form Locker\n"
+"Last-Translator: Christian Herrmann, 2019\n"
+"Language-Team: German (Germany) (https://www.transifex.com/wp-translations/teams/64435/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. translators: %s - WPForms.com documentation page URL.
+#: wpforms-form-locker.php:62
+msgid ""
+"The WPForms Form Locker plugin has been deactivated. Your site is running an"
+" outdated version of PHP that is no longer supported and is not compatible "
+"with the Form Locker addon. <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Read more</a> for additional information."
+msgstr ""
+"Das Plugin WPForms Form Locker wurde deaktiviert. Deine Website läuft mit "
+"einer veralteten Version von PHP, die nicht länger unterstützt wird und mit "
+"dem Form Locker-Add-on nicht kompatibel ist. <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">Weiterlesen</a> für "
+"zusätzliche Informationen."
+
+#: src/Admin.php:152
+msgid "Require unique answer"
+msgstr "Eindeutige Antwort erforderlich"
+
+#: src/Admin.php:153
+msgid ""
+"Check this option to require only unique answers for the current field."
+msgstr ""
+"Wähle diese Option, um nur eindeutige Antworten für das aktuelle Feld zu "
+"erfordern."
+
+#: src/Admin.php172, src/Admin.php:189
+msgid "Form Locker"
+msgstr "Form Locker"
+
+#: src/Admin.php:197
+msgid "Enable password protection"
+msgstr "Passwortschutz aktivieren"
+
+#: src/Admin.php199, src/Admin.php208, src/Lockers/Password.php:142
+msgid "Password"
+msgstr "Passwort"
+
+#: src/Admin.php:216
+msgid "Display Message"
+msgstr "Nachricht anzeigen"
+
+#: src/Admin.php:221
+msgid "This message is displayed to visitors above the password form."
+msgstr "Diese Nachricht wird Besuchern über dem Passwortformular angezeigt."
+
+#: src/Admin.php:230
+msgid "Enable scheduling"
+msgstr "Zeitplanung aktivieren"
+
+#: src/Admin.php:232
+msgid "Scheduling"
+msgstr "Zeitplanung"
+
+#: src/Admin.php:233
+msgid "Accept form entries during the date/time window below."
+msgstr ""
+"Formulareinträge während des unten angezeigten Datums-/Zeitfensters "
+"akzeptieren."
+
+#: src/Admin.php:244
+msgid "Start Date"
+msgstr "Anfangsdatum"
+
+#: src/Admin.php:248
+msgid "Clear Start Date"
+msgstr "Startdatum leeren"
+
+#: src/Admin.php:257
+msgid "Start Time"
+msgstr "Startzeit"
+
+#: src/Admin.php:261
+msgid "Clear Start Time"
+msgstr "Startzeit leeren"
+
+#: src/Admin.php:270
+msgid "End Date"
+msgstr "Enddatum"
+
+#: src/Admin.php:274
+msgid "Clear End Date"
+msgstr "Enddatum leeren"
+
+#: src/Admin.php:283
+msgid "End Time"
+msgstr "Enddatum"
+
+#: src/Admin.php:287
+msgid "Clear End Time"
+msgstr "Endzeit leeren"
+
+#: src/Admin.php298, src/Admin.php:334
+msgid "Closed Message"
+msgstr "Geschlossen-Nachricht"
+
+#: src/Admin.php303, src/Admin.php:339
+msgid "This message is displayed to visitors when the form is closed."
+msgstr ""
+"Diese Nachricht wird Besuchern angezeigt, wenn das Formular geschlossen "
+"wird."
+
+#: src/Admin.php:312
+msgid "Enable limit on total form entries"
+msgstr "Begrenzung für Gesamt-Formulareinträge aktivieren"
+
+#: src/Admin.php:314
+msgid "Entry Limit"
+msgstr "Eintragsbegrenzung"
+
+#: src/Admin.php:323
+msgid "Limit"
+msgstr "Limit"
+
+#: src/Admin.php:348
+msgid "Enable restricting entries to logged in users only"
+msgstr "Einschränkung der Einträge auf angemeldete Benutzer aktivieren"
+
+#: src/Admin.php:350
+msgid "User"
+msgstr "Benutzer"
+
+#: src/Admin.php:359
+msgid "Message"
+msgstr "Nachricht"
+
+#: src/Admin.php:364
+msgid "This message is displayed to logged out visitors in place of the form."
+msgstr ""
+"Diese Nachricht wird abgemeldeten Besuchern anstelle des Formulars "
+"angezeigt."
+
+#: src/Lockers/Password.php:136
+msgid "The password is incorrect."
+msgstr "Das Passwort ist falsch."
+
+#: src/Lockers/Password.php:152
+msgid "Sending..."
+msgstr "Senden..."
+
+#: src/Lockers/Password.php:153
+msgid "Submit"
+msgstr "Absenden"
+
+#: src/Lockers/UniqueAnswer.php:103
+msgid "Unique Answer"
+msgstr "Eindeutige Antwort"
+
+#: src/Lockers/UniqueAnswer.php105, src/Lockers/UniqueAnswer.php121,
+#: src/Lockers/UniqueAnswer.php:174
+msgid "The value must be unique."
+msgstr "Der Wert muss eindeutig sein."

@@ -1,0 +1,4909 @@
+# Copyright (C) 2020 WPForms Form Templates Pack
+# This file is distributed under the same license as the WPForms Form Templates Pack package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Form Templates Pack\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: templates/class-accident-report.php:17
+msgid "Accident Report Form"
+msgstr ""
+
+#: templates/class-accident-report.php:25
+msgid "I am reporting a"
+msgstr ""
+
+#: templates/class-accident-report.php:28
+msgid "Loss of time/injury"
+msgstr ""
+
+#: templates/class-accident-report.php:31
+msgid "First aid incident"
+msgstr ""
+
+#: templates/class-accident-report.php:34
+msgid "Close call"
+msgstr ""
+
+#: templates/class-accident-report.php:37
+msgid "Observation"
+msgstr ""
+
+#: templates/class-accident-report.php:44
+msgid "Person Reporting Incident"
+msgstr ""
+
+#: templates/class-accident-report.php:52
+msgid "Person Involved in Incident"
+msgstr ""
+
+#: templates/class-accident-report.php:60
+msgid "Date / Time of Incident"
+msgstr ""
+
+#: templates/class-accident-report.php:71
+msgid "Location of Incident"
+msgstr ""
+
+#: templates/class-accident-report.php:77
+msgid "Please describe the event in detail."
+msgstr ""
+
+#: templates/class-accident-report.php:83
+msgid "Was damage done to the property?"
+msgstr ""
+
+#: templates/class-accident-report.php:86, templates/class-accident-report.php:99, templates/class-camp-registration.php:76, templates/class-camp-registration.php:90, templates/class-church-membership.php:82, templates/class-college-application.php:152, templates/class-college-application.php:238, templates/class-college-application.php:258, templates/class-college-application.php:575, templates/class-conference-registration.php:83, templates/class-employee-termination.php:89, templates/class-event-feedback.php:51, templates/class-gaming-tournament-registration.php:95, templates/class-high-school-reunion-registration.php:76, templates/class-maintenance-request.php:131, templates/class-maintenance-request.php:145, templates/class-new-years-party-rsvp.php:36, templates/class-online-proposal.php:56, templates/class-party-invitation-rsvp.php:36, templates/class-potluck-invitation-rsvp.php:36, templates/class-simple-rsvp.php:36, templates/class-testimonial.php:81, templates/class-wedding-invitation-rsvp.php:36, templates/class-wedding-invitation-rsvp.php:66
+msgid "Yes"
+msgstr ""
+
+#: templates/class-accident-report.php:89, templates/class-accident-report.php:102, templates/class-camp-registration.php:79, templates/class-camp-registration.php:93, templates/class-church-membership.php:85, templates/class-college-application.php:155, templates/class-college-application.php:241, templates/class-college-application.php:261, templates/class-college-application.php:477, templates/class-college-application.php:578, templates/class-conference-registration.php:86, templates/class-employee-termination.php:92, templates/class-event-feedback.php:54, templates/class-gaming-tournament-registration.php:98, templates/class-high-school-reunion-registration.php:79, templates/class-maintenance-request.php:134, templates/class-maintenance-request.php:148, templates/class-new-years-party-rsvp.php:39, templates/class-online-proposal.php:59, templates/class-party-invitation-rsvp.php:39, templates/class-simple-rsvp.php:39, templates/class-testimonial.php:84, templates/class-wedding-invitation-rsvp.php:39, templates/class-wedding-invitation-rsvp.php:69
+msgid "No"
+msgstr ""
+
+#: templates/class-accident-report.php:96
+msgid "Could this incident been avoided?"
+msgstr ""
+
+#: templates/class-accident-report.php:110, templates/class-address-book.php:83, templates/class-alumni-donation.php:63, templates/class-auction-item-registration.php:85, templates/class-automobile-information.php:62, templates/class-avon-order.php:94, templates/class-baseball-league-registration.php:116, templates/class-basic-mortgage-application.php:221, templates/class-birthday-party-invitation-rsvp.php:73, templates/class-bug-tracker.php:124, templates/class-call-for-proposals.php:149, templates/class-camp-registration.php:157, templates/class-cancellation-survey.php:176, templates/class-change-request.php:119, templates/class-check-request.php:106, templates/class-church-donation.php:84, templates/class-church-membership.php:105, templates/class-college-application.php:621, templates/class-complaint.php:78, templates/class-conference-registration.php:112, templates/class-content-download.php:53, templates/class-contest-entry.php:77, templates/class-diet-log.php:116, templates/class-dinner-reservation.php:156, templates/class-emergency-contact.php:120, templates/class-employee-incident-report.php:108, templates/class-employee-information.php:148, templates/class-employee-referral.php:94, templates/class-employee-termination.php:108, templates/class-enrollment.php:109, templates/class-equipment-checkout.php:89, templates/class-event-feedback.php:78, templates/class-event-planner.php:150, templates/class-exercise-log.php:90, templates/class-family-reunion-registration.php:92, templates/class-file-upload.php:59, templates/class-fitness-interest.php:96, templates/class-football-league-registration.php:116, templates/class-fundraiser-registration.php:102, templates/class-gaming-tournament-registration.php:124, templates/class-general-donation.php:73, templates/class-gift-card-order.php:80, templates/class-girl-scout-order.php:115, templates/class-grade-book.php:92, templates/class-gym-registration.php:148, templates/class-health-insurance-quote.php:85, templates/class-height-and-weight.php:50, templates/class-high-school-reunion-registration.php:94, templates/class-home-buyer-feedback.php:139, templates/class-house-inventory.php:91, templates/class-it-asset.php:97, templates/class-it-service-request.php:88, templates/class-job-application-upload.php:111, templates/class-lecture-notes.php:50, templates/class-lesson-plan.php:112, templates/class-maintenance-request.php:157, templates/class-meeting-room-registration.php:105, templates/class-movie-collection.php:102, templates/class-music-collection.php:97, templates/class-neighborhood-events-questionnaire.php:94, templates/class-neighborhood-feedback.php:341, templates/class-new-years-party-rsvp.php:89, templates/class-newspaper-subscription.php:59, templates/class-online-event-registration.php:116, templates/class-online-proposal.php:67, templates/class-online-race-registration.php:133, templates/class-parental-consent.php:88, templates/class-partnership-agreement.php:141, templates/class-party-invitation-rsvp.php:60, templates/class-performance-improvement-plan.php:99, templates/class-personal-trainer-signup.php:130, templates/class-pledge-drive.php:96, templates/class-potluck-invitation-rsvp.php:65, templates/class-prayer-request.php:65, templates/class-race-registration.php:107, templates/class-recipe-catalog.php:168, templates/class-rent-receipt.php:90, templates/class-retreat-registration.php:113, templates/class-school-id-registration.php:67, templates/class-simple-rsvp.php:94, templates/class-ski-lodge-registration.php:118, templates/class-sponsorship-request.php:98, templates/class-summer-camp-registration.php:156, templates/class-super-bowl-party-rsvp.php:72, templates/class-support-ticket.php:75, templates/class-takeout-order.php:91, templates/class-testimonial.php:92, templates/class-time-sheet.php:78, templates/class-to-do-list.php:83, templates/class-travel-request.php:111, templates/class-tshirt-order.php:135, templates/class-vendor-contact-information.php:74, templates/class-vendor-registration.php:96, templates/class-veterinarian-patient-intake.php:95, templates/class-video-release.php:72, templates/class-volunteer-recruitment.php:181, templates/class-webinar-registration.php:66, templates/class-wedding-invitation-rsvp.php:108, templates/class-work-order-request.php:92, templates/class-workshop-registration.php:73
+msgid "Sending..."
+msgstr ""
+
+#: templates/class-address-book.php:17
+msgid "Address Book Form"
+msgstr ""
+
+#: templates/class-address-book.php:25, templates/class-alumni-donation.php:25, templates/class-auction-item-registration.php:25, templates/class-avon-order.php:64, templates/class-basic-mortgage-application.php:191, templates/class-birthday-party-invitation-rsvp.php:25, templates/class-bug-tracker.php:25, templates/class-call-for-proposals.php:25, templates/class-camp-registration.php:128, templates/class-church-donation.php:25, templates/class-church-membership.php:25, templates/class-college-application.php:25, templates/class-college-application.php:54, templates/class-college-application.php:324, templates/class-college-application.php:337, templates/class-complaint.php:25, templates/class-conference-registration.php:25, templates/class-content-download.php:25, templates/class-contest-entry.php:25, templates/class-dinner-reservation.php:25, templates/class-emergency-contact.php:77, templates/class-employee-information.php:31, templates/class-employee-information.php:126, templates/class-employee-referral.php:31, templates/class-enrollment.php:36, templates/class-family-reunion-registration.php:25, templates/class-file-upload.php:25, templates/class-fitness-interest.php:25, templates/class-gaming-tournament-registration.php:25, templates/class-general-donation.php:25, templates/class-girl-scout-order.php:85, templates/class-gym-registration.php:25, templates/class-high-school-reunion-registration.php:25, templates/class-it-service-request.php:25, templates/class-job-application-upload.php:25, templates/class-lesson-plan.php:96, templates/class-maintenance-request.php:25, templates/class-meeting-room-registration.php:25, templates/class-new-years-party-rsvp.php:25, templates/class-newspaper-subscription.php:42, templates/class-online-event-registration.php:25, templates/class-online-proposal.php:25, templates/class-online-race-registration.php:25, templates/class-party-invitation-rsvp.php:25, templates/class-personal-trainer-signup.php:25, templates/class-pledge-drive.php:25, templates/class-potluck-invitation-rsvp.php:25, templates/class-prayer-request.php:25, templates/class-race-registration.php:77, templates/class-retreat-registration.php:25, templates/class-school-id-registration.php:25, templates/class-simple-rsvp.php:25, templates/class-ski-lodge-registration.php:25, templates/class-sponsorship-request.php:31, templates/class-summer-camp-registration.php:31, templates/class-summer-camp-registration.php:96, templates/class-summer-camp-registration.php:133, templates/class-super-bowl-party-rsvp.php:25, templates/class-support-ticket.php:25, templates/class-takeout-order.php:60, templates/class-testimonial.php:25, templates/class-tshirt-order.php:100, templates/class-veterinarian-patient-intake.php:31, templates/class-veterinarian-patient-intake.php:67, templates/class-volunteer-recruitment.php:150, templates/class-webinar-registration.php:25, templates/class-wedding-invitation-rsvp.php:25, templates/class-workshop-registration.php:25
+msgid "Name"
+msgstr ""
+
+#: templates/class-address-book.php:33
+msgid "Photo"
+msgstr ""
+
+#: templates/class-address-book.php:38, templates/class-auction-item-registration.php:47, templates/class-avon-order.php:86, templates/class-basic-mortgage-application.php:199, templates/class-camp-registration.php:143, templates/class-church-membership.php:53, templates/class-college-application.php:33, templates/class-college-application.php:69, templates/class-complaint.php:47, templates/class-contest-entry.php:47, templates/class-emergency-contact.php:33, templates/class-emergency-contact.php:85, templates/class-employee-information.php:53, templates/class-enrollment.php:58, templates/class-event-planner.php:116, templates/class-fundraiser-registration.php:66, templates/class-girl-scout-order.php:107, templates/class-job-application-upload.php:48, templates/class-newspaper-subscription.php:50, templates/class-online-event-registration.php:33, templates/class-personal-trainer-signup.php:45, templates/class-pledge-drive.php:47, templates/class-race-registration.php:99, templates/class-retreat-registration.php:33, templates/class-school-id-registration.php:39, templates/class-ski-lodge-registration.php:33, templates/class-summer-camp-registration.php:119, templates/class-takeout-order.php:83, templates/class-tshirt-order.php:115, templates/class-vendor-contact-information.php:60, templates/class-veterinarian-patient-intake.php:54, templates/class-volunteer-recruitment.php:158, templates/class-workshop-registration.php:40
+msgid "Address"
+msgstr ""
+
+#: templates/class-address-book.php:45, templates/class-vendor-contact-information.php:32
+msgid "Website / URL"
+msgstr ""
+
+#: templates/class-address-book.php:51, templates/class-emergency-contact.php:92, templates/class-online-event-registration.php:40
+msgid "Home Phone"
+msgstr ""
+
+#: templates/class-address-book.php:58, templates/class-emergency-contact.php:106
+msgid "Cell Phone"
+msgstr ""
+
+#: templates/class-address-book.php:65, templates/class-enrollment.php:78
+msgid "Birthday"
+msgstr ""
+
+#: templates/class-address-book.php:76, templates/class-lecture-notes.php:37, templates/class-time-sheet.php:71
+msgid "Notes"
+msgstr ""
+
+#: templates/class-alumni-donation.php:17
+msgid "Alumni Donation Form"
+msgstr ""
+
+#: templates/class-alumni-donation.php:33
+msgid "Class Year"
+msgstr ""
+
+#: templates/class-alumni-donation.php:39, templates/class-auction-item-registration.php:33, templates/class-avon-order.php:72, templates/class-basic-mortgage-application.php:213, templates/class-bug-tracker.php:33, templates/class-call-for-proposals.php:58, templates/class-camp-registration.php:136, templates/class-change-request.php:33, templates/class-check-request.php:33, templates/class-church-donation.php:33, templates/class-church-membership.php:46, templates/class-complaint.php:33, templates/class-conference-registration.php:33, templates/class-contest-entry.php:33, templates/class-dinner-reservation.php:33, templates/class-dinner-reservation.php:54, templates/class-emergency-contact.php:51, templates/class-employee-information.php:39, templates/class-employee-referral.php:39, templates/class-enrollment.php:51, templates/class-equipment-checkout.php:40, templates/class-family-reunion-registration.php:33, templates/class-file-upload.php:33, templates/class-fitness-interest.php:41, templates/class-fundraiser-registration.php:81, templates/class-gaming-tournament-registration.php:33, templates/class-general-donation.php:42, templates/class-gift-card-order.php:72, templates/class-girl-scout-order.php:93, templates/class-gym-registration.php:33, templates/class-high-school-reunion-registration.php:47, templates/class-it-service-request.php:33, templates/class-job-application-upload.php:33, templates/class-lesson-plan.php:104, templates/class-maintenance-request.php:41, templates/class-meeting-room-registration.php:33, templates/class-online-event-registration.php:54, templates/class-online-proposal.php:33, templates/class-online-race-registration.php:33, templates/class-personal-trainer-signup.php:52, templates/class-pledge-drive.php:33, templates/class-prayer-request.php:33, templates/class-race-registration.php:85, templates/class-retreat-registration.php:48, templates/class-school-id-registration.php:46, templates/class-ski-lodge-registration.php:40, templates/class-sponsorship-request.php:39, templates/class-sponsorship-request.php:56, templates/class-summer-camp-registration.php:104, templates/class-support-ticket.php:33, templates/class-takeout-order.php:68, templates/class-testimonial.php:33, templates/class-tshirt-order.php:108, templates/class-vendor-contact-information.php:53, templates/class-vendor-registration.php:88, templates/class-veterinarian-patient-intake.php:39, templates/class-volunteer-recruitment.php:165, templates/class-webinar-registration.php:33, templates/class-work-order-request.php:33, templates/class-workshop-registration.php:33
+msgid "Email"
+msgstr ""
+
+#: templates/class-alumni-donation.php:46, templates/class-auction-item-registration.php:40, templates/class-avon-order.php:79, templates/class-basic-mortgage-application.php:206, templates/class-call-for-proposals.php:51, templates/class-change-request.php:40, templates/class-check-request.php:40, templates/class-church-membership.php:39, templates/class-college-application.php:40, templates/class-college-application.php:77, templates/class-complaint.php:40, templates/class-contest-entry.php:40, templates/class-dinner-reservation.php:40, templates/class-dinner-reservation.php:51, templates/class-emergency-contact.php:58, templates/class-employee-information.php:46, templates/class-employee-information.php:134, templates/class-employee-referral.php:46, templates/class-enrollment.php:44, templates/class-equipment-checkout.php:47, templates/class-family-reunion-registration.php:40, templates/class-file-upload.php:40, templates/class-fitness-interest.php:33, templates/class-fundraiser-registration.php:88, templates/class-gift-card-order.php:65, templates/class-girl-scout-order.php:100, templates/class-high-school-reunion-registration.php:40, templates/class-it-service-request.php:40, templates/class-job-application-upload.php:40, templates/class-maintenance-request.php:33, templates/class-online-proposal.php:40, templates/class-personal-trainer-signup.php:59, templates/class-pledge-drive.php:40, templates/class-prayer-request.php:40, templates/class-race-registration.php:92, templates/class-retreat-registration.php:41, templates/class-school-id-registration.php:53, templates/class-ski-lodge-registration.php:47, templates/class-sponsorship-request.php:46, templates/class-sponsorship-request.php:59, templates/class-summer-camp-registration.php:111, templates/class-takeout-order.php:75, templates/class-vendor-contact-information.php:46, templates/class-vendor-registration.php:81, templates/class-veterinarian-patient-intake.php:46, templates/class-volunteer-recruitment.php:172, templates/class-work-order-request.php:40, templates/class-workshop-registration.php:47
+msgid "Phone"
+msgstr ""
+
+#: templates/class-alumni-donation.php:54, templates/class-church-donation.php:40, templates/class-general-donation.php:33
+msgid "Donation Amount"
+msgstr ""
+
+#: templates/class-auction-item-registration.php:17
+msgid "Auction Item Registration Form"
+msgstr ""
+
+#: templates/class-auction-item-registration.php:54
+msgid "Auction Item Information"
+msgstr ""
+
+#: templates/class-auction-item-registration.php:60
+msgid "Item Name"
+msgstr ""
+
+#: templates/class-auction-item-registration.php:66
+msgid "Estimated Value"
+msgstr ""
+
+#: templates/class-auction-item-registration.php:73
+msgid "Image"
+msgstr ""
+
+#: templates/class-auction-item-registration.php:78
+msgid "Detailed Description"
+msgstr ""
+
+#: templates/class-automobile-information.php:17
+msgid "Automobile Information Form"
+msgstr ""
+
+#: templates/class-automobile-information.php:25
+msgid "Year"
+msgstr ""
+
+#: templates/class-automobile-information.php:31
+msgid "Make (eg Ford)"
+msgstr ""
+
+#: templates/class-automobile-information.php:37
+msgid "Model (eg Mustang)"
+msgstr ""
+
+#: templates/class-automobile-information.php:43
+msgid "What is your automobile's vehicle identification number (VIN)?"
+msgstr ""
+
+#: templates/class-automobile-information.php:49
+msgid "Since you bought or leased your automobile, about how many miles has it been driven?"
+msgstr ""
+
+#: templates/class-automobile-information.php:55
+msgid "About how many miles is your automobile driven in a typical week ?"
+msgstr ""
+
+#: templates/class-avon-order.php:17
+msgid "Avon Order Form"
+msgstr ""
+
+#: templates/class-avon-order.php:25
+msgid "Catalogue Name"
+msgstr ""
+
+#: templates/class-avon-order.php:32
+msgid "Page Number"
+msgstr ""
+
+#: templates/class-avon-order.php:38
+msgid "Quantity"
+msgstr ""
+
+#: templates/class-avon-order.php:45
+msgid "Product #"
+msgstr ""
+
+#: templates/class-avon-order.php:51
+msgid "Product Description"
+msgstr ""
+
+#: templates/class-avon-order.php:57
+msgid "Cost"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:17
+msgid "Baseball League Registration Form"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:25, templates/class-football-league-registration.php:25
+msgid "Player Name"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:33, templates/class-football-league-registration.php:33
+msgid "Player Age Group"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:36, templates/class-camp-registration.php:36, templates/class-football-league-registration.php:36
+msgid "6-8 years old"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:39, templates/class-camp-registration.php:39, templates/class-football-league-registration.php:39
+msgid "9-12 years old"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:42, templates/class-camp-registration.php:42, templates/class-football-league-registration.php:42
+msgid "13-15 years old"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:51, templates/class-football-league-registration.php:51
+msgid "Desired Team"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:54
+msgid "Tigers"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:57
+msgid "Orioles"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:60
+msgid "Yankees"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:63
+msgid "Rangers"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:66
+msgid "Astros"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:73, templates/class-football-league-registration.php:73
+msgid "Desired Position"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:76
+msgid "Pitcher"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:79
+msgid "Catcher"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:82
+msgid "Outfield"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:85
+msgid "Infield"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:92, templates/class-football-league-registration.php:92
+msgid "Guardian Name"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:100, templates/class-football-league-registration.php:100
+msgid "Guardian Email"
+msgstr ""
+
+#: templates/class-baseball-league-registration.php:107, templates/class-football-league-registration.php:107
+msgid "Guardian Address"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:17
+msgid "Basic Mortgage Application Form"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:25
+msgid "Purpose of Mortgage or Loan"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:28
+msgid "Home Loan"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:31
+msgid "Refinance"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:34
+msgid "Debt Consolidation Loan"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:37
+msgid "Second Mortgage"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:40
+msgid "Home Equity Loan"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:43
+msgid "Home Improvement Loan"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:46
+msgid "Bad Credit Home Mortgage"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:54
+msgid "Loan Amount"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:61
+msgid "Type of Property"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:64
+msgid "House"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:67
+msgid "Condo"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:70
+msgid "Town House"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:73
+msgid "Duplex"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:76
+msgid "Land"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:84
+msgid "Estimated Price or Value of Property"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:91
+msgid "Property Location"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:98
+msgid "Down Payment Percentage"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:101
+msgid "0-5%"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:104
+msgid "6-10%"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:107
+msgid "10% or more"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:115
+msgid "Current Mortgage Company"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:118
+msgid "Company A"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:121
+msgid "Company B"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:124
+msgid "Company C"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:132
+msgid "Would you like a Referral to a Real Estate Agent?"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:135, templates/class-basic-mortgage-application.php:171, templates/class-lesson-plan.php:46
+msgid "First Choice"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:138, templates/class-basic-mortgage-application.php:174, templates/class-lesson-plan.php:49
+msgid "Second Choice"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:141, templates/class-basic-mortgage-application.php:177, templates/class-college-application.php:106, templates/class-lesson-plan.php:52
+msgid "Third Choice"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:149, templates/class-church-membership.php:33, templates/class-personal-trainer-signup.php:33, templates/class-veterinarian-patient-intake.php:74
+msgid "Age"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:155
+msgid "Occupation"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:161
+msgid "Household Income"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:168
+msgid "Credit Rating"
+msgstr ""
+
+#: templates/class-basic-mortgage-application.php:185
+msgid "Contact Information"
+msgstr ""
+
+#: templates/class-birthday-party-invitation-rsvp.php:17
+msgid "Birthday Party Invitation RSVP Form"
+msgstr ""
+
+#: templates/class-birthday-party-invitation-rsvp.php:33
+msgid "Will you be able to make it?"
+msgstr ""
+
+#: templates/class-birthday-party-invitation-rsvp.php:36
+msgid "Yeah!"
+msgstr ""
+
+#: templates/class-birthday-party-invitation-rsvp.php:39
+msgid "Maybe / Not sure"
+msgstr ""
+
+#: templates/class-birthday-party-invitation-rsvp.php:42
+msgid "I can't"
+msgstr ""
+
+#: templates/class-birthday-party-invitation-rsvp.php:49
+msgid "How many people are you going to bring?"
+msgstr ""
+
+#: templates/class-birthday-party-invitation-rsvp.php:52
+msgid "Just me!"
+msgstr ""
+
+#: templates/class-birthday-party-invitation-rsvp.php:55
+msgid "Plus one"
+msgstr ""
+
+#: templates/class-birthday-party-invitation-rsvp.php:58
+msgid "A few friends"
+msgstr ""
+
+#: templates/class-birthday-party-invitation-rsvp.php:66, templates/class-conference-registration.php:105, templates/class-fundraiser-registration.php:95, templates/class-gaming-tournament-registration.php:117, templates/class-high-school-reunion-registration.php:87, templates/class-party-invitation-rsvp.php:53, templates/class-wedding-invitation-rsvp.php:101
+msgid "Comments or Questions"
+msgstr ""
+
+#: templates/class-bug-tracker.php:17
+msgid "Bug Tracker Form"
+msgstr ""
+
+#: templates/class-bug-tracker.php:40
+msgid "Describe what happened or steps to reproduce the issue"
+msgstr ""
+
+#: templates/class-bug-tracker.php:46
+msgid "Operating System"
+msgstr ""
+
+#: templates/class-bug-tracker.php:49
+msgid "Windows 7"
+msgstr ""
+
+#: templates/class-bug-tracker.php:52
+msgid "Windows 8"
+msgstr ""
+
+#: templates/class-bug-tracker.php:55
+msgid "Windows 10"
+msgstr ""
+
+#: templates/class-bug-tracker.php:58
+msgid "macOS"
+msgstr ""
+
+#: templates/class-bug-tracker.php:61
+msgid "Linux"
+msgstr ""
+
+#: templates/class-bug-tracker.php:64
+msgid "iOS"
+msgstr ""
+
+#: templates/class-bug-tracker.php:67
+msgid "Android"
+msgstr ""
+
+#: templates/class-bug-tracker.php:75
+msgid "Browser"
+msgstr ""
+
+#: templates/class-bug-tracker.php:78
+msgid "Chrome"
+msgstr ""
+
+#: templates/class-bug-tracker.php:81
+msgid "Firefox"
+msgstr ""
+
+#: templates/class-bug-tracker.php:84
+msgid "Opera"
+msgstr ""
+
+#: templates/class-bug-tracker.php:87
+msgid "Edge"
+msgstr ""
+
+#: templates/class-bug-tracker.php:90
+msgid "Internet Explorer"
+msgstr ""
+
+#: templates/class-bug-tracker.php:93
+msgid "Safari"
+msgstr ""
+
+#: templates/class-bug-tracker.php:101
+msgid "Severity"
+msgstr ""
+
+#: templates/class-bug-tracker.php:104, templates/class-change-request.php:96, templates/class-maintenance-request.php:62, templates/class-to-do-list.php:40
+msgid "Low"
+msgstr ""
+
+#: templates/class-bug-tracker.php:107, templates/class-maintenance-request.php:59, templates/class-to-do-list.php:43
+msgid "Normal"
+msgstr ""
+
+#: templates/class-bug-tracker.php:110, templates/class-change-request.php:102, templates/class-maintenance-request.php:65, templates/class-to-do-list.php:46
+msgid "High"
+msgstr ""
+
+#: templates/class-bug-tracker.php:118
+msgid "Upload a screenshot"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:17
+msgid "Call for Proposals Form"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:33, templates/class-employee-information.php:77, templates/class-testimonial.php:46
+msgid "Job Title"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:39
+msgid "Company or Organization's Name"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:45
+msgid "Biography"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:65
+msgid "Proposal Title"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:71
+msgid "Short Description"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:77
+msgid "Abstract"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:83
+msgid "Topics"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:86
+msgid "Topic A"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:89
+msgid "Topic B"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:92
+msgid "Topic C"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:95
+msgid "Topic D"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:98
+msgid "Topic E"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:105
+msgid "Session Type"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:108
+msgid "Presentation"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:111
+msgid "Panel"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:114
+msgid "Workshop"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:117, templates/class-cancellation-survey.php:112, templates/class-college-application.php:486, templates/class-college-application.php:540, templates/class-diet-log.php:40, templates/class-event-planner.php:62, templates/class-home-buyer-feedback.php:106, templates/class-it-service-request.php:68, templates/class-job-application-upload.php:80, templates/class-online-event-registration.php:73, templates/class-online-race-registration.php:113, templates/class-performance-improvement-plan.php:54, templates/class-recipe-catalog.php:85, templates/class-simple-rsvp.php:74, templates/class-support-ticket.php:55, templates/class-travel-request.php:63, templates/class-volunteer-recruitment.php:43, templates/class-volunteer-recruitment.php:62, templates/class-volunteer-recruitment.php:143, templates/class-webinar-registration.php:58, templates/class-work-order-request.php:77
+msgid "Other"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:125
+msgid "Audience Level"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:128
+msgid "Novice"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:131
+msgid "Intermediate"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:134
+msgid "Expert"
+msgstr ""
+
+#: templates/class-call-for-proposals.php:142, templates/class-job-application-upload.php:104, templates/class-travel-request.php:104
+msgid "Additional Information"
+msgstr ""
+
+#: templates/class-camp-registration.php:17
+msgid "Camp Registration Form"
+msgstr ""
+
+#: templates/class-camp-registration.php:25
+msgid "Camper Name"
+msgstr ""
+
+#: templates/class-camp-registration.php:33
+msgid "Camper Age Group"
+msgstr ""
+
+#: templates/class-camp-registration.php:51
+msgid "Desired Cabin"
+msgstr ""
+
+#: templates/class-camp-registration.php:54
+msgid "Cabin 1"
+msgstr ""
+
+#: templates/class-camp-registration.php:57
+msgid "Cabin 2"
+msgstr ""
+
+#: templates/class-camp-registration.php:60
+msgid "Cabin 3"
+msgstr ""
+
+#: templates/class-camp-registration.php:63
+msgid "Cabin 4"
+msgstr ""
+
+#: templates/class-camp-registration.php:66
+msgid "Cabin 5"
+msgstr ""
+
+#: templates/class-camp-registration.php:73
+msgid "Does the camper have any known allergies?"
+msgstr ""
+
+#: templates/class-camp-registration.php:87
+msgid "Has the camper been camping before?"
+msgstr ""
+
+#: templates/class-camp-registration.php:101
+msgid "Emergency Contact Information"
+msgstr ""
+
+#: templates/class-camp-registration.php:108, templates/class-college-application.php:62, templates/class-college-application.php:331, templates/class-college-application.php:344, templates/class-employee-information.php:141
+msgid "Relationship"
+msgstr ""
+
+#: templates/class-camp-registration.php:111
+msgid "Parent"
+msgstr ""
+
+#: templates/class-camp-registration.php:114
+msgid "Sibling"
+msgstr ""
+
+#: templates/class-camp-registration.php:117
+msgid "Relative"
+msgstr ""
+
+#: templates/class-camp-registration.php:120
+msgid "Friend"
+msgstr ""
+
+#: templates/class-camp-registration.php:150, templates/class-health-insurance-quote.php:78, templates/class-meeting-room-registration.php:98
+msgid "Questions or Comments"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:17
+msgid "Cancellation Survey Form"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:25
+msgid "How long had you been using the subscription / service?"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:28
+msgid "Less than a month"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:31
+msgid "1-6 months"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:34
+msgid "1-3 years"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:37
+msgid "Over 3 years"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:40
+msgid "Never used"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:47
+msgid "How often did you use the subscription / service?"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:50
+msgid "Once a week"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:53
+msgid "2 to 3 times a month"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:56
+msgid "Once a month"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:59
+msgid "Less than once a month"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:66
+msgid "Overall, how satisfied were you with the subscription / service?"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:69, templates/class-event-feedback.php:28
+msgid "Very satisfied"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:72, templates/class-event-feedback.php:31
+msgid "Satisfied"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:75, templates/class-event-feedback.php:34
+msgid "Neutral"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:78, templates/class-event-feedback.php:37
+msgid "Unsatisfied"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:81, templates/class-event-feedback.php:40
+msgid "Very Unsatisfied"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:88
+msgid "What was the primary reason for canceling your subscription / service?"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:91
+msgid "No longer need it"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:94
+msgid "It didn't meet my needs"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:97
+msgid "Found an alternative"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:100
+msgid "Quality was less than expected"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:103
+msgid "Ease of use was less than expected"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:106
+msgid "Access to the service was less than expected"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:109
+msgid "Customer service was less than expected"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:119
+msgid "If other, please specify"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:125
+msgid "Would you use the product / service in the future?"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:128, templates/class-cancellation-survey.php:150
+msgid "Definitely"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:131, templates/class-cancellation-survey.php:153
+msgid "Probably"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:134, templates/class-cancellation-survey.php:156, templates/class-new-years-party-rsvp.php:42, templates/class-simple-rsvp.php:42
+msgid "Not sure"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:137, templates/class-cancellation-survey.php:159
+msgid "Probably not"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:140, templates/class-cancellation-survey.php:162
+msgid "Definitely not"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:147
+msgid "Would you recommend our product / service to colleagues or contacts within your industry?"
+msgstr ""
+
+#: templates/class-cancellation-survey.php:169
+msgid "What could we do to improve our subscription / service?"
+msgstr ""
+
+#: templates/class-change-request.php:17
+msgid "Change Request Form"
+msgstr ""
+
+#: templates/class-change-request.php:25
+msgid "Requester Name"
+msgstr ""
+
+#: templates/class-change-request.php:47
+msgid "Company Name"
+msgstr ""
+
+#: templates/class-change-request.php:53
+msgid "Client ID Number"
+msgstr ""
+
+#: templates/class-change-request.php:59
+msgid "Project Name"
+msgstr ""
+
+#: templates/class-change-request.php:65
+msgid "What type of change are you requesting?"
+msgstr ""
+
+#: templates/class-change-request.php:68
+msgid "Update to Account Information"
+msgstr ""
+
+#: templates/class-change-request.php:71
+msgid "Project or Product Enhancement"
+msgstr ""
+
+#: templates/class-change-request.php:74
+msgid "Update to Project Requirements/Deliverables"
+msgstr ""
+
+#: templates/class-change-request.php:77
+msgid "Update to Project Schedule"
+msgstr ""
+
+#: templates/class-change-request.php:80
+msgid "Bug/Defect Fix"
+msgstr ""
+
+#: templates/class-change-request.php:87
+msgid "Reason for change"
+msgstr ""
+
+#: templates/class-change-request.php:93, templates/class-to-do-list.php:37
+msgid "Priority"
+msgstr ""
+
+#: templates/class-change-request.php:99, templates/class-online-race-registration.php:85, templates/class-race-registration.php:63, templates/class-tshirt-order.php:55
+msgid "Medium"
+msgstr ""
+
+#: templates/class-change-request.php:105
+msgid "Critical"
+msgstr ""
+
+#: templates/class-change-request.php:112
+msgid "Please describe in detail the change being requested."
+msgstr ""
+
+#: templates/class-check-request.php:17
+msgid "Check Request Form"
+msgstr ""
+
+#: templates/class-check-request.php:25
+msgid "Requested By"
+msgstr ""
+
+#: templates/class-check-request.php:47
+msgid "Date Requested"
+msgstr ""
+
+#: templates/class-check-request.php:58
+msgid "Date Needed"
+msgstr ""
+
+#: templates/class-check-request.php:69
+msgid "Purpose of Funds"
+msgstr ""
+
+#: templates/class-check-request.php:75
+msgid "Amount Requested"
+msgstr ""
+
+#: templates/class-check-request.php:82
+msgid "Approved By"
+msgstr ""
+
+#: templates/class-check-request.php:90
+msgid "Make Payable To"
+msgstr ""
+
+#: templates/class-check-request.php:98
+msgid "Payable to Address"
+msgstr ""
+
+#: templates/class-church-donation.php:17
+msgid "Church Donation Form"
+msgstr ""
+
+#: templates/class-church-donation.php:49
+msgid "This donation is in memory of"
+msgstr ""
+
+#: templates/class-church-donation.php:55
+msgid "Please direct my gift to one of the following areas"
+msgstr ""
+
+#: templates/class-church-donation.php:58
+msgid "Youth"
+msgstr ""
+
+#: templates/class-church-donation.php:61, templates/class-retreat-registration.php:89
+msgid "Family"
+msgstr ""
+
+#: templates/class-church-donation.php:64
+msgid "Seniors"
+msgstr ""
+
+#: templates/class-church-donation.php:67
+msgid "Ministry"
+msgstr ""
+
+#: templates/class-church-donation.php:70
+msgid "Where it is needed most"
+msgstr ""
+
+#: templates/class-church-donation.php:77, templates/class-file-upload.php:52, templates/class-general-donation.php:66, templates/class-lesson-plan.php:90
+msgid "Additional Comments"
+msgstr ""
+
+#: templates/class-church-membership.php:17
+msgid "Church Membership Form"
+msgstr ""
+
+#: templates/class-church-membership.php:60
+msgid "How long have you been attending our church?"
+msgstr ""
+
+#: templates/class-church-membership.php:63
+msgid "Less than a year"
+msgstr ""
+
+#: templates/class-church-membership.php:66
+msgid "1-2 years"
+msgstr ""
+
+#: templates/class-church-membership.php:69
+msgid "2-3 years"
+msgstr ""
+
+#: templates/class-church-membership.php:72
+msgid "More than 3 years"
+msgstr ""
+
+#: templates/class-church-membership.php:79
+msgid "Will you be leaving another church?"
+msgstr ""
+
+#: templates/class-church-membership.php:92
+msgid "If yes"
+msgstr ""
+
+#: templates/class-church-membership.php:98
+msgid "Why do you want to be a church member?"
+msgstr ""
+
+#: templates/class-college-application.php:17
+msgid "College Application Form"
+msgstr ""
+
+#: templates/class-college-application.php:48, templates/class-emergency-contact.php:71, templates/class-employee-information.php:120, templates/class-summer-camp-registration.php:141
+msgid "Emergency Contact"
+msgstr ""
+
+#: templates/class-college-application.php:85
+msgid "Universities that are recipients of federal dollars are required by the Federal government to solicit certain demographic information to meet federal reporting requirements. Applications are requested to provide the following information voluntarily. This information will not be utilized in a discriminatory manner."
+msgstr ""
+
+#: templates/class-college-application.php:91
+msgid "Nation of Citizenship"
+msgstr ""
+
+#: templates/class-college-application.php:97
+msgid "Race / Origin"
+msgstr ""
+
+#: templates/class-college-application.php:100
+msgid "American Indian or Native Alaskan"
+msgstr ""
+
+#: templates/class-college-application.php:103
+msgid "Asian or Pacific Islander"
+msgstr ""
+
+#: templates/class-college-application.php:109
+msgid "African American"
+msgstr ""
+
+#: templates/class-college-application.php:112
+msgid "Hispanic"
+msgstr ""
+
+#: templates/class-college-application.php:115, templates/class-tshirt-order.php:85
+msgid "White"
+msgstr ""
+
+#: templates/class-college-application.php:123
+msgid "Native Language"
+msgstr ""
+
+#: templates/class-college-application.php:129
+msgid "Religion"
+msgstr ""
+
+#: templates/class-college-application.php:135, templates/class-enrollment.php:65
+msgid "Gender"
+msgstr ""
+
+#: templates/class-college-application.php:138, templates/class-enrollment.php:68, templates/class-personal-trainer-signup.php:69
+msgid "Male"
+msgstr ""
+
+#: templates/class-college-application.php:141, templates/class-enrollment.php:71, templates/class-personal-trainer-signup.php:72
+msgid "Female"
+msgstr ""
+
+#: templates/class-college-application.php:149
+msgid "Are you a veteran of the U.S. Military?"
+msgstr ""
+
+#: templates/class-college-application.php:163, templates/class-emergency-contact.php:40, templates/class-employee-information.php:60, templates/class-race-registration.php:45, templates/class-summer-camp-registration.php:39
+msgid "Date of Birth"
+msgstr ""
+
+#: templates/class-college-application.php:174
+msgid "This application is for enrollment as:"
+msgstr ""
+
+#: templates/class-college-application.php:177
+msgid "Freshman (First time in College) "
+msgstr ""
+
+#: templates/class-college-application.php:180
+msgid "Undergraduate Transfer "
+msgstr ""
+
+#: templates/class-college-application.php:183
+msgid "2nd Bachelor's Degree "
+msgstr ""
+
+#: templates/class-college-application.php:186
+msgid "Former Student Returning (FSR) "
+msgstr ""
+
+#: templates/class-college-application.php:193
+msgid "What is your planned major?"
+msgstr ""
+
+#: templates/class-college-application.php:199
+msgid "Which campus do you seek admission?"
+msgstr ""
+
+#: templates/class-college-application.php:202
+msgid "Campus I"
+msgstr ""
+
+#: templates/class-college-application.php:205
+msgid "Campus II"
+msgstr ""
+
+#: templates/class-college-application.php:208
+msgid "Campus III"
+msgstr ""
+
+#: templates/class-college-application.php:216
+msgid "Housing Preference"
+msgstr ""
+
+#: templates/class-college-application.php:219
+msgid "On-campus if available"
+msgstr ""
+
+#: templates/class-college-application.php:222
+msgid "Off-campus"
+msgstr ""
+
+#: templates/class-college-application.php:229
+msgid "If your records have been expunged pursuant to applicable law, you are not required to answer yes to the following questions. If you are unsure whether to answer yes, we strongly suggest that you answer yes and fully disclose all incidents to avoid any risk of disciplinary action or revocation of your offer of admission."
+msgstr ""
+
+#: templates/class-college-application.php:235
+msgid "Are you currently or have you ever been charged with or subject to disciplinary action for scholastic or any other type of misconduct at any educational institution?"
+msgstr ""
+
+#: templates/class-college-application.php:249, templates/class-college-application.php:269
+msgid "If yes, please explain."
+msgstr ""
+
+#: templates/class-college-application.php:255
+msgid "Have you ever been charged with a violation of the law which resulted in, or if still pending could result in, probation, community service, a jail sentence, or the revocation or suspension of your driver’s license (including traffic violations which resulted in a fine of $200 or more?)"
+msgstr ""
+
+#: templates/class-college-application.php:275
+msgid "High School Information"
+msgstr ""
+
+#: templates/class-college-application.php:281, templates/class-enrollment.php:89
+msgid "High School Name"
+msgstr ""
+
+#: templates/class-college-application.php:287
+msgid "High School CEEB Code (6 digits)"
+msgstr ""
+
+#: templates/class-college-application.php:293
+msgid "Expected Graduation Date"
+msgstr ""
+
+#: templates/class-college-application.php:304, templates/class-enrollment.php:95
+msgid "High School Address"
+msgstr ""
+
+#: templates/class-college-application.php:311
+msgid "High School Phone"
+msgstr ""
+
+#: templates/class-college-application.php:318
+msgid "Please provide the names of people in your immediate family who have attended the University."
+msgstr ""
+
+#: templates/class-college-application.php:350
+msgid "Extracurricular, Personal and Volunteer Activities"
+msgstr ""
+
+#: templates/class-college-application.php:356
+msgid "Extracurricular Activities"
+msgstr ""
+
+#: templates/class-college-application.php:357
+msgid "List your organizations, position, description of the activity, and hours per week of involvement."
+msgstr ""
+
+#: templates/class-college-application.php:363
+msgid "Talents and Awards"
+msgstr ""
+
+#: templates/class-college-application.php:364
+msgid "List each, a description, the level, and number of years of involvement."
+msgstr ""
+
+#: templates/class-college-application.php:370
+msgid "Community Service Work"
+msgstr ""
+
+#: templates/class-college-application.php:371
+msgid "List the type of work, your role, and hours per week of involvement."
+msgstr ""
+
+#: templates/class-college-application.php:377
+msgid "Employment"
+msgstr ""
+
+#: templates/class-college-application.php:378
+msgid "List the job, your title, description, hours per week, and dates of employment."
+msgstr ""
+
+#: templates/class-college-application.php:384
+msgid "Attach an additional Word, PDF or text document if necessary."
+msgstr ""
+
+#: templates/class-college-application.php:389
+msgid "Parent Information"
+msgstr ""
+
+#: templates/class-college-application.php:390
+msgid "The information requested below is optional, but it may assist in the review of your admission. You are strongly encouraged to complete this section."
+msgstr ""
+
+#: templates/class-college-application.php:396
+msgid "Father or Legal Guardian Occupation"
+msgstr ""
+
+#: templates/class-college-application.php:402
+msgid "Father or Legal Guardian Education"
+msgstr ""
+
+#: templates/class-college-application.php:405, templates/class-college-application.php:434
+msgid "High School or Less"
+msgstr ""
+
+#: templates/class-college-application.php:408, templates/class-college-application.php:437
+msgid "Trade or Vocational School"
+msgstr ""
+
+#: templates/class-college-application.php:411, templates/class-college-application.php:440
+msgid "Some College"
+msgstr ""
+
+#: templates/class-college-application.php:414, templates/class-college-application.php:443
+msgid "Undergraduate College Degree"
+msgstr ""
+
+#: templates/class-college-application.php:417, templates/class-college-application.php:446
+msgid "Graduate Degree"
+msgstr ""
+
+#: templates/class-college-application.php:425
+msgid "Mother or Legal Guardian Occupation"
+msgstr ""
+
+#: templates/class-college-application.php:431
+msgid "Mother or Legal Guardian Education"
+msgstr ""
+
+#: templates/class-college-application.php:454
+msgid "Please indicate your family’s gross income for the most recent tax year. Include both taxed and untaxed income."
+msgstr ""
+
+#: templates/class-college-application.php:457
+msgid "$20,000 - $39,999"
+msgstr ""
+
+#: templates/class-college-application.php:460
+msgid "$40,000 - $59,999"
+msgstr ""
+
+#: templates/class-college-application.php:463
+msgid "$60,000 - $79,999"
+msgstr ""
+
+#: templates/class-college-application.php:466
+msgid "$80,000 or more"
+msgstr ""
+
+#: templates/class-college-application.php:474
+msgid "Do you have family obligations that keep you from participating in extracurricular activities?"
+msgstr ""
+
+#: templates/class-college-application.php:480
+msgid "Yes, I have to work to supplement family income. "
+msgstr ""
+
+#: templates/class-college-application.php:483
+msgid "Yes, I provide primary care for family member(s). "
+msgstr ""
+
+#: templates/class-college-application.php:493
+msgid "If yes or other, please describe:"
+msgstr ""
+
+#: templates/class-college-application.php:499
+msgid "For Non-U.S. Citizens Only"
+msgstr ""
+
+#: templates/class-college-application.php:505
+msgid "City and Country of Birth"
+msgstr ""
+
+#: templates/class-college-application.php:511
+msgid "What is the status of your VISA?"
+msgstr ""
+
+#: templates/class-college-application.php:514
+msgid "I currently hold one"
+msgstr ""
+
+#: templates/class-college-application.php:517
+msgid "I am applying for one"
+msgstr ""
+
+#: templates/class-college-application.php:525
+msgid "What type of VISA?"
+msgstr ""
+
+#: templates/class-college-application.php:528
+msgid "F2"
+msgstr ""
+
+#: templates/class-college-application.php:531
+msgid "J1"
+msgstr ""
+
+#: templates/class-college-application.php:534
+msgid "J2"
+msgstr ""
+
+#: templates/class-college-application.php:537, templates/class-simple-rsvp.php:59
+msgid "None"
+msgstr ""
+
+#: templates/class-college-application.php:548, templates/class-it-service-request.php:75, templates/class-job-application-upload.php:87, templates/class-online-event-registration.php:80, templates/class-online-race-registration.php:120, templates/class-simple-rsvp.php:81
+msgid "If other"
+msgstr ""
+
+#: templates/class-college-application.php:554
+msgid "I-94 Expiration Date (MM/YYYY)"
+msgstr ""
+
+#: templates/class-college-application.php:560
+msgid "If you are a permanent immigrant, enter the alien registration number shown on your I-551 form:"
+msgstr ""
+
+#: templates/class-college-application.php:566
+msgid "Which institution issued your last I-20?"
+msgstr ""
+
+#: templates/class-college-application.php:572
+msgid "Did you attend?"
+msgstr ""
+
+#: templates/class-college-application.php:585
+msgid "Please attach a photo of your Alien Registration card."
+msgstr ""
+
+#: templates/class-college-application.php:590, templates/class-contest-entry.php:64, templates/class-equipment-checkout.php:76, templates/class-video-release.php:59
+msgid "Agreement"
+msgstr ""
+
+#: templates/class-college-application.php:591
+msgid ""
+"I understand that this application is for admission only for the term indicated. I agree that I am bound by the University’s regulations concerning application deadlines and admission requirements. I agree to the release of any transcripts and test scores to this institution, including any SAT, Achievement Test, and ACT score reports.\n"
+"\n"
+"		I certify that this information is complete and accurate. I understand that making false or fraudulent statements within this application or residency statement will result in disciplinary action, denial of admission and invalidation of credit or degrees earned.\n"
+"\n"
+"		If admitted, I agree to abide by the policies of the Board of Regents and the rules and regulations of the University. Should any information change prior to my entry into the University, I will notify the Office of Admissions.\n"
+"\n"
+"		I understand that the application fee I submit with this application is a non-refundable fee."
+msgstr ""
+
+#: templates/class-college-application.php:603
+msgid "Do you understand and agree to the terms listed above?"
+msgstr ""
+
+#: templates/class-college-application.php:606
+msgid "Yes, I understand and agree to the terms listed above. "
+msgstr ""
+
+#: templates/class-college-application.php:614
+msgid "Events, activities, programs and facilities of the University are available to all without regard to race, color, marital status, sex, religion, national origin, disability, age, Vietnam or disabled veteran status as provided by law and in accordance with the University’s respect for personal dignity."
+msgstr ""
+
+#: templates/class-complaint.php:17
+msgid "Complaint Form"
+msgstr ""
+
+#: templates/class-complaint.php:54
+msgid "Date of incident"
+msgstr ""
+
+#: templates/class-complaint.php:65
+msgid "Please describe the incident you would like to report."
+msgstr ""
+
+#: templates/class-complaint.php:71
+msgid "How would you like to see this incident resolved?"
+msgstr ""
+
+#: templates/class-conference-registration.php:17
+msgid "Conference Registration Form"
+msgstr ""
+
+#: templates/class-conference-registration.php:40
+msgid "Which access pass would you like to purchase?"
+msgstr ""
+
+#: templates/class-conference-registration.php:43
+msgid "Bronze - $199.95"
+msgstr ""
+
+#: templates/class-conference-registration.php:46
+msgid "Silver - $299.95"
+msgstr ""
+
+#: templates/class-conference-registration.php:49
+msgid "Gold - $399.95"
+msgstr ""
+
+#: templates/class-conference-registration.php:57
+msgid "Which sessions do you plan on attending?"
+msgstr ""
+
+#: templates/class-conference-registration.php:60
+msgid "Session 1"
+msgstr ""
+
+#: templates/class-conference-registration.php:63
+msgid "Session 2"
+msgstr ""
+
+#: templates/class-conference-registration.php:66
+msgid "Session 3"
+msgstr ""
+
+#: templates/class-conference-registration.php:69
+msgid "Session 4"
+msgstr ""
+
+#: templates/class-conference-registration.php:72
+msgid "Session 5"
+msgstr ""
+
+#: templates/class-conference-registration.php:80
+msgid "Will you be staying overnight?"
+msgstr ""
+
+#: templates/class-conference-registration.php:94, templates/class-gaming-tournament-registration.php:106
+msgid "Email Newsletter"
+msgstr ""
+
+#: templates/class-conference-registration.php:97
+msgid "I would like to receive email updates regarding future conferences"
+msgstr ""
+
+#: templates/class-content-download.php:17
+msgid "Content Download Form"
+msgstr ""
+
+#: templates/class-content-download.php:33
+msgid "Business Email"
+msgstr ""
+
+#: templates/class-content-download.php:40, templates/class-health-insurance-quote.php:25, templates/class-online-event-registration.php:109, templates/class-testimonial.php:40, templates/class-webinar-registration.php:40
+msgid "Company"
+msgstr ""
+
+#: templates/class-content-download.php:46
+msgid "Please tell us here if you have any other questions, and we'll be in touch shortly."
+msgstr ""
+
+#: templates/class-contest-entry.php:17
+msgid "Contest Entry Form"
+msgstr ""
+
+#: templates/class-contest-entry.php:67
+msgid "I agree to the Rules of Entry."
+msgstr ""
+
+#: templates/class-diet-log.php:17
+msgid "Diet Log Form"
+msgstr ""
+
+#: templates/class-diet-log.php:25
+msgid "Diet Type"
+msgstr ""
+
+#: templates/class-diet-log.php:28
+msgid "Atkins"
+msgstr ""
+
+#: templates/class-diet-log.php:31
+msgid "South Beach"
+msgstr ""
+
+#: templates/class-diet-log.php:34
+msgid "Paleo"
+msgstr ""
+
+#: templates/class-diet-log.php:37
+msgid "Keto"
+msgstr ""
+
+#: templates/class-diet-log.php:48
+msgid "Meal Type"
+msgstr ""
+
+#: templates/class-diet-log.php:51
+msgid "Breakfast"
+msgstr ""
+
+#: templates/class-diet-log.php:54, templates/class-family-reunion-registration.php:72
+msgid "Lunch"
+msgstr ""
+
+#: templates/class-diet-log.php:57
+msgid "Dinner"
+msgstr ""
+
+#: templates/class-diet-log.php:60
+msgid "Snack"
+msgstr ""
+
+#: templates/class-diet-log.php:68
+msgid "What did you eat?"
+msgstr ""
+
+#: templates/class-diet-log.php:74, templates/class-exercise-log.php:48, templates/class-rent-receipt.php:25, templates/class-time-sheet.php:47
+msgid "Date / Time"
+msgstr ""
+
+#: templates/class-diet-log.php:85
+msgid "Grams of Carbohydrates"
+msgstr ""
+
+#: templates/class-diet-log.php:91
+msgid "Grams of Fat"
+msgstr ""
+
+#: templates/class-diet-log.php:97
+msgid "Grams of Protein"
+msgstr ""
+
+#: templates/class-diet-log.php:103
+msgid "Milligrams of Sodium"
+msgstr ""
+
+#: templates/class-diet-log.php:109
+msgid "Total Calories"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:17
+msgid "Dinner Reservation Form"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:48
+msgid "How would you prefer to get your reservation approval? *"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:61
+msgid "Diet Restrictions"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:64, templates/class-simple-rsvp.php:62
+msgid "Vegetarian"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:67, templates/class-simple-rsvp.php:68
+msgid "Gluten-free"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:70, templates/class-simple-rsvp.php:71
+msgid "Dairy-free"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:77, templates/class-prayer-request.php:47, templates/class-video-release.php:48
+msgid "Date"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:88
+msgid "What time would you like to join us?"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:91
+msgid "5:00pm"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:94
+msgid "5:30pm"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:97
+msgid "6:00pm"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:100
+msgid "6:30pm"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:103
+msgid "7:00pm"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:106
+msgid "7:30pm"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:109
+msgid "8:00pm"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:112
+msgid "8:30pm"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:115
+msgid "9:00pm"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:123
+msgid "Where would you like to sit?"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:126
+msgid "Inside"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:129
+msgid "Outside patio"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:136
+msgid "Sitting preference"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:139
+msgid "Table"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:142
+msgid "Booth"
+msgstr ""
+
+#: templates/class-dinner-reservation.php:149
+msgid "Additional requests"
+msgstr ""
+
+#: templates/class-emergency-contact.php:17
+msgid "Emergency Contact Form"
+msgstr ""
+
+#: templates/class-emergency-contact.php:25, templates/class-event-planner.php:25, templates/class-work-order-request.php:25
+msgid "Your Name"
+msgstr ""
+
+#: templates/class-emergency-contact.php:65
+msgid "Primary Care Provider"
+msgstr ""
+
+#: templates/class-emergency-contact.php:99, templates/class-online-event-registration.php:47
+msgid "Work Phone"
+msgstr ""
+
+#: templates/class-emergency-contact.php:113
+msgid "Relationship to the patient"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:17
+msgid "Employee Incident Report Form"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:25
+msgid "Violating employee's name"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:33
+msgid "Reporting employee's name"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:41
+msgid "Reporting employee's email"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:48
+msgid "Date / Time of incident"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:59
+msgid "What violation has the employee committed?"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:62
+msgid "Neglect of Duty"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:65
+msgid "Failure to Follow Instructions"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:68
+msgid "Inappropriate Behavior"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:71
+msgid "Attendance Related"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:74
+msgid "Damage to Company Property"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:77
+msgid "Theft"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:80
+msgid "Harassment"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:83
+msgid "Poor Work Performance"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:86
+msgid "Violation of Company Policy"
+msgstr ""
+
+#: templates/class-employee-incident-report.php:93
+msgid "Please describe the incident."
+msgstr ""
+
+#: templates/class-employee-incident-report.php:99
+msgid "Report prepared by"
+msgstr ""
+
+#: templates/class-employee-information.php:17
+msgid "Employee Information Form"
+msgstr ""
+
+#: templates/class-employee-information.php:25
+msgid "Personal Information"
+msgstr ""
+
+#: templates/class-employee-information.php:71
+msgid "Office Information"
+msgstr ""
+
+#: templates/class-employee-information.php:83, templates/class-performance-improvement-plan.php:90
+msgid "Supervisor Name"
+msgstr ""
+
+#: templates/class-employee-information.php:89, templates/class-it-service-request.php:47, templates/class-meeting-room-registration.php:40
+msgid "Department"
+msgstr ""
+
+#: templates/class-employee-information.php:95
+msgid "Office Phone"
+msgstr ""
+
+#: templates/class-employee-information.php:102, templates/class-employee-termination.php:45
+msgid "Start Date"
+msgstr ""
+
+#: templates/class-employee-information.php:113
+msgid "Salary"
+msgstr ""
+
+#: templates/class-employee-referral.php:17
+msgid "Employee Referral Form"
+msgstr ""
+
+#: templates/class-employee-referral.php:25
+msgid "Employee Information"
+msgstr ""
+
+#: templates/class-employee-referral.php:53
+msgid "Referral Information"
+msgstr ""
+
+#: templates/class-employee-referral.php:59
+msgid "Candidate's Name"
+msgstr ""
+
+#: templates/class-employee-referral.php:67
+msgid "Candidate's email"
+msgstr ""
+
+#: templates/class-employee-referral.php:74
+msgid "Candidate's phone"
+msgstr ""
+
+#: templates/class-employee-referral.php:81
+msgid "Position applied for"
+msgstr ""
+
+#: templates/class-employee-referral.php:87
+msgid "Why is this candidate qualified for the position?"
+msgstr ""
+
+#: templates/class-employee-termination.php:17
+msgid "Employee Termination Form"
+msgstr ""
+
+#: templates/class-employee-termination.php:25, templates/class-equipment-checkout.php:25, templates/class-performance-improvement-plan.php:25, templates/class-time-sheet.php:25, templates/class-travel-request.php:25
+msgid "Employee Name"
+msgstr ""
+
+#: templates/class-employee-termination.php:33
+msgid "Employee Position"
+msgstr ""
+
+#: templates/class-employee-termination.php:39
+msgid "Employee Department"
+msgstr ""
+
+#: templates/class-employee-termination.php:56
+msgid "End Date"
+msgstr ""
+
+#: templates/class-employee-termination.php:67
+msgid "Termination status"
+msgstr ""
+
+#: templates/class-employee-termination.php:70
+msgid "Voluntary"
+msgstr ""
+
+#: templates/class-employee-termination.php:73
+msgid "Involuntary"
+msgstr ""
+
+#: templates/class-employee-termination.php:80
+msgid "Termination details"
+msgstr ""
+
+#: templates/class-employee-termination.php:86
+msgid "Is employee eligible for rehire?"
+msgstr ""
+
+#: templates/class-employee-termination.php:99
+msgid "Supervisor"
+msgstr ""
+
+#: templates/class-enrollment.php:17
+msgid "Enrollment Form"
+msgstr ""
+
+#: templates/class-enrollment.php:25
+msgid "Anticipated Start Date"
+msgstr ""
+
+#: templates/class-enrollment.php:102
+msgid "GPA"
+msgstr ""
+
+#: templates/class-equipment-checkout.php:17
+msgid "Equipment Checkout Form"
+msgstr ""
+
+#: templates/class-equipment-checkout.php:33, templates/class-travel-request.php:33
+msgid "Employee ID"
+msgstr ""
+
+#: templates/class-equipment-checkout.php:54
+msgid "Equipment Checked Out"
+msgstr ""
+
+#: templates/class-equipment-checkout.php:57
+msgid "Laptop"
+msgstr ""
+
+#: templates/class-equipment-checkout.php:60
+msgid "Laptop Carrying Case"
+msgstr ""
+
+#: templates/class-equipment-checkout.php:63
+msgid "AC Power Cord"
+msgstr ""
+
+#: templates/class-equipment-checkout.php:66
+msgid "Docking Station"
+msgstr ""
+
+#: templates/class-equipment-checkout.php:69
+msgid "Bluetooth Mouse"
+msgstr ""
+
+#: templates/class-equipment-checkout.php:79
+msgid "I acknowledge the equipment I have received is in good physical working condition and I will return the equipment in the same condition. I take financial responsibility for any damages to the equipment upon return."
+msgstr ""
+
+#: templates/class-event-feedback.php:17
+msgid "Event Feedback Form"
+msgstr ""
+
+#: templates/class-event-feedback.php:25
+msgid "Please rate your overall experience at our event"
+msgstr ""
+
+#: templates/class-event-feedback.php:48
+msgid "Would you return again next year?"
+msgstr ""
+
+#: templates/class-event-feedback.php:57
+msgid "Undecided"
+msgstr ""
+
+#: templates/class-event-feedback.php:65
+msgid "What could we have improved?"
+msgstr ""
+
+#: templates/class-event-feedback.php:71
+msgid "Do you have any additional feedback?"
+msgstr ""
+
+#: templates/class-event-planner.php:17
+msgid "Event Planner Form"
+msgstr ""
+
+#: templates/class-event-planner.php:33
+msgid "Your Email"
+msgstr ""
+
+#: templates/class-event-planner.php:40, templates/class-fundraiser-registration.php:25
+msgid "Event Name"
+msgstr ""
+
+#: templates/class-event-planner.php:47
+msgid "Event Type"
+msgstr ""
+
+#: templates/class-event-planner.php:50
+msgid "Banquet"
+msgstr ""
+
+#: templates/class-event-planner.php:53
+msgid "Fund Raiser"
+msgstr ""
+
+#: templates/class-event-planner.php:56
+msgid "Dinner Party"
+msgstr ""
+
+#: templates/class-event-planner.php:59
+msgid "Wedding"
+msgstr ""
+
+#: templates/class-event-planner.php:70, templates/class-grade-book.php:45
+msgid "Status"
+msgstr ""
+
+#: templates/class-event-planner.php:73
+msgid "Planning"
+msgstr ""
+
+#: templates/class-event-planner.php:76
+msgid "In Progress"
+msgstr ""
+
+#: templates/class-event-planner.php:79
+msgid "Finished"
+msgstr ""
+
+#: templates/class-event-planner.php:87, templates/class-fundraiser-registration.php:31
+msgid "Event Description"
+msgstr ""
+
+#: templates/class-event-planner.php:94
+msgid "Event Begin Date and Time "
+msgstr ""
+
+#: templates/class-event-planner.php:105
+msgid "Event End Date and Time"
+msgstr ""
+
+#: templates/class-event-planner.php:123
+msgid "Requirements"
+msgstr ""
+
+#: templates/class-event-planner.php:126
+msgid "Staffing"
+msgstr ""
+
+#: templates/class-event-planner.php:129
+msgid "Catering"
+msgstr ""
+
+#: templates/class-event-planner.php:132
+msgid "Bar Tending"
+msgstr ""
+
+#: templates/class-event-planner.php:135
+msgid "Security"
+msgstr ""
+
+#: templates/class-event-planner.php:142
+msgid "Cost Per Person"
+msgstr ""
+
+#: templates/class-exercise-log.php:17
+msgid "Exercise Log Form"
+msgstr ""
+
+#: templates/class-exercise-log.php:25, templates/class-online-race-registration.php:46
+msgid "Dropdown"
+msgstr ""
+
+#: templates/class-exercise-log.php:28
+msgid "Running"
+msgstr ""
+
+#: templates/class-exercise-log.php:31
+msgid "Walking"
+msgstr ""
+
+#: templates/class-exercise-log.php:34
+msgid "Swimming"
+msgstr ""
+
+#: templates/class-exercise-log.php:37
+msgid "Spinning"
+msgstr ""
+
+#: templates/class-exercise-log.php:40
+msgid "Weights"
+msgstr ""
+
+#: templates/class-exercise-log.php:59
+msgid "Calories burned"
+msgstr ""
+
+#: templates/class-exercise-log.php:65
+msgid "Distance traveled"
+msgstr ""
+
+#: templates/class-exercise-log.php:71
+msgid "Maximum pulse"
+msgstr ""
+
+#: templates/class-exercise-log.php:77
+msgid "Resting pulse"
+msgstr ""
+
+#: templates/class-exercise-log.php:83
+msgid "Comments on workout"
+msgstr ""
+
+#: templates/class-family-reunion-registration.php:17
+msgid "Family Reunion Registration Form"
+msgstr ""
+
+#: templates/class-family-reunion-registration.php:47
+msgid "What activities do you want to play?"
+msgstr ""
+
+#: templates/class-family-reunion-registration.php:50
+msgid "Football"
+msgstr ""
+
+#: templates/class-family-reunion-registration.php:53
+msgid "Baseball"
+msgstr ""
+
+#: templates/class-family-reunion-registration.php:56
+msgid "Kickball"
+msgstr ""
+
+#: templates/class-family-reunion-registration.php:59
+msgid "Volleyball"
+msgstr ""
+
+#: templates/class-family-reunion-registration.php:66
+msgid "What will you be bringing?"
+msgstr ""
+
+#: templates/class-family-reunion-registration.php:69, templates/class-new-years-party-rsvp.php:69
+msgid "Snacks"
+msgstr ""
+
+#: templates/class-family-reunion-registration.php:75
+msgid "Drinks"
+msgstr ""
+
+#: templates/class-family-reunion-registration.php:78, templates/class-new-years-party-rsvp.php:72, templates/class-recipe-catalog.php:105
+msgid "Dessert"
+msgstr ""
+
+#: templates/class-family-reunion-registration.php:85, templates/class-fitness-interest.php:89, templates/class-grade-book.php:85, templates/class-potluck-invitation-rsvp.php:58, templates/class-vendor-contact-information.php:67, templates/class-work-order-request.php:85
+msgid "Comments"
+msgstr ""
+
+#: templates/class-file-upload.php:17
+msgid "File Upload Form"
+msgstr ""
+
+#: templates/class-file-upload.php:47
+msgid "File Upload"
+msgstr ""
+
+#: templates/class-fitness-interest.php:17
+msgid "Fitness Interest Form"
+msgstr ""
+
+#: templates/class-fitness-interest.php:48
+msgid "Best time to call"
+msgstr ""
+
+#: templates/class-fitness-interest.php:51
+msgid "Mornings"
+msgstr ""
+
+#: templates/class-fitness-interest.php:54
+msgid "Afternoons"
+msgstr ""
+
+#: templates/class-fitness-interest.php:57
+msgid "Evenings"
+msgstr ""
+
+#: templates/class-fitness-interest.php:60
+msgid "Weekends"
+msgstr ""
+
+#: templates/class-fitness-interest.php:67
+msgid "Which of the following are important to you?"
+msgstr ""
+
+#: templates/class-fitness-interest.php:70
+msgid "Fat reduction and weight loss"
+msgstr ""
+
+#: templates/class-fitness-interest.php:73
+msgid "Energy and endurance"
+msgstr ""
+
+#: templates/class-fitness-interest.php:76
+msgid "Building lean muscle mass"
+msgstr ""
+
+#: templates/class-fitness-interest.php:79
+msgid "Healthier digestive system"
+msgstr ""
+
+#: templates/class-fitness-interest.php:82
+msgid "Vitality, longevity, and positive outlook"
+msgstr ""
+
+#: templates/class-football-league-registration.php:17
+msgid "Football League Registration Form"
+msgstr ""
+
+#: templates/class-football-league-registration.php:54
+msgid "Cowboys"
+msgstr ""
+
+#: templates/class-football-league-registration.php:57
+msgid "Jets"
+msgstr ""
+
+#: templates/class-football-league-registration.php:60
+msgid "Patriots"
+msgstr ""
+
+#: templates/class-football-league-registration.php:63
+msgid "Redskins"
+msgstr ""
+
+#: templates/class-football-league-registration.php:66
+msgid "Giants"
+msgstr ""
+
+#: templates/class-football-league-registration.php:76
+msgid "Quarterback"
+msgstr ""
+
+#: templates/class-football-league-registration.php:79
+msgid "Running Back"
+msgstr ""
+
+#: templates/class-football-league-registration.php:82
+msgid "Wide Receiver"
+msgstr ""
+
+#: templates/class-football-league-registration.php:85
+msgid "Kicker"
+msgstr ""
+
+#: templates/class-fundraiser-registration.php:17
+msgid "Fundraiser Registration Form"
+msgstr ""
+
+#: templates/class-fundraiser-registration.php:37
+msgid "Event Date"
+msgstr ""
+
+#: templates/class-fundraiser-registration.php:48
+msgid "Company Information"
+msgstr ""
+
+#: templates/class-fundraiser-registration.php:54
+msgid "Organization Name"
+msgstr ""
+
+#: templates/class-fundraiser-registration.php:60
+msgid "Non-Profit Federal Tax I.D.#"
+msgstr ""
+
+#: templates/class-fundraiser-registration.php:73
+msgid "Company Contact"
+msgstr ""
+
+#: templates/class-gaming-tournament-registration.php:17
+msgid "Gaming Tournament Registration Form"
+msgstr ""
+
+#: templates/class-gaming-tournament-registration.php:40
+msgid "Will you be participating or just watching games?"
+msgstr ""
+
+#: templates/class-gaming-tournament-registration.php:43
+msgid "Participating"
+msgstr ""
+
+#: templates/class-gaming-tournament-registration.php:46
+msgid "Watching"
+msgstr ""
+
+#: templates/class-gaming-tournament-registration.php:54
+msgid "If you're participating, which tournaments will you participate in?"
+msgstr ""
+
+#: templates/class-gaming-tournament-registration.php:57, templates/class-gaming-tournament-registration.php:76
+msgid "Warhammer"
+msgstr ""
+
+#: templates/class-gaming-tournament-registration.php:60, templates/class-gaming-tournament-registration.php:79
+msgid "Lord of the Rings"
+msgstr ""
+
+#: templates/class-gaming-tournament-registration.php:63, templates/class-gaming-tournament-registration.php:82
+msgid "Warhammer 40k"
+msgstr ""
+
+#: templates/class-gaming-tournament-registration.php:66, templates/class-gaming-tournament-registration.php:85
+msgid "Magic the Gathering"
+msgstr ""
+
+#: templates/class-gaming-tournament-registration.php:73
+msgid "If you're watching, which tournaments do you look forward to seeing?"
+msgstr ""
+
+#: templates/class-gaming-tournament-registration.php:92
+msgid "Will you being staying overnight?"
+msgstr ""
+
+#: templates/class-gaming-tournament-registration.php:109
+msgid "I would like to receive email updates on future events"
+msgstr ""
+
+#: templates/class-general-donation.php:17
+msgid "General Donation Form"
+msgstr ""
+
+#: templates/class-general-donation.php:49
+msgid "Other Options"
+msgstr ""
+
+#: templates/class-general-donation.php:52
+msgid "I prefer to make my donation anonymously."
+msgstr ""
+
+#: templates/class-general-donation.php:55
+msgid "Please sign me up to the newsletter."
+msgstr ""
+
+#: templates/class-general-donation.php:58
+msgid "I wish to volunteer to help with fundraising."
+msgstr ""
+
+#: templates/class-gift-card-order.php:17
+msgid "Gift Card Order Form"
+msgstr ""
+
+#: templates/class-gift-card-order.php:25
+msgid "Gift Card Amount"
+msgstr ""
+
+#: templates/class-gift-card-order.php:33
+msgid "Recipient's Name"
+msgstr ""
+
+#: templates/class-gift-card-order.php:41
+msgid "Shipping"
+msgstr ""
+
+#: templates/class-gift-card-order.php:49
+msgid "Purchaser's Name"
+msgstr ""
+
+#: templates/class-gift-card-order.php:57
+msgid "Billing Address"
+msgstr ""
+
+#: templates/class-girl-scout-order.php:17
+msgid "Girl Scout Cookie Order Form"
+msgstr ""
+
+#: templates/class-girl-scout-order.php:25
+msgid "How many boxes of Samoas would you like?"
+msgstr ""
+
+#: templates/class-girl-scout-order.php:31, templates/class-girl-scout-order.php:51, templates/class-girl-scout-order.php:71
+msgid "1 - $5"
+msgstr ""
+
+#: templates/class-girl-scout-order.php:34, templates/class-girl-scout-order.php:54, templates/class-girl-scout-order.php:74
+msgid "2 - $10"
+msgstr ""
+
+#: templates/class-girl-scout-order.php:37, templates/class-girl-scout-order.php:57, templates/class-girl-scout-order.php:77
+msgid "3 - $15"
+msgstr ""
+
+#: templates/class-girl-scout-order.php:45
+msgid "How many boxes of Thin Mints would you like?"
+msgstr ""
+
+#: templates/class-girl-scout-order.php:65
+msgid "How many boxes of Tagalongs would you like?"
+msgstr ""
+
+#: templates/class-grade-book.php:17
+msgid "Grade Book Form"
+msgstr ""
+
+#: templates/class-grade-book.php:25
+msgid "Student Name"
+msgstr ""
+
+#: templates/class-grade-book.php:33
+msgid "Student ID"
+msgstr ""
+
+#: templates/class-grade-book.php:39
+msgid "Assignment name"
+msgstr ""
+
+#: templates/class-grade-book.php:48
+msgid "Complete"
+msgstr ""
+
+#: templates/class-grade-book.php:51
+msgid "Late"
+msgstr ""
+
+#: templates/class-grade-book.php:54
+msgid "Incomplete"
+msgstr ""
+
+#: templates/class-grade-book.php:62, templates/class-summer-camp-registration.php:51
+msgid "Grade"
+msgstr ""
+
+#: templates/class-grade-book.php:65
+msgid "A"
+msgstr ""
+
+#: templates/class-grade-book.php:68
+msgid "B"
+msgstr ""
+
+#: templates/class-grade-book.php:71
+msgid "C"
+msgstr ""
+
+#: templates/class-grade-book.php:74
+msgid "D"
+msgstr ""
+
+#: templates/class-grade-book.php:77
+msgid "F"
+msgstr ""
+
+#: templates/class-gym-registration.php:17
+msgid "Gym Registration Form"
+msgstr ""
+
+#: templates/class-gym-registration.php:40
+msgid "Membership Start Date"
+msgstr ""
+
+#: templates/class-gym-registration.php:51
+msgid "Membership Duration"
+msgstr ""
+
+#: templates/class-gym-registration.php:54
+msgid "1 month"
+msgstr ""
+
+#: templates/class-gym-registration.php:57
+msgid "3 month"
+msgstr ""
+
+#: templates/class-gym-registration.php:60
+msgid "6 months"
+msgstr ""
+
+#: templates/class-gym-registration.php:63
+msgid "1 year"
+msgstr ""
+
+#: templates/class-gym-registration.php:66
+msgid "2 year"
+msgstr ""
+
+#: templates/class-gym-registration.php:69
+msgid "Lifetime"
+msgstr ""
+
+#: templates/class-gym-registration.php:76
+msgid "Pre-existing medical conditions"
+msgstr ""
+
+#: templates/class-gym-registration.php:79
+msgid "Diabetes"
+msgstr ""
+
+#: templates/class-gym-registration.php:82
+msgid "Heart disease"
+msgstr ""
+
+#: templates/class-gym-registration.php:85
+msgid "Chest pains"
+msgstr ""
+
+#: templates/class-gym-registration.php:88
+msgid "Shortness of breath"
+msgstr ""
+
+#: templates/class-gym-registration.php:91
+msgid "Broken bones"
+msgstr ""
+
+#: templates/class-gym-registration.php:94
+msgid "Allergies"
+msgstr ""
+
+#: templates/class-gym-registration.php:97
+msgid "Heart murmur"
+msgstr ""
+
+#: templates/class-gym-registration.php:100
+msgid "Pneumonia"
+msgstr ""
+
+#: templates/class-gym-registration.php:103
+msgid "Epilepsy"
+msgstr ""
+
+#: templates/class-gym-registration.php:106
+msgid "Tachycardia"
+msgstr ""
+
+#: templates/class-gym-registration.php:109
+msgid "Oedema"
+msgstr ""
+
+#: templates/class-gym-registration.php:112
+msgid "Heart attack"
+msgstr ""
+
+#: templates/class-gym-registration.php:115
+msgid "Recent surgery"
+msgstr ""
+
+#: templates/class-gym-registration.php:118
+msgid "Palpitations"
+msgstr ""
+
+#: templates/class-gym-registration.php:121
+msgid "High blood pressure"
+msgstr ""
+
+#: templates/class-gym-registration.php:124
+msgid "Low blood pressure"
+msgstr ""
+
+#: templates/class-gym-registration.php:127
+msgid "Asthma"
+msgstr ""
+
+#: templates/class-gym-registration.php:130
+msgid "Seizures"
+msgstr ""
+
+#: templates/class-gym-registration.php:133
+msgid "Fainting"
+msgstr ""
+
+#: templates/class-gym-registration.php:141
+msgid "Additional Medical Notes"
+msgstr ""
+
+#: templates/class-health-insurance-quote.php:17
+msgid "Health Insurance Quote Form"
+msgstr ""
+
+#: templates/class-health-insurance-quote.php:31
+msgid "Primary Contact Name"
+msgstr ""
+
+#: templates/class-health-insurance-quote.php:39
+msgid "Primary Contact Email"
+msgstr ""
+
+#: templates/class-health-insurance-quote.php:46
+msgid "Primary Contact Phone"
+msgstr ""
+
+#: templates/class-health-insurance-quote.php:53
+msgid "Primary Contact Title"
+msgstr ""
+
+#: templates/class-health-insurance-quote.php:59
+msgid "Primary Contact Address"
+msgstr ""
+
+#: templates/class-health-insurance-quote.php:66
+msgid "Please tell us about your industry"
+msgstr ""
+
+#: templates/class-health-insurance-quote.php:72
+msgid "How did you hear about us?"
+msgstr ""
+
+#: templates/class-height-and-weight.php:17
+msgid "Height and Weight Form"
+msgstr ""
+
+#: templates/class-height-and-weight.php:25
+msgid "What is your height in feet and inches? (Remove shoes before measuring.)"
+msgstr ""
+
+#: templates/class-height-and-weight.php:31
+msgid "Feet"
+msgstr ""
+
+#: templates/class-height-and-weight.php:37
+msgid "Inches"
+msgstr ""
+
+#: templates/class-height-and-weight.php:43
+msgid "What is your current weight in pounds?"
+msgstr ""
+
+#: templates/class-high-school-reunion-registration.php:17
+msgid "High School Reunion Registration Form"
+msgstr ""
+
+#: templates/class-high-school-reunion-registration.php:33
+msgid "Spouse or Guest Name"
+msgstr ""
+
+#: templates/class-high-school-reunion-registration.php:54
+msgid "Which events will you be attending?"
+msgstr ""
+
+#: templates/class-high-school-reunion-registration.php:57
+msgid "Friday night cookout"
+msgstr ""
+
+#: templates/class-high-school-reunion-registration.php:60
+msgid "Saturday breakfast"
+msgstr ""
+
+#: templates/class-high-school-reunion-registration.php:63
+msgid "Saturday lunch"
+msgstr ""
+
+#: templates/class-high-school-reunion-registration.php:66
+msgid "Saturday formal dinner"
+msgstr ""
+
+#: templates/class-high-school-reunion-registration.php:73
+msgid "Would you like to pre-order a reunion DVD ($19.95)?"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:17
+msgid "Home Buyer Feedback Form"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:25
+msgid "Are you a first-time home buyer, or have you purchased a home before?"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:28
+msgid "First time home buyer"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:31
+msgid "Purchased home before"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:38
+msgid "How did you begin your most recent search for a home?"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:41
+msgid "Searched the internet"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:44
+msgid "Drove through neighborhoods looking for home sales"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:47
+msgid "Contacted real estate agent"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:50
+msgid "Attended open house event"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:53
+msgid "Searched magazines"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:56
+msgid "Searched newspapers"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:63
+msgid "Which sources of information did you use during your most recent search for a home?"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:66, templates/class-home-buyer-feedback.php:122
+msgid "Internet"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:69
+msgid "Newspapers"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:72
+msgid "Magazines"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:75
+msgid "Open houses"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:78
+msgid "Real estate agents"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:81
+msgid "Yard signs"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:88
+msgid "Which of the following internet websites did you find most helpful during your most recent search for a home?"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:91
+msgid "Realtor.com"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:94
+msgid "Real estate companies' websites"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:97
+msgid "Social networking websites"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:100
+msgid "Zillow"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:103
+msgid "Redfin"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:113
+msgid "Where did you find the home you most recently purchased?"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:116
+msgid "Newspaper"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:119
+msgid "Open house"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:125
+msgid "Magazine"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:128
+msgid "Real estate agent"
+msgstr ""
+
+#: templates/class-home-buyer-feedback.php:131
+msgid "Yard sign"
+msgstr ""
+
+#: templates/class-house-inventory.php:17
+msgid "House Inventory Form"
+msgstr ""
+
+#: templates/class-house-inventory.php:25, templates/class-to-do-list.php:25
+msgid "Item"
+msgstr ""
+
+#: templates/class-house-inventory.php:31, templates/class-recipe-catalog.php:31, templates/class-to-do-list.php:31
+msgid "Description"
+msgstr ""
+
+#: templates/class-house-inventory.php:37
+msgid "Appraised Value"
+msgstr ""
+
+#: templates/class-house-inventory.php:44
+msgid "Date Purchased"
+msgstr ""
+
+#: templates/class-house-inventory.php:55, templates/class-vendor-registration.php:34
+msgid "Manufacturer"
+msgstr ""
+
+#: templates/class-house-inventory.php:61
+msgid "Model"
+msgstr ""
+
+#: templates/class-house-inventory.php:67
+msgid "Model Number"
+msgstr ""
+
+#: templates/class-house-inventory.php:73, templates/class-it-asset.php:90
+msgid "Condition"
+msgstr ""
+
+#: templates/class-house-inventory.php:76
+msgid "Like New"
+msgstr ""
+
+#: templates/class-house-inventory.php:79
+msgid "Used"
+msgstr ""
+
+#: templates/class-house-inventory.php:82
+msgid "Poor"
+msgstr ""
+
+#: templates/class-it-asset.php:17
+msgid "IT Asset Form"
+msgstr ""
+
+#: templates/class-it-asset.php:25
+msgid "Asset Category"
+msgstr ""
+
+#: templates/class-it-asset.php:28
+msgid "Building Key/Keycard"
+msgstr ""
+
+#: templates/class-it-asset.php:31
+msgid "Cell phone"
+msgstr ""
+
+#: templates/class-it-asset.php:34
+msgid "Desktop Computer"
+msgstr ""
+
+#: templates/class-it-asset.php:37
+msgid "Notebook Computer"
+msgstr ""
+
+#: templates/class-it-asset.php:40
+msgid "Keyboard"
+msgstr ""
+
+#: templates/class-it-asset.php:43
+msgid "Mouse"
+msgstr ""
+
+#: templates/class-it-asset.php:46
+msgid "Monitor"
+msgstr ""
+
+#: templates/class-it-asset.php:49
+msgid "Printer"
+msgstr ""
+
+#: templates/class-it-asset.php:57
+msgid "Asset Owner Name"
+msgstr ""
+
+#: templates/class-it-asset.php:65
+msgid "Asset Description"
+msgstr ""
+
+#: templates/class-it-asset.php:71
+msgid "Serial #"
+msgstr ""
+
+#: templates/class-it-asset.php:77
+msgid "Model #"
+msgstr ""
+
+#: templates/class-it-asset.php:83
+msgid "Asset Cost"
+msgstr ""
+
+#: templates/class-it-service-request.php:17
+msgid "IT Service Request Form"
+msgstr ""
+
+#: templates/class-it-service-request.php:53
+msgid "What are you having issues with?"
+msgstr ""
+
+#: templates/class-it-service-request.php:56
+msgid "Computer"
+msgstr ""
+
+#: templates/class-it-service-request.php:59
+msgid "Projector"
+msgstr ""
+
+#: templates/class-it-service-request.php:62
+msgid "Mobile Device / Tablet"
+msgstr ""
+
+#: templates/class-it-service-request.php:65
+msgid "Internet Connection / Network"
+msgstr ""
+
+#: templates/class-it-service-request.php:81
+msgid "Additional Details or Information"
+msgstr ""
+
+#: templates/class-job-application-upload.php:17
+msgid "Job Application Upload Form"
+msgstr ""
+
+#: templates/class-job-application-upload.php:56
+msgid "How did you find out about this position?"
+msgstr ""
+
+#: templates/class-job-application-upload.php:59
+msgid "Current Employee"
+msgstr ""
+
+#: templates/class-job-application-upload.php:62
+msgid "Career Fair"
+msgstr ""
+
+#: templates/class-job-application-upload.php:65
+msgid "Newspaper Ad"
+msgstr ""
+
+#: templates/class-job-application-upload.php:68
+msgid "Radio/TV AD"
+msgstr ""
+
+#: templates/class-job-application-upload.php:71
+msgid "Search Engine"
+msgstr ""
+
+#: templates/class-job-application-upload.php:74, templates/class-online-event-registration.php:70, templates/class-online-race-registration.php:110
+msgid "Social Media"
+msgstr ""
+
+#: templates/class-job-application-upload.php:77
+msgid "Craigslist"
+msgstr ""
+
+#: templates/class-job-application-upload.php:93
+msgid "Upload your resume"
+msgstr ""
+
+#: templates/class-job-application-upload.php:99
+msgid "Upload a cover letter"
+msgstr ""
+
+#: templates/class-lecture-notes.php:17
+msgid "Lecture Notes Form"
+msgstr ""
+
+#: templates/class-lecture-notes.php:25, templates/class-lesson-plan.php:25
+msgid "Subject"
+msgstr ""
+
+#: templates/class-lecture-notes.php:31
+msgid "Cues"
+msgstr ""
+
+#: templates/class-lecture-notes.php:43
+msgid "Summary"
+msgstr ""
+
+#: templates/class-lesson-plan.php:17
+msgid "Lesson Plan Form"
+msgstr ""
+
+#: templates/class-lesson-plan.php:31
+msgid "Teaching Topic"
+msgstr ""
+
+#: templates/class-lesson-plan.php:37
+msgid "Lesson Plan Title"
+msgstr ""
+
+#: templates/class-lesson-plan.php:43
+msgid "Standards Addressed"
+msgstr ""
+
+#: templates/class-lesson-plan.php:59
+msgid "Goals/Objectives of Lesson Plans"
+msgstr ""
+
+#: templates/class-lesson-plan.php:65
+msgid "Required Materials"
+msgstr ""
+
+#: templates/class-lesson-plan.php:68
+msgid "Photos"
+msgstr ""
+
+#: templates/class-lesson-plan.php:71
+msgid "Electronic Devices"
+msgstr ""
+
+#: templates/class-lesson-plan.php:74
+msgid "Paper and Pencil"
+msgstr ""
+
+#: templates/class-lesson-plan.php:77
+msgid "Audio"
+msgstr ""
+
+#: templates/class-lesson-plan.php:84
+msgid "Step-by-Step Procedure"
+msgstr ""
+
+#: templates/class-maintenance-request.php:17
+msgid "Maintenance Request Form"
+msgstr ""
+
+#: templates/class-maintenance-request.php:48, templates/class-rent-receipt.php:58
+msgid "Property Address"
+msgstr ""
+
+#: templates/class-maintenance-request.php:56
+msgid "Priority Level"
+msgstr ""
+
+#: templates/class-maintenance-request.php:73
+msgid "Type of problem"
+msgstr ""
+
+#: templates/class-maintenance-request.php:76
+msgid "AC"
+msgstr ""
+
+#: templates/class-maintenance-request.php:79
+msgid "Heating"
+msgstr ""
+
+#: templates/class-maintenance-request.php:82
+msgid "Plumbing"
+msgstr ""
+
+#: templates/class-maintenance-request.php:85
+msgid "Electrical"
+msgstr ""
+
+#: templates/class-maintenance-request.php:88, templates/class-maintenance-request.php:114
+msgid "Other / N/A"
+msgstr ""
+
+#: templates/class-maintenance-request.php:96
+msgid "Location of problem"
+msgstr ""
+
+#: templates/class-maintenance-request.php:99
+msgid "Living room"
+msgstr ""
+
+#: templates/class-maintenance-request.php:102
+msgid "Kitchen"
+msgstr ""
+
+#: templates/class-maintenance-request.php:105
+msgid "Bathroom"
+msgstr ""
+
+#: templates/class-maintenance-request.php:108
+msgid "Bedroom"
+msgstr ""
+
+#: templates/class-maintenance-request.php:111
+msgid "Patio"
+msgstr ""
+
+#: templates/class-maintenance-request.php:122
+msgid "Please describe the issue"
+msgstr ""
+
+#: templates/class-maintenance-request.php:128
+msgid "Does our maintenance team have permission to enter your residence without you present?"
+msgstr ""
+
+#: templates/class-maintenance-request.php:142
+msgid "Do you have any pets?"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:17
+msgid "Meeting Room Registration Form"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:46
+msgid "Which room would you like to reserve?"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:49
+msgid "Room A"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:52
+msgid "Room B"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:55
+msgid "Room C"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:63
+msgid "Which time blocks would you like to reserve?"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:66
+msgid "8:00 - 9:00am"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:69
+msgid "9:00 - 10:00am"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:72
+msgid "10:00 - 11:00am"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:75
+msgid "11:00 - 12:00pm"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:78
+msgid "12:00 - 1:00pm"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:81
+msgid "1:00 - 2:00pm"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:84
+msgid "2:00 - 3:00pm"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:87
+msgid "3:00 - 4:00pm"
+msgstr ""
+
+#: templates/class-meeting-room-registration.php:90
+msgid "4:00 - 5:00pm"
+msgstr ""
+
+#: templates/class-movie-collection.php:17
+msgid "Movie Collection Form"
+msgstr ""
+
+#: templates/class-movie-collection.php:25
+msgid "Title"
+msgstr ""
+
+#: templates/class-movie-collection.php:31
+msgid "Director"
+msgstr ""
+
+#: templates/class-movie-collection.php:37, templates/class-music-collection.php:48
+msgid "Producer"
+msgstr ""
+
+#: templates/class-movie-collection.php:43, templates/class-music-collection.php:37
+msgid "Release Date"
+msgstr ""
+
+#: templates/class-movie-collection.php:54
+msgid "Length"
+msgstr ""
+
+#: templates/class-movie-collection.php:60
+msgid "Actors"
+msgstr ""
+
+#: templates/class-movie-collection.php:66
+msgid "Plot"
+msgstr ""
+
+#: templates/class-movie-collection.php:72, templates/class-music-collection.php:67
+msgid "Review"
+msgstr ""
+
+#: templates/class-movie-collection.php:78, templates/class-music-collection.php:73
+msgid "Rating"
+msgstr ""
+
+#: templates/class-movie-collection.php:81, templates/class-music-collection.php:76, templates/class-online-event-registration.php:89
+msgid "1"
+msgstr ""
+
+#: templates/class-movie-collection.php:84, templates/class-music-collection.php:79, templates/class-online-event-registration.php:92
+msgid "2"
+msgstr ""
+
+#: templates/class-movie-collection.php:87, templates/class-music-collection.php:82, templates/class-online-event-registration.php:95
+msgid "3"
+msgstr ""
+
+#: templates/class-movie-collection.php:90, templates/class-music-collection.php:85, templates/class-online-event-registration.php:98
+msgid "4"
+msgstr ""
+
+#: templates/class-movie-collection.php:93, templates/class-music-collection.php:88, templates/class-online-event-registration.php:101
+msgid "5"
+msgstr ""
+
+#: templates/class-music-collection.php:17
+msgid "Music Collection Form"
+msgstr ""
+
+#: templates/class-music-collection.php:25
+msgid "Artist"
+msgstr ""
+
+#: templates/class-music-collection.php:31
+msgid "Album"
+msgstr ""
+
+#: templates/class-music-collection.php:54
+msgid "Record Label"
+msgstr ""
+
+#: templates/class-music-collection.php:60
+msgid "Price"
+msgstr ""
+
+#: templates/class-neighborhood-events-questionnaire.php:17
+msgid "Neighborhood Events Questionnaire Form"
+msgstr ""
+
+#: templates/class-neighborhood-events-questionnaire.php:25, templates/class-neighborhood-feedback.php:69
+msgid "How often do you attend events in this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-events-questionnaire.php:28, templates/class-neighborhood-events-questionnaire.php:62, templates/class-neighborhood-feedback.php:72, templates/class-neighborhood-feedback.php:94, templates/class-neighborhood-feedback.php:140
+msgid "Extremely often"
+msgstr ""
+
+#: templates/class-neighborhood-events-questionnaire.php:31, templates/class-neighborhood-events-questionnaire.php:65, templates/class-neighborhood-feedback.php:75, templates/class-neighborhood-feedback.php:97, templates/class-neighborhood-feedback.php:143
+msgid "Very often"
+msgstr ""
+
+#: templates/class-neighborhood-events-questionnaire.php:34, templates/class-neighborhood-events-questionnaire.php:68, templates/class-neighborhood-feedback.php:78, templates/class-neighborhood-feedback.php:100, templates/class-neighborhood-feedback.php:146
+msgid "Moderately often"
+msgstr ""
+
+#: templates/class-neighborhood-events-questionnaire.php:37, templates/class-neighborhood-events-questionnaire.php:71, templates/class-neighborhood-feedback.php:81, templates/class-neighborhood-feedback.php:103, templates/class-neighborhood-feedback.php:149
+msgid "Slightly often"
+msgstr ""
+
+#: templates/class-neighborhood-events-questionnaire.php:40, templates/class-neighborhood-events-questionnaire.php:74
+msgid "Never"
+msgstr ""
+
+#: templates/class-neighborhood-events-questionnaire.php:47
+msgid "If you do not attend events in this neighborhood, why not?"
+msgstr ""
+
+#: templates/class-neighborhood-events-questionnaire.php:53, templates/class-neighborhood-feedback.php:125
+msgid "What types of events would you attend if they were held in this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-events-questionnaire.php:59, templates/class-neighborhood-feedback.php:91
+msgid "How often do you participate in activities in this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-events-questionnaire.php:81, templates/class-neighborhood-feedback.php:113, templates/class-neighborhood-feedback.php:119
+msgid "If you do not participate in activities in this neighborhood, why not?"
+msgstr ""
+
+#: templates/class-neighborhood-events-questionnaire.php:87, templates/class-neighborhood-feedback.php:131
+msgid "What types of activities would you participate in if they were available in this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:17
+msgid "Neighborhood Feedback Form"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:25
+msgid "How many of your neighbors do you know?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:28
+msgid "All of them"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:31
+msgid "Most of them"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:34
+msgid "Some of them"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:37
+msgid "A few of them"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:40
+msgid "None of them"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:47
+msgid "How strong is the sense of community in this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:50
+msgid "Extremely strong"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:53
+msgid "Very strong"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:56
+msgid "Moderately strong"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:59
+msgid "Slightly strong"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:62
+msgid "Not at all strong"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:84, templates/class-neighborhood-feedback.php:106, templates/class-neighborhood-feedback.php:152
+msgid "Not at all often"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:137
+msgid "How often do you visit the parks in this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:159
+msgid "Are you satisfied with the parks in this neighborhood, neither satisfied nor dissatisfied with them, or dissatisfied with them?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:162, templates/class-neighborhood-feedback.php:315
+msgid "Extremely satisfied"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:165, templates/class-neighborhood-feedback.php:318
+msgid "Moderately satisfied"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:168, templates/class-neighborhood-feedback.php:321
+msgid "Slightly satisfied"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:171
+msgid "Neither satisfied nor dissatisfied"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:174, templates/class-neighborhood-feedback.php:327
+msgid "Slightly dissatisfied"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:177, templates/class-neighborhood-feedback.php:333
+msgid "Extremely dissatisfied"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:184
+msgid "How well are the streets in this neighborhood maintained?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:187
+msgid "Extremely well"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:190
+msgid "Very well"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:193
+msgid "Moderately well"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:196
+msgid "Slightly well"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:199
+msgid "Not at all well"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:206
+msgid "How safe do you feel in this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:209
+msgid "Extremely safe"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:212
+msgid "Very safe"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:215
+msgid "Moderately safe"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:218
+msgid "Slightly safe"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:221
+msgid "Not at all safe"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:228
+msgid "How clean is this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:231
+msgid "Extremely clean"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:234
+msgid "Very clean"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:237
+msgid "Moderately clean"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:240
+msgid "Slightly clean"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:243
+msgid "Not at all clean"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:250
+msgid "How proud are you to live in this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:253
+msgid "Extremely proud"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:256
+msgid "Very proud"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:259
+msgid "Moderately proud"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:262
+msgid "Slightly proud"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:265
+msgid "Not at all proud"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:272
+msgid "What do you like most about this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:278
+msgid "What do you like least about this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:284
+msgid "What changes would most improve this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:290
+msgid "How promising is the future of this neighborhood?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:293
+msgid "Extremely promising"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:296
+msgid "Very promising"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:299
+msgid "Moderately promising"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:302
+msgid "Slightly promising"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:305
+msgid "Not at all promising"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:312
+msgid "Overall, are you satisfied with your experience living in this neighborhood, neither satisfied nor dissatisfied with it, or dissatisfied with it?"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:324
+msgid "Neither satisfied or dissatisfied"
+msgstr ""
+
+#: templates/class-neighborhood-feedback.php:330
+msgid "Moderately dissatisfied"
+msgstr ""
+
+#: templates/class-new-years-party-rsvp.php:17
+msgid "New Years Party RSVP Form"
+msgstr ""
+
+#: templates/class-new-years-party-rsvp.php:33
+msgid "Can you make it?"
+msgstr ""
+
+#: templates/class-new-years-party-rsvp.php:50
+msgid "How many people will be joining?"
+msgstr ""
+
+#: templates/class-new-years-party-rsvp.php:53
+msgid "Just me"
+msgstr ""
+
+#: templates/class-new-years-party-rsvp.php:56
+msgid "Bringing a friend"
+msgstr ""
+
+#: templates/class-new-years-party-rsvp.php:59
+msgid "Showing up with the group"
+msgstr ""
+
+#: templates/class-new-years-party-rsvp.php:66
+msgid "Are you bringing anything else?"
+msgstr ""
+
+#: templates/class-new-years-party-rsvp.php:75
+msgid "Bubbly beverages"
+msgstr ""
+
+#: templates/class-new-years-party-rsvp.php:82
+msgid "Anything else we should know?"
+msgstr ""
+
+#: templates/class-newspaper-subscription.php:17
+msgid "Newspaper Subscription Form"
+msgstr ""
+
+#: templates/class-newspaper-subscription.php:25
+msgid "How often would you like the paper?"
+msgstr ""
+
+#: templates/class-newspaper-subscription.php:28
+msgid "Daily: $150"
+msgstr ""
+
+#: templates/class-newspaper-subscription.php:31
+msgid "Weekend (Thurs-Sun): $100"
+msgstr ""
+
+#: templates/class-newspaper-subscription.php:34
+msgid "Sunday Only: $50"
+msgstr ""
+
+#: templates/class-online-event-registration.php:17
+msgid "Online Event Registration Form"
+msgstr ""
+
+#: templates/class-online-event-registration.php:61, templates/class-online-race-registration.php:98
+msgid "How did you hear about this event?"
+msgstr ""
+
+#: templates/class-online-event-registration.php:64
+msgid "Friend or colleague"
+msgstr ""
+
+#: templates/class-online-event-registration.php:67
+msgid "Radio / TV"
+msgstr ""
+
+#: templates/class-online-event-registration.php:86
+msgid "Number of tickets needed"
+msgstr ""
+
+#: templates/class-online-proposal.php:17
+msgid "Online Proposal Form"
+msgstr ""
+
+#: templates/class-online-proposal.php:47
+msgid "Please describe your proposal"
+msgstr ""
+
+#: templates/class-online-proposal.php:53
+msgid "Do you need funds for this proposal?"
+msgstr ""
+
+#: templates/class-online-race-registration.php:17
+msgid "Online Race Registration Form"
+msgstr ""
+
+#: templates/class-online-race-registration.php:40
+msgid "Company (if applicable)"
+msgstr ""
+
+#: templates/class-online-race-registration.php:49, templates/class-race-registration.php:28
+msgid "5k"
+msgstr ""
+
+#: templates/class-online-race-registration.php:52
+msgid "Half marathon"
+msgstr ""
+
+#: templates/class-online-race-registration.php:55, templates/class-race-registration.php:37
+msgid "Marathon"
+msgstr ""
+
+#: templates/class-online-race-registration.php:63
+msgid "Running speed"
+msgstr ""
+
+#: templates/class-online-race-registration.php:66
+msgid "Slower"
+msgstr ""
+
+#: templates/class-online-race-registration.php:69
+msgid "Moderate"
+msgstr ""
+
+#: templates/class-online-race-registration.php:72
+msgid "Faster"
+msgstr ""
+
+#: templates/class-online-race-registration.php:79
+msgid "Shirt size"
+msgstr ""
+
+#: templates/class-online-race-registration.php:82, templates/class-race-registration.php:60, templates/class-tshirt-order.php:52
+msgid "Small"
+msgstr ""
+
+#: templates/class-online-race-registration.php:88, templates/class-race-registration.php:66, templates/class-tshirt-order.php:58
+msgid "Large"
+msgstr ""
+
+#: templates/class-online-race-registration.php:91, templates/class-race-registration.php:69, templates/class-tshirt-order.php:61
+msgid "Extra Large"
+msgstr ""
+
+#: templates/class-online-race-registration.php:101, templates/class-webinar-registration.php:52
+msgid "Word of mouth"
+msgstr ""
+
+#: templates/class-online-race-registration.php:104
+msgid "Participated in the past"
+msgstr ""
+
+#: templates/class-online-race-registration.php:107, templates/class-volunteer-recruitment.php:131, templates/class-webinar-registration.php:55
+msgid "Advertisement"
+msgstr ""
+
+#: templates/class-online-race-registration.php:126
+msgid "Comments or Requests"
+msgstr ""
+
+#: templates/class-parental-consent.php:17
+msgid "Parental Consent Form"
+msgstr ""
+
+#: templates/class-parental-consent.php:25
+msgid "Child Name"
+msgstr ""
+
+#: templates/class-parental-consent.php:33
+msgid "Child Classroom / Teacher"
+msgstr ""
+
+#: templates/class-parental-consent.php:39
+msgid "Parent Name"
+msgstr ""
+
+#: templates/class-parental-consent.php:47
+msgid "Parent Email"
+msgstr ""
+
+#: templates/class-parental-consent.php:54
+msgid "Parent Phone Number"
+msgstr ""
+
+#: templates/class-parental-consent.php:61
+msgid "Emergency Contact Number"
+msgstr ""
+
+#: templates/class-parental-consent.php:68
+msgid "Special Instructions"
+msgstr ""
+
+#: templates/class-parental-consent.php:74
+msgid "Parental Consent for Child"
+msgstr ""
+
+#: templates/class-parental-consent.php:77
+msgid "Yes, I provide consent"
+msgstr ""
+
+#: templates/class-parental-consent.php:80
+msgid "No, I do not provide consent"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:17
+msgid "Partnership Agreement Form"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:25
+msgid "Partner 1 Name"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:33
+msgid "Partner 1 Company"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:40
+msgid "Partner 1 Email"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:47
+msgid "Partner 1 Phone"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:55
+msgid "Partner 1 Address"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:63
+msgid "Partner 2 Name"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:71
+msgid "Partner 2 Company"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:78
+msgid "Partner 2 Email"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:85
+msgid "Partner 2 Phone"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:92
+msgid "Partner 2 Address"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:100
+msgid "Partnership Description"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:106
+msgid "Terms of Agreement"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:112
+msgid "Agreement valid until"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:123
+msgid "Partnership Contribution"
+msgstr ""
+
+#: templates/class-partnership-agreement.php:129
+msgid "The present partnership agreement form is signed today under the rule of the present laws and regulations"
+msgstr ""
+
+#: templates/class-party-invitation-rsvp.php:17
+msgid "Party Invitation RSVP Form"
+msgstr ""
+
+#: templates/class-party-invitation-rsvp.php:33
+msgid "Will you be attending?"
+msgstr ""
+
+#: templates/class-party-invitation-rsvp.php:47
+msgid "How many additional guests?"
+msgstr ""
+
+#: templates/class-performance-improvement-plan.php:17
+msgid "Performance Improvement Plan Form"
+msgstr ""
+
+#: templates/class-performance-improvement-plan.php:33
+msgid "Areas of improvement (Check all that apply)"
+msgstr ""
+
+#: templates/class-performance-improvement-plan.php:36
+msgid "Efficacy"
+msgstr ""
+
+#: templates/class-performance-improvement-plan.php:39
+msgid "Attendance"
+msgstr ""
+
+#: templates/class-performance-improvement-plan.php:42
+msgid "Quality"
+msgstr ""
+
+#: templates/class-performance-improvement-plan.php:45
+msgid "Teamwork"
+msgstr ""
+
+#: templates/class-performance-improvement-plan.php:48
+msgid "Productivity"
+msgstr ""
+
+#: templates/class-performance-improvement-plan.php:51
+msgid "Professional Conduct"
+msgstr ""
+
+#: templates/class-performance-improvement-plan.php:61
+msgid "Please describe the reason(s) for submitting this plan."
+msgstr ""
+
+#: templates/class-performance-improvement-plan.php:67
+msgid "Improvement Goals"
+msgstr ""
+
+#: templates/class-performance-improvement-plan.php:73
+msgid "Performance Goals"
+msgstr ""
+
+#: templates/class-performance-improvement-plan.php:79
+msgid "Date for improvements to be completed"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:17
+msgid "Personal Trainer Sign-Up Form"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:39
+msgid "Weight (lbs)"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:66
+msgid "Trainer Preference"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:75, templates/class-sponsorship-request.php:62
+msgid "No preference"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:82
+msgid "Desired Days"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:85, templates/class-volunteer-recruitment.php:94
+msgid "Monday"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:88, templates/class-volunteer-recruitment.php:97
+msgid "Tuesday"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:91, templates/class-volunteer-recruitment.php:100
+msgid "Wednesday"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:94, templates/class-volunteer-recruitment.php:103
+msgid "Thursday"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:97, templates/class-volunteer-recruitment.php:106
+msgid "Friday"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:104
+msgid "Desired Times"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:110
+msgid "Select a package"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:113
+msgid "Fitness Assessment"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:116
+msgid "One session"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:119
+msgid "4 weekly sessions"
+msgstr ""
+
+#: templates/class-personal-trainer-signup.php:122
+msgid "12 weekly sessions"
+msgstr ""
+
+#: templates/class-pledge-drive.php:17
+msgid "Pledge Drive Form"
+msgstr ""
+
+#: templates/class-pledge-drive.php:54
+msgid "I am pledging support to this campaign as a/an :"
+msgstr ""
+
+#: templates/class-pledge-drive.php:57
+msgid "Student: $20"
+msgstr ""
+
+#: templates/class-pledge-drive.php:60
+msgid "Individual: $45"
+msgstr ""
+
+#: templates/class-pledge-drive.php:63
+msgid "Family: $60"
+msgstr ""
+
+#: templates/class-pledge-drive.php:66
+msgid "Sustainer: $150"
+msgstr ""
+
+#: templates/class-pledge-drive.php:69
+msgid "Friend: $300"
+msgstr ""
+
+#: templates/class-pledge-drive.php:72
+msgid "Patron: $500"
+msgstr ""
+
+#: templates/class-pledge-drive.php:75
+msgid "Benefactor: $1000"
+msgstr ""
+
+#: templates/class-pledge-drive.php:83
+msgid "In Memory Of"
+msgstr ""
+
+#: templates/class-pledge-drive.php:89
+msgid "In Honor Of"
+msgstr ""
+
+#: templates/class-potluck-invitation-rsvp.php:17
+msgid "Potluck Invitation RSVP Form"
+msgstr ""
+
+#: templates/class-potluck-invitation-rsvp.php:33
+msgid "Are you coming?"
+msgstr ""
+
+#: templates/class-potluck-invitation-rsvp.php:39
+msgid "Yes, with a guest!"
+msgstr ""
+
+#: templates/class-potluck-invitation-rsvp.php:42
+msgid "I'm not sure yet"
+msgstr ""
+
+#: templates/class-potluck-invitation-rsvp.php:45
+msgid "Can't make it"
+msgstr ""
+
+#: templates/class-potluck-invitation-rsvp.php:52
+msgid "What are you bringing?"
+msgstr ""
+
+#: templates/class-prayer-request.php:17
+msgid "Prayer Request Form"
+msgstr ""
+
+#: templates/class-prayer-request.php:58
+msgid "Prayer request / intention"
+msgstr ""
+
+#: templates/class-race-registration.php:17
+msgid "Race Registration Form"
+msgstr ""
+
+#: templates/class-race-registration.php:25
+msgid "Which race will you participate in?"
+msgstr ""
+
+#: templates/class-race-registration.php:31
+msgid "10k"
+msgstr ""
+
+#: templates/class-race-registration.php:34
+msgid "Half Marathon"
+msgstr ""
+
+#: templates/class-race-registration.php:57
+msgid "What size T-shirt do you wear?"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:17
+msgid "Recipe Catalog Form"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:25
+msgid "Recipe Name"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:37
+msgid "Cuisine"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:40
+msgid "African"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:43
+msgid "American"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:46
+msgid "Asian"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:49
+msgid "Caribbean"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:52
+msgid "Chinese"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:55
+msgid "French"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:58
+msgid "Greek"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:61
+msgid "Indian"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:64
+msgid "Italian"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:67
+msgid "Japanese"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:70
+msgid "Mexican"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:73
+msgid "Middle Eastern"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:76
+msgid "Moroccan"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:79
+msgid "Spanish"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:82
+msgid "Thai"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:93
+msgid "Dish type"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:96
+msgid "Appetizer"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:99
+msgid "Beverage"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:102
+msgid "Bread"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:108
+msgid "Main"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:111, templates/class-wedding-invitation-rsvp.php:56, templates/class-wedding-invitation-rsvp.php:94, templates/class-workshop-registration.php:63
+msgid "Salad"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:114
+msgid "Soup"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:117
+msgid "Side dish"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:125
+msgid "Primary ingredient"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:131
+msgid "Ingredients"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:137
+msgid "Instructions"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:143
+msgid "Prep time"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:149
+msgid "Cook time"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:155
+msgid "Number of servings"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:161
+msgid "Source"
+msgstr ""
+
+#: templates/class-rent-receipt.php:17
+msgid "Rent Receipt Form"
+msgstr ""
+
+#: templates/class-rent-receipt.php:36
+msgid "Tenant Name"
+msgstr ""
+
+#: templates/class-rent-receipt.php:44
+msgid "Tenant Email"
+msgstr ""
+
+#: templates/class-rent-receipt.php:51
+msgid "Amount Paid"
+msgstr ""
+
+#: templates/class-rent-receipt.php:65
+msgid "Payment Type"
+msgstr ""
+
+#: templates/class-rent-receipt.php:68
+msgid "Cash"
+msgstr ""
+
+#: templates/class-rent-receipt.php:71
+msgid "Check"
+msgstr ""
+
+#: templates/class-rent-receipt.php:74
+msgid "Money order"
+msgstr ""
+
+#: templates/class-rent-receipt.php:81
+msgid "Payment Received By"
+msgstr ""
+
+#: templates/class-retreat-registration.php:17
+msgid "Retreat Registration Form"
+msgstr ""
+
+#: templates/class-retreat-registration.php:55
+msgid "Arrival Date"
+msgstr ""
+
+#: templates/class-retreat-registration.php:66, templates/class-travel-request.php:82
+msgid "Departure Date"
+msgstr ""
+
+#: templates/class-retreat-registration.php:77
+msgid "Accommodation Status"
+msgstr ""
+
+#: templates/class-retreat-registration.php:80
+msgid "Single"
+msgstr ""
+
+#: templates/class-retreat-registration.php:83
+msgid "Couple"
+msgstr ""
+
+#: templates/class-retreat-registration.php:86
+msgid "Group"
+msgstr ""
+
+#: templates/class-retreat-registration.php:92
+msgid "Roommate Selected"
+msgstr ""
+
+#: templates/class-retreat-registration.php:95
+msgid "Need Roommate"
+msgstr ""
+
+#: templates/class-retreat-registration.php:98
+msgid "Without Accommodations"
+msgstr ""
+
+#: templates/class-retreat-registration.php:106
+msgid "Special Needs"
+msgstr ""
+
+#: templates/class-school-id-registration.php:17
+msgid "School ID Registration Form"
+msgstr ""
+
+#: templates/class-school-id-registration.php:33
+msgid "Expected Year of Graduation"
+msgstr ""
+
+#: templates/class-school-id-registration.php:60
+msgid "School ID"
+msgstr ""
+
+#: templates/class-simple-rsvp.php:17
+msgid "Simple RSVP Form"
+msgstr ""
+
+#: templates/class-simple-rsvp.php:33
+msgid "Are you able to attend?"
+msgstr ""
+
+#: templates/class-simple-rsvp.php:50
+msgid "How many guests will you be bringing?"
+msgstr ""
+
+#: templates/class-simple-rsvp.php:56
+msgid "Do you or your guest(s) have any dietary restrictions?"
+msgstr ""
+
+#: templates/class-simple-rsvp.php:65
+msgid "Vegan"
+msgstr ""
+
+#: templates/class-simple-rsvp.php:87
+msgid "Please elaborate on any dietary restrictions that apply, or let us know if there's anything else you'd like to tell us. Hope to see you soon"
+msgstr ""
+
+#: templates/class-ski-lodge-registration.php:17
+msgid "Ski Lodge Registration Form"
+msgstr ""
+
+#: templates/class-ski-lodge-registration.php:54
+msgid "Booking Information"
+msgstr ""
+
+#: templates/class-ski-lodge-registration.php:60
+msgid "Ski Resort"
+msgstr ""
+
+#: templates/class-ski-lodge-registration.php:66
+msgid "Preferred Lodge"
+msgstr ""
+
+#: templates/class-ski-lodge-registration.php:69
+msgid "Lodge A"
+msgstr ""
+
+#: templates/class-ski-lodge-registration.php:72
+msgid "Lodge B"
+msgstr ""
+
+#: templates/class-ski-lodge-registration.php:75
+msgid "Lodge C"
+msgstr ""
+
+#: templates/class-ski-lodge-registration.php:83
+msgid "Check In Date"
+msgstr ""
+
+#: templates/class-ski-lodge-registration.php:94
+msgid "Check Out Date"
+msgstr ""
+
+#: templates/class-ski-lodge-registration.php:105
+msgid "Total number of guests"
+msgstr ""
+
+#: templates/class-ski-lodge-registration.php:111
+msgid "Special Requests"
+msgstr ""
+
+#: templates/class-sponsorship-request.php:17
+msgid "Sponsorship Request Form"
+msgstr ""
+
+#: templates/class-sponsorship-request.php:25
+msgid "Company or Group Requesting Sponsorship"
+msgstr ""
+
+#: templates/class-sponsorship-request.php:53
+msgid "Preferred Contact Method"
+msgstr ""
+
+#: templates/class-sponsorship-request.php:69
+msgid "Please describe the event or program that the sponsorship will support."
+msgstr ""
+
+#: templates/class-sponsorship-request.php:75
+msgid "Please indicate which sponsorship level you are seeking."
+msgstr ""
+
+#: templates/class-sponsorship-request.php:78
+msgid "Platinum"
+msgstr ""
+
+#: templates/class-sponsorship-request.php:81
+msgid "Gold"
+msgstr ""
+
+#: templates/class-sponsorship-request.php:84
+msgid "Silver"
+msgstr ""
+
+#: templates/class-sponsorship-request.php:91
+msgid "Additional Comments / Requests"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:17
+msgid "Summer Camp Registration Form"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:25
+msgid "Child Information"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:54
+msgid "1st Grade"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:57
+msgid "2nd Grade"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:60
+msgid "3rd Grade"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:63
+msgid "4th Grade"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:66
+msgid "5th Grade"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:69
+msgid "6th Grade"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:72
+msgid "7th Grade"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:75
+msgid "8th Grade"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:84
+msgid "Name of School"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:90
+msgid "Parent/Guardian Information"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:127
+msgid "Section Divider"
+msgstr ""
+
+#: templates/class-summer-camp-registration.php:149
+msgid "Medical Concerns"
+msgstr ""
+
+#: templates/class-super-bowl-party-rsvp.php:17
+msgid "Super Bowl Party RSVP Form"
+msgstr ""
+
+#: templates/class-super-bowl-party-rsvp.php:33
+msgid "Will you make it?"
+msgstr ""
+
+#: templates/class-super-bowl-party-rsvp.php:36
+msgid "Yes, I'll be there"
+msgstr ""
+
+#: templates/class-super-bowl-party-rsvp.php:39
+msgid "No, I can't handle it"
+msgstr ""
+
+#: templates/class-super-bowl-party-rsvp.php:47
+msgid "You're bringing..."
+msgstr ""
+
+#: templates/class-super-bowl-party-rsvp.php:53
+msgid "Any guests?"
+msgstr ""
+
+#: templates/class-super-bowl-party-rsvp.php:59
+msgid "The winning team will be"
+msgstr ""
+
+#: templates/class-super-bowl-party-rsvp.php:65
+msgid "Guess the final score"
+msgstr ""
+
+#: templates/class-support-ticket.php:17
+msgid "Support Ticket Form"
+msgstr ""
+
+#: templates/class-support-ticket.php:40
+msgid "What can we help you with today?"
+msgstr ""
+
+#: templates/class-support-ticket.php:43
+msgid "General question"
+msgstr ""
+
+#: templates/class-support-ticket.php:46
+msgid "Feature request"
+msgstr ""
+
+#: templates/class-support-ticket.php:49
+msgid "Bug report"
+msgstr ""
+
+#: templates/class-support-ticket.php:52
+msgid "My account"
+msgstr ""
+
+#: templates/class-support-ticket.php:62
+msgid "Your Website"
+msgstr ""
+
+#: templates/class-support-ticket.php:68
+msgid "Issues / Message"
+msgstr ""
+
+#: templates/class-takeout-order.php:17
+msgid "Takeout Order Form"
+msgstr ""
+
+#: templates/class-takeout-order.php:25
+msgid "What type of pizza would you like?"
+msgstr ""
+
+#: templates/class-takeout-order.php:28
+msgid "Cheese"
+msgstr ""
+
+#: templates/class-takeout-order.php:31
+msgid "Pepperoni (+ $0.50)"
+msgstr ""
+
+#: templates/class-takeout-order.php:34
+msgid "Sausage (+ $0.50)"
+msgstr ""
+
+#: templates/class-takeout-order.php:43
+msgid "How many pizzas would you like to order?"
+msgstr ""
+
+#: templates/class-takeout-order.php:46
+msgid "1 - $10"
+msgstr ""
+
+#: templates/class-takeout-order.php:49
+msgid "2 - $20"
+msgstr ""
+
+#: templates/class-takeout-order.php:52
+msgid "3 - $30"
+msgstr ""
+
+#: templates/class-testimonial.php:17
+msgid "Testimonial Form"
+msgstr ""
+
+#: templates/class-testimonial.php:52
+msgid "Which product/service do you use?"
+msgstr ""
+
+#: templates/class-testimonial.php:55
+msgid "Product A"
+msgstr ""
+
+#: templates/class-testimonial.php:58
+msgid "Product B"
+msgstr ""
+
+#: templates/class-testimonial.php:61
+msgid "Service A"
+msgstr ""
+
+#: templates/class-testimonial.php:64
+msgid "Service B"
+msgstr ""
+
+#: templates/class-testimonial.php:72
+msgid "Tell us what you think about the product/service."
+msgstr ""
+
+#: templates/class-testimonial.php:78
+msgid "May we post your testimonial (or a portion of it) on our website?"
+msgstr ""
+
+#: templates/class-time-sheet.php:17
+msgid "Time Sheet Form"
+msgstr ""
+
+#: templates/class-time-sheet.php:33
+msgid "Project / Client"
+msgstr ""
+
+#: templates/class-time-sheet.php:36
+msgid "Acme Corp"
+msgstr ""
+
+#: templates/class-time-sheet.php:39
+msgid "John Doe LLC"
+msgstr ""
+
+#: templates/class-time-sheet.php:58
+msgid "Hours"
+msgstr ""
+
+#: templates/class-time-sheet.php:64
+msgid "Hourly Rate"
+msgstr ""
+
+#: templates/class-to-do-list.php:17
+msgid "To Do List Form"
+msgstr ""
+
+#: templates/class-to-do-list.php:54
+msgid "Category"
+msgstr ""
+
+#: templates/class-to-do-list.php:57
+msgid "Personal"
+msgstr ""
+
+#: templates/class-to-do-list.php:60
+msgid "Home"
+msgstr ""
+
+#: templates/class-to-do-list.php:63
+msgid "Business"
+msgstr ""
+
+#: templates/class-to-do-list.php:71
+msgid "Due Date"
+msgstr ""
+
+#: templates/class-travel-request.php:17
+msgid "Travel Request Form"
+msgstr ""
+
+#: templates/class-travel-request.php:39
+msgid "Manager / Supervisor"
+msgstr ""
+
+#: templates/class-travel-request.php:45
+msgid "Reason for travel"
+msgstr ""
+
+#: templates/class-travel-request.php:51
+msgid "Travel arrangements needed"
+msgstr ""
+
+#: templates/class-travel-request.php:54
+msgid "Flight"
+msgstr ""
+
+#: templates/class-travel-request.php:57
+msgid "Hotel"
+msgstr ""
+
+#: templates/class-travel-request.php:60
+msgid "Rental Car"
+msgstr ""
+
+#: templates/class-travel-request.php:70
+msgid "Departure City"
+msgstr ""
+
+#: templates/class-travel-request.php:76
+msgid "Arrival City"
+msgstr ""
+
+#: templates/class-travel-request.php:93
+msgid "Return Date"
+msgstr ""
+
+#: templates/class-tshirt-order.php:17
+msgid "T-Shirt Order Form"
+msgstr ""
+
+#: templates/class-tshirt-order.php:25
+msgid "T-Shirt Details"
+msgstr ""
+
+#: templates/class-tshirt-order.php:31
+msgid "Design"
+msgstr ""
+
+#: templates/class-tshirt-order.php:34
+msgid "Ninja Shirt"
+msgstr ""
+
+#: templates/class-tshirt-order.php:37
+msgid "Robot Shirt"
+msgstr ""
+
+#: templates/class-tshirt-order.php:40
+msgid "Pirate Shirt"
+msgstr ""
+
+#: templates/class-tshirt-order.php:49
+msgid "Size"
+msgstr ""
+
+#: templates/class-tshirt-order.php:70
+msgid "Color"
+msgstr ""
+
+#: templates/class-tshirt-order.php:73
+msgid "Red"
+msgstr ""
+
+#: templates/class-tshirt-order.php:76
+msgid "Blue"
+msgstr ""
+
+#: templates/class-tshirt-order.php:79
+msgid "Green"
+msgstr ""
+
+#: templates/class-tshirt-order.php:82
+msgid "Black"
+msgstr ""
+
+#: templates/class-tshirt-order.php:94
+msgid "Your Details"
+msgstr ""
+
+#: templates/class-tshirt-order.php:123
+msgid "Gift"
+msgstr ""
+
+#: templates/class-tshirt-order.php:126
+msgid "This is a gift"
+msgstr ""
+
+#: templates/class-vendor-contact-information.php:17
+msgid "Vendor Contact Information Form"
+msgstr ""
+
+#: templates/class-vendor-contact-information.php:25
+msgid "Vendor Name"
+msgstr ""
+
+#: templates/class-vendor-contact-information.php:38
+msgid "Contact Name"
+msgstr ""
+
+#: templates/class-vendor-registration.php:17
+msgid "Vendor Registration Form"
+msgstr ""
+
+#: templates/class-vendor-registration.php:25
+msgid "Company's Legal Name"
+msgstr ""
+
+#: templates/class-vendor-registration.php:31
+msgid "Business Type"
+msgstr ""
+
+#: templates/class-vendor-registration.php:37
+msgid "Distributor"
+msgstr ""
+
+#: templates/class-vendor-registration.php:40
+msgid "Service Provider"
+msgstr ""
+
+#: templates/class-vendor-registration.php:48
+msgid "What kind of products/services does your company offer?"
+msgstr ""
+
+#: templates/class-vendor-registration.php:54
+msgid "Company Website"
+msgstr ""
+
+#: templates/class-vendor-registration.php:60
+msgid "Company Founding Year"
+msgstr ""
+
+#: templates/class-vendor-registration.php:66
+msgid "Company Address"
+msgstr ""
+
+#: templates/class-vendor-registration.php:73
+msgid "Name of person representing the company"
+msgstr ""
+
+#: templates/class-veterinarian-patient-intake.php:17
+msgid "Veterinarian Patient Intake Form"
+msgstr ""
+
+#: templates/class-veterinarian-patient-intake.php:25
+msgid "Owner Information"
+msgstr ""
+
+#: templates/class-veterinarian-patient-intake.php:61
+msgid "Pet Information"
+msgstr ""
+
+#: templates/class-veterinarian-patient-intake.php:81
+msgid "Species and Breed"
+msgstr ""
+
+#: templates/class-veterinarian-patient-intake.php:88
+msgid "Please describe the problem or issue"
+msgstr ""
+
+#: templates/class-video-release.php:17
+msgid "Video Release Form"
+msgstr ""
+
+#: templates/class-video-release.php:25
+msgid "Name of Individual Being Recorded"
+msgstr ""
+
+#: templates/class-video-release.php:33
+msgid "Conditions"
+msgstr ""
+
+#: templates/class-video-release.php:35
+msgid ""
+"<em>(Please note, this example form does not constitute a fully written and usable photography release. The content here is merely for example purposes.</em>\n"
+"							<p>I hereby grant the XYZ COMPANY, its directors, officers, employees, agents, and designers (collectively “XYZ COMPANY”) non-revocable permission to capture my image and likeness in videotapes, motion pictures, recordings, or any other media (collectively “Images”). I acknowledge that XYZ COMPANY will own such Images and further grant the XYZ COMPANY permission to copyright, display, publish, distribute, use, modify, print and reprint such Images in any manner whatsoever related to XYZ COMPANY business, including without limitation, publications, advertisements, brochures, web site images, or other electronic displays and transmissions thereof. I further waive any right to inspect or approve the use of the Image by the XYZ COMPANY prior to its use. I forever release and hold the XYZ COMPANY harmless from any and all liability arising out of the use of the Images in any manner or media whatsoever, and waive any and all claims and causes of action relating to use of the Images, including without limitation, claims for invasion of privacy rights or publicity. </p>\n"
+"							<p>I hereby warrant that I am eighteen (18) years old or more and competent to contract in my own name or, if I am less than eighteen years old, that my parent or guardian has signed this release form below. This release is binding on me and my heirs, assignees and personal representatives.</p>"
+msgstr ""
+
+#: templates/class-video-release.php:62
+msgid "I agree to the conditions above."
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:17
+msgid "Volunteer Recruitment Form"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:25
+msgid "Which programs are you interested in volunteering for?"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:28
+msgid "Homelessness"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:31
+msgid "Child abuse and neglect"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:34
+msgid "Drug and alcohol addiction"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:37
+msgid "Medical research"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:40
+msgid "Health and safety"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:50
+msgid "Which events are you interested in volunteering for?"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:53
+msgid "Annual walk-a-thon"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:56
+msgid "Quarterly raffle"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:59
+msgid "Black-tie Gala"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:69
+msgid "How many hours per week would you be able to dedicate?"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:72
+msgid "3 hour or less"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:75
+msgid "3 to 5 hours"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:78
+msgid "5 to 10 hours"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:81
+msgid "10 to 20 hours"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:84
+msgid "20 or more hours"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:91
+msgid "What days of the week are you available?"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:109
+msgid "Saturday"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:112
+msgid "Sunday"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:119
+msgid "Please list any relevant experiences you have that you feel would benefit any of the above programs or events."
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:125
+msgid "How did you find out about our organization?"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:128
+msgid "Direct mail"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:134
+msgid "Online Search"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:137
+msgid "Friend / Family"
+msgstr ""
+
+#: templates/class-volunteer-recruitment.php:140
+msgid "Business Colleague "
+msgstr ""
+
+#: templates/class-webinar-registration.php:17
+msgid "Webinar Registration Form"
+msgstr ""
+
+#: templates/class-webinar-registration.php:46
+msgid "How did you hear about this webinar?"
+msgstr ""
+
+#: templates/class-webinar-registration.php:49
+msgid "Social media"
+msgstr ""
+
+#: templates/class-wedding-invitation-rsvp.php:17
+msgid "Wedding Invitation RSVP Form"
+msgstr ""
+
+#: templates/class-wedding-invitation-rsvp.php:33
+msgid "Are you attending?"
+msgstr ""
+
+#: templates/class-wedding-invitation-rsvp.php:47
+msgid "Your meal selection"
+msgstr ""
+
+#: templates/class-wedding-invitation-rsvp.php:50, templates/class-wedding-invitation-rsvp.php:88, templates/class-workshop-registration.php:57
+msgid "Chicken"
+msgstr ""
+
+#: templates/class-wedding-invitation-rsvp.php:53, templates/class-wedding-invitation-rsvp.php:91, templates/class-workshop-registration.php:60
+msgid "Fish"
+msgstr ""
+
+#: templates/class-wedding-invitation-rsvp.php:63
+msgid "Are you bringing a guest?"
+msgstr ""
+
+#: templates/class-wedding-invitation-rsvp.php:77
+msgid "Guest Name"
+msgstr ""
+
+#: templates/class-wedding-invitation-rsvp.php:85
+msgid "Guest meal selection"
+msgstr ""
+
+#: templates/class-work-order-request.php:17
+msgid "Work Order Request Form"
+msgstr ""
+
+#: templates/class-work-order-request.php:47
+msgid "Building Number"
+msgstr ""
+
+#: templates/class-work-order-request.php:53
+msgid "Room Number"
+msgstr ""
+
+#: templates/class-work-order-request.php:59
+msgid "Request Type"
+msgstr ""
+
+#: templates/class-work-order-request.php:62
+msgid "General maintenance"
+msgstr ""
+
+#: templates/class-work-order-request.php:65
+msgid "Repairs"
+msgstr ""
+
+#: templates/class-work-order-request.php:68
+msgid "Housekeeping"
+msgstr ""
+
+#: templates/class-work-order-request.php:71
+msgid "Safety issue"
+msgstr ""
+
+#: templates/class-work-order-request.php:74
+msgid "Event setup/tear down"
+msgstr ""
+
+#: templates/class-workshop-registration.php:17
+msgid "Workshop Registration Form"
+msgstr ""
+
+#: templates/class-workshop-registration.php:54
+msgid "Select a meal preference"
+msgstr ""
+
+#: templates/class-workshop-registration.php:66
+msgid "At noon we will break for a one hour lunch."
+msgstr ""

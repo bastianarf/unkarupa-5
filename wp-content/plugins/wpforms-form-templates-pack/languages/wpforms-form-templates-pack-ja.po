@@ -1,0 +1,5542 @@
+# Copyright (C) 2019 WPForms Form Templates Pack
+# This file is distributed under the same license as the WPForms Form Templates Pack package.
+# Translators:
+# Tachibana Akira <atachibana@unofficialtokyo.com>, 2018
+# wpt cli <cli@wp-translations.org>, 2018
+# FX Bénard <fxb@wp-translations.org>, 2018
+# Mariko Nishikawa <kogumari@gmail.com>, 2018
+# Ali Darwich <b.a.darwich@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Form Templates Pack\n"
+"Last-Translator: Ali Darwich <b.a.darwich@gmail.com>, 2019\n"
+"Language-Team: Japanese (https://www.transifex.com/wp-translations/teams/64435/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: templates/class-accident-report.php:21
+msgid "Accident Report Form"
+msgstr "事故報告書"
+
+#: templates/class-accident-report.php:29
+msgid "I am reporting a"
+msgstr "何が報告されていますか？"
+
+#: templates/class-accident-report.php:32
+msgid "Loss of time/injury"
+msgstr "時間の損失/けが"
+
+#: templates/class-accident-report.php:35
+msgid "First aid incident"
+msgstr "応急処置事件"
+
+#: templates/class-accident-report.php:38
+msgid "Close call"
+msgstr "ヒヤリ・ハット"
+
+#: templates/class-accident-report.php:41
+msgid "Observation"
+msgstr "観察"
+
+#: templates/class-accident-report.php:48
+msgid "Person Reporting Incident"
+msgstr "事件を報告している人"
+
+#: templates/class-accident-report.php:56
+msgid "Person Involved in Incident"
+msgstr "事件に関与した人"
+
+#: templates/class-accident-report.php:64
+msgid "Date / Time of Incident"
+msgstr "事件の日付/時間"
+
+#: templates/class-accident-report.php:75
+msgid "Location of Incident"
+msgstr "事件の場所"
+
+#: templates/class-accident-report.php:81
+msgid "Please describe the event in detail."
+msgstr "詳細に説明してください。"
+
+#: templates/class-accident-report.php:87
+msgid "Was damage done to the property?"
+msgstr "財産に被害がありましたか？"
+
+#: templates/class-accident-report.php90,
+#: templates/class-accident-report.php103,
+#: templates/class-camp-registration.php80,
+#: templates/class-camp-registration.php94,
+#: templates/class-church-membership.php86,
+#: templates/class-college-application.php156,
+#: templates/class-college-application.php242,
+#: templates/class-college-application.php262,
+#: templates/class-college-application.php579,
+#: templates/class-conference-registration.php87,
+#: templates/class-employee-termination.php93,
+#: templates/class-event-feedback.php55,
+#: templates/class-gaming-tournament-registration.php99,
+#: templates/class-high-school-reunion-registration.php80,
+#: templates/class-maintenance-request.php135,
+#: templates/class-maintenance-request.php149,
+#: templates/class-new-years-party-rsvp.php40,
+#: templates/class-online-proposal.php60,
+#: templates/class-party-invitation-rsvp.php40,
+#: templates/class-potluck-invitation-rsvp.php40,
+#: templates/class-simple-rsvp.php40, templates/class-testimonial.php85,
+#: templates/class-wedding-invitation-rsvp.php40,
+#: templates/class-wedding-invitation-rsvp.php:70
+msgid "Yes"
+msgstr "はい"
+
+#: templates/class-accident-report.php93,
+#: templates/class-accident-report.php106,
+#: templates/class-camp-registration.php83,
+#: templates/class-camp-registration.php97,
+#: templates/class-church-membership.php89,
+#: templates/class-college-application.php159,
+#: templates/class-college-application.php245,
+#: templates/class-college-application.php265,
+#: templates/class-college-application.php481,
+#: templates/class-college-application.php582,
+#: templates/class-conference-registration.php90,
+#: templates/class-employee-termination.php96,
+#: templates/class-event-feedback.php58,
+#: templates/class-gaming-tournament-registration.php102,
+#: templates/class-high-school-reunion-registration.php83,
+#: templates/class-maintenance-request.php138,
+#: templates/class-maintenance-request.php152,
+#: templates/class-new-years-party-rsvp.php43,
+#: templates/class-online-proposal.php63,
+#: templates/class-party-invitation-rsvp.php43,
+#: templates/class-simple-rsvp.php43, templates/class-testimonial.php88,
+#: templates/class-wedding-invitation-rsvp.php43,
+#: templates/class-wedding-invitation-rsvp.php:73
+msgid "No"
+msgstr "いいえ"
+
+#: templates/class-accident-report.php:100
+msgid "Could this incident been avoided?"
+msgstr "この事件は避けられますか？"
+
+#: templates/class-accident-report.php114, templates/class-address-book.php87,
+#: templates/class-alumni-donation.php67,
+#: templates/class-auction-item-registration.php89,
+#: templates/class-automobile-information.php66,
+#: templates/class-avon-order.php98,
+#: templates/class-baseball-league-registration.php120,
+#: templates/class-basic-mortgage-application.php225,
+#: templates/class-birthday-party-invitation-rsvp.php69,
+#: templates/class-bug-tracker.php128,
+#: templates/class-call-for-proposals.php153,
+#: templates/class-camp-registration.php161,
+#: templates/class-cancellation-survey.php180,
+#: templates/class-change-request.php123,
+#: templates/class-check-request.php110,
+#: templates/class-church-donation.php88,
+#: templates/class-church-membership.php109,
+#: templates/class-college-application.php625,
+#: templates/class-complaint.php82,
+#: templates/class-conference-registration.php116,
+#: templates/class-content-download.php57,
+#: templates/class-contest-entry.php81, templates/class-diet-log.php120,
+#: templates/class-dinner-reservation.php160,
+#: templates/class-emergency-contact.php124,
+#: templates/class-employee-incident-report.php112,
+#: templates/class-employee-information.php152,
+#: templates/class-employee-referral.php98,
+#: templates/class-employee-termination.php112,
+#: templates/class-enrollment.php113,
+#: templates/class-equipment-checkout.php93,
+#: templates/class-event-feedback.php82, templates/class-event-planner.php154,
+#: templates/class-exercise-log.php94,
+#: templates/class-family-reunion-registration.php96,
+#: templates/class-file-upload.php63, templates/class-fitness-interest.php100,
+#: templates/class-football-league-registration.php120,
+#: templates/class-fundraiser-registration.php106,
+#: templates/class-gaming-tournament-registration.php128,
+#: templates/class-general-donation.php77,
+#: templates/class-gift-card-order.php84,
+#: templates/class-girl-scout-order.php119, templates/class-grade-book.php96,
+#: templates/class-gym-registration.php152,
+#: templates/class-health-insurance-quote.php89,
+#: templates/class-height-and-weight.php54,
+#: templates/class-high-school-reunion-registration.php98,
+#: templates/class-home-buyer-feedback.php143,
+#: templates/class-house-inventory.php95, templates/class-it-asset.php101,
+#: templates/class-it-service-request.php92,
+#: templates/class-job-application-upload.php115,
+#: templates/class-lecture-notes.php54, templates/class-lesson-plan.php116,
+#: templates/class-maintenance-request.php161,
+#: templates/class-meeting-room-registration.php109,
+#: templates/class-movie-collection.php106,
+#: templates/class-music-collection.php101,
+#: templates/class-neighborhood-events-questionnaire.php98,
+#: templates/class-neighborhood-feedback.php345,
+#: templates/class-new-years-party-rsvp.php93,
+#: templates/class-newspaper-subscription.php63,
+#: templates/class-online-event-registration.php120,
+#: templates/class-online-proposal.php71,
+#: templates/class-online-race-registration.php137,
+#: templates/class-parental-consent.php92,
+#: templates/class-partnership-agreement.php145,
+#: templates/class-party-invitation-rsvp.php64,
+#: templates/class-performance-improvement-plan.php103,
+#: templates/class-personal-trainer-signup.php134,
+#: templates/class-pledge-drive.php100,
+#: templates/class-potluck-invitation-rsvp.php69,
+#: templates/class-prayer-request.php69,
+#: templates/class-race-registration.php111,
+#: templates/class-recipe-catalog.php172, templates/class-rent-receipt.php94,
+#: templates/class-retreat-registration.php117,
+#: templates/class-school-id-registration.php71,
+#: templates/class-simple-rsvp.php98,
+#: templates/class-ski-lodge-registration.php122,
+#: templates/class-sponsorship-request.php102,
+#: templates/class-summer-camp-registration.php160,
+#: templates/class-super-bowl-party-rsvp.php76,
+#: templates/class-support-ticket.php79, templates/class-takeout-order.php95,
+#: templates/class-testimonial.php96, templates/class-time-sheet.php82,
+#: templates/class-to-do-list.php87, templates/class-travel-request.php115,
+#: templates/class-tshirt-order.php139,
+#: templates/class-vendor-contact-information.php78,
+#: templates/class-vendor-registration.php100,
+#: templates/class-veterinarian-patient-intake.php99,
+#: templates/class-video-release.php76,
+#: templates/class-volunteer-recruitment.php185,
+#: templates/class-webinar-registration.php70,
+#: templates/class-wedding-invitation-rsvp.php112,
+#: templates/class-work-order-request.php96,
+#: templates/class-workshop-registration.php:77
+msgid "Sending..."
+msgstr "送信中・・・"
+
+#: templates/class-address-book.php:21
+msgid "Address Book Form"
+msgstr "住所録のフォーム"
+
+#: templates/class-address-book.php29, templates/class-alumni-donation.php29,
+#: templates/class-auction-item-registration.php29,
+#: templates/class-avon-order.php68,
+#: templates/class-basic-mortgage-application.php195,
+#: templates/class-bug-tracker.php29,
+#: templates/class-call-for-proposals.php29,
+#: templates/class-camp-registration.php132,
+#: templates/class-church-donation.php29,
+#: templates/class-church-membership.php29,
+#: templates/class-college-application.php29,
+#: templates/class-college-application.php58,
+#: templates/class-college-application.php328,
+#: templates/class-college-application.php341,
+#: templates/class-complaint.php29,
+#: templates/class-conference-registration.php29,
+#: templates/class-content-download.php29,
+#: templates/class-contest-entry.php29,
+#: templates/class-dinner-reservation.php29,
+#: templates/class-emergency-contact.php81,
+#: templates/class-employee-information.php35,
+#: templates/class-employee-information.php130,
+#: templates/class-employee-referral.php35, templates/class-enrollment.php40,
+#: templates/class-family-reunion-registration.php29,
+#: templates/class-file-upload.php29, templates/class-fitness-interest.php29,
+#: templates/class-gaming-tournament-registration.php29,
+#: templates/class-general-donation.php29,
+#: templates/class-girl-scout-order.php89,
+#: templates/class-gym-registration.php29,
+#: templates/class-high-school-reunion-registration.php29,
+#: templates/class-it-service-request.php29,
+#: templates/class-job-application-upload.php29,
+#: templates/class-lesson-plan.php100,
+#: templates/class-maintenance-request.php29,
+#: templates/class-meeting-room-registration.php29,
+#: templates/class-new-years-party-rsvp.php29,
+#: templates/class-newspaper-subscription.php46,
+#: templates/class-online-event-registration.php29,
+#: templates/class-online-proposal.php29,
+#: templates/class-online-race-registration.php29,
+#: templates/class-party-invitation-rsvp.php29,
+#: templates/class-personal-trainer-signup.php29,
+#: templates/class-pledge-drive.php29,
+#: templates/class-potluck-invitation-rsvp.php29,
+#: templates/class-prayer-request.php29,
+#: templates/class-race-registration.php81,
+#: templates/class-retreat-registration.php29,
+#: templates/class-school-id-registration.php29,
+#: templates/class-simple-rsvp.php29,
+#: templates/class-ski-lodge-registration.php29,
+#: templates/class-sponsorship-request.php35,
+#: templates/class-summer-camp-registration.php35,
+#: templates/class-summer-camp-registration.php100,
+#: templates/class-summer-camp-registration.php137,
+#: templates/class-super-bowl-party-rsvp.php29,
+#: templates/class-support-ticket.php29, templates/class-takeout-order.php64,
+#: templates/class-testimonial.php29, templates/class-tshirt-order.php104,
+#: templates/class-veterinarian-patient-intake.php35,
+#: templates/class-veterinarian-patient-intake.php71,
+#: templates/class-volunteer-recruitment.php154,
+#: templates/class-webinar-registration.php29,
+#: templates/class-wedding-invitation-rsvp.php29,
+#: templates/class-workshop-registration.php:29
+msgid "Name"
+msgstr "名前"
+
+#: templates/class-address-book.php:37
+msgid "Photo"
+msgstr ""
+
+#: templates/class-address-book.php42,
+#: templates/class-auction-item-registration.php51,
+#: templates/class-avon-order.php90,
+#: templates/class-basic-mortgage-application.php203,
+#: templates/class-camp-registration.php147,
+#: templates/class-church-membership.php57,
+#: templates/class-college-application.php37,
+#: templates/class-college-application.php73, templates/class-complaint.php51,
+#: templates/class-contest-entry.php51,
+#: templates/class-emergency-contact.php37,
+#: templates/class-emergency-contact.php89,
+#: templates/class-employee-information.php57,
+#: templates/class-enrollment.php62, templates/class-event-planner.php120,
+#: templates/class-fundraiser-registration.php70,
+#: templates/class-girl-scout-order.php111,
+#: templates/class-job-application-upload.php52,
+#: templates/class-newspaper-subscription.php54,
+#: templates/class-online-event-registration.php37,
+#: templates/class-personal-trainer-signup.php49,
+#: templates/class-pledge-drive.php51,
+#: templates/class-race-registration.php103,
+#: templates/class-retreat-registration.php37,
+#: templates/class-school-id-registration.php43,
+#: templates/class-ski-lodge-registration.php37,
+#: templates/class-summer-camp-registration.php123,
+#: templates/class-takeout-order.php87, templates/class-tshirt-order.php119,
+#: templates/class-vendor-contact-information.php64,
+#: templates/class-veterinarian-patient-intake.php58,
+#: templates/class-volunteer-recruitment.php162,
+#: templates/class-workshop-registration.php:44
+msgid "Address"
+msgstr "住所"
+
+#: templates/class-address-book.php49,
+#: templates/class-vendor-contact-information.php:36
+msgid "Website / URL"
+msgstr "サイト／URL"
+
+#: templates/class-address-book.php55,
+#: templates/class-emergency-contact.php96,
+#: templates/class-online-event-registration.php:44
+msgid "Home Phone"
+msgstr "自宅の電話"
+
+#: templates/class-address-book.php62,
+#: templates/class-emergency-contact.php:110
+msgid "Cell Phone"
+msgstr "携帯番号"
+
+#: templates/class-address-book.php69, templates/class-enrollment.php:82
+msgid "Birthday"
+msgstr "お誕生日"
+
+#: templates/class-address-book.php80, templates/class-lecture-notes.php41,
+#: templates/class-time-sheet.php:75
+msgid "Notes"
+msgstr "メモ"
+
+#: templates/class-alumni-donation.php:21
+msgid "Alumni Donation Form"
+msgstr "同窓会寄付フォーム"
+
+#: templates/class-alumni-donation.php:37
+msgid "Class Year"
+msgstr "コースの年"
+
+#: templates/class-alumni-donation.php43,
+#: templates/class-auction-item-registration.php37,
+#: templates/class-avon-order.php76,
+#: templates/class-basic-mortgage-application.php217,
+#: templates/class-bug-tracker.php37,
+#: templates/class-call-for-proposals.php62,
+#: templates/class-camp-registration.php140,
+#: templates/class-change-request.php37, templates/class-check-request.php37,
+#: templates/class-church-donation.php37,
+#: templates/class-church-membership.php50, templates/class-complaint.php37,
+#: templates/class-conference-registration.php37,
+#: templates/class-contest-entry.php37,
+#: templates/class-dinner-reservation.php37,
+#: templates/class-dinner-reservation.php58,
+#: templates/class-emergency-contact.php55,
+#: templates/class-employee-information.php43,
+#: templates/class-employee-referral.php43, templates/class-enrollment.php55,
+#: templates/class-equipment-checkout.php44,
+#: templates/class-family-reunion-registration.php37,
+#: templates/class-file-upload.php37, templates/class-fitness-interest.php45,
+#: templates/class-fundraiser-registration.php85,
+#: templates/class-gaming-tournament-registration.php37,
+#: templates/class-general-donation.php46,
+#: templates/class-gift-card-order.php76,
+#: templates/class-girl-scout-order.php97,
+#: templates/class-gym-registration.php37,
+#: templates/class-high-school-reunion-registration.php51,
+#: templates/class-it-service-request.php37,
+#: templates/class-job-application-upload.php37,
+#: templates/class-lesson-plan.php108,
+#: templates/class-maintenance-request.php45,
+#: templates/class-meeting-room-registration.php37,
+#: templates/class-online-event-registration.php58,
+#: templates/class-online-proposal.php37,
+#: templates/class-online-race-registration.php37,
+#: templates/class-personal-trainer-signup.php56,
+#: templates/class-pledge-drive.php37, templates/class-prayer-request.php37,
+#: templates/class-race-registration.php89,
+#: templates/class-retreat-registration.php52,
+#: templates/class-school-id-registration.php50,
+#: templates/class-ski-lodge-registration.php44,
+#: templates/class-sponsorship-request.php43,
+#: templates/class-sponsorship-request.php60,
+#: templates/class-summer-camp-registration.php108,
+#: templates/class-support-ticket.php37, templates/class-takeout-order.php72,
+#: templates/class-testimonial.php37, templates/class-tshirt-order.php112,
+#: templates/class-vendor-contact-information.php57,
+#: templates/class-vendor-registration.php92,
+#: templates/class-veterinarian-patient-intake.php43,
+#: templates/class-volunteer-recruitment.php169,
+#: templates/class-webinar-registration.php37,
+#: templates/class-work-order-request.php37,
+#: templates/class-workshop-registration.php:37
+msgid "Email"
+msgstr "メール"
+
+#: templates/class-alumni-donation.php50,
+#: templates/class-auction-item-registration.php44,
+#: templates/class-avon-order.php83,
+#: templates/class-basic-mortgage-application.php210,
+#: templates/class-call-for-proposals.php55,
+#: templates/class-change-request.php44, templates/class-check-request.php44,
+#: templates/class-church-membership.php43,
+#: templates/class-college-application.php44,
+#: templates/class-college-application.php81, templates/class-complaint.php44,
+#: templates/class-contest-entry.php44,
+#: templates/class-dinner-reservation.php44,
+#: templates/class-dinner-reservation.php55,
+#: templates/class-emergency-contact.php62,
+#: templates/class-employee-information.php50,
+#: templates/class-employee-information.php138,
+#: templates/class-employee-referral.php50, templates/class-enrollment.php48,
+#: templates/class-equipment-checkout.php51,
+#: templates/class-family-reunion-registration.php44,
+#: templates/class-file-upload.php44, templates/class-fitness-interest.php37,
+#: templates/class-fundraiser-registration.php92,
+#: templates/class-gift-card-order.php69,
+#: templates/class-girl-scout-order.php104,
+#: templates/class-high-school-reunion-registration.php44,
+#: templates/class-it-service-request.php44,
+#: templates/class-job-application-upload.php44,
+#: templates/class-maintenance-request.php37,
+#: templates/class-online-proposal.php44,
+#: templates/class-personal-trainer-signup.php63,
+#: templates/class-pledge-drive.php44, templates/class-prayer-request.php44,
+#: templates/class-race-registration.php96,
+#: templates/class-retreat-registration.php45,
+#: templates/class-school-id-registration.php57,
+#: templates/class-ski-lodge-registration.php51,
+#: templates/class-sponsorship-request.php50,
+#: templates/class-sponsorship-request.php63,
+#: templates/class-summer-camp-registration.php115,
+#: templates/class-takeout-order.php79,
+#: templates/class-vendor-contact-information.php50,
+#: templates/class-vendor-registration.php85,
+#: templates/class-veterinarian-patient-intake.php50,
+#: templates/class-volunteer-recruitment.php176,
+#: templates/class-work-order-request.php44,
+#: templates/class-workshop-registration.php:51
+msgid "Phone"
+msgstr "電話番号"
+
+#: templates/class-alumni-donation.php58,
+#: templates/class-church-donation.php44,
+#: templates/class-general-donation.php:37
+msgid "Donation Amount"
+msgstr "寄付金額"
+
+#: templates/class-auction-item-registration.php:21
+msgid "Auction Item Registration Form"
+msgstr "オークション商品登録フォーム"
+
+#: templates/class-auction-item-registration.php:58
+msgid "Auction Item Information"
+msgstr "オークション商品情報"
+
+#: templates/class-auction-item-registration.php:64
+msgid "Item Name"
+msgstr "プロダクト名"
+
+#: templates/class-auction-item-registration.php:70
+msgid "Estimated Value"
+msgstr "推定値"
+
+#: templates/class-auction-item-registration.php:77
+msgid "Image"
+msgstr "画像"
+
+#: templates/class-auction-item-registration.php:82
+msgid "Detailed Description"
+msgstr "詳細な説明"
+
+#: templates/class-automobile-information.php:21
+msgid "Automobile Information Form"
+msgstr "自動車情報フォーム"
+
+#: templates/class-automobile-information.php:29
+msgid "Year"
+msgstr "年"
+
+#: templates/class-automobile-information.php:35
+msgid "Make (eg Ford)"
+msgstr "ブランド（例：フォード）"
+
+#: templates/class-automobile-information.php:41
+msgid "Model (eg Mustang)"
+msgstr "モデル（例：マスタング）"
+
+#: templates/class-automobile-information.php:47
+msgid "What is your automobile's vehicle identification number (VIN)?"
+msgstr "自動車の車両識別番号（VIN）は何ですか？"
+
+#: templates/class-automobile-information.php:53
+msgid ""
+"Since you bought or leased your automobile, about how many miles has it been"
+" driven?"
+msgstr "自動車を購入またはリースしてから、走行距離は何マイルですか？"
+
+#: templates/class-automobile-information.php:59
+msgid "About how many miles is your automobile driven in a typical week ?"
+msgstr "自動車は典型的な週に何マイル運転されますか？"
+
+#: templates/class-avon-order.php:21
+msgid "Avon Order Form"
+msgstr "エイボン注文書"
+
+#: templates/class-avon-order.php:29
+msgid "Catalogue Name"
+msgstr "カタログ名"
+
+#: templates/class-avon-order.php:36
+msgid "Page Number"
+msgstr "ページ番号"
+
+#: templates/class-avon-order.php:42
+msgid "Quantity"
+msgstr "数量"
+
+#: templates/class-avon-order.php:49
+msgid "Product #"
+msgstr "製品 ＃"
+
+#: templates/class-avon-order.php:55
+msgid "Product Description"
+msgstr "商品説明"
+
+#: templates/class-avon-order.php:61
+msgid "Cost"
+msgstr "値段"
+
+#: templates/class-baseball-league-registration.php:21
+msgid "Baseball League Registration Form"
+msgstr "野球リーグ登録フォーム"
+
+#: templates/class-baseball-league-registration.php29,
+#: templates/class-football-league-registration.php:29
+msgid "Player Name"
+msgstr "プレーヤの名前"
+
+#: templates/class-baseball-league-registration.php37,
+#: templates/class-football-league-registration.php:37
+msgid "Player Age Group"
+msgstr "プレイヤー年齢層"
+
+#: templates/class-baseball-league-registration.php40,
+#: templates/class-camp-registration.php40,
+#: templates/class-football-league-registration.php:40
+msgid "6-8 years old"
+msgstr "6〜8歳"
+
+#: templates/class-baseball-league-registration.php43,
+#: templates/class-camp-registration.php43,
+#: templates/class-football-league-registration.php:43
+msgid "9-12 years old"
+msgstr "9〜12歳"
+
+#: templates/class-baseball-league-registration.php46,
+#: templates/class-camp-registration.php46,
+#: templates/class-football-league-registration.php:46
+msgid "13-15 years old"
+msgstr "13〜15歳"
+
+#: templates/class-baseball-league-registration.php55,
+#: templates/class-football-league-registration.php:55
+msgid "Desired Team"
+msgstr "希望チーム"
+
+#: templates/class-baseball-league-registration.php:58
+msgid "Tigers"
+msgstr "タイガース"
+
+#: templates/class-baseball-league-registration.php:61
+msgid "Orioles"
+msgstr "オリオールズ"
+
+#: templates/class-baseball-league-registration.php:64
+msgid "Yankees"
+msgstr "ヤンキース"
+
+#: templates/class-baseball-league-registration.php:67
+msgid "Rangers"
+msgstr "レンジャー"
+
+#: templates/class-baseball-league-registration.php:70
+msgid "Astros"
+msgstr "アストロズ"
+
+#: templates/class-baseball-league-registration.php77,
+#: templates/class-football-league-registration.php:77
+msgid "Desired Position"
+msgstr "望ましい位置"
+
+#: templates/class-baseball-league-registration.php:80
+msgid "Pitcher"
+msgstr "ピッチャー"
+
+#: templates/class-baseball-league-registration.php:83
+msgid "Catcher"
+msgstr "キャッチャー"
+
+#: templates/class-baseball-league-registration.php:86
+msgid "Outfield"
+msgstr "外野手"
+
+#: templates/class-baseball-league-registration.php:89
+msgid "Infield"
+msgstr "内野手"
+
+#: templates/class-baseball-league-registration.php96,
+#: templates/class-football-league-registration.php:96
+msgid "Guardian Name"
+msgstr "保護者の名前"
+
+#: templates/class-baseball-league-registration.php104,
+#: templates/class-football-league-registration.php:104
+msgid "Guardian Email"
+msgstr "保護者のメールアドレス "
+
+#: templates/class-baseball-league-registration.php111,
+#: templates/class-football-league-registration.php:111
+msgid "Guardian Address"
+msgstr "保護者の住所 "
+
+#: templates/class-basic-mortgage-application.php:21
+msgid "Basic Mortgage Application Form"
+msgstr "基本住宅ローン申込書"
+
+#: templates/class-basic-mortgage-application.php:29
+msgid "Purpose of Mortgage or Loan"
+msgstr "住宅ローンやローンの目的"
+
+#: templates/class-basic-mortgage-application.php:32
+msgid "Home Loan"
+msgstr "住宅ローン"
+
+#: templates/class-basic-mortgage-application.php:35
+msgid "Refinance"
+msgstr "借り換え"
+
+#: templates/class-basic-mortgage-application.php:38
+msgid "Debt Consolidation Loan"
+msgstr "借金整理のためのローン"
+
+#: templates/class-basic-mortgage-application.php:41
+msgid "Second Mortgage"
+msgstr "セカンドモーゲージ"
+
+#: templates/class-basic-mortgage-application.php:44
+msgid "Home Equity Loan"
+msgstr "ホームエクイティローン"
+
+#: templates/class-basic-mortgage-application.php:47
+msgid "Home Improvement Loan"
+msgstr "家の修繕ローン"
+
+#: templates/class-basic-mortgage-application.php:50
+msgid "Bad Credit Home Mortgage"
+msgstr "悪いクレジット住宅ローン"
+
+#: templates/class-basic-mortgage-application.php:58
+msgid "Loan Amount"
+msgstr "ローン金額"
+
+#: templates/class-basic-mortgage-application.php:65
+msgid "Type of Property"
+msgstr "物件のタイプ"
+
+#: templates/class-basic-mortgage-application.php:68
+msgid "House"
+msgstr "家"
+
+#: templates/class-basic-mortgage-application.php:71
+msgid "Condo"
+msgstr "コンド"
+
+#: templates/class-basic-mortgage-application.php:74
+msgid "Town House"
+msgstr "タウンハウス"
+
+#: templates/class-basic-mortgage-application.php:77
+msgid "Duplex"
+msgstr "二重"
+
+#: templates/class-basic-mortgage-application.php:80
+msgid "Land"
+msgstr "土地"
+
+#: templates/class-basic-mortgage-application.php:88
+msgid "Estimated Price or Value of Property"
+msgstr "推定価格または資産価値"
+
+#: templates/class-basic-mortgage-application.php:95
+msgid "Property Location"
+msgstr "物件の場所"
+
+#: templates/class-basic-mortgage-application.php:102
+msgid "Down Payment Percentage"
+msgstr "前払い率"
+
+#: templates/class-basic-mortgage-application.php:105
+msgid "0-5%"
+msgstr "0-5%"
+
+#: templates/class-basic-mortgage-application.php:108
+msgid "6-10%"
+msgstr "6-10%"
+
+#: templates/class-basic-mortgage-application.php:111
+msgid "10% or more"
+msgstr "10％ 以上"
+
+#: templates/class-basic-mortgage-application.php:119
+msgid "Current Mortgage Company"
+msgstr "現在の住宅ローン会社"
+
+#: templates/class-basic-mortgage-application.php:122
+msgid "Company A"
+msgstr "会社 A"
+
+#: templates/class-basic-mortgage-application.php:125
+msgid "Company B"
+msgstr "会社 B"
+
+#: templates/class-basic-mortgage-application.php:128
+msgid "Company C"
+msgstr "会社 C"
+
+#: templates/class-basic-mortgage-application.php:136
+msgid "Would you like a Referral to a Real Estate Agent?"
+msgstr "不動産業者への紹介をご希望ですか？"
+
+#: templates/class-basic-mortgage-application.php139,
+#: templates/class-basic-mortgage-application.php175,
+#: templates/class-lesson-plan.php:50
+msgid "First Choice"
+msgstr "選択1"
+
+#: templates/class-basic-mortgage-application.php142,
+#: templates/class-basic-mortgage-application.php178,
+#: templates/class-lesson-plan.php:53
+msgid "Second Choice"
+msgstr "選択2"
+
+#: templates/class-basic-mortgage-application.php145,
+#: templates/class-basic-mortgage-application.php181,
+#: templates/class-college-application.php110,
+#: templates/class-lesson-plan.php:56
+msgid "Third Choice"
+msgstr "選択3"
+
+#: templates/class-basic-mortgage-application.php153,
+#: templates/class-church-membership.php37,
+#: templates/class-personal-trainer-signup.php37,
+#: templates/class-veterinarian-patient-intake.php:78
+msgid "Age"
+msgstr "年齢"
+
+#: templates/class-basic-mortgage-application.php:159
+msgid "Occupation"
+msgstr "職業"
+
+#: templates/class-basic-mortgage-application.php:165
+msgid "Household Income"
+msgstr "世帯収入"
+
+#: templates/class-basic-mortgage-application.php:172
+msgid "Credit Rating"
+msgstr "信用格付け"
+
+#: templates/class-basic-mortgage-application.php:189
+msgid "Contact Information"
+msgstr "連絡先"
+
+#: templates/class-birthday-party-invitation-rsvp.php:21
+msgid "Birthday Party Invitation RSVP Form"
+msgstr "誕生日パーティの招待状RSVPフォーム"
+
+#: templates/class-birthday-party-invitation-rsvp.php:29
+msgid "Will you be able to make it?"
+msgstr "来られますか？"
+
+#: templates/class-birthday-party-invitation-rsvp.php:32
+msgid "Yeah!"
+msgstr "はい！"
+
+#: templates/class-birthday-party-invitation-rsvp.php:35
+msgid "Maybe / Not sure"
+msgstr "多分 / まだ知らない"
+
+#: templates/class-birthday-party-invitation-rsvp.php:38
+msgid "I can't"
+msgstr "来られません"
+
+#: templates/class-birthday-party-invitation-rsvp.php:45
+msgid "How many people are you going to bring?"
+msgstr "何人の人が一緒に来ていますか？"
+
+#: templates/class-birthday-party-invitation-rsvp.php:48
+msgid "Just me!"
+msgstr "私だけ！"
+
+#: templates/class-birthday-party-invitation-rsvp.php:51
+msgid "Plus one"
+msgstr "一を足す"
+
+#: templates/class-birthday-party-invitation-rsvp.php:54
+msgid "A few friends"
+msgstr "何人かの友達"
+
+#: templates/class-birthday-party-invitation-rsvp.php62,
+#: templates/class-conference-registration.php109,
+#: templates/class-fundraiser-registration.php99,
+#: templates/class-gaming-tournament-registration.php121,
+#: templates/class-high-school-reunion-registration.php91,
+#: templates/class-party-invitation-rsvp.php57,
+#: templates/class-wedding-invitation-rsvp.php:105
+msgid "Comments or Questions"
+msgstr "コメントや質問"
+
+#: templates/class-bug-tracker.php:21
+msgid "Bug Tracker Form"
+msgstr "バグトラッカーフォーム"
+
+#: templates/class-bug-tracker.php:44
+msgid "Describe what happened or steps to reproduce the issue"
+msgstr "何が起こったのか、または問題を再現するのに必要な手順を説明してください。"
+
+#: templates/class-bug-tracker.php:50
+msgid "Operating System"
+msgstr "オペレーティング・システム"
+
+#: templates/class-bug-tracker.php:53
+msgid "Windows 7"
+msgstr "Windows 7"
+
+#: templates/class-bug-tracker.php:56
+msgid "Windows 8"
+msgstr "Windows 8"
+
+#: templates/class-bug-tracker.php:59
+msgid "Windows 10"
+msgstr "Windows 10"
+
+#: templates/class-bug-tracker.php:62
+msgid "macOS"
+msgstr "macOS"
+
+#: templates/class-bug-tracker.php:65
+msgid "Linux"
+msgstr "Linux"
+
+#: templates/class-bug-tracker.php:68
+msgid "iOS"
+msgstr "iOS"
+
+#: templates/class-bug-tracker.php:71
+msgid "Android"
+msgstr "Android"
+
+#: templates/class-bug-tracker.php:79
+msgid "Browser"
+msgstr "ブラウザー"
+
+#: templates/class-bug-tracker.php:82
+msgid "Chrome"
+msgstr "Chrome"
+
+#: templates/class-bug-tracker.php:85
+msgid "Firefox"
+msgstr "Firefox"
+
+#: templates/class-bug-tracker.php:88
+msgid "Opera"
+msgstr "Opera"
+
+#: templates/class-bug-tracker.php:91
+msgid "Edge"
+msgstr "Edge"
+
+#: templates/class-bug-tracker.php:94
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+#: templates/class-bug-tracker.php:97
+msgid "Safari"
+msgstr "Safari"
+
+#: templates/class-bug-tracker.php:105
+msgid "Severity"
+msgstr "重大度"
+
+#: templates/class-bug-tracker.php108, templates/class-change-request.php100,
+#: templates/class-maintenance-request.php66,
+#: templates/class-to-do-list.php:44
+msgid "Low"
+msgstr "低い"
+
+#: templates/class-bug-tracker.php111,
+#: templates/class-maintenance-request.php63,
+#: templates/class-to-do-list.php:47
+msgid "Normal"
+msgstr "普通"
+
+#: templates/class-bug-tracker.php114, templates/class-change-request.php106,
+#: templates/class-maintenance-request.php69,
+#: templates/class-to-do-list.php:50
+msgid "High"
+msgstr "高い"
+
+#: templates/class-bug-tracker.php:122
+msgid "Upload a screenshot"
+msgstr "スクリーンショットをアップロード"
+
+#: templates/class-call-for-proposals.php:21
+msgid "Call for Proposals Form"
+msgstr "プロポーザル申し込みフォーム"
+
+#: templates/class-call-for-proposals.php37,
+#: templates/class-employee-information.php81,
+#: templates/class-testimonial.php:50
+msgid "Job Title"
+msgstr "職名"
+
+#: templates/class-call-for-proposals.php:43
+msgid "Company or Organization's Name"
+msgstr "会社名または組織名"
+
+#: templates/class-call-for-proposals.php:49
+msgid "Biography"
+msgstr "バイオグラフィー"
+
+#: templates/class-call-for-proposals.php:69
+msgid "Proposal Title"
+msgstr "プロポーザルのタイトル"
+
+#: templates/class-call-for-proposals.php:75
+msgid "Short Description"
+msgstr "簡単な説明"
+
+#: templates/class-call-for-proposals.php:81
+msgid "Abstract"
+msgstr "抽象"
+
+#: templates/class-call-for-proposals.php:87
+msgid "Topics"
+msgstr "トピック"
+
+#: templates/class-call-for-proposals.php:90
+msgid "Topic A"
+msgstr "トピック A"
+
+#: templates/class-call-for-proposals.php:93
+msgid "Topic B"
+msgstr "トピック B"
+
+#: templates/class-call-for-proposals.php:96
+msgid "Topic C"
+msgstr "トピック C"
+
+#: templates/class-call-for-proposals.php:99
+msgid "Topic D"
+msgstr "トピック D"
+
+#: templates/class-call-for-proposals.php:102
+msgid "Topic E"
+msgstr "トピック E"
+
+#: templates/class-call-for-proposals.php:109
+msgid "Session Type"
+msgstr "セッションの種類"
+
+#: templates/class-call-for-proposals.php:112
+msgid "Presentation"
+msgstr "プレゼンテーション"
+
+#: templates/class-call-for-proposals.php:115
+msgid "Panel"
+msgstr "パネル"
+
+#: templates/class-call-for-proposals.php:118
+msgid "Workshop"
+msgstr "ワークショップ"
+
+#: templates/class-call-for-proposals.php121,
+#: templates/class-cancellation-survey.php116,
+#: templates/class-college-application.php490,
+#: templates/class-college-application.php544, templates/class-diet-log.php44,
+#: templates/class-event-planner.php66,
+#: templates/class-home-buyer-feedback.php110,
+#: templates/class-it-service-request.php72,
+#: templates/class-job-application-upload.php84,
+#: templates/class-online-event-registration.php77,
+#: templates/class-online-race-registration.php117,
+#: templates/class-performance-improvement-plan.php58,
+#: templates/class-recipe-catalog.php89, templates/class-simple-rsvp.php78,
+#: templates/class-support-ticket.php59, templates/class-travel-request.php67,
+#: templates/class-volunteer-recruitment.php47,
+#: templates/class-volunteer-recruitment.php66,
+#: templates/class-volunteer-recruitment.php147,
+#: templates/class-webinar-registration.php62,
+#: templates/class-work-order-request.php:81
+msgid "Other"
+msgstr "その他"
+
+#: templates/class-call-for-proposals.php:129
+msgid "Audience Level"
+msgstr "観客レベル"
+
+#: templates/class-call-for-proposals.php:132
+msgid "Novice"
+msgstr "初心者"
+
+#: templates/class-call-for-proposals.php:135
+msgid "Intermediate"
+msgstr "中級"
+
+#: templates/class-call-for-proposals.php:138
+msgid "Expert"
+msgstr "エキスパート"
+
+#: templates/class-call-for-proposals.php146,
+#: templates/class-job-application-upload.php108,
+#: templates/class-travel-request.php:108
+msgid "Additional Information"
+msgstr "追加情報"
+
+#: templates/class-camp-registration.php:21
+msgid "Camp Registration Form"
+msgstr "キャンプ登録フォーム"
+
+#: templates/class-camp-registration.php:29
+msgid "Camper Name"
+msgstr "キャンパー名"
+
+#: templates/class-camp-registration.php:37
+msgid "Camper Age Group"
+msgstr "キャンパー年齢層"
+
+#: templates/class-camp-registration.php:55
+msgid "Desired Cabin"
+msgstr "予約したいキャビン"
+
+#: templates/class-camp-registration.php:58
+msgid "Cabin 1"
+msgstr "キャビン 1"
+
+#: templates/class-camp-registration.php:61
+msgid "Cabin 2"
+msgstr "キャビン 2"
+
+#: templates/class-camp-registration.php:64
+msgid "Cabin 3"
+msgstr "キャビン 3"
+
+#: templates/class-camp-registration.php:67
+msgid "Cabin 4"
+msgstr "キャビン 4"
+
+#: templates/class-camp-registration.php:70
+msgid "Cabin 5"
+msgstr "キャビン 5"
+
+#: templates/class-camp-registration.php:77
+msgid "Does the camper have any known allergies?"
+msgstr "キャンパーは既知のアレルギーがありますか？"
+
+#: templates/class-camp-registration.php:91
+msgid "Has the camper been camping before?"
+msgstr "キャンパーは以前キャンプしたことがありますか？"
+
+#: templates/class-camp-registration.php:105
+msgid "Emergency Contact Information"
+msgstr "緊急連絡先情報"
+
+#: templates/class-camp-registration.php112,
+#: templates/class-college-application.php66,
+#: templates/class-college-application.php335,
+#: templates/class-college-application.php348,
+#: templates/class-employee-information.php:145
+msgid "Relationship"
+msgstr "関係"
+
+#: templates/class-camp-registration.php:115
+msgid "Parent"
+msgstr "親"
+
+#: templates/class-camp-registration.php:118
+msgid "Sibling"
+msgstr "兄弟姉妹"
+
+#: templates/class-camp-registration.php:121
+msgid "Relative"
+msgstr "親戚"
+
+#: templates/class-camp-registration.php:124
+msgid "Friend"
+msgstr "友人"
+
+#: templates/class-camp-registration.php154,
+#: templates/class-health-insurance-quote.php82,
+#: templates/class-meeting-room-registration.php:102
+msgid "Questions or Comments"
+msgstr "質問やコメント"
+
+#: templates/class-cancellation-survey.php:21
+msgid "Cancellation Survey Form"
+msgstr "キャンセル調査票"
+
+#: templates/class-cancellation-survey.php:29
+msgid "How long had you been using the subscription / service?"
+msgstr "どのくらいサブスクリプション / サービスを使用していましたか？"
+
+#: templates/class-cancellation-survey.php:32
+msgid "Less than a month"
+msgstr "1ヶ月以内"
+
+#: templates/class-cancellation-survey.php:35
+msgid "1-6 months"
+msgstr "1〜6ヶ月"
+
+#: templates/class-cancellation-survey.php:38
+msgid "1-3 years"
+msgstr "1〜3年"
+
+#: templates/class-cancellation-survey.php:41
+msgid "Over 3 years"
+msgstr "3年以上"
+
+#: templates/class-cancellation-survey.php:44
+msgid "Never used"
+msgstr "使用したことがない"
+
+#: templates/class-cancellation-survey.php:51
+msgid "How often did you use the subscription / service?"
+msgstr "どのくらいの頻度で定期購読サービスを利用しましたか？"
+
+#: templates/class-cancellation-survey.php:54
+msgid "Once a week"
+msgstr "週に1回"
+
+#: templates/class-cancellation-survey.php:57
+msgid "2 to 3 times a month"
+msgstr "月に2〜3回"
+
+#: templates/class-cancellation-survey.php:60
+msgid "Once a month"
+msgstr "月に1回"
+
+#: templates/class-cancellation-survey.php:63
+msgid "Less than once a month"
+msgstr "月に1回未満"
+
+#: templates/class-cancellation-survey.php:70
+msgid "Overall, how satisfied were you with the subscription / service?"
+msgstr "全体として、購読 / サービスにどの程度満足していますか？"
+
+#: templates/class-cancellation-survey.php73,
+#: templates/class-event-feedback.php:32
+msgid "Very satisfied"
+msgstr "とても満足"
+
+#: templates/class-cancellation-survey.php76,
+#: templates/class-event-feedback.php:35
+msgid "Satisfied"
+msgstr "満足"
+
+#: templates/class-cancellation-survey.php79,
+#: templates/class-event-feedback.php:38
+msgid "Neutral"
+msgstr "どちらでもない"
+
+#: templates/class-cancellation-survey.php82,
+#: templates/class-event-feedback.php:41
+msgid "Unsatisfied"
+msgstr "不満"
+
+#: templates/class-cancellation-survey.php85,
+#: templates/class-event-feedback.php:44
+msgid "Very Unsatisfied"
+msgstr "とても不満"
+
+#: templates/class-cancellation-survey.php:92
+msgid "What was the primary reason for canceling your subscription / service?"
+msgstr "サブスクリプション / サービスをキャンセルした主な理由は何ですか？"
+
+#: templates/class-cancellation-survey.php:95
+msgid "No longer need it"
+msgstr "もう必要がありません"
+
+#: templates/class-cancellation-survey.php:98
+msgid "It didn't meet my needs"
+msgstr "期待を満たしていませんでした"
+
+#: templates/class-cancellation-survey.php:101
+msgid "Found an alternative"
+msgstr "代替案を見つけた"
+
+#: templates/class-cancellation-survey.php:104
+msgid "Quality was less than expected"
+msgstr "品質は予想を下回りました"
+
+#: templates/class-cancellation-survey.php:107
+msgid "Ease of use was less than expected"
+msgstr "使いやすさが予想を下回りました"
+
+#: templates/class-cancellation-survey.php:110
+msgid "Access to the service was less than expected"
+msgstr "サービスへのアクセスが予想より少なかった"
+
+#: templates/class-cancellation-survey.php:113
+msgid "Customer service was less than expected"
+msgstr "カスタマーサービスは予想より少なかった"
+
+#: templates/class-cancellation-survey.php:123
+msgid "If other, please specify"
+msgstr "その他の場合は、指定してください"
+
+#: templates/class-cancellation-survey.php:129
+msgid "Would you use the product / service in the future?"
+msgstr "将来その製品/サービスを使用しますか？"
+
+#: templates/class-cancellation-survey.php132,
+#: templates/class-cancellation-survey.php:154
+msgid "Definitely"
+msgstr "必ず"
+
+#: templates/class-cancellation-survey.php135,
+#: templates/class-cancellation-survey.php:157
+msgid "Probably"
+msgstr "おそらく"
+
+#: templates/class-cancellation-survey.php138,
+#: templates/class-cancellation-survey.php160,
+#: templates/class-new-years-party-rsvp.php46,
+#: templates/class-simple-rsvp.php:46
+msgid "Not sure"
+msgstr "知らない"
+
+#: templates/class-cancellation-survey.php141,
+#: templates/class-cancellation-survey.php:163
+msgid "Probably not"
+msgstr "おそらくない"
+
+#: templates/class-cancellation-survey.php144,
+#: templates/class-cancellation-survey.php:166
+msgid "Definitely not"
+msgstr "全くない"
+
+#: templates/class-cancellation-survey.php:151
+msgid ""
+"Would you recommend our product / service to colleagues or contacts within "
+"your industry?"
+msgstr "同僚や連絡先に私達の製品 / サービスを勧めますか？"
+
+#: templates/class-cancellation-survey.php:173
+msgid "What could we do to improve our subscription / service?"
+msgstr "改善するために何ができますか？"
+
+#: templates/class-change-request.php:21
+msgid "Change Request Form"
+msgstr "変更依頼フォーム"
+
+#: templates/class-change-request.php:29
+msgid "Requester Name"
+msgstr "依頼者名"
+
+#: templates/class-change-request.php:51
+msgid "Company Name"
+msgstr "会社名"
+
+#: templates/class-change-request.php:57
+msgid "Client ID Number"
+msgstr "クライアント ID 番号"
+
+#: templates/class-change-request.php:63
+msgid "Project Name"
+msgstr "プロジェクト名"
+
+#: templates/class-change-request.php:69
+msgid "What type of change are you requesting?"
+msgstr "どのような変更を求めていますか？"
+
+#: templates/class-change-request.php:72
+msgid "Update to Account Information"
+msgstr "アカウント情報を更新する"
+
+#: templates/class-change-request.php:75
+msgid "Project or Product Enhancement"
+msgstr "プロジェクトまたは製品の機能強化"
+
+#: templates/class-change-request.php:78
+msgid "Update to Project Requirements/Deliverables"
+msgstr "プロジェクト要件 / 成果物への更新"
+
+#: templates/class-change-request.php:81
+msgid "Update to Project Schedule"
+msgstr "プロジェクトスケジュールに更新"
+
+#: templates/class-change-request.php:84
+msgid "Bug/Defect Fix"
+msgstr "バグ / 不具合修正"
+
+#: templates/class-change-request.php:91
+msgid "Reason for change"
+msgstr "変更理由"
+
+#: templates/class-change-request.php97, templates/class-to-do-list.php:41
+msgid "Priority"
+msgstr "優先度"
+
+#: templates/class-change-request.php103,
+#: templates/class-online-race-registration.php89,
+#: templates/class-race-registration.php67,
+#: templates/class-tshirt-order.php:59
+msgid "Medium"
+msgstr "中サイズ"
+
+#: templates/class-change-request.php:109
+msgid "Critical"
+msgstr "緊要"
+
+#: templates/class-change-request.php:116
+msgid "Please describe in detail the change being requested."
+msgstr "要求されている変更について詳しく説明してください。"
+
+#: templates/class-check-request.php:21
+msgid "Check Request Form"
+msgstr "リクエストフォームをチェック"
+
+#: templates/class-check-request.php:29
+msgid "Requested By"
+msgstr "要求された"
+
+#: templates/class-check-request.php:51
+msgid "Date Requested"
+msgstr "要求日"
+
+#: templates/class-check-request.php:62
+msgid "Date Needed"
+msgstr "必要な日"
+
+#: templates/class-check-request.php:73
+msgid "Purpose of Funds"
+msgstr "資金の目的"
+
+#: templates/class-check-request.php:79
+msgid "Amount Requested"
+msgstr "要求量"
+
+#: templates/class-check-request.php:86
+msgid "Approved By"
+msgstr "よって承認された"
+
+#: templates/class-check-request.php:94
+msgid "Make Payable To"
+msgstr "支払い可能にする"
+
+#: templates/class-check-request.php:102
+msgid "Payable to Address"
+msgstr "支払いへの住所"
+
+#: templates/class-church-donation.php:21
+msgid "Church Donation Form"
+msgstr "教会寄付フォーム"
+
+#: templates/class-church-donation.php:53
+msgid "This donation is in memory of"
+msgstr "この寄付は誰のために作られたのですか？"
+
+#: templates/class-church-donation.php:59
+msgid "Please direct my gift to one of the following areas"
+msgstr "次の分野のいずれかに私の贈り物を向けてください"
+
+#: templates/class-church-donation.php:62
+msgid "Youth"
+msgstr "青少年"
+
+#: templates/class-church-donation.php65,
+#: templates/class-retreat-registration.php:93
+msgid "Family"
+msgstr "家族"
+
+#: templates/class-church-donation.php:68
+msgid "Seniors"
+msgstr "高齢者"
+
+#: templates/class-church-donation.php:71
+msgid "Ministry"
+msgstr "省"
+
+#: templates/class-church-donation.php:74
+msgid "Where it is needed most"
+msgstr "最も必要なところ"
+
+#: templates/class-church-donation.php81, templates/class-file-upload.php56,
+#: templates/class-general-donation.php70, templates/class-lesson-plan.php:94
+msgid "Additional Comments"
+msgstr "追加のコメント"
+
+#: templates/class-church-membership.php:21
+msgid "Church Membership Form"
+msgstr "教会メンバーシップフォーム"
+
+#: templates/class-church-membership.php:64
+msgid "How long have you been attending our church?"
+msgstr "教会にどのくらいの期間参加していますか？"
+
+#: templates/class-church-membership.php:67
+msgid "Less than a year"
+msgstr "1年以内"
+
+#: templates/class-church-membership.php:70
+msgid "1-2 years"
+msgstr "1〜2年"
+
+#: templates/class-church-membership.php:73
+msgid "2-3 years"
+msgstr "2〜3年"
+
+#: templates/class-church-membership.php:76
+msgid "More than 3 years"
+msgstr "3年以上"
+
+#: templates/class-church-membership.php:83
+msgid "Will you be leaving another church?"
+msgstr "他の教会を去りますか？"
+
+#: templates/class-church-membership.php:96
+msgid "If yes"
+msgstr "もし、そうなら"
+
+#: templates/class-church-membership.php:102
+msgid "Why do you want to be a church member?"
+msgstr "なぜ教会員になりたいのですか？"
+
+#: templates/class-college-application.php:21
+msgid "College Application Form"
+msgstr "大学申し込み書"
+
+#: templates/class-college-application.php52,
+#: templates/class-emergency-contact.php75,
+#: templates/class-employee-information.php124,
+#: templates/class-summer-camp-registration.php:145
+msgid "Emergency Contact"
+msgstr "緊急連絡先情報"
+
+#: templates/class-college-application.php:89
+msgid ""
+"Universities that are recipients of federal dollars are required by the "
+"Federal government to solicit certain demographic information to meet "
+"federal reporting requirements. Applications are requested to provide the "
+"following information voluntarily. This information will not be utilized in "
+"a discriminatory manner."
+msgstr ""
+"連邦政府の資金を受け取る大学は、連邦政府の要件を満たすために特定の人口統計情報を要求することを義務付けられています。アプリケーションは自発的に情報を提供するように要求されます。この情報は差別的に使用されることはありません。"
+
+#: templates/class-college-application.php:95
+msgid "Nation of Citizenship"
+msgstr "市民権の国"
+
+#: templates/class-college-application.php:101
+msgid "Race / Origin"
+msgstr "人種/起源"
+
+#: templates/class-college-application.php:104
+msgid "American Indian or Native Alaskan"
+msgstr "アメリカインディアンまたはネイティブアラスカ"
+
+#: templates/class-college-application.php:107
+msgid "Asian or Pacific Islander"
+msgstr "アジアまたは太平洋諸島系"
+
+#: templates/class-college-application.php:113
+msgid "African American"
+msgstr "アフリカ系アメリカ人"
+
+#: templates/class-college-application.php:116
+msgid "Hispanic"
+msgstr "ヒスパニック系"
+
+#: templates/class-college-application.php119,
+#: templates/class-tshirt-order.php:89
+msgid "White"
+msgstr "白"
+
+#: templates/class-college-application.php:127
+msgid "Native Language"
+msgstr "母国語"
+
+#: templates/class-college-application.php:133
+msgid "Religion"
+msgstr "宗教"
+
+#: templates/class-college-application.php139,
+#: templates/class-enrollment.php:69
+msgid "Gender"
+msgstr "性別"
+
+#: templates/class-college-application.php142,
+#: templates/class-enrollment.php72,
+#: templates/class-personal-trainer-signup.php:73
+msgid "Male"
+msgstr "男性"
+
+#: templates/class-college-application.php145,
+#: templates/class-enrollment.php75,
+#: templates/class-personal-trainer-signup.php:76
+msgid "Female"
+msgstr "女性"
+
+#: templates/class-college-application.php:153
+msgid "Are you a veteran of the U.S. Military?"
+msgstr "アメリカ陸軍のベテランですか？"
+
+#: templates/class-college-application.php167,
+#: templates/class-emergency-contact.php44,
+#: templates/class-employee-information.php64,
+#: templates/class-race-registration.php49,
+#: templates/class-summer-camp-registration.php:43
+msgid "Date of Birth"
+msgstr "生年月日"
+
+#: templates/class-college-application.php:178
+msgid "This application is for enrollment as:"
+msgstr "何に登録しますか？"
+
+#: templates/class-college-application.php:181
+msgid "Freshman (First time in College) "
+msgstr "新入生（大学1年生）"
+
+#: templates/class-college-application.php:184
+msgid "Undergraduate Transfer "
+msgstr "学部編"
+
+#: templates/class-college-application.php:187
+msgid "2nd Bachelor's Degree "
+msgstr "第2学士号"
+
+#: templates/class-college-application.php:190
+msgid "Former Student Returning (FSR) "
+msgstr "元学生帰国（FSR）"
+
+#: templates/class-college-application.php:197
+msgid "What is your planned major?"
+msgstr "計画している専攻は何ですか？"
+
+#: templates/class-college-application.php:203
+msgid "Which campus do you seek admission?"
+msgstr "どのキャンパスに入学を希望しますか？"
+
+#: templates/class-college-application.php:206
+msgid "Campus I"
+msgstr "キャンパス I"
+
+#: templates/class-college-application.php:209
+msgid "Campus II"
+msgstr "キャンパス II"
+
+#: templates/class-college-application.php:212
+msgid "Campus III"
+msgstr "キャンパス III"
+
+#: templates/class-college-application.php:220
+msgid "Housing Preference"
+msgstr "住宅の好み"
+
+#: templates/class-college-application.php:223
+msgid "On-campus if available"
+msgstr "可能であればキャンパス内"
+
+#: templates/class-college-application.php:226
+msgid "Off-campus"
+msgstr "学外"
+
+#: templates/class-college-application.php:233
+msgid ""
+"If your records have been expunged pursuant to applicable law, you are not "
+"required to answer yes to the following questions. If you are unsure whether"
+" to answer yes, we strongly suggest that you answer yes and fully disclose "
+"all incidents to avoid any risk of disciplinary action or revocation of your"
+" offer of admission."
+msgstr ""
+"該当する法律に従ってあなたの記録が削除された場合、あなたは以下の質問に対して「はい」と答える必要はありません。「はい」と答えることが確実でない場合は、懲戒処分のリスクや入学許可の取消しのリスクを回避するために、「はい」と答えてすべてのインシデントを完全に開示することを強くお勧めします。"
+
+#: templates/class-college-application.php:239
+msgid ""
+"Are you currently or have you ever been charged with or subject to "
+"disciplinary action for scholastic or any other type of misconduct at any "
+"educational institution?"
+msgstr "あなたは現在、または任意の教育機関で学校の懲戒処分またはその他の不適切な行為の罪に問われていますか。"
+
+#: templates/class-college-application.php253,
+#: templates/class-college-application.php:273
+msgid "If yes, please explain."
+msgstr "もしそうなら、説明してください。"
+
+#: templates/class-college-application.php:259
+msgid ""
+"Have you ever been charged with a violation of the law which resulted in, or"
+" if still pending could result in, probation, community service, a jail "
+"sentence, or the revocation or suspension of your driver’s license "
+"(including traffic violations which resulted in a fine of $200 or more?)"
+msgstr ""
+"保護観察、地域社会奉仕、懲役刑、または運転免許証の取消しまたは停止を引き起こした、または引き起こす可能性がある法律の違反で起訴されたことがありますか。（200ドル以上の罰金になる交通違反を含む）"
+
+#: templates/class-college-application.php:279
+msgid "High School Information"
+msgstr "高校の情報"
+
+#: templates/class-college-application.php285,
+#: templates/class-enrollment.php:93
+msgid "High School Name"
+msgstr "高校の名前"
+
+#: templates/class-college-application.php:291
+msgid "High School CEEB Code (6 digits)"
+msgstr "高校カレッジボードコード（6桁）"
+
+#: templates/class-college-application.php:297
+msgid "Expected Graduation Date"
+msgstr "卒業予定日"
+
+#: templates/class-college-application.php308,
+#: templates/class-enrollment.php:99
+msgid "High School Address"
+msgstr "高校の住所"
+
+#: templates/class-college-application.php:315
+msgid "High School Phone"
+msgstr "高校の電話"
+
+#: templates/class-college-application.php:322
+msgid ""
+"Please provide the names of people in your immediate family who have "
+"attended the University."
+msgstr "身近な家族の中で大学に通ったことのある人の名前を教えてください。"
+
+#: templates/class-college-application.php:354
+msgid "Extracurricular, Personal and Volunteer Activities"
+msgstr "課外活動、個人的活動およびボランティア活動"
+
+#: templates/class-college-application.php:360
+msgid "Extracurricular Activities"
+msgstr "課外活動"
+
+#: templates/class-college-application.php:361
+msgid ""
+"List your organizations, position, description of the activity, and hours "
+"per week of involvement."
+msgstr "組織、役職、活動の説明、そして1週間あたりの参加時間数を記入してください。"
+
+#: templates/class-college-application.php:367
+msgid "Talents and Awards"
+msgstr "才能と賞"
+
+#: templates/class-college-application.php:368
+msgid ""
+"List each, a description, the level, and number of years of involvement."
+msgstr "それぞれ、説明、レベル、関与年数を記入してください。"
+
+#: templates/class-college-application.php:374
+msgid "Community Service Work"
+msgstr "コミュニティー奉仕活動"
+
+#: templates/class-college-application.php:375
+msgid "List the type of work, your role, and hours per week of involvement."
+msgstr "仕事の種類、役割、そして一週間の参加時間を挙げてください。"
+
+#: templates/class-college-application.php:381
+msgid "Employment"
+msgstr "職業"
+
+#: templates/class-college-application.php:382
+msgid ""
+"List the job, your title, description, hours per week, and dates of "
+"employment."
+msgstr "仕事、役職、説明、週あたりの時間、および就職日をリストします。"
+
+#: templates/class-college-application.php:388
+msgid "Attach an additional Word, PDF or text document if necessary."
+msgstr "必要に応じて、追加のWord、PDF、またはテキスト文書を添付してください。"
+
+#: templates/class-college-application.php:393
+msgid "Parent Information"
+msgstr "親情報"
+
+#: templates/class-college-application.php:394
+msgid ""
+"The information requested below is optional, but it may assist in the review"
+" of your admission. You are strongly encouraged to complete this section."
+msgstr "以下に要求された情報はオプションですが、それは入場の審査に役立つかもしれません。このセクションを完成させることを強くお勧めします。"
+
+#: templates/class-college-application.php:400
+msgid "Father or Legal Guardian Occupation"
+msgstr "父親または法定後見人の職業"
+
+#: templates/class-college-application.php:406
+msgid "Father or Legal Guardian Education"
+msgstr "父親または法定後見人教育"
+
+#: templates/class-college-application.php409,
+#: templates/class-college-application.php:438
+msgid "High School or Less"
+msgstr "高校以下"
+
+#: templates/class-college-application.php412,
+#: templates/class-college-application.php:441
+msgid "Trade or Vocational School"
+msgstr "貿易学校または職業訓練校"
+
+#: templates/class-college-application.php415,
+#: templates/class-college-application.php:444
+msgid "Some College"
+msgstr "大学"
+
+#: templates/class-college-application.php418,
+#: templates/class-college-application.php:447
+msgid "Undergraduate College Degree"
+msgstr "学部学位"
+
+#: templates/class-college-application.php421,
+#: templates/class-college-application.php:450
+msgid "Graduate Degree"
+msgstr "大学院の学位"
+
+#: templates/class-college-application.php:429
+msgid "Mother or Legal Guardian Occupation"
+msgstr "母親または法定後見人の職業"
+
+#: templates/class-college-application.php:435
+msgid "Mother or Legal Guardian Education"
+msgstr "母親または法定後見人教育"
+
+#: templates/class-college-application.php:458
+msgid ""
+"Please indicate your family’s gross income for the most recent tax year. "
+"Include both taxed and untaxed income."
+msgstr "直近の課税年度の家族の総所得を記入してください。課税所得と非課税所得の両方を含みます。"
+
+#: templates/class-college-application.php:461
+msgid "$20,000 - $39,999"
+msgstr "$20,000 - $39,999"
+
+#: templates/class-college-application.php:464
+msgid "$40,000 - $59,999"
+msgstr "$40,000 - $59,999"
+
+#: templates/class-college-application.php:467
+msgid "$60,000 - $79,999"
+msgstr "$60,000 - $79,999"
+
+#: templates/class-college-application.php:470
+msgid "$80,000 or more"
+msgstr "$ 80,000以上"
+
+#: templates/class-college-application.php:478
+msgid ""
+"Do you have family obligations that keep you from participating in "
+"extracurricular activities?"
+msgstr "課外活動に参加するのを妨げる家族の義務はありますか？"
+
+#: templates/class-college-application.php:484
+msgid "Yes, I have to work to supplement family income. "
+msgstr "はい、家族の収入を補うために努力しなければなりません。"
+
+#: templates/class-college-application.php:487
+msgid "Yes, I provide primary care for family member(s). "
+msgstr "はい、家族にプライマリケアを提供します。"
+
+#: templates/class-college-application.php:497
+msgid "If yes or other, please describe:"
+msgstr "その他の場合やもしそうなら、説明してください。"
+
+#: templates/class-college-application.php:503
+msgid "For Non-U.S. Citizens Only"
+msgstr "米国以外の場合市民のみ"
+
+#: templates/class-college-application.php:509
+msgid "City and Country of Birth"
+msgstr "市および出生国"
+
+#: templates/class-college-application.php:515
+msgid "What is the status of your VISA?"
+msgstr "VISAのステータスは？"
+
+#: templates/class-college-application.php:518
+msgid "I currently hold one"
+msgstr "借りています。"
+
+#: templates/class-college-application.php:521
+msgid "I am applying for one"
+msgstr "申し込み中"
+
+#: templates/class-college-application.php:529
+msgid "What type of VISA?"
+msgstr "VISAの種類は？"
+
+#: templates/class-college-application.php:532
+msgid "F2"
+msgstr "F2"
+
+#: templates/class-college-application.php:535
+msgid "J1"
+msgstr "J1"
+
+#: templates/class-college-application.php:538
+msgid "J2"
+msgstr "J2"
+
+#: templates/class-college-application.php541,
+#: templates/class-simple-rsvp.php:63
+msgid "None"
+msgstr "なし"
+
+#: templates/class-college-application.php552,
+#: templates/class-it-service-request.php79,
+#: templates/class-job-application-upload.php91,
+#: templates/class-online-event-registration.php84,
+#: templates/class-online-race-registration.php124,
+#: templates/class-simple-rsvp.php:85
+msgid "If other"
+msgstr "他の場合"
+
+#: templates/class-college-application.php:558
+msgid "I-94 Expiration Date (MM/YYYY)"
+msgstr "I-94有効期限（MM / YYYY）"
+
+#: templates/class-college-application.php:564
+msgid ""
+"If you are a permanent immigrant, enter the alien registration number shown "
+"on your I-551 form:"
+msgstr "永住者の方は、I-551 用紙に記載されている外国人登録番号を入力してください。"
+
+#: templates/class-college-application.php:570
+msgid "Which institution issued your last I-20?"
+msgstr "最後のI-20を発行した機関は？"
+
+#: templates/class-college-application.php:576
+msgid "Did you attend?"
+msgstr "参加しましたか？"
+
+#: templates/class-college-application.php:589
+msgid "Please attach a photo of your Alien Registration card."
+msgstr "外国人登録証の写真を添付し​​てください。"
+
+#: templates/class-college-application.php594,
+#: templates/class-contest-entry.php68,
+#: templates/class-equipment-checkout.php80,
+#: templates/class-video-release.php:63
+msgid "Agreement"
+msgstr "評価"
+
+#: templates/class-college-application.php:595
+msgid ""
+"I understand that this application is for admission only for the term indicated. I agree that I am bound by the University’s regulations concerning application deadlines and admission requirements. I agree to the release of any transcripts and test scores to this institution, including any SAT, Achievement Test, and ACT score reports.\n"
+"\n"
+"\t\tI certify that this information is complete and accurate. I understand that making false or fraudulent statements within this application or residency statement will result in disciplinary action, denial of admission and invalidation of credit or degrees earned.\n"
+"\n"
+"\t\tIf admitted, I agree to abide by the policies of the Board of Regents and the rules and regulations of the University. Should any information change prior to my entry into the University, I will notify the Office of Admissions.\n"
+"\n"
+"\t\tI understand that the application fee I submit with this application is a non-refundable fee."
+msgstr ""
+
+#: templates/class-college-application.php:607
+msgid "Do you understand and agree to the terms listed above?"
+msgstr "上記の用語を理解し同意しますか？"
+
+#: templates/class-college-application.php:610
+msgid "Yes, I understand and agree to the terms listed above. "
+msgstr "はい、上記の用語を理解し同意します。"
+
+#: templates/class-college-application.php:618
+msgid ""
+"Events, activities, programs and facilities of the University are available "
+"to all without regard to race, color, marital status, sex, religion, "
+"national origin, disability, age, Vietnam or disabled veteran status as "
+"provided by law and in accordance with the University’s respect for personal"
+" dignity."
+msgstr ""
+"大学の行事、活動、プログラム、施設は、人種、肌の色、配偶者の有無、性別、宗教、出身国、身体障害、年齢、ベトナムのベテランの身分、または法律で定められている身体障害を問わずに利用できます。法律、および個人的な尊厳をもって大学の尊重に従って。"
+
+#: templates/class-complaint.php:21
+msgid "Complaint Form"
+msgstr "苦情フォーム"
+
+#: templates/class-complaint.php:58
+msgid "Date of incident"
+msgstr "事件の日付"
+
+#: templates/class-complaint.php:69
+msgid "Please describe the incident you would like to report."
+msgstr "報告したい事件を説明してください。"
+
+#: templates/class-complaint.php:75
+msgid "How would you like to see this incident resolved?"
+msgstr "この事件をどのように解決しますか？"
+
+#: templates/class-conference-registration.php:21
+msgid "Conference Registration Form"
+msgstr "会議登録フォーム"
+
+#: templates/class-conference-registration.php:44
+msgid "Which access pass would you like to purchase?"
+msgstr "どのアクセスパスを購入しますか？"
+
+#: templates/class-conference-registration.php:47
+msgid "Bronze - $199.95"
+msgstr "ブロンズ - $199.95"
+
+#: templates/class-conference-registration.php:50
+msgid "Silver - $299.95"
+msgstr "シルバー - $299.95"
+
+#: templates/class-conference-registration.php:53
+msgid "Gold - $399.95"
+msgstr "ゴールド - $399.95"
+
+#: templates/class-conference-registration.php:61
+msgid "Which sessions do you plan on attending?"
+msgstr "どのセッションに参加する予定ですか？"
+
+#: templates/class-conference-registration.php:64
+msgid "Session 1"
+msgstr "セッション 1"
+
+#: templates/class-conference-registration.php:67
+msgid "Session 2"
+msgstr "セッション 2"
+
+#: templates/class-conference-registration.php:70
+msgid "Session 3"
+msgstr "セッション 3"
+
+#: templates/class-conference-registration.php:73
+msgid "Session 4"
+msgstr "セッション 4"
+
+#: templates/class-conference-registration.php:76
+msgid "Session 5"
+msgstr "セッション 5"
+
+#: templates/class-conference-registration.php:84
+msgid "Will you be staying overnight?"
+msgstr "一晩滞在しますか？"
+
+#: templates/class-conference-registration.php98,
+#: templates/class-gaming-tournament-registration.php:110
+msgid "Email Newsletter"
+msgstr "メールマガジン"
+
+#: templates/class-conference-registration.php:101
+msgid "I would like to receive email updates regarding future conferences"
+msgstr "今後の会議に関する最新のメールを受け取りたい"
+
+#: templates/class-content-download.php:21
+msgid "Content Download Form"
+msgstr "コンテンツダウンロードフォーム"
+
+#: templates/class-content-download.php:37
+msgid "Business Email"
+msgstr "ビジネスメール"
+
+#: templates/class-content-download.php44,
+#: templates/class-health-insurance-quote.php29,
+#: templates/class-online-event-registration.php113,
+#: templates/class-testimonial.php44,
+#: templates/class-webinar-registration.php:44
+msgid "Company"
+msgstr "会社"
+
+#: templates/class-content-download.php:50
+msgid ""
+"Please tell us here if you have any other questions, and we'll be in touch "
+"shortly."
+msgstr "他にご質問がありましたら、こちらにご連絡ください。"
+
+#: templates/class-contest-entry.php:21
+msgid "Contest Entry Form"
+msgstr "コンテストエントリーフォーム"
+
+#: templates/class-contest-entry.php:71
+msgid "I agree to the Rules of Entry."
+msgstr "エントリールールに同意します。"
+
+#: templates/class-diet-log.php:21
+msgid "Diet Log Form"
+msgstr "ダイエットログフォーム"
+
+#: templates/class-diet-log.php:29
+msgid "Diet Type"
+msgstr "ダイエットタイプ"
+
+#: templates/class-diet-log.php:32
+msgid "Atkins"
+msgstr "Atkins"
+
+#: templates/class-diet-log.php:35
+msgid "South Beach"
+msgstr "South Beach"
+
+#: templates/class-diet-log.php:38
+msgid "Paleo"
+msgstr "Paleo"
+
+#: templates/class-diet-log.php:41
+msgid "Keto"
+msgstr "Keto"
+
+#: templates/class-diet-log.php:52
+msgid "Meal Type"
+msgstr "食事の種類"
+
+#: templates/class-diet-log.php:55
+msgid "Breakfast"
+msgstr "朝ごはん"
+
+#: templates/class-diet-log.php58,
+#: templates/class-family-reunion-registration.php:76
+msgid "Lunch"
+msgstr "昼ごはん"
+
+#: templates/class-diet-log.php:61
+msgid "Dinner"
+msgstr "夜ごはん"
+
+#: templates/class-diet-log.php:64
+msgid "Snack"
+msgstr "スナック"
+
+#: templates/class-diet-log.php:72
+msgid "What did you eat?"
+msgstr "何を食べましたか？"
+
+#: templates/class-diet-log.php78, templates/class-exercise-log.php52,
+#: templates/class-rent-receipt.php29, templates/class-time-sheet.php:51
+msgid "Date / Time"
+msgstr "日付/時間"
+
+#: templates/class-diet-log.php:89
+msgid "Grams of Carbohydrates"
+msgstr "炭水化物のグラム"
+
+#: templates/class-diet-log.php:95
+msgid "Grams of Fat"
+msgstr "油脂のグラム"
+
+#: templates/class-diet-log.php:101
+msgid "Grams of Protein"
+msgstr "タンパク質のグラム"
+
+#: templates/class-diet-log.php:107
+msgid "Milligrams of Sodium"
+msgstr "ナトリウムのミリグラム"
+
+#: templates/class-diet-log.php:113
+msgid "Total Calories"
+msgstr "総カロリー"
+
+#: templates/class-dinner-reservation.php:21
+msgid "Dinner Reservation Form"
+msgstr "ディナー予約フォーム"
+
+#: templates/class-dinner-reservation.php:52
+msgid "How would you prefer to get your reservation approval? *"
+msgstr "予約の承認をどのように得たいですか？ *"
+
+#: templates/class-dinner-reservation.php:65
+msgid "Diet Restrictions"
+msgstr "食事制限"
+
+#: templates/class-dinner-reservation.php68,
+#: templates/class-simple-rsvp.php:66
+msgid "Vegetarian"
+msgstr "ベジタリアン"
+
+#: templates/class-dinner-reservation.php71,
+#: templates/class-simple-rsvp.php:72
+msgid "Gluten-free"
+msgstr "無グルテン"
+
+#: templates/class-dinner-reservation.php74,
+#: templates/class-simple-rsvp.php:75
+msgid "Dairy-free"
+msgstr "乳製品フリー"
+
+#: templates/class-dinner-reservation.php81,
+#: templates/class-prayer-request.php51, templates/class-video-release.php:52
+msgid "Date"
+msgstr "日付"
+
+#: templates/class-dinner-reservation.php:92
+msgid "What time would you like to join us?"
+msgstr "何時に参加したいですか？"
+
+#: templates/class-dinner-reservation.php:95
+msgid "5:00pm"
+msgstr "午後5:00"
+
+#: templates/class-dinner-reservation.php:98
+msgid "5:30pm"
+msgstr "午後5:30"
+
+#: templates/class-dinner-reservation.php:101
+msgid "6:00pm"
+msgstr "午後6:00"
+
+#: templates/class-dinner-reservation.php:104
+msgid "6:30pm"
+msgstr "午後6:30"
+
+#: templates/class-dinner-reservation.php:107
+msgid "7:00pm"
+msgstr "午後7:00"
+
+#: templates/class-dinner-reservation.php:110
+msgid "7:30pm"
+msgstr "午後7:30"
+
+#: templates/class-dinner-reservation.php:113
+msgid "8:00pm"
+msgstr "午後8:00"
+
+#: templates/class-dinner-reservation.php:116
+msgid "8:30pm"
+msgstr "午後8:30"
+
+#: templates/class-dinner-reservation.php:119
+msgid "9:00pm"
+msgstr "午後9:00"
+
+#: templates/class-dinner-reservation.php:127
+msgid "Where would you like to sit?"
+msgstr "どこに座りますか？"
+
+#: templates/class-dinner-reservation.php:130
+msgid "Inside"
+msgstr "内部"
+
+#: templates/class-dinner-reservation.php:133
+msgid "Outside patio"
+msgstr "屋外パティオ"
+
+#: templates/class-dinner-reservation.php:140
+msgid "Sitting preference"
+msgstr "座席の好み"
+
+#: templates/class-dinner-reservation.php:143
+msgid "Table"
+msgstr "テーブル"
+
+#: templates/class-dinner-reservation.php:146
+msgid "Booth"
+msgstr "ブース"
+
+#: templates/class-dinner-reservation.php:153
+msgid "Additional requests"
+msgstr "追加のリクエスト"
+
+#: templates/class-emergency-contact.php:21
+msgid "Emergency Contact Form"
+msgstr "緊急連絡フォーム"
+
+#: templates/class-emergency-contact.php29,
+#: templates/class-event-planner.php29,
+#: templates/class-work-order-request.php:29
+msgid "Your Name"
+msgstr "名前"
+
+#: templates/class-emergency-contact.php:69
+msgid "Primary Care Provider"
+msgstr "プライマリケアプロバイダー"
+
+#: templates/class-emergency-contact.php103,
+#: templates/class-online-event-registration.php:51
+msgid "Work Phone"
+msgstr "勤務先の電話"
+
+#: templates/class-emergency-contact.php:117
+msgid "Relationship to the patient"
+msgstr "患者との関係"
+
+#: templates/class-employee-incident-report.php:21
+msgid "Employee Incident Report Form"
+msgstr "従業員事件レポートフォーム"
+
+#: templates/class-employee-incident-report.php:29
+msgid "Violating employee's name"
+msgstr "違反している従業員の名前"
+
+#: templates/class-employee-incident-report.php:37
+msgid "Reporting employee's name"
+msgstr "報告する従業員の名前"
+
+#: templates/class-employee-incident-report.php:45
+msgid "Reporting employee's email"
+msgstr "報告する従業員のメール"
+
+#: templates/class-employee-incident-report.php:52
+msgid "Date / Time of incident"
+msgstr "事件の日付/時間"
+
+#: templates/class-employee-incident-report.php:63
+msgid "What violation has the employee committed?"
+msgstr "従業員はどのような違反を犯しましたか？"
+
+#: templates/class-employee-incident-report.php:66
+msgid "Neglect of Duty"
+msgstr "無視する"
+
+#: templates/class-employee-incident-report.php:69
+msgid "Failure to Follow Instructions"
+msgstr "指示に従わなかった"
+
+#: templates/class-employee-incident-report.php:72
+msgid "Inappropriate Behavior"
+msgstr "不適切な行動"
+
+#: templates/class-employee-incident-report.php:75
+msgid "Attendance Related"
+msgstr "出席関連"
+
+#: templates/class-employee-incident-report.php:78
+msgid "Damage to Company Property"
+msgstr "会社財産への損害"
+
+#: templates/class-employee-incident-report.php:81
+msgid "Theft"
+msgstr "盗難"
+
+#: templates/class-employee-incident-report.php:84
+msgid "Harassment"
+msgstr "嫌がらせ"
+
+#: templates/class-employee-incident-report.php:87
+msgid "Poor Work Performance"
+msgstr "悪い仕事のパフォーマンス"
+
+#: templates/class-employee-incident-report.php:90
+msgid "Violation of Company Policy"
+msgstr "会社方針違反"
+
+#: templates/class-employee-incident-report.php:97
+msgid "Please describe the incident."
+msgstr "報告したい事件を説明してください。"
+
+#: templates/class-employee-incident-report.php:103
+msgid "Report prepared by"
+msgstr "報告書作成者"
+
+#: templates/class-employee-information.php:21
+msgid "Employee Information Form"
+msgstr "従業員情報フォーム"
+
+#: templates/class-employee-information.php:29
+msgid "Personal Information"
+msgstr "個人情報"
+
+#: templates/class-employee-information.php:75
+msgid "Office Information"
+msgstr "事務所情報"
+
+#: templates/class-employee-information.php87,
+#: templates/class-performance-improvement-plan.php:94
+msgid "Supervisor Name"
+msgstr "スーパーバイザー名"
+
+#: templates/class-employee-information.php93,
+#: templates/class-it-service-request.php51,
+#: templates/class-meeting-room-registration.php:44
+msgid "Department"
+msgstr "部門"
+
+#: templates/class-employee-information.php:99
+msgid "Office Phone"
+msgstr "オフィスの電話"
+
+#: templates/class-employee-information.php106,
+#: templates/class-employee-termination.php:49
+msgid "Start Date"
+msgstr "開始日"
+
+#: templates/class-employee-information.php:117
+msgid "Salary"
+msgstr "給料"
+
+#: templates/class-employee-referral.php:21
+msgid "Employee Referral Form"
+msgstr "従業員紹介フォーム"
+
+#: templates/class-employee-referral.php:29
+msgid "Employee Information"
+msgstr "従業員情報"
+
+#: templates/class-employee-referral.php:57
+msgid "Referral Information"
+msgstr "紹介情報"
+
+#: templates/class-employee-referral.php:63
+msgid "Candidate's Name"
+msgstr "候補者の名前"
+
+#: templates/class-employee-referral.php:71
+msgid "Candidate's email"
+msgstr "候補者のメール "
+
+#: templates/class-employee-referral.php:78
+msgid "Candidate's phone"
+msgstr "候補者の電話"
+
+#: templates/class-employee-referral.php:85
+msgid "Position applied for"
+msgstr "応募ポジション"
+
+#: templates/class-employee-referral.php:91
+msgid "Why is this candidate qualified for the position?"
+msgstr "この候補者はなぜその地位に適しているのでしょうか。"
+
+#: templates/class-employee-termination.php:21
+msgid "Employee Termination Form"
+msgstr "従業員退職フォーム"
+
+#: templates/class-employee-termination.php29,
+#: templates/class-equipment-checkout.php29,
+#: templates/class-performance-improvement-plan.php29,
+#: templates/class-time-sheet.php29, templates/class-travel-request.php:29
+msgid "Employee Name"
+msgstr "従業員名"
+
+#: templates/class-employee-termination.php:37
+msgid "Employee Position"
+msgstr "従業員の仕事"
+
+#: templates/class-employee-termination.php:43
+msgid "Employee Department"
+msgstr "社員部"
+
+#: templates/class-employee-termination.php:60
+msgid "End Date"
+msgstr "終わり"
+
+#: templates/class-employee-termination.php:71
+msgid "Termination status"
+msgstr "終了ステータス"
+
+#: templates/class-employee-termination.php:74
+msgid "Voluntary"
+msgstr "自主的な"
+
+#: templates/class-employee-termination.php:77
+msgid "Involuntary"
+msgstr "不本意"
+
+#: templates/class-employee-termination.php:84
+msgid "Termination details"
+msgstr "終了の詳細"
+
+#: templates/class-employee-termination.php:90
+msgid "Is employee eligible for rehire?"
+msgstr "従業員は再雇用の資格がありますか？"
+
+#: templates/class-employee-termination.php:103
+msgid "Supervisor"
+msgstr "スーパーバイザー"
+
+#: templates/class-enrollment.php:21
+msgid "Enrollment Form"
+msgstr "登録フォーム"
+
+#: templates/class-enrollment.php:29
+msgid "Anticipated Start Date"
+msgstr "予想開始日"
+
+#: templates/class-enrollment.php:106
+msgid "GPA"
+msgstr "GPA"
+
+#: templates/class-equipment-checkout.php:21
+msgid "Equipment Checkout Form"
+msgstr "機器チェックアウトフォーム"
+
+#: templates/class-equipment-checkout.php37,
+#: templates/class-travel-request.php:37
+msgid "Employee ID"
+msgstr "従業員 ID"
+
+#: templates/class-equipment-checkout.php:58
+msgid "Equipment Checked Out"
+msgstr "チェックアウトされた機器"
+
+#: templates/class-equipment-checkout.php:61
+msgid "Laptop"
+msgstr "ラップトップ"
+
+#: templates/class-equipment-checkout.php:64
+msgid "Laptop Carrying Case"
+msgstr "ラップトップキャリングケース"
+
+#: templates/class-equipment-checkout.php:67
+msgid "AC Power Cord"
+msgstr "AC 電源コード"
+
+#: templates/class-equipment-checkout.php:70
+msgid "Docking Station"
+msgstr "ドッキングステーション"
+
+#: templates/class-equipment-checkout.php:73
+msgid "Bluetooth Mouse"
+msgstr "Bluetooth マウス"
+
+#: templates/class-equipment-checkout.php:83
+msgid ""
+"I acknowledge the equipment I have received is in good physical working "
+"condition and I will return the equipment in the same condition. I take "
+"financial responsibility for any damages to the equipment upon return."
+msgstr "私は、受け取った機器が健康的な状態であることを認め、同じ状態で機器を返却します。機器の損傷に対する返金の金銭的責任を負います。"
+
+#: templates/class-event-feedback.php:21
+msgid "Event Feedback Form"
+msgstr "イベントフィードバックフォーム"
+
+#: templates/class-event-feedback.php:29
+msgid "Please rate your overall experience at our event"
+msgstr "イベントでの全体的な経験を評価してください"
+
+#: templates/class-event-feedback.php:52
+msgid "Would you return again next year?"
+msgstr "来年また戻ってきませんか。"
+
+#: templates/class-event-feedback.php:61
+msgid "Undecided"
+msgstr "未定"
+
+#: templates/class-event-feedback.php:69
+msgid "What could we have improved?"
+msgstr "改善するために何ができますか？"
+
+#: templates/class-event-feedback.php:75
+msgid "Do you have any additional feedback?"
+msgstr "追加のフィードバックがありますか。"
+
+#: templates/class-event-planner.php:21
+msgid "Event Planner Form"
+msgstr "イベントプランナーフォーム"
+
+#: templates/class-event-planner.php:37
+msgid "Your Email"
+msgstr "メールアドレス"
+
+#: templates/class-event-planner.php44,
+#: templates/class-fundraiser-registration.php:29
+msgid "Event Name"
+msgstr "イベント名"
+
+#: templates/class-event-planner.php:51
+msgid "Event Type"
+msgstr "イベントタイプ"
+
+#: templates/class-event-planner.php:54
+msgid "Banquet"
+msgstr "バンケット"
+
+#: templates/class-event-planner.php:57
+msgid "Fund Raiser"
+msgstr "募金活動"
+
+#: templates/class-event-planner.php:60
+msgid "Dinner Party"
+msgstr "ディナーパーティー"
+
+#: templates/class-event-planner.php:63
+msgid "Wedding"
+msgstr "結婚式"
+
+#: templates/class-event-planner.php74, templates/class-grade-book.php:49
+msgid "Status"
+msgstr "ステータス"
+
+#: templates/class-event-planner.php:77
+msgid "Planning"
+msgstr "計画中"
+
+#: templates/class-event-planner.php:80
+msgid "In Progress"
+msgstr "進行中"
+
+#: templates/class-event-planner.php:83
+msgid "Finished"
+msgstr "終了しました"
+
+#: templates/class-event-planner.php91,
+#: templates/class-fundraiser-registration.php:35
+msgid "Event Description"
+msgstr "イベント説明"
+
+#: templates/class-event-planner.php:98
+msgid "Event Begin Date and Time "
+msgstr "イベント開始日と時刻"
+
+#: templates/class-event-planner.php:109
+msgid "Event End Date and Time"
+msgstr "イベント終了日時"
+
+#: templates/class-event-planner.php:127
+msgid "Requirements"
+msgstr "必要条件"
+
+#: templates/class-event-planner.php:130
+msgid "Staffing"
+msgstr "人員配置"
+
+#: templates/class-event-planner.php:133
+msgid "Catering"
+msgstr "ケータリング"
+
+#: templates/class-event-planner.php:136
+msgid "Bar Tending"
+msgstr "バーテンダー"
+
+#: templates/class-event-planner.php:139
+msgid "Security"
+msgstr "セキュリティ"
+
+#: templates/class-event-planner.php:146
+msgid "Cost Per Person"
+msgstr "一人当たりの費用"
+
+#: templates/class-exercise-log.php:21
+msgid "Exercise Log Form"
+msgstr "運動記録フォーム"
+
+#: templates/class-exercise-log.php29,
+#: templates/class-online-race-registration.php:50
+msgid "Dropdown"
+msgstr "ドロップダウン"
+
+#: templates/class-exercise-log.php:32
+msgid "Running"
+msgstr "ランニング"
+
+#: templates/class-exercise-log.php:35
+msgid "Walking"
+msgstr "歩く"
+
+#: templates/class-exercise-log.php:38
+msgid "Swimming"
+msgstr "水泳"
+
+#: templates/class-exercise-log.php:41
+msgid "Spinning"
+msgstr "屋内サイクリング"
+
+#: templates/class-exercise-log.php:44
+msgid "Weights"
+msgstr "ウエート"
+
+#: templates/class-exercise-log.php:63
+msgid "Calories burned"
+msgstr "消費カロリー"
+
+#: templates/class-exercise-log.php:69
+msgid "Distance traveled"
+msgstr "移動した距離"
+
+#: templates/class-exercise-log.php:75
+msgid "Maximum pulse"
+msgstr "最大パルス"
+
+#: templates/class-exercise-log.php:81
+msgid "Resting pulse"
+msgstr "安静時パルス"
+
+#: templates/class-exercise-log.php:87
+msgid "Comments on workout"
+msgstr "トレーニングについてのコメント"
+
+#: templates/class-family-reunion-registration.php:21
+msgid "Family Reunion Registration Form"
+msgstr "家族再会登録フォーム"
+
+#: templates/class-family-reunion-registration.php:51
+msgid "What activities do you want to play?"
+msgstr "どんな活動をしたいですか？"
+
+#: templates/class-family-reunion-registration.php:54
+msgid "Football"
+msgstr "サッカー"
+
+#: templates/class-family-reunion-registration.php:57
+msgid "Baseball"
+msgstr "野球"
+
+#: templates/class-family-reunion-registration.php:60
+msgid "Kickball"
+msgstr "キックボール"
+
+#: templates/class-family-reunion-registration.php:63
+msgid "Volleyball"
+msgstr "バレーボール"
+
+#: templates/class-family-reunion-registration.php:70
+msgid "What will you be bringing?"
+msgstr "何を持っていくの？"
+
+#: templates/class-family-reunion-registration.php73,
+#: templates/class-new-years-party-rsvp.php:73
+msgid "Snacks"
+msgstr "スナック"
+
+#: templates/class-family-reunion-registration.php:79
+msgid "Drinks"
+msgstr "飲み物"
+
+#: templates/class-family-reunion-registration.php82,
+#: templates/class-new-years-party-rsvp.php76,
+#: templates/class-recipe-catalog.php:109
+msgid "Dessert"
+msgstr "デザート"
+
+#: templates/class-family-reunion-registration.php89,
+#: templates/class-fitness-interest.php93, templates/class-grade-book.php89,
+#: templates/class-potluck-invitation-rsvp.php62,
+#: templates/class-vendor-contact-information.php71,
+#: templates/class-work-order-request.php:89
+msgid "Comments"
+msgstr "コメント"
+
+#: templates/class-file-upload.php:21
+msgid "File Upload Form"
+msgstr "ファイルアップロードフォーム"
+
+#: templates/class-file-upload.php:51
+msgid "File Upload"
+msgstr "ファイルアップロード"
+
+#: templates/class-fitness-interest.php:21
+msgid "Fitness Interest Form"
+msgstr "フィットネス興味フォーム"
+
+#: templates/class-fitness-interest.php:52
+msgid "Best time to call"
+msgstr "電話するのに最適な時期"
+
+#: templates/class-fitness-interest.php:55
+msgid "Mornings"
+msgstr "朝"
+
+#: templates/class-fitness-interest.php:58
+msgid "Afternoons"
+msgstr "昼"
+
+#: templates/class-fitness-interest.php:61
+msgid "Evenings"
+msgstr "夜"
+
+#: templates/class-fitness-interest.php:64
+msgid "Weekends"
+msgstr "週末"
+
+#: templates/class-fitness-interest.php:71
+msgid "Which of the following are important to you?"
+msgstr "次のうちどれがとって重要ですか？"
+
+#: templates/class-fitness-interest.php:74
+msgid "Fat reduction and weight loss"
+msgstr "脂肪減少と体重減少"
+
+#: templates/class-fitness-interest.php:77
+msgid "Energy and endurance"
+msgstr "エネルギーと持久力"
+
+#: templates/class-fitness-interest.php:80
+msgid "Building lean muscle mass"
+msgstr "無駄のない筋肉量"
+
+#: templates/class-fitness-interest.php:83
+msgid "Healthier digestive system"
+msgstr "健康的な消化器系"
+
+#: templates/class-fitness-interest.php:86
+msgid "Vitality, longevity, and positive outlook"
+msgstr "活力、長寿、そして前向きな見通し"
+
+#: templates/class-football-league-registration.php:21
+msgid "Football League Registration Form"
+msgstr "フットボールリーグ登録フォーム"
+
+#: templates/class-football-league-registration.php:58
+msgid "Cowboys"
+msgstr "Cowboys"
+
+#: templates/class-football-league-registration.php:61
+msgid "Jets"
+msgstr "Jets"
+
+#: templates/class-football-league-registration.php:64
+msgid "Patriots"
+msgstr "Patriots"
+
+#: templates/class-football-league-registration.php:67
+msgid "Redskins"
+msgstr "Redskins"
+
+#: templates/class-football-league-registration.php:70
+msgid "Giants"
+msgstr "Giants"
+
+#: templates/class-football-league-registration.php:80
+msgid "Quarterback"
+msgstr "クォーターバック"
+
+#: templates/class-football-league-registration.php:83
+msgid "Running Back"
+msgstr "ランニングバック"
+
+#: templates/class-football-league-registration.php:86
+msgid "Wide Receiver"
+msgstr "ワイドレシーバー"
+
+#: templates/class-football-league-registration.php:89
+msgid "Kicker"
+msgstr "キッカー"
+
+#: templates/class-fundraiser-registration.php:21
+msgid "Fundraiser Registration Form"
+msgstr "募金登録フォーム"
+
+#: templates/class-fundraiser-registration.php:41
+msgid "Event Date"
+msgstr "開催日"
+
+#: templates/class-fundraiser-registration.php:52
+msgid "Company Information"
+msgstr "会社情報"
+
+#: templates/class-fundraiser-registration.php:58
+msgid "Organization Name"
+msgstr "組織名"
+
+#: templates/class-fundraiser-registration.php:64
+msgid "Non-Profit Federal Tax I.D.#"
+msgstr "非営利連邦税 ID＃"
+
+#: templates/class-fundraiser-registration.php:77
+msgid "Company Contact"
+msgstr "会社の連絡先"
+
+#: templates/class-gaming-tournament-registration.php:21
+msgid "Gaming Tournament Registration Form"
+msgstr "ゲームトーナメント登録フォーム"
+
+#: templates/class-gaming-tournament-registration.php:44
+msgid "Will you be participating or just watching games?"
+msgstr "参加しているのですか、それとも単にゲームを見ているのですか？"
+
+#: templates/class-gaming-tournament-registration.php:47
+msgid "Participating"
+msgstr "参加しています"
+
+#: templates/class-gaming-tournament-registration.php:50
+msgid "Watching"
+msgstr "見ている"
+
+#: templates/class-gaming-tournament-registration.php:58
+msgid "If you're participating, which tournaments will you participate in?"
+msgstr "参加している場合、どのトーナメントに参加しますか？"
+
+#: templates/class-gaming-tournament-registration.php61,
+#: templates/class-gaming-tournament-registration.php:80
+msgid "Warhammer"
+msgstr "Warhammer"
+
+#: templates/class-gaming-tournament-registration.php64,
+#: templates/class-gaming-tournament-registration.php:83
+msgid "Lord of the Rings"
+msgstr "Lord of the Rings"
+
+#: templates/class-gaming-tournament-registration.php67,
+#: templates/class-gaming-tournament-registration.php:86
+msgid "Warhammer 40k"
+msgstr "Warhammer 40k"
+
+#: templates/class-gaming-tournament-registration.php70,
+#: templates/class-gaming-tournament-registration.php:89
+msgid "Magic the Gathering"
+msgstr "Magic the Gathering"
+
+#: templates/class-gaming-tournament-registration.php:77
+msgid "If you're watching, which tournaments do you look forward to seeing?"
+msgstr "見ているなら、どのトーナメントを見るのを楽しみにしていますか？"
+
+#: templates/class-gaming-tournament-registration.php:96
+msgid "Will you being staying overnight?"
+msgstr "一晩滞在しますか？"
+
+#: templates/class-gaming-tournament-registration.php:113
+msgid "I would like to receive email updates on future events"
+msgstr "今後のイベントについての最新のメールを受け取りたい"
+
+#: templates/class-general-donation.php:21
+msgid "General Donation Form"
+msgstr "一般寄付フォーム"
+
+#: templates/class-general-donation.php:53
+msgid "Other Options"
+msgstr "別のオプション"
+
+#: templates/class-general-donation.php:56
+msgid "I prefer to make my donation anonymously."
+msgstr "匿名で寄付をすることを好みます。"
+
+#: templates/class-general-donation.php:59
+msgid "Please sign me up to the newsletter."
+msgstr "ニュースレターにサインアップしてください。"
+
+#: templates/class-general-donation.php:62
+msgid "I wish to volunteer to help with fundraising."
+msgstr "募金活動を手伝ってくれるボランティアーをしたいです。"
+
+#: templates/class-gift-card-order.php:21
+msgid "Gift Card Order Form"
+msgstr "ギフトカード注文フォーム"
+
+#: templates/class-gift-card-order.php:29
+msgid "Gift Card Amount"
+msgstr "ギフトカードの金額"
+
+#: templates/class-gift-card-order.php:37
+msgid "Recipient's Name"
+msgstr "受取人の氏名"
+
+#: templates/class-gift-card-order.php:45
+msgid "Shipping"
+msgstr "配送料"
+
+#: templates/class-gift-card-order.php:53
+msgid "Purchaser's Name"
+msgstr "購入者の名前"
+
+#: templates/class-gift-card-order.php:61
+msgid "Billing Address"
+msgstr "請求先住所１"
+
+#: templates/class-girl-scout-order.php:21
+msgid "Girl Scout Cookie Order Form"
+msgstr "ガールスカウトクッキー注文フォーム"
+
+#: templates/class-girl-scout-order.php:29
+msgid "How many boxes of Samoas would you like?"
+msgstr "「Samoas」の箱がいくつが欲しいですか？の箱がいくつが欲しいですか？"
+
+#: templates/class-girl-scout-order.php35,
+#: templates/class-girl-scout-order.php55,
+#: templates/class-girl-scout-order.php:75
+msgid "1 - $5"
+msgstr "1 - $5"
+
+#: templates/class-girl-scout-order.php38,
+#: templates/class-girl-scout-order.php58,
+#: templates/class-girl-scout-order.php:78
+msgid "2 - $10"
+msgstr "2 - $10"
+
+#: templates/class-girl-scout-order.php41,
+#: templates/class-girl-scout-order.php61,
+#: templates/class-girl-scout-order.php:81
+msgid "3 - $15"
+msgstr "3 - $15"
+
+#: templates/class-girl-scout-order.php:49
+msgid "How many boxes of Thin Mints would you like?"
+msgstr "「Thin Mints」の箱がいくつが欲しいですか？"
+
+#: templates/class-girl-scout-order.php:69
+msgid "How many boxes of Tagalongs would you like?"
+msgstr "「Tagalongs」の箱がいくつが欲しいですか？"
+
+#: templates/class-grade-book.php:21
+msgid "Grade Book Form"
+msgstr "成績表フォーム"
+
+#: templates/class-grade-book.php:29
+msgid "Student Name"
+msgstr "学生の名前"
+
+#: templates/class-grade-book.php:37
+msgid "Student ID"
+msgstr "学生 ID"
+
+#: templates/class-grade-book.php:43
+msgid "Assignment name"
+msgstr "割り当て名"
+
+#: templates/class-grade-book.php:52
+msgid "Complete"
+msgstr "完了"
+
+#: templates/class-grade-book.php:55
+msgid "Late"
+msgstr "後期"
+
+#: templates/class-grade-book.php:58
+msgid "Incomplete"
+msgstr "不完全な"
+
+#: templates/class-grade-book.php66,
+#: templates/class-summer-camp-registration.php:55
+msgid "Grade"
+msgstr "学年"
+
+#: templates/class-grade-book.php:69
+msgid "A"
+msgstr "A"
+
+#: templates/class-grade-book.php:72
+msgid "B"
+msgstr "青"
+
+#: templates/class-grade-book.php:75
+msgid "C"
+msgstr "C"
+
+#: templates/class-grade-book.php:78
+msgid "D"
+msgstr "D"
+
+#: templates/class-grade-book.php:81
+msgid "F"
+msgstr "金"
+
+#: templates/class-gym-registration.php:21
+msgid "Gym Registration Form"
+msgstr "体育館登録フォーム"
+
+#: templates/class-gym-registration.php:44
+msgid "Membership Start Date"
+msgstr "会員開始日"
+
+#: templates/class-gym-registration.php:55
+msgid "Membership Duration"
+msgstr "会員期間"
+
+#: templates/class-gym-registration.php:58
+msgid "1 month"
+msgstr "1 ヶ月"
+
+#: templates/class-gym-registration.php:61
+msgid "3 month"
+msgstr "3 ヶ月"
+
+#: templates/class-gym-registration.php:64
+msgid "6 months"
+msgstr "6 ヶ月"
+
+#: templates/class-gym-registration.php:67
+msgid "1 year"
+msgstr "1 年間"
+
+#: templates/class-gym-registration.php:70
+msgid "2 year"
+msgstr "2 年間"
+
+#: templates/class-gym-registration.php:73
+msgid "Lifetime"
+msgstr "一生"
+
+#: templates/class-gym-registration.php:80
+msgid "Pre-existing medical conditions"
+msgstr "既存の病状"
+
+#: templates/class-gym-registration.php:83
+msgid "Diabetes"
+msgstr "糖尿病"
+
+#: templates/class-gym-registration.php:86
+msgid "Heart disease"
+msgstr "心臓病"
+
+#: templates/class-gym-registration.php:89
+msgid "Chest pains"
+msgstr "胸の痛み"
+
+#: templates/class-gym-registration.php:92
+msgid "Shortness of breath"
+msgstr "息切れ"
+
+#: templates/class-gym-registration.php:95
+msgid "Broken bones"
+msgstr "骨折"
+
+#: templates/class-gym-registration.php:98
+msgid "Allergies"
+msgstr "アレルギー"
+
+#: templates/class-gym-registration.php:101
+msgid "Heart murmur"
+msgstr " 心雑音"
+
+#: templates/class-gym-registration.php:104
+msgid "Pneumonia"
+msgstr "肺炎"
+
+#: templates/class-gym-registration.php:107
+msgid "Epilepsy"
+msgstr "てんかん"
+
+#: templates/class-gym-registration.php:110
+msgid "Tachycardia"
+msgstr "頻脈"
+
+#: templates/class-gym-registration.php:113
+msgid "Oedema"
+msgstr "浮腫"
+
+#: templates/class-gym-registration.php:116
+msgid "Heart attack"
+msgstr "心臓発作"
+
+#: templates/class-gym-registration.php:119
+msgid "Recent surgery"
+msgstr "最近の手術"
+
+#: templates/class-gym-registration.php:122
+msgid "Palpitations"
+msgstr "動悸"
+
+#: templates/class-gym-registration.php:125
+msgid "High blood pressure"
+msgstr "高血圧"
+
+#: templates/class-gym-registration.php:128
+msgid "Low blood pressure"
+msgstr "低血圧"
+
+#: templates/class-gym-registration.php:131
+msgid "Asthma"
+msgstr "喘息"
+
+#: templates/class-gym-registration.php:134
+msgid "Seizures"
+msgstr "発作"
+
+#: templates/class-gym-registration.php:137
+msgid "Fainting"
+msgstr "気絶"
+
+#: templates/class-gym-registration.php:145
+msgid "Additional Medical Notes"
+msgstr "追加の医療メモ"
+
+#: templates/class-health-insurance-quote.php:21
+msgid "Health Insurance Quote Form"
+msgstr "健康保険見積書"
+
+#: templates/class-health-insurance-quote.php:35
+msgid "Primary Contact Name"
+msgstr "主な連絡先の名前"
+
+#: templates/class-health-insurance-quote.php:43
+msgid "Primary Contact Email"
+msgstr "主な連絡先メール"
+
+#: templates/class-health-insurance-quote.php:50
+msgid "Primary Contact Phone"
+msgstr "主な連絡先電話番号"
+
+#: templates/class-health-insurance-quote.php:57
+msgid "Primary Contact Title"
+msgstr "主な連絡先のタイトル"
+
+#: templates/class-health-insurance-quote.php:63
+msgid "Primary Contact Address"
+msgstr "主な連絡先アドレス"
+
+#: templates/class-health-insurance-quote.php:70
+msgid "Please tell us about your industry"
+msgstr "業界について教えてください"
+
+#: templates/class-health-insurance-quote.php:76
+msgid "How did you hear about us?"
+msgstr "私たちについてどのように知りましたか？"
+
+#: templates/class-height-and-weight.php:21
+msgid "Height and Weight Form"
+msgstr "身長と体重のフォーム"
+
+#: templates/class-height-and-weight.php:29
+msgid ""
+"What is your height in feet and inches? (Remove shoes before measuring.)"
+msgstr "身長は何フィートとインチですか？ （測定する前に靴を脱いでください。）"
+
+#: templates/class-height-and-weight.php:35
+msgid "Feet"
+msgstr "フィート"
+
+#: templates/class-height-and-weight.php:41
+msgid "Inches"
+msgstr "インチ"
+
+#: templates/class-height-and-weight.php:47
+msgid "What is your current weight in pounds?"
+msgstr ""
+
+#: templates/class-high-school-reunion-registration.php:21
+msgid "High School Reunion Registration Form"
+msgstr "高校同窓会登録フォーム"
+
+#: templates/class-high-school-reunion-registration.php:37
+msgid "Spouse or Guest Name"
+msgstr "配偶者またはゲスト名"
+
+#: templates/class-high-school-reunion-registration.php:58
+msgid "Which events will you be attending?"
+msgstr "どのイベントに参加する予定ですか？"
+
+#: templates/class-high-school-reunion-registration.php:61
+msgid "Friday night cookout"
+msgstr "Friday night cookout"
+
+#: templates/class-high-school-reunion-registration.php:64
+msgid "Saturday breakfast"
+msgstr "Saturday breakfast"
+
+#: templates/class-high-school-reunion-registration.php:67
+msgid "Saturday lunch"
+msgstr "Saturday lunch"
+
+#: templates/class-high-school-reunion-registration.php:70
+msgid "Saturday formal dinner"
+msgstr "Saturday formal dinner"
+
+#: templates/class-high-school-reunion-registration.php:77
+msgid "Would you like to pre-order a reunion DVD ($19.95)?"
+msgstr "再会DVD（$19.95）を予約購入しますか？"
+
+#: templates/class-home-buyer-feedback.php:21
+msgid "Home Buyer Feedback Form"
+msgstr "住宅購入者フィードバックフォーム"
+
+#: templates/class-home-buyer-feedback.php:29
+msgid "Are you a first-time home buyer, or have you purchased a home before?"
+msgstr "初めての住宅購入者ですか、それとも以前に住宅を購入したことがありますか？"
+
+#: templates/class-home-buyer-feedback.php:32
+msgid "First time home buyer"
+msgstr "初めての住宅購入者"
+
+#: templates/class-home-buyer-feedback.php:35
+msgid "Purchased home before"
+msgstr "以前に購入した家"
+
+#: templates/class-home-buyer-feedback.php:42
+msgid "How did you begin your most recent search for a home?"
+msgstr "最近の家の検索をどのように始めましたか？"
+
+#: templates/class-home-buyer-feedback.php:45
+msgid "Searched the internet"
+msgstr "インターネットを検索"
+
+#: templates/class-home-buyer-feedback.php:48
+msgid "Drove through neighborhoods looking for home sales"
+msgstr "住宅販売を探して近隣を探索"
+
+#: templates/class-home-buyer-feedback.php:51
+msgid "Contacted real estate agent"
+msgstr "不動産業者と連絡を取った"
+
+#: templates/class-home-buyer-feedback.php:54
+msgid "Attended open house event"
+msgstr "オープンハウスイベントに参加しました"
+
+#: templates/class-home-buyer-feedback.php:57
+msgid "Searched magazines"
+msgstr "雑誌で検索された"
+
+#: templates/class-home-buyer-feedback.php:60
+msgid "Searched newspapers"
+msgstr "新聞で検索された"
+
+#: templates/class-home-buyer-feedback.php:67
+msgid ""
+"Which sources of information did you use during your most recent search for "
+"a home?"
+msgstr "最近の家の検索でどの情報源を使用しましたか？"
+
+#: templates/class-home-buyer-feedback.php70,
+#: templates/class-home-buyer-feedback.php:126
+msgid "Internet"
+msgstr "インターネット"
+
+#: templates/class-home-buyer-feedback.php:73
+msgid "Newspapers"
+msgstr "新聞"
+
+#: templates/class-home-buyer-feedback.php:76
+msgid "Magazines"
+msgstr "雑誌"
+
+#: templates/class-home-buyer-feedback.php:79
+msgid "Open houses"
+msgstr "オープンハウス"
+
+#: templates/class-home-buyer-feedback.php:82
+msgid "Real estate agents"
+msgstr "不動産業者"
+
+#: templates/class-home-buyer-feedback.php:85
+msgid "Yard signs"
+msgstr "ヤードサイン"
+
+#: templates/class-home-buyer-feedback.php:92
+msgid ""
+"Which of the following internet websites did you find most helpful during "
+"your most recent search for a home?"
+msgstr "最近の家の検索で最も役に立ったのは次のうちどれですか？"
+
+#: templates/class-home-buyer-feedback.php:95
+msgid "Realtor.com"
+msgstr "Realtor.com"
+
+#: templates/class-home-buyer-feedback.php:98
+msgid "Real estate companies' websites"
+msgstr "不動産会社のサイト"
+
+#: templates/class-home-buyer-feedback.php:101
+msgid "Social networking websites"
+msgstr "ソーシャルネットワーキングサイト"
+
+#: templates/class-home-buyer-feedback.php:104
+msgid "Zillow"
+msgstr "Zillow"
+
+#: templates/class-home-buyer-feedback.php:107
+msgid "Redfin"
+msgstr "Redfin"
+
+#: templates/class-home-buyer-feedback.php:117
+msgid "Where did you find the home you most recently purchased?"
+msgstr "最近購入した家はどこにありましたか？"
+
+#: templates/class-home-buyer-feedback.php:120
+msgid "Newspaper"
+msgstr "新聞"
+
+#: templates/class-home-buyer-feedback.php:123
+msgid "Open house"
+msgstr "オープンハウス"
+
+#: templates/class-home-buyer-feedback.php:129
+msgid "Magazine"
+msgstr "雑誌"
+
+#: templates/class-home-buyer-feedback.php:132
+msgid "Real estate agent"
+msgstr "不動産業者"
+
+#: templates/class-home-buyer-feedback.php:135
+msgid "Yard sign"
+msgstr "ヤードサイン"
+
+#: templates/class-house-inventory.php:21
+msgid "House Inventory Form"
+msgstr "住宅在庫フォーム"
+
+#: templates/class-house-inventory.php29, templates/class-to-do-list.php:29
+msgid "Item"
+msgstr "項目"
+
+#: templates/class-house-inventory.php35,
+#: templates/class-recipe-catalog.php35, templates/class-to-do-list.php:35
+msgid "Description"
+msgstr "説明"
+
+#: templates/class-house-inventory.php:41
+msgid "Appraised Value"
+msgstr "評価額"
+
+#: templates/class-house-inventory.php:48
+msgid "Date Purchased"
+msgstr "購入された日付"
+
+#: templates/class-house-inventory.php59,
+#: templates/class-vendor-registration.php:38
+msgid "Manufacturer"
+msgstr "メーカー"
+
+#: templates/class-house-inventory.php:65
+msgid "Model"
+msgstr "モデル"
+
+#: templates/class-house-inventory.php:71
+msgid "Model Number"
+msgstr "モデル番号"
+
+#: templates/class-house-inventory.php77, templates/class-it-asset.php:94
+msgid "Condition"
+msgstr "条件"
+
+#: templates/class-house-inventory.php:80
+msgid "Like New"
+msgstr "新しいそうな"
+
+#: templates/class-house-inventory.php:83
+msgid "Used"
+msgstr "中古"
+
+#: templates/class-house-inventory.php:86
+msgid "Poor"
+msgstr "悪い"
+
+#: templates/class-it-asset.php:21
+msgid "IT Asset Form"
+msgstr "IT 資産フォーム"
+
+#: templates/class-it-asset.php:29
+msgid "Asset Category"
+msgstr "資産カテゴリー"
+
+#: templates/class-it-asset.php:32
+msgid "Building Key/Keycard"
+msgstr "建物のキー/キーカード"
+
+#: templates/class-it-asset.php:35
+msgid "Cell phone"
+msgstr "携帯番号"
+
+#: templates/class-it-asset.php:38
+msgid "Desktop Computer"
+msgstr "デスクトップコンピューター"
+
+#: templates/class-it-asset.php:41
+msgid "Notebook Computer"
+msgstr "ノートパソコン"
+
+#: templates/class-it-asset.php:44
+msgid "Keyboard"
+msgstr "キーボード"
+
+#: templates/class-it-asset.php:47
+msgid "Mouse"
+msgstr "マウス"
+
+#: templates/class-it-asset.php:50
+msgid "Monitor"
+msgstr "モニター"
+
+#: templates/class-it-asset.php:53
+msgid "Printer"
+msgstr "プリンター"
+
+#: templates/class-it-asset.php:61
+msgid "Asset Owner Name"
+msgstr "資産所有者の名前"
+
+#: templates/class-it-asset.php:69
+msgid "Asset Description"
+msgstr "資産の説明"
+
+#: templates/class-it-asset.php:75
+msgid "Serial #"
+msgstr "シリアル #"
+
+#: templates/class-it-asset.php:81
+msgid "Model #"
+msgstr "モデル #"
+
+#: templates/class-it-asset.php:87
+msgid "Asset Cost"
+msgstr "資産値段"
+
+#: templates/class-it-service-request.php:21
+msgid "IT Service Request Form"
+msgstr "IT サービス依頼フォーム"
+
+#: templates/class-it-service-request.php:57
+msgid "What are you having issues with?"
+msgstr "何に問題がありますか？"
+
+#: templates/class-it-service-request.php:60
+msgid "Computer"
+msgstr "コンピューター"
+
+#: templates/class-it-service-request.php:63
+msgid "Projector"
+msgstr "プロジェクター"
+
+#: templates/class-it-service-request.php:66
+msgid "Mobile Device / Tablet"
+msgstr "モバイル機器 / タブレット"
+
+#: templates/class-it-service-request.php:69
+msgid "Internet Connection / Network"
+msgstr "インターネット接続 / ネットワーク"
+
+#: templates/class-it-service-request.php:85
+msgid "Additional Details or Information"
+msgstr "追加の詳細または情報"
+
+#: templates/class-job-application-upload.php:21
+msgid "Job Application Upload Form"
+msgstr "求人応募アップロードフォーム"
+
+#: templates/class-job-application-upload.php:60
+msgid "How did you find out about this position?"
+msgstr "このポジションについてどのように知りましたか？"
+
+#: templates/class-job-application-upload.php:63
+msgid "Current Employee"
+msgstr "現在の従業員"
+
+#: templates/class-job-application-upload.php:66
+msgid "Career Fair"
+msgstr "就職フェア"
+
+#: templates/class-job-application-upload.php:69
+msgid "Newspaper Ad"
+msgstr "新聞広告"
+
+#: templates/class-job-application-upload.php:72
+msgid "Radio/TV AD"
+msgstr "ラジオ/テレビ広告"
+
+#: templates/class-job-application-upload.php:75
+msgid "Search Engine"
+msgstr "検索エンジン"
+
+#: templates/class-job-application-upload.php78,
+#: templates/class-online-event-registration.php74,
+#: templates/class-online-race-registration.php:114
+msgid "Social Media"
+msgstr "ソーシャルメディア"
+
+#: templates/class-job-application-upload.php:81
+msgid "Craigslist"
+msgstr "Craigslist"
+
+#: templates/class-job-application-upload.php:97
+msgid "Upload your resume"
+msgstr "履歴書をアップロード"
+
+#: templates/class-job-application-upload.php:103
+msgid "Upload a cover letter"
+msgstr "カバーレターをアップロード"
+
+#: templates/class-lecture-notes.php:21
+msgid "Lecture Notes Form"
+msgstr "講義ノートフォーム"
+
+#: templates/class-lecture-notes.php29, templates/class-lesson-plan.php:29
+msgid "Subject"
+msgstr "件名"
+
+#: templates/class-lecture-notes.php:35
+msgid "Cues"
+msgstr "合図"
+
+#: templates/class-lecture-notes.php:47
+msgid "Summary"
+msgstr "抜粋のみを表示"
+
+#: templates/class-lesson-plan.php:21
+msgid "Lesson Plan Form"
+msgstr "授業計画フォーム"
+
+#: templates/class-lesson-plan.php:35
+msgid "Teaching Topic"
+msgstr "教育トピック"
+
+#: templates/class-lesson-plan.php:41
+msgid "Lesson Plan Title"
+msgstr "授業計画のタイトル"
+
+#: templates/class-lesson-plan.php:47
+msgid "Standards Addressed"
+msgstr "対処された規格"
+
+#: templates/class-lesson-plan.php:63
+msgid "Goals/Objectives of Lesson Plans"
+msgstr "授業計画の目標 / 目的"
+
+#: templates/class-lesson-plan.php:69
+msgid "Required Materials"
+msgstr "必要な材料"
+
+#: templates/class-lesson-plan.php:72
+msgid "Photos"
+msgstr "画像"
+
+#: templates/class-lesson-plan.php:75
+msgid "Electronic Devices"
+msgstr "電子デバイス"
+
+#: templates/class-lesson-plan.php:78
+msgid "Paper and Pencil"
+msgstr "紙と鉛筆"
+
+#: templates/class-lesson-plan.php:81
+msgid "Audio"
+msgstr "音声"
+
+#: templates/class-lesson-plan.php:88
+msgid "Step-by-Step Procedure"
+msgstr "ステップバイステップの手順"
+
+#: templates/class-maintenance-request.php:21
+msgid "Maintenance Request Form"
+msgstr "メンテナンス依頼フォーム"
+
+#: templates/class-maintenance-request.php52,
+#: templates/class-rent-receipt.php:62
+msgid "Property Address"
+msgstr "物件住所"
+
+#: templates/class-maintenance-request.php:60
+msgid "Priority Level"
+msgstr "優先度"
+
+#: templates/class-maintenance-request.php:77
+msgid "Type of problem"
+msgstr "問題の種類"
+
+#: templates/class-maintenance-request.php:80
+msgid "AC"
+msgstr "エアコン"
+
+#: templates/class-maintenance-request.php:83
+msgid "Heating"
+msgstr "加熱"
+
+#: templates/class-maintenance-request.php:86
+msgid "Plumbing"
+msgstr "配管工事"
+
+#: templates/class-maintenance-request.php:89
+msgid "Electrical"
+msgstr "電気"
+
+#: templates/class-maintenance-request.php92,
+#: templates/class-maintenance-request.php:118
+msgid "Other / N/A"
+msgstr ""
+
+#: templates/class-maintenance-request.php:100
+msgid "Location of problem"
+msgstr "問題の場所"
+
+#: templates/class-maintenance-request.php:103
+msgid "Living room"
+msgstr "リビングルーム"
+
+#: templates/class-maintenance-request.php:106
+msgid "Kitchen"
+msgstr "キッチン"
+
+#: templates/class-maintenance-request.php:109
+msgid "Bathroom"
+msgstr "浴室"
+
+#: templates/class-maintenance-request.php:112
+msgid "Bedroom"
+msgstr "寝室"
+
+#: templates/class-maintenance-request.php:115
+msgid "Patio"
+msgstr "パティオ"
+
+#: templates/class-maintenance-request.php:126
+msgid "Please describe the issue"
+msgstr "問題を説明してください"
+
+#: templates/class-maintenance-request.php:132
+msgid ""
+"Does our maintenance team have permission to enter your residence without "
+"you present?"
+msgstr "メンテナンスチームはあなたが立ち会わずにあなたの家に入る許可を持っていますか？"
+
+#: templates/class-maintenance-request.php:146
+msgid "Do you have any pets?"
+msgstr "ペットを飼っていますか？"
+
+#: templates/class-meeting-room-registration.php:21
+msgid "Meeting Room Registration Form"
+msgstr "会議室登録フォーム"
+
+#: templates/class-meeting-room-registration.php:50
+msgid "Which room would you like to reserve?"
+msgstr "どの部屋を予約しますか？"
+
+#: templates/class-meeting-room-registration.php:53
+msgid "Room A"
+msgstr "部屋 A"
+
+#: templates/class-meeting-room-registration.php:56
+msgid "Room B"
+msgstr "部屋 B"
+
+#: templates/class-meeting-room-registration.php:59
+msgid "Room C"
+msgstr "部屋 C"
+
+#: templates/class-meeting-room-registration.php:67
+msgid "Which time blocks would you like to reserve?"
+msgstr "どの時間帯を予約しますか？"
+
+#: templates/class-meeting-room-registration.php:70
+msgid "8:00 - 9:00am"
+msgstr "8:00 - 9:00am"
+
+#: templates/class-meeting-room-registration.php:73
+msgid "9:00 - 10:00am"
+msgstr "9:00 - 10:00am"
+
+#: templates/class-meeting-room-registration.php:76
+msgid "10:00 - 11:00am"
+msgstr "10:00 - 11:00am"
+
+#: templates/class-meeting-room-registration.php:79
+msgid "11:00 - 12:00pm"
+msgstr "11:00 - 12:00pm"
+
+#: templates/class-meeting-room-registration.php:82
+msgid "12:00 - 1:00pm"
+msgstr "12:00 - 1:00pm"
+
+#: templates/class-meeting-room-registration.php:85
+msgid "1:00 - 2:00pm"
+msgstr "1:00 - 2:00pm"
+
+#: templates/class-meeting-room-registration.php:88
+msgid "2:00 - 3:00pm"
+msgstr "2:00 - 3:00pm"
+
+#: templates/class-meeting-room-registration.php:91
+msgid "3:00 - 4:00pm"
+msgstr "3:00 - 4:00pm"
+
+#: templates/class-meeting-room-registration.php:94
+msgid "4:00 - 5:00pm"
+msgstr "4:00 - 5:00pm"
+
+#: templates/class-movie-collection.php:21
+msgid "Movie Collection Form"
+msgstr "映画集フォーム"
+
+#: templates/class-movie-collection.php:29
+msgid "Title"
+msgstr "タイトル"
+
+#: templates/class-movie-collection.php:35
+msgid "Director"
+msgstr "ディレクター"
+
+#: templates/class-movie-collection.php41,
+#: templates/class-music-collection.php:52
+msgid "Producer"
+msgstr "プロデューサー"
+
+#: templates/class-movie-collection.php47,
+#: templates/class-music-collection.php:41
+msgid "Release Date"
+msgstr "発売日"
+
+#: templates/class-movie-collection.php:58
+msgid "Length"
+msgstr "時間"
+
+#: templates/class-movie-collection.php:64
+msgid "Actors"
+msgstr "俳優"
+
+#: templates/class-movie-collection.php:70
+msgid "Plot"
+msgstr "プロット"
+
+#: templates/class-movie-collection.php76,
+#: templates/class-music-collection.php:71
+msgid "Review"
+msgstr "レビュー"
+
+#: templates/class-movie-collection.php82,
+#: templates/class-music-collection.php:77
+msgid "Rating"
+msgstr "評価"
+
+#: templates/class-movie-collection.php85,
+#: templates/class-music-collection.php80,
+#: templates/class-online-event-registration.php:93
+msgid "1"
+msgstr "1"
+
+#: templates/class-movie-collection.php88,
+#: templates/class-music-collection.php83,
+#: templates/class-online-event-registration.php:96
+msgid "2"
+msgstr " 2列 "
+
+#: templates/class-movie-collection.php91,
+#: templates/class-music-collection.php86,
+#: templates/class-online-event-registration.php:99
+msgid "3"
+msgstr "3列"
+
+#: templates/class-movie-collection.php94,
+#: templates/class-music-collection.php89,
+#: templates/class-online-event-registration.php:102
+msgid "4"
+msgstr "4"
+
+#: templates/class-movie-collection.php97,
+#: templates/class-music-collection.php92,
+#: templates/class-online-event-registration.php:105
+msgid "5"
+msgstr "5列"
+
+#: templates/class-music-collection.php:21
+msgid "Music Collection Form"
+msgstr "音楽収集フォーム"
+
+#: templates/class-music-collection.php:29
+msgid "Artist"
+msgstr "アーティスト"
+
+#: templates/class-music-collection.php:35
+msgid "Album"
+msgstr "アルバム"
+
+#: templates/class-music-collection.php:58
+msgid "Record Label"
+msgstr "レコードレーベル"
+
+#: templates/class-music-collection.php:64
+msgid "Price"
+msgstr "価格"
+
+#: templates/class-neighborhood-events-questionnaire.php:21
+msgid "Neighborhood Events Questionnaire Form"
+msgstr "近所のイベントアンケートフォーム"
+
+#: templates/class-neighborhood-events-questionnaire.php29,
+#: templates/class-neighborhood-feedback.php:73
+msgid "How often do you attend events in this neighborhood?"
+msgstr "この近所のイベントにどのくらいの頻度で参加しますか？"
+
+#: templates/class-neighborhood-events-questionnaire.php32,
+#: templates/class-neighborhood-events-questionnaire.php66,
+#: templates/class-neighborhood-feedback.php76,
+#: templates/class-neighborhood-feedback.php98,
+#: templates/class-neighborhood-feedback.php:144
+msgid "Extremely often"
+msgstr "非常に頻繁"
+
+#: templates/class-neighborhood-events-questionnaire.php35,
+#: templates/class-neighborhood-events-questionnaire.php69,
+#: templates/class-neighborhood-feedback.php79,
+#: templates/class-neighborhood-feedback.php101,
+#: templates/class-neighborhood-feedback.php:147
+msgid "Very often"
+msgstr "よく"
+
+#: templates/class-neighborhood-events-questionnaire.php38,
+#: templates/class-neighborhood-events-questionnaire.php72,
+#: templates/class-neighborhood-feedback.php82,
+#: templates/class-neighborhood-feedback.php104,
+#: templates/class-neighborhood-feedback.php:150
+msgid "Moderately often"
+msgstr "ほどよく頻繁"
+
+#: templates/class-neighborhood-events-questionnaire.php41,
+#: templates/class-neighborhood-events-questionnaire.php75,
+#: templates/class-neighborhood-feedback.php85,
+#: templates/class-neighborhood-feedback.php107,
+#: templates/class-neighborhood-feedback.php:153
+msgid "Slightly often"
+msgstr "少し頻繁に"
+
+#: templates/class-neighborhood-events-questionnaire.php44,
+#: templates/class-neighborhood-events-questionnaire.php:78
+msgid "Never"
+msgstr "なし"
+
+#: templates/class-neighborhood-events-questionnaire.php:51
+msgid "If you do not attend events in this neighborhood, why not?"
+msgstr "この近所のイベントに参加しないのであれば、どうしてですか？"
+
+#: templates/class-neighborhood-events-questionnaire.php57,
+#: templates/class-neighborhood-feedback.php:129
+msgid ""
+"What types of events would you attend if they were held in this "
+"neighborhood?"
+msgstr "この近所で開催された場合、どのような種類のイベントに参加しますか?"
+
+#: templates/class-neighborhood-events-questionnaire.php63,
+#: templates/class-neighborhood-feedback.php:95
+msgid "How often do you participate in activities in this neighborhood?"
+msgstr "どのくらいの頻度でこの近所の活動に参加しますか？"
+
+#: templates/class-neighborhood-events-questionnaire.php85,
+#: templates/class-neighborhood-feedback.php117,
+#: templates/class-neighborhood-feedback.php:123
+msgid "If you do not participate in activities in this neighborhood, why not?"
+msgstr "この近所での活動に参加していないのであれば、どうしてですか？"
+
+#: templates/class-neighborhood-events-questionnaire.php91,
+#: templates/class-neighborhood-feedback.php:135
+msgid ""
+"What types of activities would you participate in if they were available in "
+"this neighborhood?"
+msgstr "この近所で利用できるなら、どんな種類の活動に参加しますか？"
+
+#: templates/class-neighborhood-feedback.php:21
+msgid "Neighborhood Feedback Form"
+msgstr "近隣フィードバックフォーム"
+
+#: templates/class-neighborhood-feedback.php:29
+msgid "How many of your neighbors do you know?"
+msgstr "近所の人は何人知っていますか？"
+
+#: templates/class-neighborhood-feedback.php:32
+msgid "All of them"
+msgstr "すべて"
+
+#: templates/class-neighborhood-feedback.php:35
+msgid "Most of them"
+msgstr "ほとんど"
+
+#: templates/class-neighborhood-feedback.php:38
+msgid "Some of them"
+msgstr "それらのいくつか"
+
+#: templates/class-neighborhood-feedback.php:41
+msgid "A few of them"
+msgstr "少し"
+
+#: templates/class-neighborhood-feedback.php:44
+msgid "None of them"
+msgstr "無し"
+
+#: templates/class-neighborhood-feedback.php:51
+msgid "How strong is the sense of community in this neighborhood?"
+msgstr "この近所のコミュニティ意識はどのくらい強いのでしょうか?"
+
+#: templates/class-neighborhood-feedback.php:54
+msgid "Extremely strong"
+msgstr "非常に強い"
+
+#: templates/class-neighborhood-feedback.php:57
+msgid "Very strong"
+msgstr "とても強い"
+
+#: templates/class-neighborhood-feedback.php:60
+msgid "Moderately strong"
+msgstr "ほどよく強い"
+
+#: templates/class-neighborhood-feedback.php:63
+msgid "Slightly strong"
+msgstr "少し強い"
+
+#: templates/class-neighborhood-feedback.php:66
+msgid "Not at all strong"
+msgstr "全然強くない"
+
+#: templates/class-neighborhood-feedback.php88,
+#: templates/class-neighborhood-feedback.php110,
+#: templates/class-neighborhood-feedback.php:156
+msgid "Not at all often"
+msgstr "まったくない"
+
+#: templates/class-neighborhood-feedback.php:141
+msgid "How often do you visit the parks in this neighborhood?"
+msgstr "どのくらいの頻度でこの近所の公園を訪れますか？"
+
+#: templates/class-neighborhood-feedback.php:163
+msgid ""
+"Are you satisfied with the parks in this neighborhood, neither satisfied nor"
+" dissatisfied with them, or dissatisfied with them?"
+msgstr "この近所の公園に満足していますか？"
+
+#: templates/class-neighborhood-feedback.php166,
+#: templates/class-neighborhood-feedback.php:319
+msgid "Extremely satisfied"
+msgstr "非常に満足"
+
+#: templates/class-neighborhood-feedback.php169,
+#: templates/class-neighborhood-feedback.php:322
+msgid "Moderately satisfied"
+msgstr "ほどよく満足している"
+
+#: templates/class-neighborhood-feedback.php172,
+#: templates/class-neighborhood-feedback.php:325
+msgid "Slightly satisfied"
+msgstr "少し満足"
+
+#: templates/class-neighborhood-feedback.php:175
+msgid "Neither satisfied nor dissatisfied"
+msgstr "満足も不満もない"
+
+#: templates/class-neighborhood-feedback.php178,
+#: templates/class-neighborhood-feedback.php:331
+msgid "Slightly dissatisfied"
+msgstr "少し不満"
+
+#: templates/class-neighborhood-feedback.php181,
+#: templates/class-neighborhood-feedback.php:337
+msgid "Extremely dissatisfied"
+msgstr "非常に不満"
+
+#: templates/class-neighborhood-feedback.php:188
+msgid "How well are the streets in this neighborhood maintained?"
+msgstr "この近所の通りはどの程度整備されていますか？"
+
+#: templates/class-neighborhood-feedback.php:191
+msgid "Extremely well"
+msgstr "とても良い"
+
+#: templates/class-neighborhood-feedback.php:194
+msgid "Very well"
+msgstr "結構"
+
+#: templates/class-neighborhood-feedback.php:197
+msgid "Moderately well"
+msgstr "ほどよく"
+
+#: templates/class-neighborhood-feedback.php:200
+msgid "Slightly well"
+msgstr "少し"
+
+#: templates/class-neighborhood-feedback.php:203
+msgid "Not at all well"
+msgstr "全然よくない"
+
+#: templates/class-neighborhood-feedback.php:210
+msgid "How safe do you feel in this neighborhood?"
+msgstr "この近所でどれほど安全に感じますか？"
+
+#: templates/class-neighborhood-feedback.php:213
+msgid "Extremely safe"
+msgstr "非常に安全"
+
+#: templates/class-neighborhood-feedback.php:216
+msgid "Very safe"
+msgstr "とても安全"
+
+#: templates/class-neighborhood-feedback.php:219
+msgid "Moderately safe"
+msgstr "ほどよく安全"
+
+#: templates/class-neighborhood-feedback.php:222
+msgid "Slightly safe"
+msgstr "少し安全"
+
+#: templates/class-neighborhood-feedback.php:225
+msgid "Not at all safe"
+msgstr "全く安全じゃない"
+
+#: templates/class-neighborhood-feedback.php:232
+msgid "How clean is this neighborhood?"
+msgstr "この辺はどれくらいきれいですか？"
+
+#: templates/class-neighborhood-feedback.php:235
+msgid "Extremely clean"
+msgstr "とてもきれい"
+
+#: templates/class-neighborhood-feedback.php:238
+msgid "Very clean"
+msgstr "きれいな"
+
+#: templates/class-neighborhood-feedback.php:241
+msgid "Moderately clean"
+msgstr "ほどよくクリーン"
+
+#: templates/class-neighborhood-feedback.php:244
+msgid "Slightly clean"
+msgstr "少しきれい"
+
+#: templates/class-neighborhood-feedback.php:247
+msgid "Not at all clean"
+msgstr "まったくきれいじゃない"
+
+#: templates/class-neighborhood-feedback.php:254
+msgid "How proud are you to live in this neighborhood?"
+msgstr "この近所に住んでいることをどのくらい誇りに思っていますか？"
+
+#: templates/class-neighborhood-feedback.php:257
+msgid "Extremely proud"
+msgstr "非常に誇りに思う"
+
+#: templates/class-neighborhood-feedback.php:260
+msgid "Very proud"
+msgstr "とても誇りに思う"
+
+#: templates/class-neighborhood-feedback.php:263
+msgid "Moderately proud"
+msgstr "ほどよく誇りに思う"
+
+#: templates/class-neighborhood-feedback.php:266
+msgid "Slightly proud"
+msgstr "少し誇りに思う"
+
+#: templates/class-neighborhood-feedback.php:269
+msgid "Not at all proud"
+msgstr "全く誇りに思っていない"
+
+#: templates/class-neighborhood-feedback.php:276
+msgid "What do you like most about this neighborhood?"
+msgstr "この近所について何が一番好きですか？"
+
+#: templates/class-neighborhood-feedback.php:282
+msgid "What do you like least about this neighborhood?"
+msgstr "この近所について少なくとも何が好きですか？"
+
+#: templates/class-neighborhood-feedback.php:288
+msgid "What changes would most improve this neighborhood?"
+msgstr "この近所は、どのような変化によって最も改善されるでしょうか？"
+
+#: templates/class-neighborhood-feedback.php:294
+msgid "How promising is the future of this neighborhood?"
+msgstr "この近所の将来はどの程度見込みがありますか？"
+
+#: templates/class-neighborhood-feedback.php:297
+msgid "Extremely promising"
+msgstr "非常に有望"
+
+#: templates/class-neighborhood-feedback.php:300
+msgid "Very promising"
+msgstr "とても"
+
+#: templates/class-neighborhood-feedback.php:303
+msgid "Moderately promising"
+msgstr "ほどよく有望"
+
+#: templates/class-neighborhood-feedback.php:306
+msgid "Slightly promising"
+msgstr "少し有望"
+
+#: templates/class-neighborhood-feedback.php:309
+msgid "Not at all promising"
+msgstr "まったく見込みがない"
+
+#: templates/class-neighborhood-feedback.php:316
+msgid ""
+"Overall, are you satisfied with your experience living in this neighborhood,"
+" neither satisfied nor dissatisfied with it, or dissatisfied with it?"
+msgstr "全体として、この近所で暮らす経験に満足していますか、それに満足も、それに不満もありませんか？"
+
+#: templates/class-neighborhood-feedback.php:328
+msgid "Neither satisfied or dissatisfied"
+msgstr "満足も不満もない"
+
+#: templates/class-neighborhood-feedback.php:334
+msgid "Moderately dissatisfied"
+msgstr "ほどよく不満"
+
+#: templates/class-new-years-party-rsvp.php:21
+msgid "New Years Party RSVP Form"
+msgstr "新年党RSVPフォーム"
+
+#: templates/class-new-years-party-rsvp.php:37
+msgid "Can you make it?"
+msgstr "来られますか？"
+
+#: templates/class-new-years-party-rsvp.php:54
+msgid "How many people will be joining?"
+msgstr "何人の人が一緒に来ていますか？"
+
+#: templates/class-new-years-party-rsvp.php:57
+msgid "Just me"
+msgstr "一人だけ"
+
+#: templates/class-new-years-party-rsvp.php:60
+msgid "Bringing a friend"
+msgstr "友達を連れて行く"
+
+#: templates/class-new-years-party-rsvp.php:63
+msgid "Showing up with the group"
+msgstr "グループと一緒に現れる"
+
+#: templates/class-new-years-party-rsvp.php:70
+msgid "Are you bringing anything else?"
+msgstr "ゲストを連れてきますか？"
+
+#: templates/class-new-years-party-rsvp.php:79
+msgid "Bubbly beverages"
+msgstr "陽気な飲み物"
+
+#: templates/class-new-years-party-rsvp.php:86
+msgid "Anything else we should know?"
+msgstr "他に何か知っておくべきことがありますか？"
+
+#: templates/class-newspaper-subscription.php:21
+msgid "Newspaper Subscription Form"
+msgstr "新聞購読フォーム"
+
+#: templates/class-newspaper-subscription.php:29
+msgid "How often would you like the paper?"
+msgstr "新聞をどのくらいの頻度で使いますか？"
+
+#: templates/class-newspaper-subscription.php:32
+msgid "Daily: $150"
+msgstr "毎日: $150"
+
+#: templates/class-newspaper-subscription.php:35
+msgid "Weekend (Thurs-Sun): $100"
+msgstr "週末（木〜日）: $100"
+
+#: templates/class-newspaper-subscription.php:38
+msgid "Sunday Only: $50"
+msgstr "日曜日だけ: $50"
+
+#: templates/class-online-event-registration.php:21
+msgid "Online Event Registration Form"
+msgstr "オンラインイベント登録フォーム"
+
+#: templates/class-online-event-registration.php65,
+#: templates/class-online-race-registration.php:102
+msgid "How did you hear about this event?"
+msgstr "この出来事についてどのように聞きましたか？"
+
+#: templates/class-online-event-registration.php:68
+msgid "Friend or colleague"
+msgstr "友達や同僚"
+
+#: templates/class-online-event-registration.php:71
+msgid "Radio / TV"
+msgstr "ラジオ/テレビ"
+
+#: templates/class-online-event-registration.php:90
+msgid "Number of tickets needed"
+msgstr "必要なチケット数"
+
+#: templates/class-online-proposal.php:21
+msgid "Online Proposal Form"
+msgstr "オンライン提案書"
+
+#: templates/class-online-proposal.php:51
+msgid "Please describe your proposal"
+msgstr "提案を説明してください"
+
+#: templates/class-online-proposal.php:57
+msgid "Do you need funds for this proposal?"
+msgstr "この提案には資金が必要ですか。"
+
+#: templates/class-online-race-registration.php:21
+msgid "Online Race Registration Form"
+msgstr "オンラインレース登録フォーム"
+
+#: templates/class-online-race-registration.php:44
+msgid "Company (if applicable)"
+msgstr "会社（該当する場合）"
+
+#: templates/class-online-race-registration.php53,
+#: templates/class-race-registration.php:32
+msgid "5k"
+msgstr "5k"
+
+#: templates/class-online-race-registration.php:56
+msgid "Half marathon"
+msgstr "ハーフマラソン"
+
+#: templates/class-online-race-registration.php59,
+#: templates/class-race-registration.php:41
+msgid "Marathon"
+msgstr "マラソン"
+
+#: templates/class-online-race-registration.php:67
+msgid "Running speed"
+msgstr "走行速度"
+
+#: templates/class-online-race-registration.php:70
+msgid "Slower"
+msgstr "もっとゆっくり"
+
+#: templates/class-online-race-registration.php:73
+msgid "Moderate"
+msgstr "中程度"
+
+#: templates/class-online-race-registration.php:76
+msgid "Faster"
+msgstr "もっと早く"
+
+#: templates/class-online-race-registration.php:83
+msgid "Shirt size"
+msgstr "シャツのサイズ"
+
+#: templates/class-online-race-registration.php86,
+#: templates/class-race-registration.php64,
+#: templates/class-tshirt-order.php:56
+msgid "Small"
+msgstr "小さい"
+
+#: templates/class-online-race-registration.php92,
+#: templates/class-race-registration.php70,
+#: templates/class-tshirt-order.php:62
+msgid "Large"
+msgstr "大サイズ"
+
+#: templates/class-online-race-registration.php95,
+#: templates/class-race-registration.php73,
+#: templates/class-tshirt-order.php:65
+msgid "Extra Large"
+msgstr "とても大きい"
+
+#: templates/class-online-race-registration.php105,
+#: templates/class-webinar-registration.php:56
+msgid "Word of mouth"
+msgstr "口コミ"
+
+#: templates/class-online-race-registration.php:108
+msgid "Participated in the past"
+msgstr "過去に参加した"
+
+#: templates/class-online-race-registration.php111,
+#: templates/class-volunteer-recruitment.php135,
+#: templates/class-webinar-registration.php:59
+msgid "Advertisement"
+msgstr "広告"
+
+#: templates/class-online-race-registration.php:130
+msgid "Comments or Requests"
+msgstr "コメントや要望"
+
+#: templates/class-parental-consent.php:21
+msgid "Parental Consent Form"
+msgstr "保護者同意書"
+
+#: templates/class-parental-consent.php:29
+msgid "Child Name"
+msgstr "子の名前"
+
+#: templates/class-parental-consent.php:37
+msgid "Child Classroom / Teacher"
+msgstr "子ども教室／先生"
+
+#: templates/class-parental-consent.php:43
+msgid "Parent Name"
+msgstr "親の名前"
+
+#: templates/class-parental-consent.php:51
+msgid "Parent Email"
+msgstr "親メール"
+
+#: templates/class-parental-consent.php:58
+msgid "Parent Phone Number"
+msgstr "親の電話番号"
+
+#: templates/class-parental-consent.php:65
+msgid "Emergency Contact Number"
+msgstr "緊急連絡先番号"
+
+#: templates/class-parental-consent.php:72
+msgid "Special Instructions"
+msgstr "特別な指示"
+
+#: templates/class-parental-consent.php:78
+msgid "Parental Consent for Child"
+msgstr "子供に対する保護者の同意"
+
+#: templates/class-parental-consent.php:81
+msgid "Yes, I provide consent"
+msgstr "はい、同意します"
+
+#: templates/class-parental-consent.php:84
+msgid "No, I do not provide consent"
+msgstr "いいえ、同意しません"
+
+#: templates/class-partnership-agreement.php:21
+msgid "Partnership Agreement Form"
+msgstr "パートナーシップ契約書"
+
+#: templates/class-partnership-agreement.php:29
+msgid "Partner 1 Name"
+msgstr "パートナー 1 の名前"
+
+#: templates/class-partnership-agreement.php:37
+msgid "Partner 1 Company"
+msgstr "パートナー1の会社"
+
+#: templates/class-partnership-agreement.php:44
+msgid "Partner 1 Email"
+msgstr "パートナー 1 のメール"
+
+#: templates/class-partnership-agreement.php:51
+msgid "Partner 1 Phone"
+msgstr "パートナー 1 の電話"
+
+#: templates/class-partnership-agreement.php:59
+msgid "Partner 1 Address"
+msgstr "パートナー 1 の住所"
+
+#: templates/class-partnership-agreement.php:67
+msgid "Partner 2 Name"
+msgstr "パートナー 2 の名前"
+
+#: templates/class-partnership-agreement.php:75
+msgid "Partner 2 Company"
+msgstr "パートナー 2 の会社"
+
+#: templates/class-partnership-agreement.php:82
+msgid "Partner 2 Email"
+msgstr "パートナー 2 のメール"
+
+#: templates/class-partnership-agreement.php:89
+msgid "Partner 2 Phone"
+msgstr "パートナー 2 の電話"
+
+#: templates/class-partnership-agreement.php:96
+msgid "Partner 2 Address"
+msgstr "パートナー 2 の住所"
+
+#: templates/class-partnership-agreement.php:104
+msgid "Partnership Description"
+msgstr "パートナーシップの説明"
+
+#: templates/class-partnership-agreement.php:110
+msgid "Terms of Agreement"
+msgstr "利用規約"
+
+#: templates/class-partnership-agreement.php:116
+msgid "Agreement valid until"
+msgstr "契約はまで有効"
+
+#: templates/class-partnership-agreement.php:127
+msgid "Partnership Contribution"
+msgstr "パートナーシップの貢献"
+
+#: templates/class-partnership-agreement.php:133
+msgid ""
+"The present partnership agreement form is signed today under the rule of the"
+" present laws and regulations"
+msgstr "現在のパートナーシップ契約書は、現在の法令の規則の下で今日署名されています"
+
+#: templates/class-party-invitation-rsvp.php:21
+msgid "Party Invitation RSVP Form"
+msgstr "パーティー招待状 RSVP フォーム"
+
+#: templates/class-party-invitation-rsvp.php:37
+msgid "Will you be attending?"
+msgstr "参加していますか？"
+
+#: templates/class-party-invitation-rsvp.php:51
+msgid "How many additional guests?"
+msgstr "追加ゲスト数"
+
+#: templates/class-performance-improvement-plan.php:21
+msgid "Performance Improvement Plan Form"
+msgstr "業績改善計画書"
+
+#: templates/class-performance-improvement-plan.php:37
+msgid "Areas of improvement (Check all that apply)"
+msgstr "改善の分野（該当するものすべてをチェックしてください）"
+
+#: templates/class-performance-improvement-plan.php:40
+msgid "Efficacy"
+msgstr "効能"
+
+#: templates/class-performance-improvement-plan.php:43
+msgid "Attendance"
+msgstr "出席"
+
+#: templates/class-performance-improvement-plan.php:46
+msgid "Quality"
+msgstr "品質"
+
+#: templates/class-performance-improvement-plan.php:49
+msgid "Teamwork"
+msgstr "チームワーク"
+
+#: templates/class-performance-improvement-plan.php:52
+msgid "Productivity"
+msgstr "生産性"
+
+#: templates/class-performance-improvement-plan.php:55
+msgid "Professional Conduct"
+msgstr "職業上の行為"
+
+#: templates/class-performance-improvement-plan.php:65
+msgid "Please describe the reason(s) for submitting this plan."
+msgstr "この計画を提出した理由を説明してください。"
+
+#: templates/class-performance-improvement-plan.php:71
+msgid "Improvement Goals"
+msgstr "改善目標"
+
+#: templates/class-performance-improvement-plan.php:77
+msgid "Performance Goals"
+msgstr "パフォーマンス目標"
+
+#: templates/class-performance-improvement-plan.php:83
+msgid "Date for improvements to be completed"
+msgstr "改善が完了する日"
+
+#: templates/class-personal-trainer-signup.php:21
+msgid "Personal Trainer Sign-Up Form"
+msgstr "パーソナルトレーナー登録フォーム"
+
+#: templates/class-personal-trainer-signup.php:43
+msgid "Weight (lbs)"
+msgstr "重量（ポンド）"
+
+#: templates/class-personal-trainer-signup.php:70
+msgid "Trainer Preference"
+msgstr "トレーナーの好み"
+
+#: templates/class-personal-trainer-signup.php79,
+#: templates/class-sponsorship-request.php:66
+msgid "No preference"
+msgstr "指定なし"
+
+#: templates/class-personal-trainer-signup.php:86
+msgid "Desired Days"
+msgstr "希望日数"
+
+#: templates/class-personal-trainer-signup.php89,
+#: templates/class-volunteer-recruitment.php:98
+msgid "Monday"
+msgstr "月曜日"
+
+#: templates/class-personal-trainer-signup.php92,
+#: templates/class-volunteer-recruitment.php:101
+msgid "Tuesday"
+msgstr "火曜日"
+
+#: templates/class-personal-trainer-signup.php95,
+#: templates/class-volunteer-recruitment.php:104
+msgid "Wednesday"
+msgstr "水曜日"
+
+#: templates/class-personal-trainer-signup.php98,
+#: templates/class-volunteer-recruitment.php:107
+msgid "Thursday"
+msgstr "木曜日"
+
+#: templates/class-personal-trainer-signup.php101,
+#: templates/class-volunteer-recruitment.php:110
+msgid "Friday"
+msgstr "金曜日"
+
+#: templates/class-personal-trainer-signup.php:108
+msgid "Desired Times"
+msgstr "望ましい時間"
+
+#: templates/class-personal-trainer-signup.php:114
+msgid "Select a package"
+msgstr "パッケージを選択"
+
+#: templates/class-personal-trainer-signup.php:117
+msgid "Fitness Assessment"
+msgstr "フィットネス評価"
+
+#: templates/class-personal-trainer-signup.php:120
+msgid "One session"
+msgstr "1 セッション"
+
+#: templates/class-personal-trainer-signup.php:123
+msgid "4 weekly sessions"
+msgstr "週 4 回のセッション"
+
+#: templates/class-personal-trainer-signup.php:126
+msgid "12 weekly sessions"
+msgstr "週 12 回のセッション"
+
+#: templates/class-pledge-drive.php:21
+msgid "Pledge Drive Form"
+msgstr "誓約書ドライブフォーム"
+
+#: templates/class-pledge-drive.php:58
+msgid "I am pledging support to this campaign as a/an :"
+msgstr "このキャンペーンへの支持を誓います。"
+
+#: templates/class-pledge-drive.php:61
+msgid "Student: $20"
+msgstr "学生: $20"
+
+#: templates/class-pledge-drive.php:64
+msgid "Individual: $45"
+msgstr "個々: $45"
+
+#: templates/class-pledge-drive.php:67
+msgid "Family: $60"
+msgstr "家族: $60"
+
+#: templates/class-pledge-drive.php:70
+msgid "Sustainer: $150"
+msgstr "サステイナー: $150"
+
+#: templates/class-pledge-drive.php:73
+msgid "Friend: $300"
+msgstr " 友人 : $300"
+
+#: templates/class-pledge-drive.php:76
+msgid "Patron: $500"
+msgstr "パトロン: $500"
+
+#: templates/class-pledge-drive.php:79
+msgid "Benefactor: $1000"
+msgstr "恩人: $1000"
+
+#: templates/class-pledge-drive.php:87
+msgid "In Memory Of"
+msgstr "この人の記憶に。"
+
+#: templates/class-pledge-drive.php:93
+msgid "In Honor Of"
+msgstr "敬意を表して"
+
+#: templates/class-potluck-invitation-rsvp.php:21
+msgid "Potluck Invitation RSVP Form"
+msgstr "Potluck の招待状 RSVP フォーム"
+
+#: templates/class-potluck-invitation-rsvp.php:37
+msgid "Are you coming?"
+msgstr "参加していますか？"
+
+#: templates/class-potluck-invitation-rsvp.php:43
+msgid "Yes, with a guest!"
+msgstr "はい、ゲストと一緒に！"
+
+#: templates/class-potluck-invitation-rsvp.php:46
+msgid "I'm not sure yet"
+msgstr "まだ知らない"
+
+#: templates/class-potluck-invitation-rsvp.php:49
+msgid "Can't make it"
+msgstr "行けない"
+
+#: templates/class-potluck-invitation-rsvp.php:56
+msgid "What are you bringing?"
+msgstr "何を持っていくの？"
+
+#: templates/class-prayer-request.php:21
+msgid "Prayer Request Form"
+msgstr "祈り依頼書"
+
+#: templates/class-prayer-request.php:62
+msgid "Prayer request / intention"
+msgstr "祈りの依頼・意思"
+
+#: templates/class-race-registration.php:21
+msgid "Race Registration Form"
+msgstr "レース登録フォーム"
+
+#: templates/class-race-registration.php:29
+msgid "Which race will you participate in?"
+msgstr "どのレースに参加しますか？"
+
+#: templates/class-race-registration.php:35
+msgid "10k"
+msgstr "10k"
+
+#: templates/class-race-registration.php:38
+msgid "Half Marathon"
+msgstr "ハーフマラソン"
+
+#: templates/class-race-registration.php:61
+msgid "What size T-shirt do you wear?"
+msgstr ""
+
+#: templates/class-recipe-catalog.php:21
+msgid "Recipe Catalog Form"
+msgstr "レシピーカタログフォーム"
+
+#: templates/class-recipe-catalog.php:29
+msgid "Recipe Name"
+msgstr "レシピー名"
+
+#: templates/class-recipe-catalog.php:41
+msgid "Cuisine"
+msgstr "料理"
+
+#: templates/class-recipe-catalog.php:44
+msgid "African"
+msgstr "アフリカ料理"
+
+#: templates/class-recipe-catalog.php:47
+msgid "American"
+msgstr " アメリカ料理"
+
+#: templates/class-recipe-catalog.php:50
+msgid "Asian"
+msgstr "アジア料理"
+
+#: templates/class-recipe-catalog.php:53
+msgid "Caribbean"
+msgstr "カリブ海料理"
+
+#: templates/class-recipe-catalog.php:56
+msgid "Chinese"
+msgstr "中国語"
+
+#: templates/class-recipe-catalog.php:59
+msgid "French"
+msgstr "フランス語"
+
+#: templates/class-recipe-catalog.php:62
+msgid "Greek"
+msgstr "ギリシャ語"
+
+#: templates/class-recipe-catalog.php:65
+msgid "Indian"
+msgstr "インド"
+
+#: templates/class-recipe-catalog.php:68
+msgid "Italian"
+msgstr "イタリア語"
+
+#: templates/class-recipe-catalog.php:71
+msgid "Japanese"
+msgstr "日本語"
+
+#: templates/class-recipe-catalog.php:74
+msgid "Mexican"
+msgstr "メキシコ料理"
+
+#: templates/class-recipe-catalog.php:77
+msgid "Middle Eastern"
+msgstr "中東料理"
+
+#: templates/class-recipe-catalog.php:80
+msgid "Moroccan"
+msgstr "モロッコ料理"
+
+#: templates/class-recipe-catalog.php:83
+msgid "Spanish"
+msgstr "スペイン語"
+
+#: templates/class-recipe-catalog.php:86
+msgid "Thai"
+msgstr "タイ語"
+
+#: templates/class-recipe-catalog.php:97
+msgid "Dish type"
+msgstr "料理の種類"
+
+#: templates/class-recipe-catalog.php:100
+msgid "Appetizer"
+msgstr "アペタイザー"
+
+#: templates/class-recipe-catalog.php:103
+msgid "Beverage"
+msgstr "飲み物"
+
+#: templates/class-recipe-catalog.php:106
+msgid "Bread"
+msgstr "パン"
+
+#: templates/class-recipe-catalog.php:112
+msgid "Main"
+msgstr "メイン"
+
+#: templates/class-recipe-catalog.php115,
+#: templates/class-wedding-invitation-rsvp.php60,
+#: templates/class-wedding-invitation-rsvp.php98,
+#: templates/class-workshop-registration.php:67
+msgid "Salad"
+msgstr "サラダ"
+
+#: templates/class-recipe-catalog.php:118
+msgid "Soup"
+msgstr "スープ"
+
+#: templates/class-recipe-catalog.php:121
+msgid "Side dish"
+msgstr "副菜"
+
+#: templates/class-recipe-catalog.php:129
+msgid "Primary ingredient"
+msgstr "主成分"
+
+#: templates/class-recipe-catalog.php:135
+msgid "Ingredients"
+msgstr "材料"
+
+#: templates/class-recipe-catalog.php:141
+msgid "Instructions"
+msgstr "説明"
+
+#: templates/class-recipe-catalog.php:147
+msgid "Prep time"
+msgstr "準備時間"
+
+#: templates/class-recipe-catalog.php:153
+msgid "Cook time"
+msgstr "調理時間"
+
+#: templates/class-recipe-catalog.php:159
+msgid "Number of servings"
+msgstr "サービングの数"
+
+#: templates/class-recipe-catalog.php:165
+msgid "Source"
+msgstr "ソース"
+
+#: templates/class-rent-receipt.php:21
+msgid "Rent Receipt Form"
+msgstr "家賃領収書フォーム"
+
+#: templates/class-rent-receipt.php:40
+msgid "Tenant Name"
+msgstr "テナント名"
+
+#: templates/class-rent-receipt.php:48
+msgid "Tenant Email"
+msgstr "テナントメール"
+
+#: templates/class-rent-receipt.php:55
+msgid "Amount Paid"
+msgstr "払込金額"
+
+#: templates/class-rent-receipt.php:69
+msgid "Payment Type"
+msgstr "支払いタイプ"
+
+#: templates/class-rent-receipt.php:72
+msgid "Cash"
+msgstr "現金"
+
+#: templates/class-rent-receipt.php:75
+msgid "Check"
+msgstr "チェック"
+
+#: templates/class-rent-receipt.php:78
+msgid "Money order"
+msgstr "マネーオーダー"
+
+#: templates/class-rent-receipt.php:85
+msgid "Payment Received By"
+msgstr "支払い受領者"
+
+#: templates/class-retreat-registration.php:21
+msgid "Retreat Registration Form"
+msgstr "退会登録フォーム"
+
+#: templates/class-retreat-registration.php:59
+msgid "Arrival Date"
+msgstr "到着日"
+
+#: templates/class-retreat-registration.php70,
+#: templates/class-travel-request.php:86
+msgid "Departure Date"
+msgstr "出発日"
+
+#: templates/class-retreat-registration.php:81
+msgid "Accommodation Status"
+msgstr "宿泊状況"
+
+#: templates/class-retreat-registration.php:84
+msgid "Single"
+msgstr "未婚"
+
+#: templates/class-retreat-registration.php:87
+msgid "Couple"
+msgstr "カップル"
+
+#: templates/class-retreat-registration.php:90
+msgid "Group"
+msgstr "グループ"
+
+#: templates/class-retreat-registration.php:96
+msgid "Roommate Selected"
+msgstr "ルームメイト選択"
+
+#: templates/class-retreat-registration.php:99
+msgid "Need Roommate"
+msgstr "ルームメイトが必要"
+
+#: templates/class-retreat-registration.php:102
+msgid "Without Accommodations"
+msgstr "宿泊施設なし"
+
+#: templates/class-retreat-registration.php:110
+msgid "Special Needs"
+msgstr "特別なニーズ"
+
+#: templates/class-school-id-registration.php:21
+msgid "School ID Registration Form"
+msgstr "学籍登録フォーム"
+
+#: templates/class-school-id-registration.php:37
+msgid "Expected Year of Graduation"
+msgstr "卒業予定年"
+
+#: templates/class-school-id-registration.php:64
+msgid "School ID"
+msgstr "学校 ID"
+
+#: templates/class-simple-rsvp.php:21
+msgid "Simple RSVP Form"
+msgstr "簡単なRSVPフォーム"
+
+#: templates/class-simple-rsvp.php:37
+msgid "Are you able to attend?"
+msgstr "来られますか？"
+
+#: templates/class-simple-rsvp.php:54
+msgid "How many guests will you be bringing?"
+msgstr "何人が一緒に来ていますか？"
+
+#: templates/class-simple-rsvp.php:60
+msgid "Do you or your guest(s) have any dietary restrictions?"
+msgstr "あなたまたはゲストは食事制限をしていますか？"
+
+#: templates/class-simple-rsvp.php:69
+msgid "Vegan"
+msgstr "ビーガン"
+
+#: templates/class-simple-rsvp.php:91
+msgid ""
+"Please elaborate on any dietary restrictions that apply, or let us know if "
+"there's anything else you'd like to tell us. Hope to see you soon"
+msgstr "適用される食事制限について詳しく説明してください、または言いたいことが他にあるかどうか私達に知らせてください。"
+
+#: templates/class-ski-lodge-registration.php:21
+msgid "Ski Lodge Registration Form"
+msgstr "スキーロッジ登録フォーム"
+
+#: templates/class-ski-lodge-registration.php:58
+msgid "Booking Information"
+msgstr "予約情報"
+
+#: templates/class-ski-lodge-registration.php:64
+msgid "Ski Resort"
+msgstr "スキーリゾート"
+
+#: templates/class-ski-lodge-registration.php:70
+msgid "Preferred Lodge"
+msgstr "好ましいロッジ"
+
+#: templates/class-ski-lodge-registration.php:73
+msgid "Lodge A"
+msgstr "ロッジ A"
+
+#: templates/class-ski-lodge-registration.php:76
+msgid "Lodge B"
+msgstr "ロッジ B"
+
+#: templates/class-ski-lodge-registration.php:79
+msgid "Lodge C"
+msgstr "ロッジ C"
+
+#: templates/class-ski-lodge-registration.php:87
+msgid "Check In Date"
+msgstr "チェックイン日"
+
+#: templates/class-ski-lodge-registration.php:98
+msgid "Check Out Date"
+msgstr "チェックアウト日"
+
+#: templates/class-ski-lodge-registration.php:109
+msgid "Total number of guests"
+msgstr "総宿泊人数"
+
+#: templates/class-ski-lodge-registration.php:115
+msgid "Special Requests"
+msgstr "特別なお願い"
+
+#: templates/class-sponsorship-request.php:21
+msgid "Sponsorship Request Form"
+msgstr "スポンサーシップ依頼書"
+
+#: templates/class-sponsorship-request.php:29
+msgid "Company or Group Requesting Sponsorship"
+msgstr "スポンサーを依頼する会社またはグループ"
+
+#: templates/class-sponsorship-request.php:57
+msgid "Preferred Contact Method"
+msgstr "優先連絡方法"
+
+#: templates/class-sponsorship-request.php:73
+msgid ""
+"Please describe the event or program that the sponsorship will support."
+msgstr "スポンサーシップが支援するイベントやプログラムを説明してください"
+
+#: templates/class-sponsorship-request.php:79
+msgid "Please indicate which sponsorship level you are seeking."
+msgstr "どのスポンサーシップレベルをお探しですか？"
+
+#: templates/class-sponsorship-request.php:82
+msgid "Platinum"
+msgstr "プラチナ"
+
+#: templates/class-sponsorship-request.php:85
+msgid "Gold"
+msgstr "金色"
+
+#: templates/class-sponsorship-request.php:88
+msgid "Silver"
+msgstr "シルバー"
+
+#: templates/class-sponsorship-request.php:95
+msgid "Additional Comments / Requests"
+msgstr "追加のコメントやリクエスト"
+
+#: templates/class-summer-camp-registration.php:21
+msgid "Summer Camp Registration Form"
+msgstr "サマーキャンプ登録フォーム"
+
+#: templates/class-summer-camp-registration.php:29
+msgid "Child Information"
+msgstr "子どもの情報"
+
+#: templates/class-summer-camp-registration.php:58
+msgid "1st Grade"
+msgstr "1 年生"
+
+#: templates/class-summer-camp-registration.php:61
+msgid "2nd Grade"
+msgstr "2 年生"
+
+#: templates/class-summer-camp-registration.php:64
+msgid "3rd Grade"
+msgstr "3 年生"
+
+#: templates/class-summer-camp-registration.php:67
+msgid "4th Grade"
+msgstr "4 年生"
+
+#: templates/class-summer-camp-registration.php:70
+msgid "5th Grade"
+msgstr "5 年生"
+
+#: templates/class-summer-camp-registration.php:73
+msgid "6th Grade"
+msgstr "6 年生"
+
+#: templates/class-summer-camp-registration.php:76
+msgid "7th Grade"
+msgstr "7 年生"
+
+#: templates/class-summer-camp-registration.php:79
+msgid "8th Grade"
+msgstr "8 年生"
+
+#: templates/class-summer-camp-registration.php:88
+msgid "Name of School"
+msgstr "学校名"
+
+#: templates/class-summer-camp-registration.php:94
+msgid "Parent/Guardian Information"
+msgstr "保護者情報"
+
+#: templates/class-summer-camp-registration.php:131
+msgid "Section Divider"
+msgstr "セクションデバイダー"
+
+#: templates/class-summer-camp-registration.php:153
+msgid "Medical Concerns"
+msgstr "医療上の懸念"
+
+#: templates/class-super-bowl-party-rsvp.php:21
+msgid "Super Bowl Party RSVP Form"
+msgstr "スーパーボールパーティーRSVPフォーム"
+
+#: templates/class-super-bowl-party-rsvp.php:37
+msgid "Will you make it?"
+msgstr "来られますか？"
+
+#: templates/class-super-bowl-party-rsvp.php:40
+msgid "Yes, I'll be there"
+msgstr "はい、そこにいます"
+
+#: templates/class-super-bowl-party-rsvp.php:43
+msgid "No, I can't handle it"
+msgstr "いいえ、来られません"
+
+#: templates/class-super-bowl-party-rsvp.php:51
+msgid "You're bringing..."
+msgstr "何を持っていますか？"
+
+#: templates/class-super-bowl-party-rsvp.php:57
+msgid "Any guests?"
+msgstr "ゲストを連れてきますか？"
+
+#: templates/class-super-bowl-party-rsvp.php:63
+msgid "The winning team will be"
+msgstr "どのチームが勝つのだろうか？"
+
+#: templates/class-super-bowl-party-rsvp.php:69
+msgid "Guess the final score"
+msgstr "最終スコアを推測する"
+
+#: templates/class-support-ticket.php:21
+msgid "Support Ticket Form"
+msgstr "サポートチケットフォーム"
+
+#: templates/class-support-ticket.php:44
+msgid "What can we help you with today?"
+msgstr "今日何を手助けすることができますか？"
+
+#: templates/class-support-ticket.php:47
+msgid "General question"
+msgstr "一般的な質問"
+
+#: templates/class-support-ticket.php:50
+msgid "Feature request"
+msgstr "機能リクエスト"
+
+#: templates/class-support-ticket.php:53
+msgid "Bug report"
+msgstr "バグレポート"
+
+#: templates/class-support-ticket.php:56
+msgid "My account"
+msgstr "マイアカウント"
+
+#: templates/class-support-ticket.php:66
+msgid "Your Website"
+msgstr "サイト"
+
+#: templates/class-support-ticket.php:72
+msgid "Issues / Message"
+msgstr "問題 / メッセージ"
+
+#: templates/class-takeout-order.php:21
+msgid "Takeout Order Form"
+msgstr "テイクアウト注文書"
+
+#: templates/class-takeout-order.php:29
+msgid "What type of pizza would you like?"
+msgstr "どの種類のピザが好きですか？"
+
+#: templates/class-takeout-order.php:32
+msgid "Cheese"
+msgstr "チーズ"
+
+#: templates/class-takeout-order.php:35
+msgid "Pepperoni (+ $0.50)"
+msgstr "ペパロニ（+ $ 0.50）"
+
+#: templates/class-takeout-order.php:38
+msgid "Sausage (+ $0.50)"
+msgstr "ソーセージ（+ $ 0.50）"
+
+#: templates/class-takeout-order.php:47
+msgid "How many pizzas would you like to order?"
+msgstr "いくつのピザを注文しますか？"
+
+#: templates/class-takeout-order.php:50
+msgid "1 - $10"
+msgstr "1 - $10"
+
+#: templates/class-takeout-order.php:53
+msgid "2 - $20"
+msgstr "2 - $20"
+
+#: templates/class-takeout-order.php:56
+msgid "3 - $30"
+msgstr "3 - $30"
+
+#: templates/class-testimonial.php:21
+msgid "Testimonial Form"
+msgstr "お客様の声のフォーム"
+
+#: templates/class-testimonial.php:56
+msgid "Which product/service do you use?"
+msgstr "どの製品やサービスを使用していますか？"
+
+#: templates/class-testimonial.php:59
+msgid "Product A"
+msgstr "製品 A"
+
+#: templates/class-testimonial.php:62
+msgid "Product B"
+msgstr "製品 B"
+
+#: templates/class-testimonial.php:65
+msgid "Service A"
+msgstr "サービス A"
+
+#: templates/class-testimonial.php:68
+msgid "Service B"
+msgstr "サービス B"
+
+#: templates/class-testimonial.php:76
+msgid "Tell us what you think about the product/service."
+msgstr "製品やサービスについてどう思うか教えてください。"
+
+#: templates/class-testimonial.php:82
+msgid "May we post your testimonial (or a portion of it) on our website?"
+msgstr "紹介文（またはその一部）をサイトに投稿してもいいですか？"
+
+#: templates/class-time-sheet.php:21
+msgid "Time Sheet Form"
+msgstr "タイムシートフォーム"
+
+#: templates/class-time-sheet.php:37
+msgid "Project / Client"
+msgstr "プロジェクト / クライアント"
+
+#: templates/class-time-sheet.php:40
+msgid "Acme Corp"
+msgstr "Acme Corp"
+
+#: templates/class-time-sheet.php:43
+msgid "John Doe LLC"
+msgstr "John Doe LLC"
+
+#: templates/class-time-sheet.php:62
+msgid "Hours"
+msgstr "営業時間"
+
+#: templates/class-time-sheet.php:68
+msgid "Hourly Rate"
+msgstr "時給"
+
+#: templates/class-to-do-list.php:21
+msgid "To Do List Form"
+msgstr "やることリストフォーム"
+
+#: templates/class-to-do-list.php:58
+msgid "Category"
+msgstr "カテゴリー"
+
+#: templates/class-to-do-list.php:61
+msgid "Personal"
+msgstr "個人的な"
+
+#: templates/class-to-do-list.php:64
+msgid "Home"
+msgstr "ホーム"
+
+#: templates/class-to-do-list.php:67
+msgid "Business"
+msgstr "ビジネス"
+
+#: templates/class-to-do-list.php:75
+msgid "Due Date"
+msgstr "期日"
+
+#: templates/class-travel-request.php:21
+msgid "Travel Request Form"
+msgstr "旅行依頼フォーム"
+
+#: templates/class-travel-request.php:43
+msgid "Manager / Supervisor"
+msgstr "マネージャー / スーパーバイザー"
+
+#: templates/class-travel-request.php:49
+msgid "Reason for travel"
+msgstr "旅行の理由"
+
+#: templates/class-travel-request.php:55
+msgid "Travel arrangements needed"
+msgstr "旅行の手配が必要"
+
+#: templates/class-travel-request.php:58
+msgid "Flight"
+msgstr "フライト"
+
+#: templates/class-travel-request.php:61
+msgid "Hotel"
+msgstr "ホテル"
+
+#: templates/class-travel-request.php:64
+msgid "Rental Car"
+msgstr "レンタカー"
+
+#: templates/class-travel-request.php:74
+msgid "Departure City"
+msgstr "出発都市"
+
+#: templates/class-travel-request.php:80
+msgid "Arrival City"
+msgstr "到着市"
+
+#: templates/class-travel-request.php:97
+msgid "Return Date"
+msgstr "返却日"
+
+#: templates/class-tshirt-order.php:21
+msgid "T-Shirt Order Form"
+msgstr ""
+
+#: templates/class-tshirt-order.php:29
+msgid "T-Shirt Details"
+msgstr "Tシャツの詳細"
+
+#: templates/class-tshirt-order.php:35
+msgid "Design"
+msgstr "デザイン"
+
+#: templates/class-tshirt-order.php:38
+msgid "Ninja Shirt"
+msgstr "ニンジャ"
+
+#: templates/class-tshirt-order.php:41
+msgid "Robot Shirt"
+msgstr "ロボット"
+
+#: templates/class-tshirt-order.php:44
+msgid "Pirate Shirt"
+msgstr "パイレーツ"
+
+#: templates/class-tshirt-order.php:53
+msgid "Size"
+msgstr "サイズ"
+
+#: templates/class-tshirt-order.php:74
+msgid "Color"
+msgstr "色"
+
+#: templates/class-tshirt-order.php:77
+msgid "Red"
+msgstr "赤"
+
+#: templates/class-tshirt-order.php:80
+msgid "Blue"
+msgstr "青"
+
+#: templates/class-tshirt-order.php:83
+msgid "Green"
+msgstr "緑"
+
+#: templates/class-tshirt-order.php:86
+msgid "Black"
+msgstr "黒"
+
+#: templates/class-tshirt-order.php:98
+msgid "Your Details"
+msgstr "あなたの詳細"
+
+#: templates/class-tshirt-order.php:127
+msgid "Gift"
+msgstr "プレゼント"
+
+#: templates/class-tshirt-order.php:130
+msgid "This is a gift"
+msgstr "これはギフトです"
+
+#: templates/class-vendor-contact-information.php:21
+msgid "Vendor Contact Information Form"
+msgstr "ベンダー連絡先情報フォーム"
+
+#: templates/class-vendor-contact-information.php:29
+msgid "Vendor Name"
+msgstr "業者名"
+
+#: templates/class-vendor-contact-information.php:42
+msgid "Contact Name"
+msgstr "連絡先の名前"
+
+#: templates/class-vendor-registration.php:21
+msgid "Vendor Registration Form"
+msgstr "ベンダー登録フォーム"
+
+#: templates/class-vendor-registration.php:29
+msgid "Company's Legal Name"
+msgstr "会社の正式名称"
+
+#: templates/class-vendor-registration.php:35
+msgid "Business Type"
+msgstr "ビジネスタイプ"
+
+#: templates/class-vendor-registration.php:41
+msgid "Distributor"
+msgstr "ディストリビューター"
+
+#: templates/class-vendor-registration.php:44
+msgid "Service Provider"
+msgstr "サービス提供者"
+
+#: templates/class-vendor-registration.php:52
+msgid "What kind of products/services does your company offer?"
+msgstr "会社はどのような製品/サービスを提供していますか？"
+
+#: templates/class-vendor-registration.php:58
+msgid "Company Website"
+msgstr "会社のサイト"
+
+#: templates/class-vendor-registration.php:64
+msgid "Company Founding Year"
+msgstr "会社設立年"
+
+#: templates/class-vendor-registration.php:70
+msgid "Company Address"
+msgstr "会社の住所"
+
+#: templates/class-vendor-registration.php:77
+msgid "Name of person representing the company"
+msgstr "会社を代表する人の名前"
+
+#: templates/class-veterinarian-patient-intake.php:21
+msgid "Veterinarian Patient Intake Form"
+msgstr "獣医師の患者用摂取フォーム"
+
+#: templates/class-veterinarian-patient-intake.php:29
+msgid "Owner Information"
+msgstr "オーナー情報"
+
+#: templates/class-veterinarian-patient-intake.php:65
+msgid "Pet Information"
+msgstr "ペット情報"
+
+#: templates/class-veterinarian-patient-intake.php:85
+msgid "Species and Breed"
+msgstr "種と品種"
+
+#: templates/class-veterinarian-patient-intake.php:92
+msgid "Please describe the problem or issue"
+msgstr "問題を説明してください"
+
+#: templates/class-video-release.php:21
+msgid "Video Release Form"
+msgstr "ビデオリリースフォーム"
+
+#: templates/class-video-release.php:29
+msgid "Name of Individual Being Recorded"
+msgstr "記録されている個人の名前"
+
+#: templates/class-video-release.php:37
+msgid "Conditions"
+msgstr "条件"
+
+#: templates/class-video-release.php:39
+msgid ""
+"<em>(Please note, this example form does not constitute a fully written and usable photography release. The content here is merely for example purposes.</em>\n"
+"\t\t\t\t\t\t\t<p>I hereby grant the XYZ COMPANY, its directors, officers, employees, agents, and designers (collectively “XYZ COMPANY”) non-revocable permission to capture my image and likeness in videotapes, motion pictures, recordings, or any other media (collectively “Images”). I acknowledge that XYZ COMPANY will own such Images and further grant the XYZ COMPANY permission to copyright, display, publish, distribute, use, modify, print and reprint such Images in any manner whatsoever related to XYZ COMPANY business, including without limitation, publications, advertisements, brochures, web site images, or other electronic displays and transmissions thereof. I further waive any right to inspect or approve the use of the Image by the XYZ COMPANY prior to its use. I forever release and hold the XYZ COMPANY harmless from any and all liability arising out of the use of the Images in any manner or media whatsoever, and waive any and all claims and causes of action relating to use of the Images, including without limitation, claims for invasion of privacy rights or publicity. </p>\n"
+"\t\t\t\t\t\t\t<p>I hereby warrant that I am eighteen (18) years old or more and competent to contract in my own name or, if I am less than eighteen years old, that my parent or guardian has signed this release form below. This release is binding on me and my heirs, assignees and personal representatives.</p>"
+msgstr ""
+
+#: templates/class-video-release.php:66
+msgid "I agree to the conditions above."
+msgstr "上記の条件に同意します。"
+
+#: templates/class-volunteer-recruitment.php:21
+msgid "Volunteer Recruitment Form"
+msgstr "ボランティア募集フォーム"
+
+#: templates/class-volunteer-recruitment.php:29
+msgid "Which programs are you interested in volunteering for?"
+msgstr "どのプログラムに参加していますか？"
+
+#: templates/class-volunteer-recruitment.php:32
+msgid "Homelessness"
+msgstr "ホームレス"
+
+#: templates/class-volunteer-recruitment.php:35
+msgid "Child abuse and neglect"
+msgstr "児童虐待や放置"
+
+#: templates/class-volunteer-recruitment.php:38
+msgid "Drug and alcohol addiction"
+msgstr "薬物とアルコール中毒"
+
+#: templates/class-volunteer-recruitment.php:41
+msgid "Medical research"
+msgstr "医学研究"
+
+#: templates/class-volunteer-recruitment.php:44
+msgid "Health and safety"
+msgstr "健康と安全"
+
+#: templates/class-volunteer-recruitment.php:54
+msgid "Which events are you interested in volunteering for?"
+msgstr "どのイベントに参加していますか？"
+
+#: templates/class-volunteer-recruitment.php:57
+msgid "Annual walk-a-thon"
+msgstr "年次 walk-a-thon"
+
+#: templates/class-volunteer-recruitment.php:60
+msgid "Quarterly raffle"
+msgstr "四半期ごとのラッフル"
+
+#: templates/class-volunteer-recruitment.php:63
+msgid "Black-tie Gala"
+msgstr "ブラックタイガラ"
+
+#: templates/class-volunteer-recruitment.php:73
+msgid "How many hours per week would you be able to dedicate?"
+msgstr "1週間に何時間献身できますか？"
+
+#: templates/class-volunteer-recruitment.php:76
+msgid "3 hour or less"
+msgstr "3時間以内"
+
+#: templates/class-volunteer-recruitment.php:79
+msgid "3 to 5 hours"
+msgstr "3〜5時間"
+
+#: templates/class-volunteer-recruitment.php:82
+msgid "5 to 10 hours"
+msgstr "5〜10時間"
+
+#: templates/class-volunteer-recruitment.php:85
+msgid "10 to 20 hours"
+msgstr "10〜20時間"
+
+#: templates/class-volunteer-recruitment.php:88
+msgid "20 or more hours"
+msgstr "20時間以上"
+
+#: templates/class-volunteer-recruitment.php:95
+msgid "What days of the week are you available?"
+msgstr "どの曜日が利用できますか。"
+
+#: templates/class-volunteer-recruitment.php:113
+msgid "Saturday"
+msgstr "土曜日"
+
+#: templates/class-volunteer-recruitment.php:116
+msgid "Sunday"
+msgstr "日曜日"
+
+#: templates/class-volunteer-recruitment.php:123
+msgid ""
+"Please list any relevant experiences you have that you feel would benefit "
+"any of the above programs or events."
+msgstr "上記のプログラムまたはイベントのいずれかに役立つと思われる、関連する経験をすべてリストしてください。"
+
+#: templates/class-volunteer-recruitment.php:129
+msgid "How did you find out about our organization?"
+msgstr "組織についてどのように知りましたか？"
+
+#: templates/class-volunteer-recruitment.php:132
+msgid "Direct mail"
+msgstr "ダイレクトメール"
+
+#: templates/class-volunteer-recruitment.php:138
+msgid "Online Search"
+msgstr "オンライン検索"
+
+#: templates/class-volunteer-recruitment.php:141
+msgid "Friend / Family"
+msgstr "友達 / 家族"
+
+#: templates/class-volunteer-recruitment.php:144
+msgid "Business Colleague "
+msgstr "ビジネス同僚"
+
+#: templates/class-webinar-registration.php:21
+msgid "Webinar Registration Form"
+msgstr "ウェビナー登録フォーム"
+
+#: templates/class-webinar-registration.php:50
+msgid "How did you hear about this webinar?"
+msgstr "このウェビナーについてどのように知りましたか？"
+
+#: templates/class-webinar-registration.php:53
+msgid "Social media"
+msgstr "ソーシャルメディア"
+
+#: templates/class-wedding-invitation-rsvp.php:21
+msgid "Wedding Invitation RSVP Form"
+msgstr "結婚式招待状RSVPフォーム"
+
+#: templates/class-wedding-invitation-rsvp.php:37
+msgid "Are you attending?"
+msgstr "参加していますか？"
+
+#: templates/class-wedding-invitation-rsvp.php:51
+msgid "Your meal selection"
+msgstr "食事の選択"
+
+#: templates/class-wedding-invitation-rsvp.php54,
+#: templates/class-wedding-invitation-rsvp.php92,
+#: templates/class-workshop-registration.php:61
+msgid "Chicken"
+msgstr "チキン"
+
+#: templates/class-wedding-invitation-rsvp.php57,
+#: templates/class-wedding-invitation-rsvp.php95,
+#: templates/class-workshop-registration.php:64
+msgid "Fish"
+msgstr "魚"
+
+#: templates/class-wedding-invitation-rsvp.php:67
+msgid "Are you bringing a guest?"
+msgstr "ゲストを連れてきますか？"
+
+#: templates/class-wedding-invitation-rsvp.php:81
+msgid "Guest Name"
+msgstr "ゲストのお名前"
+
+#: templates/class-wedding-invitation-rsvp.php:89
+msgid "Guest meal selection"
+msgstr "ゲストの食事の選択"
+
+#: templates/class-work-order-request.php:21
+msgid "Work Order Request Form"
+msgstr "作業指示書依頼フォーム"
+
+#: templates/class-work-order-request.php:51
+msgid "Building Number"
+msgstr "ビル番号"
+
+#: templates/class-work-order-request.php:57
+msgid "Room Number"
+msgstr "部屋番号"
+
+#: templates/class-work-order-request.php:63
+msgid "Request Type"
+msgstr "リクエストの種類"
+
+#: templates/class-work-order-request.php:66
+msgid "General maintenance"
+msgstr "一般的なメンテナンス"
+
+#: templates/class-work-order-request.php:69
+msgid "Repairs"
+msgstr "修理"
+
+#: templates/class-work-order-request.php:72
+msgid "Housekeeping"
+msgstr "ハウスキーピング"
+
+#: templates/class-work-order-request.php:75
+msgid "Safety issue"
+msgstr "安全性の問題"
+
+#: templates/class-work-order-request.php:78
+msgid "Event setup/tear down"
+msgstr "イベント設定"
+
+#: templates/class-workshop-registration.php:21
+msgid "Workshop Registration Form"
+msgstr "ワークショップ登録フォーム"
+
+#: templates/class-workshop-registration.php:58
+msgid "Select a meal preference"
+msgstr "食事の好みを選ぶ"
+
+#: templates/class-workshop-registration.php:70
+msgid "At noon we will break for a one hour lunch."
+msgstr "正午には1時間の昼食に休憩します。"

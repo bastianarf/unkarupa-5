@@ -1,0 +1,246 @@
+# Copyright (C) 2018 WPForms Drip
+# This file is distributed under the same license as the WPForms Drip package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Drip\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: hi\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. translators: %s - WPForms.com documentation page URI.
+#: wpforms-drip.php:62
+msgid ""
+"The WPForms Drip plugin has been deactivated. Your site is running an "
+"outdated version of PHP that is no longer supported and is not compatible "
+"with the Drip addon. <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Read more</a> for additional information."
+msgstr ""
+"WPForms ड्रिप प्लगइन निष्क्रिय कर दिया गया है। आपकी साइट PHP का पुराना संस्करण चला "
+"रही है जो अब समर्थित नहीं है और ड्रिप एडऑन के साथ संगत नहीं है। अतिरिक्त जानकारी के "
+"लिए <a href=“%s” target=“_blank” rel=“noopener noreferrer”>और पढ़ें</a>।"
+
+#: src/Provider/Core.php:24
+msgid "Drip"
+msgstr "ड्रिप"
+
+#. translators: %s - current provider name.
+#: src/Provider/Core.php:95
+msgid "%s Account Name"
+msgstr "%s खाता नाम"
+
+#. translators: %s - current provider name.
+#: src/Provider/Core.php:104
+msgid "%s API Token"
+msgstr "%s API टोकन"
+
+#. translators: %s - URL to a Drip User Info page.
+#: src/Provider/Core.php:113
+msgid ""
+"You can get the <code>API Token</code> on <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">User Info</a> page."
+msgstr ""
+"आप <a href=“%s” target=“_blank” rel=“noopener noreferrer”>उपयोगकर्ता "
+"जानकारी</a> पृष्ठ पर <code>API टोकन</code> प्राप्त कर सकते हैं।"
+
+#: src/Provider/FormBuilder.php:323
+msgid "New Drip Account"
+msgstr "नया ड्रिप खाता"
+
+#: src/Provider/FormBuilder.php:350, src/Provider/PageIntegrations.php:39
+msgid "Error requesting a Drip user info. Make sure API token is correct."
+msgstr ""
+"एक ड्रिप उपयोगकर्ता जानकारी का अनुरोध करने में त्रुटि। सुनिश्चित करें कि API टोकन सही "
+"है।"
+
+#: src/Provider/FormBuilder.php:437
+msgid "Select Account"
+msgstr "खाता चुनें"
+
+#: src/Provider/FormBuilder.php:444
+msgid "--- Select Account ---"
+msgstr "--- खाता चुनें ---"
+
+#: src/Provider/FormBuilder.php:459
+msgid "Action To Perform"
+msgstr "प्रदर्शन करने की क्रिया"
+
+#: src/Provider/FormBuilder.php:466
+msgid "--- Select Action ---"
+msgstr "---क्रिया का चयन करें---"
+
+#: src/Provider/FormBuilder.php:468
+msgid "Subscriber: Create or Update"
+msgstr "सदस्य: बनाएं या अपडेट करें"
+
+#: src/Provider/FormBuilder.php:469
+msgid "Subscriber: Delete"
+msgstr "सदस्य: हटाएं"
+
+#: src/Provider/FormBuilder.php:470
+msgid "Campaign: Subscribe"
+msgstr "अभियान: सदस्यता लें"
+
+#: src/Provider/FormBuilder.php:471
+msgid "Campaign: Unsubscribe"
+msgstr "अभियान: सदस्यता छोड़ें"
+
+#: src/Provider/FormBuilder.php:472
+msgid "Record Event"
+msgstr "रिकॉर्ड इवेंट"
+
+#: src/Provider/FormBuilder.php:496
+msgid "Custom Events"
+msgstr "कस्टम ईवेंट"
+
+#: src/Provider/FormBuilder.php:504
+msgid "--- Select Saved Event ---"
+msgstr "---सहेजे गए इवेंट का चयन करें---"
+
+#: src/Provider/FormBuilder.php:515
+msgid "Add New"
+msgstr "नया जोड़ें"
+
+#: src/Provider/FormBuilder.php:523
+msgid "Your new custom event name"
+msgstr "आपका नया कस्टम ईवेंट नाम"
+
+#: src/Provider/FormBuilder.php:526
+msgid "Example: Submitted Drip form"
+msgstr "उदाहरण: प्रस्तुत ड्रिप फार्म"
+
+#: src/Provider/FormBuilder.php:540, src/Provider/FormBuilder.php:607
+msgid "Mark user as a prospect"
+msgstr "उपयोगकर्ता को एक संभावना के रूप में चिह्नित करें"
+
+#: src/Provider/FormBuilder.php:544, src/Provider/FormBuilder.php:620
+msgid "Attach a lead score to the subscriber (when lead scoring is enabled)."
+msgstr "सदस्य को लीड स्कोर संलग्न करें (जब लीड स्कोरिंग सक्षम हो)।"
+
+#: src/Provider/FormBuilder.php:554
+msgid "Create or Update Subscriber"
+msgstr "सदस्य बनाएं या अपडेट करें"
+
+#: src/Provider/FormBuilder.php:575
+msgid "Send user ID to Drip (if the user was logged in)"
+msgstr "उपयोगकर्ता आईडी को ड्रिप में भेजें (यदि उपयोगकर्ता लॉग इन था)"
+
+#: src/Provider/FormBuilder.php:579
+msgid ""
+"Make sure that users can submit this form only once. All repeated "
+"submissions will be ignored by Drip."
+msgstr ""
+"सुनिश्चित करें कि उपयोगकर्ता केवल एक बार इस फॉर्म को जमा कर सकते हैं। ड्रिप द्वारा सभी "
+"दोहरायी प्रस्तुतियाँ की अनदेखी की जाएगी।"
+
+#: src/Provider/FormBuilder.php:593
+msgid "Send user IP address to Drip"
+msgstr "ड्रिप के लिए उपयोगकर्ता का IP पता भेजें"
+
+#: src/Provider/FormBuilder.php:612
+msgid "Starting Lead Score Value"
+msgstr "लीड स्कोर मान शुरू करना"
+
+#: src/Provider/FormBuilder.php:630
+msgid "Tags To Add"
+msgstr "जोड़ने के लिए टैग"
+
+#: src/Provider/FormBuilder.php:631, src/Provider/FormBuilder.php:644
+msgid "Comma-separated list of tags is accepted."
+msgstr "टैग की कोमा से अलग सूची को स्वीकार कर लिया गया है।"
+
+#: src/Provider/FormBuilder.php:643
+msgid "Tags To Delete"
+msgstr "हटाने के लिए टैग"
+
+#: src/Provider/FormBuilder.php:664
+msgid "Delete a Subscriber"
+msgstr "कोई सदस्य हटाएं"
+
+#: src/Provider/FormBuilder.php:670
+msgid ""
+"Sometimes you may want to give your users the option to remove themselves "
+"from your subscribers using your own form."
+msgstr ""
+"कभी-कभी आप अपने उपयोगकर्ताओं को अपने स्वयं के फ़ॉर्म का उपयोग करके अपने ग्राहकों से खुद "
+"को हटाने का विकल्प देना चाहे तो दे सकते हैं।"
+
+#: src/Provider/FormBuilder.php:671
+msgid ""
+"This action is irreversible, you will lose all the data in Drip about the "
+"subscriber."
+msgstr "यह क्रिया अपरिवर्तनीय है, आप ग्राहक के बारे में ड्रिप में सभी डेटा खो देंगे।"
+
+#: src/Provider/FormBuilder.php:680
+msgid "Select Campaign"
+msgstr "अभियान का चयन करें"
+
+#: src/Provider/FormBuilder.php:689, src/Provider/FormBuilder.php:735
+msgid "--- Select Campaign ---"
+msgstr "---अभियान का चयन करें---"
+
+#. translators: %s - URL to Drip Knowledge base article.
+#: src/Provider/FormBuilder.php:705
+msgid ""
+"You have no campaigns yet. Consider creating at least one. Here is <a href="
+"\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">how to do it</a>."
+msgstr ""
+"आपके पास अभी तक कोई अभियान नहीं है। कम से कम एक बनाने पर विचार करें। यहां <a "
+"href=“%s” rel=“noopener noreferrer” target=“_blank”>यह कैसे करना है</a>।"
+
+#: src/Provider/FormBuilder.php:726
+msgid "Unsubscribe From Campaign(s)"
+msgstr "अभियान से सदस्यता समाप्त करें"
+
+#: src/Provider/FormBuilder.php:743
+msgid "All Campaigns"
+msgstr "सभी अभियान"
+
+#: src/Provider/FormBuilder.php:749
+msgid "You have no campaigns yet. Consider creating at least one."
+msgstr "आपके पास अभी कोई अभियान नहीं है। कम से एक बनाने पर विचार करें।"
+
+#: src/Provider/FormBuilder.php:759
+msgid ""
+"Sometimes you may want to give your users the option to unsubscribe "
+"themselves from your campaign(s) using your own form."
+msgstr ""
+"कई बार आप अपने उपयोगकर्ताओं को अपने स्वयं के फ़ॉर्म का उपयोग कर अपने अभियान से सदस्यता "
+"समाप्त करने का विकल्प देना चाहते हैं।"
+
+#: src/Provider/FormBuilder.php:784
+msgid "Subscriber Email"
+msgstr "सब्सक्राइबर ईमेल"
+
+#: src/Provider/FormBuilder.php:789
+msgid "--- Select Email Field ---"
+msgstr "---ईमेल फ़ील्ड का चयन करें---"
+
+#: src/Provider/FormBuilder.php:803
+msgid "New Subscriber Email"
+msgstr "नया सब्सक्राइबर ईमेल"
+
+#: src/Provider/FormBuilder.php:808
+msgid "--- Select New Email Field ---"
+msgstr "---नया ईमेल फ़ील्ड चुनें---"
+
+#: src/Provider/Process.php:66
+msgid "Form to Drip processing stopped by conditional logic."
+msgstr "फार्म ड्रिप सशर्त तर्क द्वारा प्रसंस्करण के लिए बंद कर दिया।"
+
+#: src/Provider/Process.php:233
+msgid "Submission to Drip failed."
+msgstr "ड्रिप के लिए सबमिशन विफल रहा।"

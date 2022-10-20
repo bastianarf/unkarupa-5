@@ -1,0 +1,185 @@
+# Copyright (C) 2019 WPForms Post Submissions
+# This file is distributed under the same license as the WPForms Post Submissions package.
+# Translators:
+# Ⓦolforg <contact@wolforg.eu>, 2019
+# FX Bénard <fxb@wp-translations.org>, 2019
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Post Submissions\n"
+"Last-Translator: fxbenard pour WP-Translations <fx@wp-translations.pro>\n"
+"Language-Team: French (France) (https://www.transifex.com/wp-translations/"
+"teams/64435/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-post-submissions-template.php:21
+msgid "Blog Post Submission Form"
+msgstr "Formulaire d’envoi d’article de blog"
+
+#: class-post-submissions-template.php:23
+msgid ""
+"User-submitted content made easy. Allow your users to submit guest blog "
+"posts in WordPress. You can add and remove fields as needed."
+msgstr ""
+"La rédaction de contenu par les utilisateurs est facilitée. Autorisez vos "
+"utilisateurs à envoyer des articles de blog invité dans WordPress. Vous "
+"pouvez ajouter et supprimer des champs si nécessaires."
+
+#: class-post-submissions-template.php:28
+msgid "Don&#39;t Forget"
+msgstr "N’oubliez pas"
+
+#: class-post-submissions-template.php:29
+msgid ""
+"Additional post submission options are available in the settings panel."
+msgstr ""
+"Les options additionnelles d’envoi d’article sont disponibles dans le "
+"panneau des réglages."
+
+#: class-post-submissions-template.php:37
+msgid "Author Details"
+msgstr "Détails de  l’auteur"
+
+#: class-post-submissions-template.php:38
+msgid ""
+"Please enter your contact details, so we can give you proper credit for "
+"this blog post."
+msgstr ""
+"Veuillez saisir vos détails de contact pour que nous puissions vous "
+"créditer pour cet article de blog."
+
+#: class-post-submissions-template.php:44
+msgid "Name"
+msgstr "Nom"
+
+#: class-post-submissions-template.php:52
+msgid "Email"
+msgstr "E-mail"
+
+#: class-post-submissions-template.php:59
+msgid "Short Author Bio"
+msgstr "Courte bio de l’auteur"
+
+#: class-post-submissions-template.php:60
+msgid "Please keep it below 300 characters."
+msgstr "Veuillez rester en dessous de 300 caractères."
+
+#: class-post-submissions-template.php:67
+msgid "Create a Blog Post"
+msgstr "Créer un article de blog"
+
+#: class-post-submissions-template.php:68
+msgid "Please submit your guest blog posts by using the fields below."
+msgstr ""
+"Veuillez envoyer vos articles de blog invité en utilisant les champs ci-"
+"dessous."
+
+#: class-post-submissions-template.php74, class-post-submissions.php:319
+msgid "Post Title"
+msgstr "Titre d’article"
+
+#: class-post-submissions-template.php81, class-post-submissions.php:332
+msgid "Post Content"
+msgstr "Contenu de l’article"
+
+#: class-post-submissions-template.php:88
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: class-post-submissions-template.php:89
+msgid "Please make sure the dimensions are (600 x 300px)."
+msgstr "Veuillez vous assurer que les dimensions sont (600 x 300 pixels)."
+
+#: class-post-submissions-template.php98, class-post-submissions.php:345
+msgid "Post Excerpt"
+msgstr "Extrait d’article"
+
+#: class-post-submissions-template.php:105
+msgid "Category"
+msgstr "Catégorie"
+
+#: class-post-submissions-template.php:108
+msgid "First Choice"
+msgstr "Premier choix"
+
+#: class-post-submissions-template.php:121
+msgid "Submit"
+msgstr "Envoyer"
+
+#: class-post-submissions-template.php:122
+msgid "Sending..."
+msgstr "Envoi..."
+
+#: class-post-submissions.php277, class-post-submissions.php294,
+#: class-post-submissions.php:304
+msgid "Post Submissions"
+msgstr "Envois d’article"
+
+#: class-post-submissions.php:295
+msgid "Click here for documentation on Post Submissions addon"
+msgstr "Cliquez ici pour la documentation sur le module Post Submissions"
+
+#: class-post-submissions.php322, class-post-submissions.php335,
+#: class-post-submissions.php348, class-post-submissions.php361,
+#: class-post-submissions.php:449
+msgid "--- Select Field ---"
+msgstr "-- Sélectionner un  champ --"
+
+#: class-post-submissions.php:358
+msgid "Post Featured Image"
+msgstr "Image mise en avant de l’article"
+
+#: class-post-submissions.php:379
+msgid "Post Type"
+msgstr "Type de contenu"
+
+#: class-post-submissions.php:392
+msgid "Post Status"
+msgstr "État de l’article"
+
+#: class-post-submissions.php:394
+msgid "Select the default status used for new posts."
+msgstr "Sélectionner l’état par défaut pour les nouveaux articles."
+
+#: class-post-submissions.php:408
+msgid "Current User"
+msgstr "Utilisateur actuel"
+
+#: class-post-submissions.php:422
+msgid "Post Author"
+msgstr "Auteur de l’article"
+
+#: class-post-submissions.php:424
+msgid ""
+"Select the post author used for new posts. Selecting Current User will use "
+"the current WordPress user that submits the form."
+msgstr ""
+"Sélectionnez l’auteur de l’article utilisé pour les nouveaux articles. La "
+"sélection de l’utilisateur actuel utilisera l’utilisateur WordPress qui a "
+"envoyé le formulaire."
+
+#: class-post-submissions.php:426
+msgid "--- Select User ---"
+msgstr "-- Sélectionner un utilisateur --"
+
+#: class-post-submissions.php:432
+msgid "Custom Post Meta"
+msgstr "Méta personnalisé d’article"
+
+#: class-post-submissions.php:444
+msgid "Enter meta key..."
+msgstr "Saisissez une clé méta..."

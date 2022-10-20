@@ -1,0 +1,54 @@
+# Copyright (C) 2018 WPForms Geolocation
+# This file is distributed under the same license as the WPForms Geolocation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Geolocation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: hi\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-geolocation.php:109, class-geolocation.php:139
+msgid "Entry Geolocation"
+msgstr "प्रवेश जियोलोकेशन"
+
+#: class-geolocation.php:204, class-geolocation.php:231
+msgid "Location"
+msgstr "स्थान"
+
+#: class-geolocation.php:210
+msgid ""
+"Unable to load location data for this entry. This usually means WPForms was "
+"unable to process the user's IP address or it is non-standard format."
+msgstr ""
+"इस प्रविष्टि के लिए स्थान डेटा लोड करने में असमर्थ। इसका आमतौर पर मतलब है कि WPForms "
+"उपयोगकर्ता के IP पते को संसाधित करने में असमर्थ था या यह गैर-मानक प्रारूप है।"
+
+#: class-geolocation.php:238
+msgid "Zipcode"
+msgstr "ज़िपकोड"
+
+#: class-geolocation.php:240
+msgid "Postal"
+msgstr "डाक"
+
+#: class-geolocation.php:247
+msgid "Country"
+msgstr "देश"
+
+#: class-geolocation.php:253
+msgid "Lat/Long"
+msgstr "अक्षांश/देशांतर"

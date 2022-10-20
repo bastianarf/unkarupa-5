@@ -1,0 +1,160 @@
+# Copyright (C) 2019 WPForms Zapier
+# This file is distributed under the same license as the WPForms Zapier package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# Ali Darwich <b.a.darwich@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Zapier\n"
+"Last-Translator: Ali Darwich <b.a.darwich@gmail.com>, 2019\n"
+"Language-Team: Japanese (https://www.transifex.com/wp-translations/teams/64435/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. translators: %s - field id.
+#: class-zapier.php:81
+msgid "Field #%s"
+msgstr "フィールド #%s"
+
+#: class-zapier.php:108
+msgid "First"
+msgstr "名"
+
+#: class-zapier.php:109
+msgid "Middle"
+msgstr "ミドルネーム"
+
+#: class-zapier.php:110
+msgid "Last"
+msgstr "姓"
+
+#: class-zapier.php:142
+msgid "Line 1"
+msgstr "1行目"
+
+#: class-zapier.php:143
+msgid "Line 2"
+msgstr "2行目"
+
+#: class-zapier.php:144
+msgid "City"
+msgstr "区市町村"
+
+#: class-zapier.php:145
+msgid "State"
+msgstr "州"
+
+#: class-zapier.php:146
+msgid "Region"
+msgstr "地域"
+
+#: class-zapier.php:147
+msgid "Postal"
+msgstr "郵便番号"
+
+#: class-zapier.php:148
+msgid "Country"
+msgstr "国"
+
+#: class-zapier.php:154
+msgid "Date"
+msgstr "日付"
+
+#: class-zapier.php:155
+msgid "Time"
+msgstr "時間"
+
+#: class-zapier.php:156
+msgid "Unix Timestamp"
+msgstr "Unix タイムスタンプ"
+
+#: class-zapier.php:168
+msgid "Plain Amount"
+msgstr "単純額"
+
+#: class-zapier.php:233
+msgid "Zapier Zap error"
+msgstr "Zapier Zap エラー"
+
+#: class-zapier.php:301
+msgid "Invalid WPForms Zapier API key"
+msgstr "無効な WPForms Zapier API キー"
+
+#: class-zapier.php:407
+msgid "No data"
+msgstr "データなし"
+
+#. translators: %s - API key.
+#. translators: %s - API key.
+#: class-zapier.php454, class-zapier.php:579
+msgid "Your WPForms Zapier API key is %s"
+msgstr "WPForms Zapier API キーは %s"
+
+#: class-zapier.php:462
+msgid "No Zaps are connected to this form."
+msgstr "このフォームにZapは関連付けられていません。"
+
+#: class-zapier.php:467
+msgid "No name"
+msgstr "名前なし"
+
+#: class-zapier.php:468
+msgid "Yes"
+msgstr "はい"
+
+#: class-zapier.php:468
+msgid "No"
+msgstr "いいえ"
+
+#: class-zapier.php:472
+msgid "Date Connected"
+msgstr "接続日"
+
+#: class-zapier.php:473
+msgid "Live"
+msgstr "ライブ"
+
+#: class-zapier.php:474
+msgid "Edit this Zap"
+msgstr "Zap を編集"
+
+#. translators: %s - WPForms.com Zapier documentation article URL.
+#. translators: %s - WPForms.com Zapier documentation article URL.
+#: class-zapier.php483, class-zapier.php:593
+msgid ""
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Click here for "
+"documentation on connecting WPForms with Zapier.</a>"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">WPForms を "
+"Zapier に接続する方法については、ここをクリックしてください。</a>"
+
+#. translators: %s - provider name.
+#: class-zapier.php:563
+msgid "Integrate %s with WPForms"
+msgstr "%sを WPForms と統合する"
+
+#: class-zapier.php:568
+msgid "Connected"
+msgstr "接続されてる"
+
+#: class-zapier.php:587
+msgid "No forms are currently connected."
+msgstr "現在接続されているフォームがありません。"
+
+#: class-zapier.php:607
+msgid "The forms below are currently connected to Zapier."
+msgstr "以下のフォームは現在 Zapier に接続しています。"
+
+#. translators: %s - connection date.
+#: class-zapier.php:616
+msgid "Connected on: %s"
+msgstr "%sに接続"

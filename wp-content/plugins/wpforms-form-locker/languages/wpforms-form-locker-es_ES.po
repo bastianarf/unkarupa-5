@@ -1,0 +1,173 @@
+# Copyright (C) 2019 WPForms Form Locker
+# This file is distributed under the same license as the WPForms Form Locker package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# Luis Rull <luisrull@gmail.com>, 2019
+# Nilo Velez <nilovelez@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Form Locker\n"
+"Last-Translator: Nilo Velez <nilovelez@gmail.com>, 2019\n"
+"Language-Team: Spanish (Spain) (https://www.transifex.com/wp-translations/teams/64435/es_ES/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. translators: %s - WPForms.com documentation page URL.
+#: wpforms-form-locker.php:62
+msgid ""
+"The WPForms Form Locker plugin has been deactivated. Your site is running an"
+" outdated version of PHP that is no longer supported and is not compatible "
+"with the Form Locker addon. <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Read more</a> for additional information."
+msgstr ""
+"El plugin Form Locker ha sido desactivado. Tu sitio ejecuta una versión "
+"obsoleta de PHP que ya no recibe soporte y que no es compatible con la "
+"extensión Form Locker. <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Lee esto</a> para obtener más información."
+
+#: src/Admin.php:152
+msgid "Require unique answer"
+msgstr "Requerir una respuesta única"
+
+#: src/Admin.php:153
+msgid ""
+"Check this option to require only unique answers for the current field."
+msgstr ""
+"Marca esta opción para requerir una respuesta única para el campo actual."
+
+#: src/Admin.php172, src/Admin.php:189
+msgid "Form Locker"
+msgstr "Form Locker"
+
+#: src/Admin.php:197
+msgid "Enable password protection"
+msgstr "Activar la protección con contraseña"
+
+#: src/Admin.php199, src/Admin.php208, src/Lockers/Password.php:142
+msgid "Password"
+msgstr "Contraseña"
+
+#: src/Admin.php:216
+msgid "Display Message"
+msgstr "Mostrar mensaje"
+
+#: src/Admin.php:221
+msgid "This message is displayed to visitors above the password form."
+msgstr ""
+"Este mensaje se muestra a los visitantes encima del formulario de "
+"contraseña."
+
+#: src/Admin.php:230
+msgid "Enable scheduling"
+msgstr "Activar programación"
+
+#: src/Admin.php:232
+msgid "Scheduling"
+msgstr "Programación"
+
+#: src/Admin.php:233
+msgid "Accept form entries during the date/time window below."
+msgstr ""
+"Aceptar entradas en el formulario durante el siguiente intervalo de "
+"fecha/hora."
+
+#: src/Admin.php:244
+msgid "Start Date"
+msgstr "Fecha de inicio"
+
+#: src/Admin.php:248
+msgid "Clear Start Date"
+msgstr "Borrar fecha de inicio"
+
+#: src/Admin.php:257
+msgid "Start Time"
+msgstr "Hora de incio"
+
+#: src/Admin.php:261
+msgid "Clear Start Time"
+msgstr "Borrar hora de inicio"
+
+#: src/Admin.php:270
+msgid "End Date"
+msgstr "Fecha de finalización"
+
+#: src/Admin.php:274
+msgid "Clear End Date"
+msgstr "Borrar fecha de inicio"
+
+#: src/Admin.php:283
+msgid "End Time"
+msgstr "Hora de finalización"
+
+#: src/Admin.php:287
+msgid "Clear End Time"
+msgstr "Borrar hora de finalización"
+
+#: src/Admin.php298, src/Admin.php:334
+msgid "Closed Message"
+msgstr "Mensaje de cierre"
+
+#: src/Admin.php303, src/Admin.php:339
+msgid "This message is displayed to visitors when the form is closed."
+msgstr ""
+"Este mensaje se mostrará a los visitantes cuando el formulario esté cerrado."
+
+#: src/Admin.php:312
+msgid "Enable limit on total form entries"
+msgstr "Activar el límite del total de entradas del formulario"
+
+#: src/Admin.php:314
+msgid "Entry Limit"
+msgstr "Límite de entradas"
+
+#: src/Admin.php:323
+msgid "Limit"
+msgstr "Límite"
+
+#: src/Admin.php:348
+msgid "Enable restricting entries to logged in users only"
+msgstr "Activar la restricción de entradas solo a usuarios registrados"
+
+#: src/Admin.php:350
+msgid "User"
+msgstr "Usuario"
+
+#: src/Admin.php:359
+msgid "Message"
+msgstr "Mensaje"
+
+#: src/Admin.php:364
+msgid "This message is displayed to logged out visitors in place of the form."
+msgstr ""
+"Este mensaje se muestra a los usuarios no registrados en lugar del "
+"formulario."
+
+#: src/Lockers/Password.php:136
+msgid "The password is incorrect."
+msgstr "La contraseña es incorrecta."
+
+#: src/Lockers/Password.php:152
+msgid "Sending..."
+msgstr "Enviando..."
+
+#: src/Lockers/Password.php:153
+msgid "Submit"
+msgstr "Enviar"
+
+#: src/Lockers/UniqueAnswer.php:103
+msgid "Unique Answer"
+msgstr "Respuesta única"
+
+#: src/Lockers/UniqueAnswer.php105, src/Lockers/UniqueAnswer.php121,
+#: src/Lockers/UniqueAnswer.php:174
+msgid "The value must be unique."
+msgstr "El valor debe ser único."

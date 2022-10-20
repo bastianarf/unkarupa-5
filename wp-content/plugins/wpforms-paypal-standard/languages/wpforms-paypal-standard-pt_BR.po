@@ -1,0 +1,223 @@
+# Copyright (C) 2019 WPForms PayPal Standard
+# This file is distributed under the same license as the WPForms PayPal Standard package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# edson katayama <midiamentira@gmail.com>, 2019
+# Diana K. Cury <dianakac@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms PayPal Standard\n"
+"Last-Translator: Diana K. Cury <dianakac@gmail.com>, 2019\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/wp-translations/teams/64435/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: class-paypal-standard.php:48
+msgid "Enable PayPal Standard payments"
+msgstr "Ativar pagamentos do PayPal Padrão"
+
+#: class-paypal-standard.php:59
+msgid "PayPal Email Address"
+msgstr "Endereço de e-mail do Paypal"
+
+#: class-paypal-standard.php:62
+msgid "Enter your PayPal address for the payment to be sent"
+msgstr "Digite seu endereço do PayPal para que o pagamento seja enviado"
+
+#: class-paypal-standard.php:70
+msgid "Mode"
+msgstr "Modo"
+
+#: class-paypal-standard.php:75
+msgid "Production"
+msgstr "Produção"
+
+#: class-paypal-standard.php:76
+msgid "Test / Sandbox"
+msgstr "Teste / Sandbox"
+
+#: class-paypal-standard.php:78
+msgid ""
+"Select Production to receive real payments or select Test to use the PayPal "
+"developer sandbox"
+msgstr ""
+"Selecione Produção para receber pagamentos reais ou selecione Teste para "
+"usar a caixa de proteção do desenvolvedor do PayPal"
+
+#: class-paypal-standard.php:86
+msgid "Payment Type"
+msgstr "Tipo de pagamento"
+
+#: class-paypal-standard.php:91
+msgid "Products and Services"
+msgstr "Produtos e Serviços"
+
+#: class-paypal-standard.php:92
+msgid "Donation"
+msgstr "Doação"
+
+#: class-paypal-standard.php:94
+msgid "Select the type of payment you are receiving."
+msgstr "Selecione o tipo de pagamento que você está recebendo."
+
+#: class-paypal-standard.php:102
+msgid "Cancel URL"
+msgstr "Cancelar URL"
+
+#: class-paypal-standard.php:105
+msgid ""
+"Enter the URL to send users to if they do not complete the PayPal checkout"
+msgstr ""
+"Insira o URL para o envio dos usuários, caso eles não concluam a verificação"
+" do PayPal"
+
+#: class-paypal-standard.php:113
+msgid "Shipping"
+msgstr "Entrega"
+
+#: class-paypal-standard.php:118
+msgid "Don't ask for an address"
+msgstr "Não peça um endereço"
+
+#: class-paypal-standard.php:119
+msgid "Ask for an address, but do not require"
+msgstr "Pedir um endereço, mas não exigir"
+
+#: class-paypal-standard.php:120
+msgid "Ask for an address and require it"
+msgstr "Pedir e exigir  um endereço"
+
+#: class-paypal-standard.php:129
+msgid "Don't ask buyer to include a note with payment"
+msgstr "Não peça ao comprador para incluir uma nota com pagamento"
+
+#: class-paypal-standard.php:144
+msgid "Process"
+msgstr "Processo"
+
+#: class-paypal-standard.php:145
+msgid "Don't process"
+msgstr "Não processar"
+
+#: class-paypal-standard.php:147
+msgid "this charge if"
+msgstr "esta taxa se"
+
+#: class-paypal-standard.php:148
+msgid "PayPal Standard payment"
+msgstr "Pagamento padrão do PayPal"
+
+#. translators: %s - Addons page URL in admin area.
+#: class-paypal-standard.php:157
+msgid ""
+"Install the <a href=\"%s\">Conditional Logic addon</a> to enable conditional"
+" logic for PayPal Standard payments."
+msgstr ""
+"Instale o complemento<a href=\"%s\">Conditional Logic</a> para pagamentos "
+"padrão do PayPal."
+
+#: class-paypal-standard.php:223
+msgid "PayPal Standard Payment stopped by conditional logic"
+msgstr "Pagamento padrão do PayPal interrompido por lógica condicional"
+
+#: class-paypal-standard.php:241
+msgid "PayPal Standard Payment stopped, missing payment fields"
+msgstr "Pagamento padrão do PayPal parado, campos de pagamento ausentes"
+
+#: class-paypal-standard.php:247
+msgid "PayPal Standard Payment stopped, invalid/empty amount"
+msgstr "Pagamento padrão do PayPal parado, valor inválido/vazio"
+
+#: class-paypal-standard.php480, class-paypal-standard.php:514
+msgid "PayPal Standard IPN Error"
+msgstr "Erro de IPN padrão do PayPal"
+
+#: class-paypal-standard.php:499
+msgid "Payment failed: recipient emails do not match"
+msgstr "O pagamento falhou: os e-mails dos destinatários não correspondem"
+
+#: class-paypal-standard.php:503
+msgid "Payment failed: currency formats do not match"
+msgstr "O pagamento falhou: os formatos de moeda não correspondem"
+
+#: class-paypal-standard.php:507
+msgid "Payment failed: payment amounts do not match"
+msgstr "O pagamento falhou: os valores de pagamento não correspondem"
+
+#. translators: %s - Paypal payment transaction ID.
+#: class-paypal-standard.php:543
+msgid "Payment refunded: PayPal refund transaction ID: %s"
+msgstr "Pagamento reembolsado: ID da transação de reembolso do PayPal: %s"
+
+#: class-paypal-standard.php:554
+msgid "Payment made via eCheck and will clear automatically in 5-8 days"
+msgstr ""
+"Pagamento feito via eCheck e será cancelado automaticamente em 5-8 dias"
+
+#: class-paypal-standard.php:557
+msgid ""
+"Payment requires a confirmed customer address and must be accepted manually "
+"through PayPal"
+msgstr ""
+"O pagamento requer um endereço de cliente confirmado e deve ser aceito "
+"manualmente por meio do PayPal"
+
+#: class-paypal-standard.php:560
+msgid ""
+"Payment must be accepted manually through PayPal due to international "
+"account regulations"
+msgstr ""
+"O pagamento deve ser aceito manualmente por meio do PayPal devido aos "
+"regulamentos da conta internacional"
+
+#: class-paypal-standard.php:563
+msgid ""
+"Payment received in non-shop currency and must be accepted manually through "
+"PayPal"
+msgstr ""
+"Pagamento recebido em moeda que não seja da loja e deve ser aceito "
+"manualmente pelo PayPal"
+
+#: class-paypal-standard.php:567
+msgid ""
+"Payment is being reviewed by PayPal staff as high-risk or in possible "
+"violation of government regulations"
+msgstr ""
+"O pagamento está sendo revisado pela equipe do PayPal como de alto risco ou "
+"em possível violação das regulamentações governamentais"
+
+#: class-paypal-standard.php:570
+msgid "Payment was sent to non-confirmed or non-registered email address."
+msgstr ""
+"O pagamento foi enviado para um endereço de e-mail não confirmado ou não "
+"registrado."
+
+#: class-paypal-standard.php:573
+msgid "PayPal account must be upgraded before this payment can be accepted"
+msgstr ""
+"A conta do PayPal deve ser atualizada antes que esse pagamento seja aceito"
+
+#: class-paypal-standard.php:576
+msgid ""
+"PayPal account is not verified. Verify account in order to accept this "
+"payment"
+msgstr ""
+"A conta do PayPal não é verificada. Confirme a conta para aceitar este "
+"pagamento"
+
+#: class-paypal-standard.php:579
+msgid ""
+"Payment is pending for unknown reasons. Contact PayPal support for "
+"assistance"
+msgstr ""
+"O pagamento está pendente por motivos desconhecidos. Entre em contato com o "
+"suporte do PayPal para obter assistência"

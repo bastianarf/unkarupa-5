@@ -1,0 +1,85 @@
+# Copyright (C) 2019 WPForms Form Abandonment
+# This file is distributed under the same license as the WPForms Form Abandonment package.
+# Translators:
+# Christian Herrmann, 2019
+# FX Bénard <fxb@wp-translations.org>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Form Abandonment\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>, 2019\n"
+"Language-Team: German (Germany) (https://www.transifex.com/wp-translations/teams/64435/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: class-form-abandonment.php84, class-form-abandonment.php:101
+msgid "Form Abandonment"
+msgstr "Form Abandonment (Formularabbruch)"
+
+#: class-form-abandonment.php:102
+msgid "Click here for documentation on Form Abandonment addon"
+msgstr ""
+"Hier klicken für Dokumentation zum Form-Abandonment-(Formularabbruch)-Add-"
+"on."
+
+#: class-form-abandonment.php:110
+msgid "Enable form abandonment lead capture"
+msgstr "Formularabbruch-Lead-Erfassung aktivieren"
+
+#: class-form-abandonment.php:122
+msgid "Save only if email address or phone number is provided"
+msgstr ""
+"Nur speichern, falls E-Mail-Adresse oder Telefonnummer angegeben wurde"
+
+#: class-form-abandonment.php:125
+msgid "Always save abandoned entries"
+msgstr "Abgebrochene Einträge immer speichern"
+
+#: class-form-abandonment.php:126
+msgid ""
+"We believe abandoned form entries are only helpful if you have some way to "
+"contact the user. However this option is good for users that have anonymous "
+"form submissions."
+msgstr ""
+"Wir glauben, dass abgebrochene Formulareinträge nur nützlich sind, falls du "
+"eine Möglichkeit hast, den Benutzer zu kontaktieren. Dennoch ist diese "
+"Option nützlich für Benutzer, die Formulardaten anonym übertragen haben."
+
+#: class-form-abandonment.php:137
+msgid "Prevent duplicate abandon entries"
+msgstr "Doppelte abgebrochene Einträge verhindern"
+
+#: class-form-abandonment.php:139
+msgid ""
+"When checked only the most recent abandoned entry from the user is saved. "
+"See the Form Abandonment documentation for more info regarding this setting."
+msgstr ""
+"Wenn gewählt, werden nur die zuletzt abgebrochenen Einträge des Benutzers "
+"gespeichert. Lies die Form-Abandonment-Dokumentation für weitere "
+"Informationen zu dieser Einstellung."
+
+#: class-form-abandonment.php:166
+msgid "Enable for abandoned forms entries"
+msgstr "Für abgebrochene Formulareinträge aktivieren"
+
+#: class-form-abandonment.php:171
+msgid ""
+"When enabled this notification will <em>only</em> be sent for abandoned form"
+" entries. This setting should only be used with <strong>new</strong> "
+"notifications."
+msgstr ""
+"Wenn aktiviert wird diese Benachrichtigung <em>nur</em> für abgebrochene "
+"Formulareinträge gesendet. Diese Einstellung sollte nur mit "
+"<strong>neuen</strong> Benachrichtigungen benutzt werden."
+
+#: class-form-abandonment.php:236
+msgid "Abandoned"
+msgstr "Abgebrochen"

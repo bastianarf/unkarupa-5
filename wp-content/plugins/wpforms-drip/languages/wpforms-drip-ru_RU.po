@@ -1,0 +1,243 @@
+# Copyright (C) 2018 WPForms Drip
+# This file is distributed under the same license as the WPForms Drip package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Drip\n"
+"POT-Creation-Date: 2018-05-07 13:55+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: src/Provider/Core.php:22
+msgid "Drip"
+msgstr "Drip"
+
+#: src/Provider/FormBuilder.php:355
+msgid "Select Account"
+msgstr "Выберите учетную запись"
+
+#: src/Provider/FormBuilder.php:373
+msgid ""
+"We can't get the list of accounts. Make sure that you have access to at "
+"least one."
+msgstr ""
+"Мы не можем получить список учетных записей. Убедитесь, что у вас есть "
+"доступ хотя бы к одному."
+
+#: src/Provider/FormBuilder.php:380
+msgid "Select Action"
+msgstr "Выберите действие"
+
+#: src/Provider/FormBuilder.php:385
+msgid "--- Select action ---"
+msgstr "--- Выберите действие ---"
+
+#: src/Provider/FormBuilder.php:386
+msgid "Subscriber: Create or Update"
+msgstr "Подписчик: добавить или обновить"
+
+#: src/Provider/FormBuilder.php:387
+msgid "Subscriber: Delete"
+msgstr "Подписчик: удалить"
+
+#: src/Provider/FormBuilder.php:388
+msgid "Campaign: Subscribe"
+msgstr "Кампания: подписать"
+
+#: src/Provider/FormBuilder.php:389
+msgid "Campaign: Unsubscribe"
+msgstr "Кампания: отписать"
+
+#: src/Provider/FormBuilder.php:390
+msgid "Record Event"
+msgstr "Записать событие"
+
+#: src/Provider/FormBuilder.php:411 src/Provider/FormBuilder.php:481
+#: src/Provider/FormBuilder.php:601 src/Provider/FormBuilder.php:683
+msgid "Subscriber Email"
+msgstr "Email подписчика"
+
+#: src/Provider/FormBuilder.php:418 src/Provider/FormBuilder.php:488
+#: src/Provider/FormBuilder.php:608 src/Provider/FormBuilder.php:690
+msgid "--- Select Email Field ---"
+msgstr "--- Выберите email поле ---"
+
+#: src/Provider/FormBuilder.php:423
+msgid "Custom Events"
+msgstr "Пользовательские события"
+
+#: src/Provider/FormBuilder.php:428
+msgid "--- Select saved event ---"
+msgstr "--- Выберите сохраненное событие ---"
+
+#: src/Provider/FormBuilder.php:439
+msgid "Add New"
+msgstr "Добавить"
+
+#: src/Provider/FormBuilder.php:445
+msgid "Your new custom event name"
+msgstr "Имя вашего нового события"
+
+#: src/Provider/FormBuilder.php:448
+msgid "Example: Submitted Drip form"
+msgstr "Пример: Отправлена Drip форма"
+
+#: src/Provider/FormBuilder.php:454 src/Provider/FormBuilder.php:541
+msgid "Is a Prospect?"
+msgstr "Потенциальный клиент?"
+
+#: src/Provider/FormBuilder.php:463 src/Provider/FormBuilder.php:557
+msgid ""
+"Should a lead score be attached to the subscriber (when lead scoring is "
+"enabled)?"
+msgstr ""
+"Надо ли прикрепить оценку лида к этому подписчику (если эта функция включена "
+"в Drip)?"
+
+#: src/Provider/FormBuilder.php:472
+msgid "Create or Update Subscriber"
+msgstr "Создать или обновить подписчика"
+
+#: src/Provider/FormBuilder.php:501
+msgid "New Subscriber Email"
+msgstr "Новый email подписчика"
+
+#: src/Provider/FormBuilder.php:506
+msgid "--- Select New Email Field ---"
+msgstr "--- Выберите поле с новым email ---"
+
+#: src/Provider/FormBuilder.php:514
+msgid "Send user ID (if the user was logged in) to Drip?"
+msgstr "Отправить ID пользователя (если пользователь был авторизован)?"
+
+#: src/Provider/FormBuilder.php:522
+msgid ""
+"Make sure that users can submit this form only once. All repeated "
+"submissions won't be accepted by Drip."
+msgstr ""
+"Убедитесь, что пользователи могут отправлять эту форму всего 1 раз. Все "
+"повторные отправки будут просто игнорироваться сервисом Drip."
+
+#: src/Provider/FormBuilder.php:529
+msgid "Send user IP address to Drip?"
+msgstr "Отправить IP адрес пользователя?"
+
+#: src/Provider/FormBuilder.php:550
+msgid "Starting Lead Score Value."
+msgstr "Стартовое значение оценки лида."
+
+#: src/Provider/FormBuilder.php:565
+msgid "Tags to add"
+msgstr "Добавить теги"
+
+#: src/Provider/FormBuilder.php:573
+msgid "Tags to delete"
+msgstr "Удалить теги"
+
+#: src/Provider/FormBuilder.php:581
+msgid "Comma-separated list of tags is accepted."
+msgstr "Поддерживает список тегов, разделенных запятой."
+
+#: src/Provider/FormBuilder.php:592
+msgid "Delete a Subscriber"
+msgstr "Удалить подписчика"
+
+#: src/Provider/FormBuilder.php:614 src/Provider/FormBuilder.php:696
+msgid ""
+"Sometimes you may want to give your users an ability to remove themselves "
+"from your subscribers using your own form."
+msgstr ""
+"Возможно, вы захотите дать возможность своим подписчикам удалять себя из "
+"ваших списков самостоятельно, используя вашу собственную форму."
+
+#: src/Provider/FormBuilder.php:615 src/Provider/FormBuilder.php:697
+msgid ""
+"This action is irreversible, you will lose all the data in Drip about the "
+"subscriber."
+msgstr ""
+"Это действие невозможно отменить, вы потеряете все данные об этом подписчике "
+"внутри Drip."
+
+#: src/Provider/FormBuilder.php:623
+msgid "Campaigns"
+msgstr "Кампании"
+
+#: src/Provider/FormBuilder.php:626 src/Provider/FormBuilder.php:654
+msgid "Select Campaign"
+msgstr "Выберите кампанию"
+
+#: src/Provider/FormBuilder.php:641 src/Provider/FormBuilder.php:671
+msgid "You have not created any campaigns yet."
+msgstr "Вы еще не создали ни одной кампании."
+
+#: src/Provider/FormBuilder.php:651
+msgid "Unsubscribe From Campaigns"
+msgstr "Отписать от кампаний"
+
+#: src/Provider/FormBuilder.php:666
+msgid "All campaigns"
+msgstr "Все кампании"
+
+#: src/Provider/PageIntegrations.php:36
+msgid "Error requesting a Drip user info. Make sure API token is correct."
+msgstr ""
+"Во время получения пользовательской информации от Drip произошла ошибка. "
+"Пожалуйста, убедитесь в правильности API Token."
+
+#: src/Provider/PageIntegrations.php:53
+#, php-format
+msgid "Connected on: %s"
+msgstr "Подключено: %s"
+
+#: src/Provider/PageIntegrations.php:54
+msgid "Disconnect"
+msgstr "Отключить"
+
+#: src/Provider/PageIntegrations.php:82
+#, php-format
+msgid "%s API Token"
+msgstr "%s API Token"
+
+#: src/Provider/PageIntegrations.php:92
+#, php-format
+msgid ""
+"You can get the <code>API Token</code> on <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">User Info</a> page."
+msgstr ""
+"Вы можете получить <code>API Token</code> на странице <a href=\"%s\" target="
+"\"_blank\" rel=\"noopener noreferrer\">User Info</a>."
+
+#: src/Provider/Process.php:66
+msgid "Form to Drip processing stopped by conditional logic."
+msgstr "Отправка данных в Drip была остановлена условной логикой."
+
+#: src/Provider/Process.php:233
+msgid "Submission to Drip failed."
+msgstr "Отправка в Drip завершилась неудачно."
+
+#: wpforms-drip.php:62
+#, php-format
+msgid ""
+"The WPForms Drip plugin has been deactivated. Your site is running an "
+"outdated version of PHP that is no longer supported and is not compatible "
+"with the Drip addon. <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Read more</a> for additional information."
+msgstr ""
+"Плагин WPForms Drip был деактивирован. Ваш сайт работает на устаревшей "
+"версии PHP, которая больше не поддерживание и не совместима с этим плагином. "
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Прочтите "
+"больше</a> для получения дополнительно информации."

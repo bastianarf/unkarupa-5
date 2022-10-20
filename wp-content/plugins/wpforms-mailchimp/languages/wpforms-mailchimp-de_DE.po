@@ -1,0 +1,155 @@
+# Copyright (C) 2019 WPForms MailChimp
+# This file is distributed under the same license as the WPForms MailChimp package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# Christian Herrmann, 2018
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms MailChimp\n"
+"Last-Translator: Christian Herrmann, 2018\n"
+"Language-Team: German (Germany) (https://www.transifex.com/wp-translations/teams/64435/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: v2/class-mailchimp.php81, v3/class-mailchimp.php:132
+msgid "MailChimp Subscription stopped by conditional logic"
+msgstr "MailChimp-Abonnement von bedingter Logik gestoppt"
+
+#: v2/class-mailchimp.php169, v3/class-mailchimp.php:229
+msgid "MailChimp Subscription error"
+msgstr "MailChimp-Abonnement-Fehler"
+
+#. translators: %s - error details.
+#. translators: %s - error details.
+#: v2/class-mailchimp.php215, v3/class-mailchimp.php:280
+msgid "API auth error: %s"
+msgstr "API-Auth.-Fehler: %s"
+
+#: v2/class-mailchimp.php255, v3/class-mailchimp.php:322
+msgid "API connect error"
+msgstr "API-Verbindungsfehler"
+
+#: v2/class-mailchimp.php281, v2/class-mailchimp.php350,
+#: v3/class-mailchimp.php273, v3/class-mailchimp.php369,
+#: v3/class-mailchimp.php:440
+msgid "MailChimp API error"
+msgstr "MailChimp-API-Fehler"
+
+#. translators: %s - error message.
+#. translators: %s - error message.
+#: v2/class-mailchimp.php289, v3/class-mailchimp.php:376
+msgid "API list error: %s"
+msgstr "API-Listenfehler: %s"
+
+#. translators: %s - error message.
+#. translators: %s - error message.
+#: v2/class-mailchimp.php321, v3/class-mailchimp.php:447
+msgid "API groups error: %s"
+msgstr "API-Gruppenfehler: %s"
+
+#: v2/class-mailchimp.php:346
+msgid "API fields error: No fields"
+msgstr "API-Felder-Fehler: Keine Felder"
+
+#. translators: %s - error message.
+#. translators: %s - error message.
+#: v2/class-mailchimp.php358, v3/class-mailchimp.php:504
+msgid "API fields error: %s"
+msgstr "API-Felder-Fehler: %s"
+
+#: v2/class-mailchimp.php380, v3/class-mailchimp.php:525
+msgid "Add New Account"
+msgstr "Neues Konto hinzufügen"
+
+#. translators: %s - provider name.
+#. translators: %s - provider name.
+#. translators: %s - provider name.
+#. translators: %s - provider name.
+#: v2/class-mailchimp.php383, v2/class-mailchimp.php451,
+#: v3/class-mailchimp.php528, v3/class-mailchimp.php:586
+msgid "%s API Key"
+msgstr "%s API-Schlüssel"
+
+#. translators: %s - provider name.
+#. translators: %s - provider name.
+#. translators: %s - provider name.
+#. translators: %s - provider name.
+#: v2/class-mailchimp.php385, v2/class-mailchimp.php453,
+#: v3/class-mailchimp.php530, v3/class-mailchimp.php:588
+msgid "%s Account Nickname"
+msgstr "%s Konto-Spitzname"
+
+#: v2/class-mailchimp.php387, v3/class-mailchimp.php:532
+msgid "Connect"
+msgstr "Verbinden"
+
+#: v2/class-mailchimp.php412, v3/class-mailchimp.php:557
+msgid "Options"
+msgstr "Optionen"
+
+#: v2/class-mailchimp.php:421
+msgid "Send welcome email"
+msgstr "Willkommens-E-Mail senden"
+
+#: v2/class-mailchimp.php431, v3/class-mailchimp.php:566
+msgid "Use double opt-in"
+msgstr "Double-Opt-in benutzen"
+
+#: v3/class-mailchimp.php:59
+msgid ""
+"Your forms are currently using an outdated MailChimp integration that is no "
+"longer supported. Please update your forms to use the new integration to "
+"avoid losing subscribers."
+msgstr ""
+"Deine Formulare benutzen aktuell eine veraltete MailChimp-Integration, die "
+"nicht länger unterstützt wird. Bitte aktualisiere deine Formulare, um die "
+"neue Integration zu benutzen, damit du keine Abonnenten verlierst."
+
+#: v3/class-mailchimp.php:62
+msgid "Click here for more details."
+msgstr "Hier klicken für mehr Details."
+
+#: v3/class-mailchimp.php:227
+msgid "Error creating subscription."
+msgstr "Fehler beim Erstellen des Abonnements."
+
+#: v3/class-mailchimp.php:270
+msgid "Could not verify API key"
+msgstr "Konnte API-Schlüssel nicht überprüfen"
+
+#: v3/class-mailchimp.php:357
+msgid "Unknown List"
+msgstr "Unbekannte Liste"
+
+#: v3/class-mailchimp.php:363
+msgid "API list error: No lists"
+msgstr "API-Listenfehler: Keine Listen"
+
+#: v3/class-mailchimp.php:411
+msgid "Unknown Segment"
+msgstr "Unbekanntes Segment"
+
+#: v3/class-mailchimp.php:426
+msgid "Unknown Group"
+msgstr "Unbekannte Gruppe"
+
+#: v3/class-mailchimp.php:434
+msgid "API groups error: No groups"
+msgstr "API-Gruppenfehler: Keine Gruppen"
+
+#: v3/class-mailchimp.php:475
+msgid "Email Address"
+msgstr "E-Mail-Adresse"
+
+#: v3/class-mailchimp.php:485
+msgid "Unknown Merge Var"
+msgstr "Unbekannte Merge-Variable"

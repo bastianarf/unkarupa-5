@@ -1,0 +1,156 @@
+# Copyright (C) 2018 WPForms MailChimp
+# This file is distributed under the same license as the WPForms MailChimp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms MailChimp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: hi\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: v2/class-mailchimp.php:81, v3/class-mailchimp.php:132
+msgid "MailChimp Subscription stopped by conditional logic"
+msgstr "MailChimp की सदस्यता सशर्त तर्क द्वारा बंद कर दी गई"
+
+#: v2/class-mailchimp.php:169, v3/class-mailchimp.php:229
+msgid "MailChimp Subscription error"
+msgstr "MailChimp सदस्यता त्रुटि"
+
+#. translators: %s - error details.
+#. translators: %s - error details.
+#: v2/class-mailchimp.php:215, v3/class-mailchimp.php:280
+msgid "API auth error: %s"
+msgstr "API प्रमाणन त्रुटि: %s"
+
+#: v2/class-mailchimp.php:255, v3/class-mailchimp.php:322
+msgid "API connect error"
+msgstr "API कनेक्ट त्रुटि"
+
+#: v2/class-mailchimp.php:281, v2/class-mailchimp.php:350,
+#: v3/class-mailchimp.php:273, v3/class-mailchimp.php:369,
+#: v3/class-mailchimp.php:440
+msgid "MailChimp API error"
+msgstr "MailChimp API त्रुटि"
+
+#. translators: %s - error message.
+#. translators: %s - error message.
+#: v2/class-mailchimp.php:289, v3/class-mailchimp.php:376
+msgid "API list error: %s"
+msgstr "API सूची त्रुटि: %s"
+
+#. translators: %s - error message.
+#. translators: %s - error message.
+#: v2/class-mailchimp.php:321, v3/class-mailchimp.php:447
+msgid "API groups error: %s"
+msgstr "API समूह त्रुटि: %s"
+
+#: v2/class-mailchimp.php:346
+msgid "API fields error: No fields"
+msgstr "API फ़ील्ड त्रुटि: कोई फ़ील्ड नहीं"
+
+#. translators: %s - error message.
+#. translators: %s - error message.
+#: v2/class-mailchimp.php:358, v3/class-mailchimp.php:504
+msgid "API fields error: %s"
+msgstr "API फ़ील्ड्स त्रुटि: %s"
+
+#: v2/class-mailchimp.php:380, v3/class-mailchimp.php:525
+msgid "Add New Account"
+msgstr "नया खाता जोड़ें"
+
+#. translators: %s - provider name.
+#. translators: %s - provider name.
+#. translators: %s - provider name.
+#. translators: %s - provider name.
+#: v2/class-mailchimp.php:383, v2/class-mailchimp.php:451,
+#: v3/class-mailchimp.php:528, v3/class-mailchimp.php:586
+msgid "%s API Key"
+msgstr "%s API कुंजी"
+
+#. translators: %s - provider name.
+#. translators: %s - provider name.
+#. translators: %s - provider name.
+#. translators: %s - provider name.
+#: v2/class-mailchimp.php:385, v2/class-mailchimp.php:453,
+#: v3/class-mailchimp.php:530, v3/class-mailchimp.php:588
+msgid "%s Account Nickname"
+msgstr "%s खाता उपनाम"
+
+#: v2/class-mailchimp.php:387, v3/class-mailchimp.php:532
+msgid "Connect"
+msgstr "संबंध जोड़ना"
+
+#: v2/class-mailchimp.php:412, v3/class-mailchimp.php:557
+msgid "Options"
+msgstr "विकल्प"
+
+#: v2/class-mailchimp.php:421
+msgid "Send welcome email"
+msgstr "स्वागत ईमेल भेजें"
+
+#: v2/class-mailchimp.php:431, v3/class-mailchimp.php:566
+msgid "Use double opt-in"
+msgstr "डबल ऑप्ट-इन का उपयोग करें"
+
+#: v3/class-mailchimp.php:59
+msgid ""
+"Your forms are currently using an outdated MailChimp integration that is no "
+"longer supported. Please update your forms to use the new integration to "
+"avoid losing subscribers."
+msgstr ""
+"आपके फ़ॉर्म वर्तमान में एक पुराने MailChimp एकीकरण का उपयोग कर रहे हैं जो अब समर्थित "
+"नहीं है। सदस्यों को खोने से बचने के लिए नए एकीकरण का उपयोग करने के लिए कृपया अपने फ़ॉर्म "
+"अपडेट करें।"
+
+#: v3/class-mailchimp.php:62
+msgid "Click here for more details."
+msgstr "अधिक जानकारी के लिए यहां क्लिक करें।"
+
+#: v3/class-mailchimp.php:227
+msgid "Error creating subscription."
+msgstr "सदस्यता बनाने में त्रुटि।"
+
+#: v3/class-mailchimp.php:270
+msgid "Could not verify API key"
+msgstr "API कुंजी को सत्यापित नहीं किया जा सका"
+
+#: v3/class-mailchimp.php:357
+msgid "Unknown List"
+msgstr "अज्ञात सूची"
+
+#: v3/class-mailchimp.php:363
+msgid "API list error: No lists"
+msgstr "API सूची त्रुटि: कोई सूचियां नहीं"
+
+#: v3/class-mailchimp.php:411
+msgid "Unknown Segment"
+msgstr "अज्ञात सेगमेंट"
+
+#: v3/class-mailchimp.php:426
+msgid "Unknown Group"
+msgstr "अज्ञात समूह"
+
+#: v3/class-mailchimp.php:434
+msgid "API groups error: No groups"
+msgstr "API समूह त्रुटि: कोई समूह नहीं"
+
+#: v3/class-mailchimp.php:475
+msgid "Email Address"
+msgstr "ईमेल पता"
+
+#: v3/class-mailchimp.php:485
+msgid "Unknown Merge Var"
+msgstr "अज्ञात विलय Var "

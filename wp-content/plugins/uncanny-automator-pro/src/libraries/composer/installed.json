@@ -1,0 +1,165 @@
+{
+    "packages": [
+        {
+            "name": "firebase/php-jwt",
+            "version": "v5.4.0",
+            "version_normalized": "5.4.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/firebase/php-jwt.git",
+                "reference": "d2113d9b2e0e349796e72d2a63cf9319100382d2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/firebase/php-jwt/zipball/d2113d9b2e0e349796e72d2a63cf9319100382d2",
+                "reference": "d2113d9b2e0e349796e72d2a63cf9319100382d2",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": ">=4.8 <=9"
+            },
+            "suggest": {
+                "paragonie/sodium_compat": "Support EdDSA (Ed25519) signatures when libsodium is not present"
+            },
+            "time": "2021-06-23T19:00:23+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Firebase\\JWT\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Neuman Vong",
+                    "email": "neuman+pear@twilio.com",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Anant Narayanan",
+                    "email": "anant@php.net",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Should conform to the current spec.",
+            "homepage": "https://github.com/firebase/php-jwt",
+            "keywords": [
+                "jwt",
+                "php"
+            ],
+            "support": {
+                "issues": "https://github.com/firebase/php-jwt/issues",
+                "source": "https://github.com/firebase/php-jwt/tree/v5.4.0"
+            },
+            "install-path": "../firebase/php-jwt"
+        },
+        {
+            "name": "twilio/sdk",
+            "version": "5.42.2",
+            "version_normalized": "5.42.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/twilio/twilio-php.git",
+                "reference": "0cfcb871b18a9c427dd9e8f0ed7458d43009b48a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/twilio/twilio-php/zipball/0cfcb871b18a9c427dd9e8f0ed7458d43009b48a",
+                "reference": "0cfcb871b18a9c427dd9e8f0ed7458d43009b48a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5.0"
+            },
+            "require-dev": {
+                "apigen/apigen": "^4.1",
+                "guzzlehttp/guzzle": "^6.3",
+                "phpunit/phpunit": ">=4.5"
+            },
+            "suggest": {
+                "guzzlehttp/guzzle": "An HTTP client to execute the API requests"
+            },
+            "time": "2020-02-05T19:55:13+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Twilio\\": "src/Twilio/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Twilio API Team",
+                    "email": "api@twilio.com"
+                }
+            ],
+            "description": "A PHP wrapper for Twilio's API",
+            "homepage": "http://github.com/twilio/twilio-php",
+            "keywords": [
+                "api",
+                "sms",
+                "twilio"
+            ],
+            "support": {
+                "issues": "https://github.com/twilio/twilio-php/issues",
+                "source": "https://github.com/twilio/twilio-php/tree/5.42.2"
+            },
+            "install-path": "../twilio/sdk"
+        },
+        {
+            "name": "woocommerce/action-scheduler",
+            "version": "3.3.0",
+            "version_normalized": "3.3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/woocommerce/action-scheduler.git",
+                "reference": "5588a831cd2453ecf7d4803f3a81063e13cde93d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/woocommerce/action-scheduler/zipball/5588a831cd2453ecf7d4803f3a81063e13cde93d",
+                "reference": "5588a831cd2453ecf7d4803f3a81063e13cde93d",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^7.5",
+                "woocommerce/woocommerce-sniffs": "0.1.0",
+                "wp-cli/wp-cli": "~2.5.0"
+            },
+            "time": "2021-09-15T21:08:48+00:00",
+            "type": "wordpress-plugin",
+            "extra": {
+                "scripts-description": {
+                    "test": "Run unit tests",
+                    "phpcs": "Analyze code against the WordPress coding standards with PHP_CodeSniffer",
+                    "phpcbf": "Fix coding standards warnings/errors automatically with PHP Code Beautifier"
+                }
+            },
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "description": "Action Scheduler for WordPress and WooCommerce",
+            "homepage": "https://actionscheduler.org/",
+            "support": {
+                "issues": "https://github.com/woocommerce/action-scheduler/issues",
+                "source": "https://github.com/woocommerce/action-scheduler/tree/3.3.0"
+            },
+            "install-path": "../woocommerce/action-scheduler"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

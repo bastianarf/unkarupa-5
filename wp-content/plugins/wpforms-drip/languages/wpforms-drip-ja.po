@@ -1,0 +1,237 @@
+# Copyright (C) 2019 WPForms Drip
+# This file is distributed under the same license as the WPForms Drip package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2018
+# Ali Darwich <b.a.darwich@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Drip\n"
+"Last-Translator: Ali Darwich <b.a.darwich@gmail.com>, 2019\n"
+"Language-Team: Japanese (https://www.transifex.com/wp-translations/teams/64435/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. translators: %s - WPForms.com documentation page URI.
+#: wpforms-drip.php:62
+msgid ""
+"The WPForms Drip plugin has been deactivated. Your site is running an "
+"outdated version of PHP that is no longer supported and is not compatible "
+"with the Drip addon. <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Read more</a> for additional information."
+msgstr ""
+"「WPForms Drip」プラグインは無効になっています。サイトはもはやサポートされていない古いバージョンの PHP "
+"を実行しており、「Drip」アドオンとは互換性がありません。詳細について<a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">もっと読んでください</a>。"
+
+#: src/Provider/Core.php:24
+msgid "Drip"
+msgstr "Drip"
+
+#. translators: %s - current provider name.
+#: src/Provider/Core.php:95
+msgid "%s Account Name"
+msgstr "%s のアカウントのネーム"
+
+#. translators: %s - current provider name.
+#: src/Provider/Core.php:104
+msgid "%s API Token"
+msgstr "%sの APIトークン"
+
+#. translators: %s - URL to a Drip User Info page.
+#: src/Provider/Core.php:113
+msgid ""
+"You can get the <code>API Token</code> on <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">User Info</a> page."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">ユーザー情報</a>ページで<code>APIトークン</code>を取得することができます。"
+
+#: src/Provider/FormBuilder.php:323
+msgid "New Drip Account"
+msgstr "新しい Drip アカウント"
+
+#: src/Provider/FormBuilder.php350, src/Provider/PageIntegrations.php:39
+msgid "Error requesting a Drip user info. Make sure API token is correct."
+msgstr "Drip ユーザー情報の要求中にエラーが発生しました。API トークンが正しいことを確認してください。"
+
+#: src/Provider/FormBuilder.php:437
+msgid "Select Account"
+msgstr "アカウントを選択"
+
+#: src/Provider/FormBuilder.php:444
+msgid "--- Select Account ---"
+msgstr "---アカウントを選択して---"
+
+#: src/Provider/FormBuilder.php:459
+msgid "Action To Perform"
+msgstr "実行するアクション"
+
+#: src/Provider/FormBuilder.php:466
+msgid "--- Select Action ---"
+msgstr "---アクションを選択して---"
+
+#: src/Provider/FormBuilder.php:468
+msgid "Subscriber: Create or Update"
+msgstr "購読者: 作成または更新"
+
+#: src/Provider/FormBuilder.php:469
+msgid "Subscriber: Delete"
+msgstr "購読者: 削除"
+
+#: src/Provider/FormBuilder.php:470
+msgid "Campaign: Subscribe"
+msgstr "キャンペーン: 購読する"
+
+#: src/Provider/FormBuilder.php:471
+msgid "Campaign: Unsubscribe"
+msgstr "キャンペーン: 登録解除"
+
+#: src/Provider/FormBuilder.php:472
+msgid "Record Event"
+msgstr "イベントを記録"
+
+#: src/Provider/FormBuilder.php:496
+msgid "Custom Events"
+msgstr "カスタムイベント"
+
+#: src/Provider/FormBuilder.php:504
+msgid "--- Select Saved Event ---"
+msgstr "---保存したイベントを選択してください---"
+
+#: src/Provider/FormBuilder.php:515
+msgid "Add New"
+msgstr "新規追加"
+
+#: src/Provider/FormBuilder.php:523
+msgid "Your new custom event name"
+msgstr "新しいカスタムイベント名"
+
+#: src/Provider/FormBuilder.php:526
+msgid "Example: Submitted Drip form"
+msgstr "例: 送信した Drip フォーム"
+
+#: src/Provider/FormBuilder.php540, src/Provider/FormBuilder.php:607
+msgid "Mark user as a prospect"
+msgstr "ユーザーを「見込み」としてマークする"
+
+#: src/Provider/FormBuilder.php544, src/Provider/FormBuilder.php:620
+msgid "Attach a lead score to the subscriber (when lead scoring is enabled)."
+msgstr "リードスコアを購読者に添付します（リードスコアが有効化な場合）"
+
+#: src/Provider/FormBuilder.php:554
+msgid "Create or Update Subscriber"
+msgstr "加入者の作成または更新"
+
+#: src/Provider/FormBuilder.php:575
+msgid "Send user ID to Drip (if the user was logged in)"
+msgstr "ユーザー ID を Drip に送信します（ユーザーがログインしていた場合）"
+
+#: src/Provider/FormBuilder.php:579
+msgid ""
+"Make sure that users can submit this form only once. All repeated "
+"submissions will be ignored by Drip."
+msgstr "ユーザーがこのフォームを一度だけ送信できることを確認してください。繰り返された提出はすべて Drip によって無視されます。"
+
+#: src/Provider/FormBuilder.php:593
+msgid "Send user IP address to Drip"
+msgstr "ユーザー IP アドレスを Drip に送信する"
+
+#: src/Provider/FormBuilder.php:612
+msgid "Starting Lead Score Value"
+msgstr "開始リードスコア値"
+
+#: src/Provider/FormBuilder.php:630
+msgid "Tags To Add"
+msgstr "追加するタグ"
+
+#: src/Provider/FormBuilder.php631, src/Provider/FormBuilder.php:644
+msgid "Comma-separated list of tags is accepted."
+msgstr "タグのカンマ区切りリストは受け入れられます。"
+
+#: src/Provider/FormBuilder.php:643
+msgid "Tags To Delete"
+msgstr "削除するタグ"
+
+#: src/Provider/FormBuilder.php:664
+msgid "Delete a Subscriber"
+msgstr "購読者を削除する"
+
+#: src/Provider/FormBuilder.php:670
+msgid ""
+"Sometimes you may want to give your users the option to remove themselves "
+"from your subscribers using your own form."
+msgstr "場合によっては、フォームを使って自分自身を購読者リストから削除するオプションを自分のユーザーに与えることができます。"
+
+#: src/Provider/FormBuilder.php:671
+msgid ""
+"This action is irreversible, you will lose all the data in Drip about the "
+"subscriber."
+msgstr "この動作は元に戻せません。Dripのすべての購読者データが失われます。"
+
+#: src/Provider/FormBuilder.php:680
+msgid "Select Campaign"
+msgstr "キャンペーンを選択"
+
+#: src/Provider/FormBuilder.php689, src/Provider/FormBuilder.php:735
+msgid "--- Select Campaign ---"
+msgstr "---キャンペーンを選択する---"
+
+#. translators: %s - URL to Drip Knowledge base article.
+#: src/Provider/FormBuilder.php:705
+msgid ""
+"You have no campaigns yet. Consider creating at least one. Here is <a "
+"href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">how to do it</a>."
+msgstr ""
+"まだキャンペーンはありません。少なくとも1つ作成することを検討してください。これを<a href=\"%s\" rel=\"noopener "
+"noreferrer\" target=\"_blank\">行う方法について</a>の情報です。"
+
+#: src/Provider/FormBuilder.php:726
+msgid "Unsubscribe From Campaign(s)"
+msgstr "キャンペーンからの退会"
+
+#: src/Provider/FormBuilder.php:743
+msgid "All Campaigns"
+msgstr "すべてのキャンペーン"
+
+#: src/Provider/FormBuilder.php:749
+msgid "You have no campaigns yet. Consider creating at least one."
+msgstr "まだキャンペーンがありません。少なくとも1つ作成することを検討してください。"
+
+#: src/Provider/FormBuilder.php:759
+msgid ""
+"Sometimes you may want to give your users the option to unsubscribe "
+"themselves from your campaign(s) using your own form."
+msgstr "時々、ユーザーに自分でフォームを使ってキャンペーンから退会するオプションを与えたい。"
+
+#: src/Provider/FormBuilder.php:784
+msgid "Subscriber Email"
+msgstr "購読者のメール"
+
+#: src/Provider/FormBuilder.php:789
+msgid "--- Select Email Field ---"
+msgstr "---メールフィールドを選択する---"
+
+#: src/Provider/FormBuilder.php:803
+msgid "New Subscriber Email"
+msgstr "新しい購読者のメール"
+
+#: src/Provider/FormBuilder.php:808
+msgid "--- Select New Email Field ---"
+msgstr "---新メールフィールドを選択する---"
+
+#: src/Provider/Process.php:66
+msgid "Form to Drip processing stopped by conditional logic."
+msgstr "Drip 処理へのフォームが条件付きロジックによって停止しました。"
+
+#: src/Provider/Process.php:233
+msgid "Submission to Drip failed."
+msgstr "Drip への送信に失敗しました。"

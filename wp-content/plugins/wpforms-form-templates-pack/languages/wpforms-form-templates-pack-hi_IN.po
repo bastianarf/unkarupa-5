@@ -1,0 +1,5036 @@
+# Copyright (C) 2018 WPForms Form Templates Pack
+# This file is distributed under the same license as the WPForms Form Templates Pack package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Form Templates Pack\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: hi\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: templates/class-accident-report.php:21
+msgid "Accident Report Form"
+msgstr "दुर्घटना की रिपोर्ट फॉर्म"
+
+#: templates/class-accident-report.php:29
+msgid "I am reporting a"
+msgstr "मैं रिपोर्ट कर रहा हूं"
+
+#: templates/class-accident-report.php:32
+msgid "Loss of time/injury"
+msgstr "समय की हानि / चोट"
+
+#: templates/class-accident-report.php:35
+msgid "First aid incident"
+msgstr "प्राथमिक उपचार की घटना"
+
+#: templates/class-accident-report.php:38
+msgid "Close call"
+msgstr "कॉल बंद करें"
+
+#: templates/class-accident-report.php:41
+msgid "Observation"
+msgstr "अवलोकन"
+
+#: templates/class-accident-report.php:48
+msgid "Person Reporting Incident"
+msgstr "व्यक्ति रिपोर्टिंग घटना"
+
+#: templates/class-accident-report.php:56
+msgid "Person Involved in Incident"
+msgstr "हादसे में शामिल व्यक्ति"
+
+#: templates/class-accident-report.php:64
+msgid "Date / Time of Incident"
+msgstr "घटना की तारीख / समय"
+
+#: templates/class-accident-report.php:75
+msgid "Location of Incident"
+msgstr "घटना का स्थान"
+
+#: templates/class-accident-report.php:81
+msgid "Please describe the event in detail."
+msgstr "कृपया घटना का विस्तार से वर्णन करें।"
+
+#: templates/class-accident-report.php:87
+msgid "Was damage done to the property?"
+msgstr "क्या संपत्ति का नुकसान हुआ था?"
+
+#: templates/class-accident-report.php:90, templates/class-accident-report.php:103, templates/class-camp-registration.php:80, templates/class-camp-registration.php:94, templates/class-church-membership.php:86,
+#: templates/class-college-application.php:156, templates/class-college-application.php:242, templates/class-college-application.php:262, templates/class-college-application.php:579, templates/class-conference-registration.php:87,
+#: templates/class-employee-termination.php:93, templates/class-event-feedback.php:55, templates/class-gaming-tournament-registration.php:99, templates/class-high-school-reunion-registration.php:80, templates/class-house-inventory.php:97,
+#: templates/class-maintenance-request.php:135, templates/class-maintenance-request.php:149, templates/class-new-years-party-rsvp.php:40, templates/class-online-proposal.php:60, templates/class-party-invitation-rsvp.php:40,
+#: templates/class-potluck-invitation-rsvp.php:40, templates/class-simple-rsvp.php:40, templates/class-testimonial.php:85, templates/class-wedding-invitation-rsvp.php:40, templates/class-wedding-invitation-rsvp.php:70
+msgid "Yes"
+msgstr "हाँ"
+
+#: templates/class-accident-report.php:93, templates/class-accident-report.php:106, templates/class-camp-registration.php:83, templates/class-camp-registration.php:97, templates/class-church-membership.php:89,
+#: templates/class-college-application.php:159, templates/class-college-application.php:245, templates/class-college-application.php:265, templates/class-college-application.php:481, templates/class-college-application.php:582,
+#: templates/class-conference-registration.php:90, templates/class-employee-termination.php:96, templates/class-event-feedback.php:58, templates/class-gaming-tournament-registration.php:102,
+#: templates/class-high-school-reunion-registration.php:83, templates/class-house-inventory.php:100, templates/class-maintenance-request.php:138, templates/class-maintenance-request.php:152, templates/class-new-years-party-rsvp.php:43,
+#: templates/class-online-proposal.php:63, templates/class-party-invitation-rsvp.php:43, templates/class-simple-rsvp.php:43, templates/class-testimonial.php:88, templates/class-wedding-invitation-rsvp.php:43,
+#: templates/class-wedding-invitation-rsvp.php:73
+msgid "No"
+msgstr "नहीं"
+
+#: templates/class-accident-report.php:100
+msgid "Could this incident been avoided?"
+msgstr "क्या इस घटना को टाला जा सकता था?"
+
+#: templates/class-accident-report.php:114, templates/class-address-book.php:87, templates/class-alumni-donation.php:67, templates/class-auction-item-registration.php:89, templates/class-automobile-information.php:66,
+#: templates/class-avon-order.php:98, templates/class-baseball-league-registration.php:120, templates/class-basic-mortgage-application.php:225, templates/class-birthday-party-invitation-rsvp.php:69, templates/class-bug-tracker.php:128,
+#: templates/class-call-for-proposals.php:153, templates/class-camp-registration.php:161, templates/class-cancellation-survey.php:180, templates/class-change-request.php:123, templates/class-check-request.php:110,
+#: templates/class-church-donation.php:88, templates/class-church-membership.php:109, templates/class-college-application.php:625, templates/class-complaint.php:82, templates/class-conference-registration.php:116,
+#: templates/class-content-download.php:57, templates/class-contest-entry.php:81, templates/class-diet-log.php:120, templates/class-dinner-reservation.php:160, templates/class-emergency-contact.php:124,
+#: templates/class-employee-incident-report.php:112, templates/class-employee-information.php:152, templates/class-employee-referral.php:98, templates/class-employee-termination.php:112, templates/class-enrollment.php:113,
+#: templates/class-equipment-checkout.php:93, templates/class-event-feedback.php:82, templates/class-event-planner.php:154, templates/class-exercise-log.php:94, templates/class-family-reunion-registration.php:96,
+#: templates/class-file-upload.php:63, templates/class-fitness-interest.php:100, templates/class-football-league-registration.php:120, templates/class-fundraiser-registration.php:106,
+#: templates/class-gaming-tournament-registration.php:128, templates/class-general-donation.php:77, templates/class-gift-card-order.php:84, templates/class-girl-scout-order.php:119, templates/class-grade-book.php:96,
+#: templates/class-gym-registration.php:152, templates/class-health-insurance-quote.php:89, templates/class-height-and-weight.php:54, templates/class-high-school-reunion-registration.php:98, templates/class-home-buyer-feedback.php:143,
+#: templates/class-house-inventory.php:111, templates/class-it-asset.php:101, templates/class-it-service-request.php:92, templates/class-job-application-upload.php:115, templates/class-lecture-notes.php:54,
+#: templates/class-lesson-plan.php:116, templates/class-maintenance-request.php:161, templates/class-meeting-room-registration.php:109, templates/class-movie-collection.php:106, templates/class-music-collection.php:101,
+#: templates/class-neighborhood-events-questionnaire.php:98, templates/class-neighborhood-feedback.php:345, templates/class-new-years-party-rsvp.php:93, templates/class-newspaper-subscription.php:63,
+#: templates/class-online-event-registration.php:120, templates/class-online-proposal.php:71, templates/class-online-race-registration.php:137, templates/class-parental-consent.php:92, templates/class-partnership-agreement.php:145,
+#: templates/class-party-invitation-rsvp.php:64, templates/class-performance-improvement-plan.php:103, templates/class-personal-trainer-signup.php:134, templates/class-pledge-drive.php:100, templates/class-potluck-invitation-rsvp.php:69,
+#: templates/class-prayer-request.php:69, templates/class-race-registration.php:111, templates/class-recipe-catalog.php:172, templates/class-rent-receipt.php:94, templates/class-retreat-registration.php:117,
+#: templates/class-school-id-registration.php:71, templates/class-simple-rsvp.php:98, templates/class-ski-lodge-registration.php:122, templates/class-sponsorship-request.php:102, templates/class-summer-camp-registration.php:160,
+#: templates/class-super-bowl-party-rsvp.php:76, templates/class-support-ticket.php:79, templates/class-takeout-order.php:95, templates/class-testimonial.php:96, templates/class-time-sheet.php:82, templates/class-to-do-list.php:87,
+#: templates/class-travel-request.php:115, templates/class-tshirt-order.php:139, templates/class-vendor-contact-information.php:78, templates/class-vendor-registration.php:100, templates/class-veterinarian-patient-intake.php:99,
+#: templates/class-video-release.php:76, templates/class-volunteer-recruitment.php:185, templates/class-webinar-registration.php:70, templates/class-wedding-invitation-rsvp.php:112, templates/class-work-order-request.php:96,
+#: templates/class-workshop-registration.php:77
+msgid "Sending..."
+msgstr "भेजना…"
+
+#: templates/class-address-book.php:21
+msgid "Address Book Form"
+msgstr "पता पुस्तिका फॉर्म"
+
+#: templates/class-address-book.php:29, templates/class-alumni-donation.php:29, templates/class-auction-item-registration.php:29, templates/class-avon-order.php:68, templates/class-basic-mortgage-application.php:195,
+#: templates/class-bug-tracker.php:29, templates/class-call-for-proposals.php:29, templates/class-camp-registration.php:132, templates/class-church-donation.php:29, templates/class-church-membership.php:29,
+#: templates/class-college-application.php:29, templates/class-college-application.php:58, templates/class-college-application.php:328, templates/class-college-application.php:341, templates/class-complaint.php:29,
+#: templates/class-conference-registration.php:29, templates/class-content-download.php:29, templates/class-contest-entry.php:29, templates/class-dinner-reservation.php:29, templates/class-emergency-contact.php:81,
+#: templates/class-employee-information.php:35, templates/class-employee-information.php:130, templates/class-employee-referral.php:35, templates/class-enrollment.php:40, templates/class-family-reunion-registration.php:29,
+#: templates/class-file-upload.php:29, templates/class-fitness-interest.php:29, templates/class-gaming-tournament-registration.php:29, templates/class-general-donation.php:29, templates/class-girl-scout-order.php:89,
+#: templates/class-gym-registration.php:29, templates/class-high-school-reunion-registration.php:29, templates/class-it-service-request.php:29, templates/class-job-application-upload.php:29, templates/class-lesson-plan.php:100,
+#: templates/class-maintenance-request.php:29, templates/class-meeting-room-registration.php:29, templates/class-new-years-party-rsvp.php:29, templates/class-newspaper-subscription.php:46, templates/class-online-event-registration.php:29,
+#: templates/class-online-proposal.php:29, templates/class-online-race-registration.php:29, templates/class-party-invitation-rsvp.php:29, templates/class-personal-trainer-signup.php:29, templates/class-pledge-drive.php:29,
+#: templates/class-potluck-invitation-rsvp.php:29, templates/class-prayer-request.php:29, templates/class-race-registration.php:81, templates/class-retreat-registration.php:29, templates/class-school-id-registration.php:29,
+#: templates/class-simple-rsvp.php:29, templates/class-ski-lodge-registration.php:29, templates/class-sponsorship-request.php:35, templates/class-summer-camp-registration.php:35, templates/class-summer-camp-registration.php:100,
+#: templates/class-summer-camp-registration.php:137, templates/class-super-bowl-party-rsvp.php:29, templates/class-support-ticket.php:29, templates/class-takeout-order.php:64, templates/class-testimonial.php:29,
+#: templates/class-tshirt-order.php:104, templates/class-veterinarian-patient-intake.php:35, templates/class-veterinarian-patient-intake.php:71, templates/class-volunteer-recruitment.php:154, templates/class-webinar-registration.php:29,
+#: templates/class-wedding-invitation-rsvp.php:29, templates/class-workshop-registration.php:29
+msgid "Name"
+msgstr "नाम"
+
+#: templates/class-address-book.php:37
+msgid "Photo"
+msgstr "फोटो"
+
+#: templates/class-address-book.php:42, templates/class-auction-item-registration.php:51, templates/class-avon-order.php:90, templates/class-basic-mortgage-application.php:203, templates/class-camp-registration.php:147,
+#: templates/class-church-membership.php:57, templates/class-college-application.php:37, templates/class-college-application.php:73, templates/class-complaint.php:51, templates/class-contest-entry.php:51,
+#: templates/class-emergency-contact.php:37, templates/class-emergency-contact.php:89, templates/class-employee-information.php:57, templates/class-enrollment.php:62, templates/class-event-planner.php:120,
+#: templates/class-fundraiser-registration.php:70, templates/class-girl-scout-order.php:111, templates/class-job-application-upload.php:52, templates/class-newspaper-subscription.php:54, templates/class-online-event-registration.php:37,
+#: templates/class-personal-trainer-signup.php:49, templates/class-pledge-drive.php:51, templates/class-race-registration.php:103, templates/class-retreat-registration.php:37, templates/class-school-id-registration.php:43,
+#: templates/class-ski-lodge-registration.php:37, templates/class-summer-camp-registration.php:123, templates/class-takeout-order.php:87, templates/class-tshirt-order.php:119, templates/class-vendor-contact-information.php:64,
+#: templates/class-veterinarian-patient-intake.php:58, templates/class-volunteer-recruitment.php:162, templates/class-workshop-registration.php:44
+msgid "Address"
+msgstr "पता"
+
+#: templates/class-address-book.php:49, templates/class-vendor-contact-information.php:36
+msgid "Website / URL"
+msgstr "वेबसाइट / यूआरएल"
+
+#: templates/class-address-book.php:55, templates/class-emergency-contact.php:96, templates/class-online-event-registration.php:44
+msgid "Home Phone"
+msgstr "घर का फ़ोन"
+
+#: templates/class-address-book.php:62, templates/class-emergency-contact.php:110
+msgid "Cell Phone"
+msgstr "सेल फोन"
+
+#: templates/class-address-book.php:69, templates/class-enrollment.php:82
+msgid "Birthday"
+msgstr "जन्मदिन"
+
+#: templates/class-address-book.php:80, templates/class-lecture-notes.php:41, templates/class-time-sheet.php:75
+msgid "Notes"
+msgstr "नोट्स"
+
+#: templates/class-alumni-donation.php:21
+msgid "Alumni Donation Form"
+msgstr "एलुमनी डोनेशन फॉर्म"
+
+#: templates/class-alumni-donation.php:37
+msgid "Class Year"
+msgstr "कक्षा वर्ष"
+
+#: templates/class-alumni-donation.php:43, templates/class-auction-item-registration.php:37, templates/class-avon-order.php:76, templates/class-basic-mortgage-application.php:217, templates/class-bug-tracker.php:37,
+#: templates/class-call-for-proposals.php:62, templates/class-camp-registration.php:140, templates/class-change-request.php:37, templates/class-check-request.php:37, templates/class-church-donation.php:37,
+#: templates/class-church-membership.php:50, templates/class-complaint.php:37, templates/class-conference-registration.php:37, templates/class-contest-entry.php:37, templates/class-dinner-reservation.php:37,
+#: templates/class-dinner-reservation.php:58, templates/class-emergency-contact.php:55, templates/class-employee-information.php:43, templates/class-employee-referral.php:43, templates/class-enrollment.php:55,
+#: templates/class-equipment-checkout.php:44, templates/class-family-reunion-registration.php:37, templates/class-file-upload.php:37, templates/class-fitness-interest.php:45, templates/class-fundraiser-registration.php:85,
+#: templates/class-gaming-tournament-registration.php:37, templates/class-general-donation.php:46, templates/class-gift-card-order.php:76, templates/class-girl-scout-order.php:97, templates/class-gym-registration.php:37,
+#: templates/class-high-school-reunion-registration.php:51, templates/class-it-service-request.php:37, templates/class-job-application-upload.php:37, templates/class-lesson-plan.php:108, templates/class-maintenance-request.php:45,
+#: templates/class-meeting-room-registration.php:37, templates/class-online-event-registration.php:58, templates/class-online-proposal.php:37, templates/class-online-race-registration.php:37,
+#: templates/class-personal-trainer-signup.php:56, templates/class-pledge-drive.php:37, templates/class-prayer-request.php:37, templates/class-race-registration.php:89, templates/class-retreat-registration.php:52,
+#: templates/class-school-id-registration.php:50, templates/class-ski-lodge-registration.php:44, templates/class-sponsorship-request.php:43, templates/class-sponsorship-request.php:60, templates/class-summer-camp-registration.php:108,
+#: templates/class-support-ticket.php:37, templates/class-takeout-order.php:72, templates/class-testimonial.php:37, templates/class-tshirt-order.php:112, templates/class-vendor-contact-information.php:57,
+#: templates/class-vendor-registration.php:92, templates/class-veterinarian-patient-intake.php:43, templates/class-volunteer-recruitment.php:169, templates/class-webinar-registration.php:37, templates/class-work-order-request.php:37,
+#: templates/class-workshop-registration.php:37
+msgid "Email"
+msgstr "ईमेल"
+
+#: templates/class-alumni-donation.php:50, templates/class-auction-item-registration.php:44, templates/class-avon-order.php:83, templates/class-basic-mortgage-application.php:210, templates/class-call-for-proposals.php:55,
+#: templates/class-change-request.php:44, templates/class-check-request.php:44, templates/class-church-membership.php:43, templates/class-college-application.php:44, templates/class-college-application.php:81,
+#: templates/class-complaint.php:44, templates/class-contest-entry.php:44, templates/class-dinner-reservation.php:44, templates/class-dinner-reservation.php:55, templates/class-emergency-contact.php:62,
+#: templates/class-employee-information.php:50, templates/class-employee-information.php:138, templates/class-employee-referral.php:50, templates/class-enrollment.php:48, templates/class-equipment-checkout.php:51,
+#: templates/class-family-reunion-registration.php:44, templates/class-file-upload.php:44, templates/class-fitness-interest.php:37, templates/class-fundraiser-registration.php:92, templates/class-gift-card-order.php:69,
+#: templates/class-girl-scout-order.php:104, templates/class-high-school-reunion-registration.php:44, templates/class-it-service-request.php:44, templates/class-job-application-upload.php:44, templates/class-maintenance-request.php:37,
+#: templates/class-online-proposal.php:44, templates/class-personal-trainer-signup.php:63, templates/class-pledge-drive.php:44, templates/class-prayer-request.php:44, templates/class-race-registration.php:96,
+#: templates/class-retreat-registration.php:45, templates/class-school-id-registration.php:57, templates/class-ski-lodge-registration.php:51, templates/class-sponsorship-request.php:50, templates/class-sponsorship-request.php:63,
+#: templates/class-summer-camp-registration.php:115, templates/class-takeout-order.php:79, templates/class-vendor-contact-information.php:50, templates/class-vendor-registration.php:85, templates/class-veterinarian-patient-intake.php:50,
+#: templates/class-volunteer-recruitment.php:176, templates/class-work-order-request.php:44, templates/class-workshop-registration.php:51
+msgid "Phone"
+msgstr "फ़ोन"
+
+#: templates/class-alumni-donation.php:58, templates/class-church-donation.php:44, templates/class-general-donation.php:37
+msgid "Donation Amount"
+msgstr "दान राशि"
+
+#: templates/class-auction-item-registration.php:21
+msgid "Auction Item Registration Form"
+msgstr "नीलामी आइटम पंजीकरण फार्म"
+
+#: templates/class-auction-item-registration.php:58
+msgid "Auction Item Information"
+msgstr "नीलामी आइटम की जानकारी"
+
+#: templates/class-auction-item-registration.php:64
+msgid "Item Name"
+msgstr "आइटम का नाम"
+
+#: templates/class-auction-item-registration.php:70
+msgid "Estimated Value"
+msgstr "अनुमानित मान"
+
+#: templates/class-auction-item-registration.php:77
+msgid "Image"
+msgstr "छवि"
+
+#: templates/class-auction-item-registration.php:82
+msgid "Detailed Description"
+msgstr "विस्तृत विवरण"
+
+#: templates/class-automobile-information.php:21
+msgid "Automobile Information Form"
+msgstr "ऑटोमोबाइल सूचना फार्म"
+
+#: templates/class-automobile-information.php:29
+msgid "Year"
+msgstr "साल"
+
+#: templates/class-automobile-information.php:35
+msgid "Make (eg Ford)"
+msgstr "बनाओ (जैसे फोर्ड)"
+
+#: templates/class-automobile-information.php:41
+msgid "Model (eg Mustang)"
+msgstr "मॉडल (जैसे मस्टैंग)"
+
+#: templates/class-automobile-information.php:47
+msgid "What is your automobile's vehicle identification number (VIN)?"
+msgstr "आपके ऑटोमोबाइल की वाहन पहचान संख्या (VIN) क्या है?"
+
+#: templates/class-automobile-information.php:53
+msgid "Since you bought or leased your automobile, about how many miles has it been driven?"
+msgstr "जब से आपने अपने ऑटोमोबाइल को खरीदा या किराए पर लिया था, उसके बारे में कितने मील की दूरी पर है?"
+
+#: templates/class-automobile-information.php:59
+msgid "About how many miles is your automobile driven in a typical week ?"
+msgstr "एक विशिष्ट सप्ताह में आपका ऑटोमोबाइल कितने मील की दूरी पर है?"
+
+#: templates/class-avon-order.php:21
+msgid "Avon Order Form"
+msgstr "एवन ऑर्डर फॉर्म"
+
+#: templates/class-avon-order.php:29
+msgid "Catalogue Name"
+msgstr "कैटलॉग का नाम"
+
+#: templates/class-avon-order.php:36
+msgid "Page Number"
+msgstr "पृष्ठ संख्या"
+
+#: templates/class-avon-order.php:42
+msgid "Quantity"
+msgstr "मात्रा"
+
+#: templates/class-avon-order.php:49
+msgid "Product #"
+msgstr "उत्पाद #"
+
+#: templates/class-avon-order.php:55
+msgid "Product Description"
+msgstr "उत्पाद विवरण"
+
+#: templates/class-avon-order.php:61
+msgid "Cost"
+msgstr "लागत"
+
+#: templates/class-baseball-league-registration.php:21
+msgid "Baseball League Registration Form"
+msgstr "बेसबॉल लीग पंजीकरण फॉर्म"
+
+#: templates/class-baseball-league-registration.php:29, templates/class-football-league-registration.php:29
+msgid "Player Name"
+msgstr "खिलाड़ी का नाम"
+
+#: templates/class-baseball-league-registration.php:37, templates/class-football-league-registration.php:37
+msgid "Player Age Group"
+msgstr "खिलाड़ी आयु समूह"
+
+#: templates/class-baseball-league-registration.php:40, templates/class-camp-registration.php:40, templates/class-football-league-registration.php:40
+msgid "6-8 years old"
+msgstr "6-8 साल का"
+
+#: templates/class-baseball-league-registration.php:43, templates/class-camp-registration.php:43, templates/class-football-league-registration.php:43
+msgid "9-12 years old"
+msgstr "9-12 साल का"
+
+#: templates/class-baseball-league-registration.php:46, templates/class-camp-registration.php:46, templates/class-football-league-registration.php:46
+msgid "13-15 years old"
+msgstr "13-15 साल का"
+
+#: templates/class-baseball-league-registration.php:55, templates/class-football-league-registration.php:55
+msgid "Desired Team"
+msgstr "वांछित टीम"
+
+#: templates/class-baseball-league-registration.php:58
+msgid "Tigers"
+msgstr "बाघों"
+
+#: templates/class-baseball-league-registration.php:61
+msgid "Orioles"
+msgstr "ओरिओलेस"
+
+#: templates/class-baseball-league-registration.php:64
+msgid "Yankees"
+msgstr "यांकीस"
+
+#: templates/class-baseball-league-registration.php:67
+msgid "Rangers"
+msgstr "रेंजर्स"
+
+#: templates/class-baseball-league-registration.php:70
+msgid "Astros"
+msgstr "एस्ट्रोस"
+
+#: templates/class-baseball-league-registration.php:77, templates/class-football-league-registration.php:77
+msgid "Desired Position"
+msgstr "इच्छित स्थान"
+
+#: templates/class-baseball-league-registration.php:80
+msgid "Pitcher"
+msgstr "घड़ा"
+
+#: templates/class-baseball-league-registration.php:83
+msgid "Catcher"
+msgstr "कैचर"
+
+#: templates/class-baseball-league-registration.php:86
+msgid "Outfield"
+msgstr "आउटफील्ड"
+
+#: templates/class-baseball-league-registration.php:89
+msgid "Infield"
+msgstr "इनफील्ड"
+
+#: templates/class-baseball-league-registration.php:96, templates/class-football-league-registration.php:96
+msgid "Guardian Name"
+msgstr "अभिभावक का नाम"
+
+#: templates/class-baseball-league-registration.php:104, templates/class-football-league-registration.php:104
+msgid "Guardian Email"
+msgstr "अभिभावक ईमेल"
+
+#: templates/class-baseball-league-registration.php:111, templates/class-football-league-registration.php:111
+msgid "Guardian Address"
+msgstr "अभिभावक का पता"
+
+#: templates/class-basic-mortgage-application.php:21
+msgid "Basic Mortgage Application Form"
+msgstr "मूल बंधक आवेदन फॉर्म"
+
+#: templates/class-basic-mortgage-application.php:29
+msgid "Purpose of Mortgage or Loan"
+msgstr "बंधक या ऋण का उद्देश्य"
+
+#: templates/class-basic-mortgage-application.php:32
+msgid "Home Loan"
+msgstr "होम लोन"
+
+#: templates/class-basic-mortgage-application.php:35
+msgid "Refinance"
+msgstr "पुनर्वित्त"
+
+#: templates/class-basic-mortgage-application.php:38
+msgid "Debt Consolidation Loan"
+msgstr "ऋण समेकन ऋण"
+
+#: templates/class-basic-mortgage-application.php:41
+msgid "Second Mortgage"
+msgstr "दूसरा बंधक"
+
+#: templates/class-basic-mortgage-application.php:44
+msgid "Home Equity Loan"
+msgstr "होम इक्विटी लोन"
+
+#: templates/class-basic-mortgage-application.php:47
+msgid "Home Improvement Loan"
+msgstr "गृह सुधार ऋण"
+
+#: templates/class-basic-mortgage-application.php:50
+msgid "Bad Credit Home Mortgage"
+msgstr "बुरा क्रडिट होम बंधक"
+
+#: templates/class-basic-mortgage-application.php:58
+msgid "Loan Amount"
+msgstr "ऋण राशि"
+
+#: templates/class-basic-mortgage-application.php:65
+msgid "Type of Property"
+msgstr "संपत्ति का प्रकार"
+
+#: templates/class-basic-mortgage-application.php:68
+msgid "House"
+msgstr "मकान"
+
+#: templates/class-basic-mortgage-application.php:71
+msgid "Condo"
+msgstr "Condo"
+
+#: templates/class-basic-mortgage-application.php:74
+msgid "Town House"
+msgstr "टाउन हाउस"
+
+#: templates/class-basic-mortgage-application.php:77
+msgid "Duplex"
+msgstr "डुप्लेक्स"
+
+#: templates/class-basic-mortgage-application.php:80
+msgid "Land"
+msgstr "भूमि"
+
+#: templates/class-basic-mortgage-application.php:88
+msgid "Estimated Price or Value of Property"
+msgstr "अनुमानित मूल्य या संपत्ति का मूल्य"
+
+#: templates/class-basic-mortgage-application.php:95
+msgid "Property Location"
+msgstr "संपत्ति का स्थान"
+
+#: templates/class-basic-mortgage-application.php:102
+msgid "Down Payment Percentage"
+msgstr "डाउन पेमेंट प्रतिशत"
+
+#: templates/class-basic-mortgage-application.php:105
+msgid "0-5%"
+msgstr "0-5%"
+
+#: templates/class-basic-mortgage-application.php:108
+msgid "6-10%"
+msgstr "6-10%"
+
+#: templates/class-basic-mortgage-application.php:111
+msgid "10% or more"
+msgstr "10% या अधिक"
+
+#: templates/class-basic-mortgage-application.php:119
+msgid "Current Mortgage Company"
+msgstr "वर्तमान बंधक कंपनी"
+
+#: templates/class-basic-mortgage-application.php:122
+msgid "Company A"
+msgstr "कंपनी ए"
+
+#: templates/class-basic-mortgage-application.php:125
+msgid "Company B"
+msgstr "कंपनी बी"
+
+#: templates/class-basic-mortgage-application.php:128
+msgid "Company C"
+msgstr "कंपनी सी"
+
+#: templates/class-basic-mortgage-application.php:136
+msgid "Would you like a Referral to a Real Estate Agent?"
+msgstr "क्या आप एक रियल एस्टेट एजेंट के लिए एक रेफरल चाहेंगे?"
+
+#: templates/class-basic-mortgage-application.php:139, templates/class-basic-mortgage-application.php:175, templates/class-lesson-plan.php:50
+msgid "First Choice"
+msgstr "पहली पसंद"
+
+#: templates/class-basic-mortgage-application.php:142, templates/class-basic-mortgage-application.php:178, templates/class-lesson-plan.php:53
+msgid "Second Choice"
+msgstr "दूसरी पसंद"
+
+#: templates/class-basic-mortgage-application.php:145, templates/class-basic-mortgage-application.php:181, templates/class-college-application.php:110, templates/class-lesson-plan.php:56
+msgid "Third Choice"
+msgstr "तीसरी पसंद"
+
+#: templates/class-basic-mortgage-application.php:153, templates/class-church-membership.php:37, templates/class-personal-trainer-signup.php:37, templates/class-veterinarian-patient-intake.php:78
+msgid "Age"
+msgstr "उम्र"
+
+#: templates/class-basic-mortgage-application.php:159
+msgid "Occupation"
+msgstr "व्यवसाय"
+
+#: templates/class-basic-mortgage-application.php:165
+msgid "Household Income"
+msgstr "घरेलू आय"
+
+#: templates/class-basic-mortgage-application.php:172
+msgid "Credit Rating"
+msgstr "क्रेडिट रेटिंग"
+
+#: templates/class-basic-mortgage-application.php:189
+msgid "Contact Information"
+msgstr "संपर्क जानकारी"
+
+#: templates/class-birthday-party-invitation-rsvp.php:21
+msgid "Birthday Party Invitation RSVP Form"
+msgstr "जन्मदिन की पार्टी का निमंत्रण RSVP फॉर्म"
+
+#: templates/class-birthday-party-invitation-rsvp.php:29
+msgid "Will you be able to make it?"
+msgstr "क्या आप इसे बना पाएंगे?"
+
+#: templates/class-birthday-party-invitation-rsvp.php:32
+msgid "Yeah!"
+msgstr "हाँ!"
+
+#: templates/class-birthday-party-invitation-rsvp.php:35
+msgid "Maybe / Not sure"
+msgstr "हो सकता है / पक्का नहीं"
+
+#: templates/class-birthday-party-invitation-rsvp.php:38
+msgid "I can't"
+msgstr "मैं नहीं कर सकता"
+
+#: templates/class-birthday-party-invitation-rsvp.php:45
+msgid "How many people are you going to bring?"
+msgstr "आप कितने लोगों को लाने जा रहे हैं?"
+
+#: templates/class-birthday-party-invitation-rsvp.php:48
+msgid "Just me!"
+msgstr "सिर्फ़ मैं!"
+
+#: templates/class-birthday-party-invitation-rsvp.php:51
+msgid "Plus one"
+msgstr "एक और"
+
+#: templates/class-birthday-party-invitation-rsvp.php:54
+msgid "A few friends"
+msgstr "कुछ दोस्त"
+
+#: templates/class-birthday-party-invitation-rsvp.php:62, templates/class-conference-registration.php:109, templates/class-fundraiser-registration.php:99, templates/class-gaming-tournament-registration.php:121,
+#: templates/class-high-school-reunion-registration.php:91, templates/class-party-invitation-rsvp.php:57, templates/class-wedding-invitation-rsvp.php:105
+msgid "Comments or Questions"
+msgstr "टिप्पणियाँ या प्रश्न"
+
+#: templates/class-bug-tracker.php:21
+msgid "Bug Tracker Form"
+msgstr "बग ट्रैकर फॉर्म"
+
+#: templates/class-bug-tracker.php:44
+msgid "Describe what happened or steps to reproduce the issue"
+msgstr "वर्णन करें कि क्या हुआ या समस्या को पुन: उत्पन्न करने के लिए कदम"
+
+#: templates/class-bug-tracker.php:50
+msgid "Operating System"
+msgstr "ऑपरेटिंग सिस्टम"
+
+#: templates/class-bug-tracker.php:53
+msgid "Windows 7"
+msgstr "विंडोज 7"
+
+#: templates/class-bug-tracker.php:56
+msgid "Windows 8"
+msgstr "विंडोज 8"
+
+#: templates/class-bug-tracker.php:59
+msgid "Windows 10"
+msgstr "विंडोज 10"
+
+#: templates/class-bug-tracker.php:62
+msgid "macOS"
+msgstr "macOS"
+
+#: templates/class-bug-tracker.php:65
+msgid "Linux"
+msgstr "लिनक्स"
+
+#: templates/class-bug-tracker.php:68
+msgid "iOS"
+msgstr "iOS"
+
+#: templates/class-bug-tracker.php:71
+msgid "Android"
+msgstr "एंड्रॉयड"
+
+#: templates/class-bug-tracker.php:79
+msgid "Browser"
+msgstr "ब्राउज़र"
+
+#: templates/class-bug-tracker.php:82
+msgid "Chrome"
+msgstr "क्रोम"
+
+#: templates/class-bug-tracker.php:85
+msgid "Firefox"
+msgstr "फ़ायरफ़ॉक्स"
+
+#: templates/class-bug-tracker.php:88
+msgid "Opera"
+msgstr "ओपेरा"
+
+#: templates/class-bug-tracker.php:91
+msgid "Edge"
+msgstr "एज"
+
+#: templates/class-bug-tracker.php:94
+msgid "Internet Explorer"
+msgstr "इंटरनेट एक्सप्लोरर"
+
+#: templates/class-bug-tracker.php:97
+msgid "Safari"
+msgstr "सफारी"
+
+#: templates/class-bug-tracker.php:105
+msgid "Severity"
+msgstr "तीव्रता"
+
+#: templates/class-bug-tracker.php:108, templates/class-change-request.php:100, templates/class-maintenance-request.php:66, templates/class-to-do-list.php:44
+msgid "Low"
+msgstr "कम"
+
+#: templates/class-bug-tracker.php:111, templates/class-maintenance-request.php:63, templates/class-to-do-list.php:47
+msgid "Normal"
+msgstr "सामान्य"
+
+#: templates/class-bug-tracker.php:114, templates/class-change-request.php:106, templates/class-maintenance-request.php:69, templates/class-to-do-list.php:50
+msgid "High"
+msgstr "उच्च"
+
+#: templates/class-bug-tracker.php:122
+msgid "Upload a screenshot"
+msgstr "स्क्रीनशॉट अपलोड करें"
+
+#: templates/class-call-for-proposals.php:21
+msgid "Call for Proposals Form"
+msgstr "प्रस्ताव फॉर्म के लिए कॉल करें"
+
+#: templates/class-call-for-proposals.php:37, templates/class-employee-information.php:81, templates/class-testimonial.php:50
+msgid "Job Title"
+msgstr "नौकरी का शीर्षक"
+
+#: templates/class-call-for-proposals.php:43
+msgid "Company or Organization's Name"
+msgstr "कंपनी या संगठन का नाम"
+
+#: templates/class-call-for-proposals.php:49
+msgid "Biography"
+msgstr "जीवनी"
+
+#: templates/class-call-for-proposals.php:69
+msgid "Proposal Title"
+msgstr "प्रस्ताव का शीर्षक"
+
+#: templates/class-call-for-proposals.php:75
+msgid "Short Description"
+msgstr "संक्षिप्त विवरण"
+
+#: templates/class-call-for-proposals.php:81
+msgid "Abstract"
+msgstr "सार"
+
+#: templates/class-call-for-proposals.php:87
+msgid "Topics"
+msgstr "विषय"
+
+#: templates/class-call-for-proposals.php:90
+msgid "Topic A"
+msgstr "विषय ए"
+
+#: templates/class-call-for-proposals.php:93
+msgid "Topic B"
+msgstr "विषय बी"
+
+#: templates/class-call-for-proposals.php:96
+msgid "Topic C"
+msgstr "विषय सी"
+
+#: templates/class-call-for-proposals.php:99
+msgid "Topic D"
+msgstr "विषय डी"
+
+#: templates/class-call-for-proposals.php:102
+msgid "Topic E"
+msgstr "विषय ई"
+
+#: templates/class-call-for-proposals.php:109
+msgid "Session Type"
+msgstr "सेशन का प्रकार"
+
+#: templates/class-call-for-proposals.php:112
+msgid "Presentation"
+msgstr "प्रदर्शन"
+
+#: templates/class-call-for-proposals.php:115
+msgid "Panel"
+msgstr "पैनल"
+
+#: templates/class-call-for-proposals.php:118
+msgid "Workshop"
+msgstr "कार्यशाला"
+
+#: templates/class-call-for-proposals.php:121, templates/class-cancellation-survey.php:116, templates/class-college-application.php:490, templates/class-college-application.php:544, templates/class-diet-log.php:44,
+#: templates/class-event-planner.php:66, templates/class-home-buyer-feedback.php:110, templates/class-it-service-request.php:72, templates/class-job-application-upload.php:84, templates/class-online-event-registration.php:77,
+#: templates/class-online-race-registration.php:117, templates/class-performance-improvement-plan.php:58, templates/class-recipe-catalog.php:89, templates/class-simple-rsvp.php:78, templates/class-support-ticket.php:59,
+#: templates/class-travel-request.php:67, templates/class-volunteer-recruitment.php:47, templates/class-volunteer-recruitment.php:66, templates/class-volunteer-recruitment.php:147, templates/class-webinar-registration.php:62,
+#: templates/class-work-order-request.php:81
+msgid "Other"
+msgstr "अन्य"
+
+#: templates/class-call-for-proposals.php:129
+msgid "Audience Level"
+msgstr "श्रोता स्तर"
+
+#: templates/class-call-for-proposals.php:132
+msgid "Novice"
+msgstr "नौसिखिया"
+
+#: templates/class-call-for-proposals.php:135
+msgid "Intermediate"
+msgstr "मध्यम"
+
+#: templates/class-call-for-proposals.php:138
+msgid "Expert"
+msgstr "विशेषज्ञ"
+
+#: templates/class-call-for-proposals.php:146, templates/class-job-application-upload.php:108, templates/class-travel-request.php:108
+msgid "Additional Information"
+msgstr "अतिरिक्त जानकारी"
+
+#: templates/class-camp-registration.php:21
+msgid "Camp Registration Form"
+msgstr "शिविर पंजीकरण फॉर्म"
+
+#: templates/class-camp-registration.php:29
+msgid "Camper Name"
+msgstr "टूरिस्ट का नाम"
+
+#: templates/class-camp-registration.php:37
+msgid "Camper Age Group"
+msgstr "टूरिस्ट एज ग्रुप"
+
+#: templates/class-camp-registration.php:55
+msgid "Desired Cabin"
+msgstr "वांछित केबिन"
+
+#: templates/class-camp-registration.php:58
+msgid "Cabin 1"
+msgstr "केबिन 1"
+
+#: templates/class-camp-registration.php:61
+msgid "Cabin 2"
+msgstr "केबिन 2"
+
+#: templates/class-camp-registration.php:64
+msgid "Cabin 3"
+msgstr "केबिन 3"
+
+#: templates/class-camp-registration.php:67
+msgid "Cabin 4"
+msgstr "केबिन 4"
+
+#: templates/class-camp-registration.php:70
+msgid "Cabin 5"
+msgstr "केबिन 5"
+
+#: templates/class-camp-registration.php:77
+msgid "Does the camper have any known allergies?"
+msgstr "क्या टूरिस्ट को कोई ज्ञात एलर्जी है?"
+
+#: templates/class-camp-registration.php:91
+msgid "Has the camper been camping before?"
+msgstr "क्या इससे पहले टूरिस्ट कैंप कर चुका है?"
+
+#: templates/class-camp-registration.php:105
+msgid "Emergency Contact Information"
+msgstr "आपातकालीन संपर्क जानकारी"
+
+#: templates/class-camp-registration.php:112, templates/class-college-application.php:66, templates/class-college-application.php:335, templates/class-college-application.php:348, templates/class-employee-information.php:145
+msgid "Relationship"
+msgstr "संबंध"
+
+#: templates/class-camp-registration.php:115
+msgid "Parent"
+msgstr "पैरेंट"
+
+#: templates/class-camp-registration.php:118
+msgid "Sibling"
+msgstr "सहोदर"
+
+#: templates/class-camp-registration.php:121
+msgid "Relative"
+msgstr "रिश्तेदार"
+
+#: templates/class-camp-registration.php:124
+msgid "Friend"
+msgstr "दोस्त"
+
+#: templates/class-camp-registration.php:154, templates/class-health-insurance-quote.php:82, templates/class-meeting-room-registration.php:102
+msgid "Questions or Comments"
+msgstr "प्रश्न या टिप्पणियां"
+
+#: templates/class-cancellation-survey.php:21
+msgid "Cancellation Survey Form"
+msgstr "रद्दीकरण सर्वेक्षण फॉर्म"
+
+#: templates/class-cancellation-survey.php:29
+msgid "How long had you been using the subscription / service?"
+msgstr "आप कब से सदस्यता / सेवा का उपयोग कर रहे थे?"
+
+#: templates/class-cancellation-survey.php:32
+msgid "Less than a month"
+msgstr "एक महीने से भी कम"
+
+#: templates/class-cancellation-survey.php:35
+msgid "1-6 months"
+msgstr "1-6 महीने"
+
+#: templates/class-cancellation-survey.php:38
+msgid "1-3 years"
+msgstr "1-3 साल"
+
+#: templates/class-cancellation-survey.php:41
+msgid "Over 3 years"
+msgstr "3 साल से अधिक"
+
+#: templates/class-cancellation-survey.php:44
+msgid "Never used"
+msgstr "कभी प्रयोग नहीं हुआ"
+
+#: templates/class-cancellation-survey.php:51
+msgid "How often did you use the subscription / service?"
+msgstr "आपने सदस्यता / सेवा का कितनी बार उपयोग किया?"
+
+#: templates/class-cancellation-survey.php:54
+msgid "Once a week"
+msgstr "सप्ताह में एक बार"
+
+#: templates/class-cancellation-survey.php:57
+msgid "2 to 3 times a month"
+msgstr "महीने में 2 से 3 बार"
+
+#: templates/class-cancellation-survey.php:60
+msgid "Once a month"
+msgstr "महीने में एक बार"
+
+#: templates/class-cancellation-survey.php:63
+msgid "Less than once a month"
+msgstr "महीने में एक बार से भी कम"
+
+#: templates/class-cancellation-survey.php:70
+msgid "Overall, how satisfied were you with the subscription / service?"
+msgstr "कुल मिलाकर, आप सदस्यता / सेवा से कितने संतुष्ट थे?"
+
+#: templates/class-cancellation-survey.php:73, templates/class-event-feedback.php:32
+msgid "Very satisfied"
+msgstr "बहुत संतुष्ट"
+
+#: templates/class-cancellation-survey.php:76, templates/class-event-feedback.php:35
+msgid "Satisfied"
+msgstr "संतुष्ट"
+
+#: templates/class-cancellation-survey.php:79, templates/class-event-feedback.php:38
+msgid "Neutral"
+msgstr "तटस्थ"
+
+#: templates/class-cancellation-survey.php:82, templates/class-event-feedback.php:41
+msgid "Unsatisfied"
+msgstr "असंतुष्ट"
+
+#: templates/class-cancellation-survey.php:85, templates/class-event-feedback.php:44
+msgid "Very Unsatisfied"
+msgstr "बहुत असंतुष्ट"
+
+#: templates/class-cancellation-survey.php:92
+msgid "What was the primary reason for canceling your subscription / service?"
+msgstr "आपकी सदस्यता / सेवा रद्द करने का प्राथमिक कारण क्या था?"
+
+#: templates/class-cancellation-survey.php:95
+msgid "No longer need it"
+msgstr "अब इसकी जरूरत नहीं है"
+
+#: templates/class-cancellation-survey.php:98
+msgid "It didn't meet my needs"
+msgstr "यह मेरी जरूरतों को पूरा नहीं किया"
+
+#: templates/class-cancellation-survey.php:101
+msgid "Found an alternative"
+msgstr "एक विकल्प मिला"
+
+#: templates/class-cancellation-survey.php:104
+msgid "Quality was less than expected"
+msgstr "गुणवत्ता अपेक्षा से कम थी"
+
+#: templates/class-cancellation-survey.php:107
+msgid "Ease of use was less than expected"
+msgstr "उपयोग में आसानी अपेक्षा से कम थी"
+
+#: templates/class-cancellation-survey.php:110
+msgid "Access to the service was less than expected"
+msgstr "सेवा की पहुंच अपेक्षा से कम थी"
+
+#: templates/class-cancellation-survey.php:113
+msgid "Customer service was less than expected"
+msgstr "ग्राहक सेवा अपेक्षा से कम थी"
+
+#: templates/class-cancellation-survey.php:123
+msgid "If other, please specify"
+msgstr "अन्य हैं, तो कृपया स्पष्ट करें"
+
+#: templates/class-cancellation-survey.php:129
+msgid "Would you use the product / service in the future?"
+msgstr "क्या आप भविष्य में उत्पाद / सेवा का उपयोग करेंगे?"
+
+#: templates/class-cancellation-survey.php:132, templates/class-cancellation-survey.php:154
+msgid "Definitely"
+msgstr "निश्चित रूप से"
+
+#: templates/class-cancellation-survey.php:135, templates/class-cancellation-survey.php:157
+msgid "Probably"
+msgstr "शायद"
+
+#: templates/class-cancellation-survey.php:138, templates/class-cancellation-survey.php:160, templates/class-new-years-party-rsvp.php:46, templates/class-simple-rsvp.php:46
+msgid "Not sure"
+msgstr "निश्चित नहीं"
+
+#: templates/class-cancellation-survey.php:141, templates/class-cancellation-survey.php:163
+msgid "Probably not"
+msgstr "शायद ऩही"
+
+#: templates/class-cancellation-survey.php:144, templates/class-cancellation-survey.php:166
+msgid "Definitely not"
+msgstr "निश्चित रूप से नहीं"
+
+#: templates/class-cancellation-survey.php:151
+msgid "Would you recommend our product / service to colleagues or contacts within your industry?"
+msgstr "क्या आप अपने उत्पाद / सेवा को अपने उद्योग के सहयोगियों या संपर्कों के लिए सुझाएंगे?"
+
+#: templates/class-cancellation-survey.php:173
+msgid "What could we do to improve our subscription / service?"
+msgstr "हम अपनी सदस्यता / सेवा को बेहतर बनाने के लिए क्या कर सकते हैं?"
+
+#: templates/class-change-request.php:21
+msgid "Change Request Form"
+msgstr "अनुरोध फॉर्म बदलें"
+
+#: templates/class-change-request.php:29
+msgid "Requester Name"
+msgstr "अनुरोधकर्ता का नाम"
+
+#: templates/class-change-request.php:51
+msgid "Company Name"
+msgstr "कंपनी का नाम"
+
+#: templates/class-change-request.php:57
+msgid "Client ID Number"
+msgstr "क्लाइंट आईडी संख्या"
+
+#: templates/class-change-request.php:63
+msgid "Project Name"
+msgstr "प्रोजेक्ट का नाम"
+
+#: templates/class-change-request.php:69
+msgid "What type of change are you requesting?"
+msgstr "आप किस प्रकार के परिवर्तन का अनुरोध कर रहे हैं?"
+
+#: templates/class-change-request.php:72
+msgid "Update to Account Information"
+msgstr "खाता जानकारी के लिए अद्यतन"
+
+#: templates/class-change-request.php:75
+msgid "Project or Product Enhancement"
+msgstr "परियोजना या उत्पाद वृद्धि"
+
+#: templates/class-change-request.php:78
+msgid "Update to Project Requirements/Deliverables"
+msgstr "परियोजना आवश्यकताओं / वितरण के लिए अद्यतन"
+
+#: templates/class-change-request.php:81
+msgid "Update to Project Schedule"
+msgstr "परियोजना अनुसूची के लिए अद्यतन"
+
+#: templates/class-change-request.php:84
+msgid "Bug/Defect Fix"
+msgstr "बग / दोष ठीक"
+
+#: templates/class-change-request.php:91
+msgid "Reason for change"
+msgstr "परिवर्तन का कारण"
+
+#: templates/class-change-request.php:97, templates/class-to-do-list.php:41
+msgid "Priority"
+msgstr "प्राथमिकता"
+
+#: templates/class-change-request.php:103, templates/class-online-race-registration.php:89, templates/class-race-registration.php:67, templates/class-tshirt-order.php:59
+msgid "Medium"
+msgstr "मध्यम"
+
+#: templates/class-change-request.php:109
+msgid "Critical"
+msgstr "गंभीर"
+
+#: templates/class-change-request.php:116
+msgid "Please describe in detail the change being requested."
+msgstr "कृपया अनुरोध किए जा रहे परिवर्तन का विस्तार से वर्णन करें।"
+
+#: templates/class-check-request.php:21
+msgid "Check Request Form"
+msgstr "अनुरोध फॉर्म की जाँच करें"
+
+#: templates/class-check-request.php:29
+msgid "Requested By"
+msgstr "द्वारा अनुरोध किया गया"
+
+#: templates/class-check-request.php:51
+msgid "Date Requested"
+msgstr "अनुरोधित दिनांक"
+
+#: templates/class-check-request.php:62
+msgid "Date Needed"
+msgstr "दिनांक की आवश्यकता"
+
+#: templates/class-check-request.php:73
+msgid "Purpose of Funds"
+msgstr "धन का उद्देश्य"
+
+#: templates/class-check-request.php:79
+msgid "Amount Requested"
+msgstr "अनुरोधित राशि"
+
+#: templates/class-check-request.php:86
+msgid "Approved By"
+msgstr "के द्वारा अनुमोदित"
+
+#: templates/class-check-request.php:94
+msgid "Make Payable To"
+msgstr "करने के लिए देय है"
+
+#: templates/class-check-request.php:102
+msgid "Payable to Address"
+msgstr "पते के लिए देय"
+
+#: templates/class-church-donation.php:21
+msgid "Church Donation Form"
+msgstr "चर्च दान फार्म"
+
+#: templates/class-church-donation.php:53
+msgid "This donation is in memory of"
+msgstr "इस दान की स्मृति में है"
+
+#: templates/class-church-donation.php:59
+msgid "Please direct my gift to one of the following areas"
+msgstr "कृपया निम्नलिखित क्षेत्रों में से एक को मेरा उपहार निर्देशित करें"
+
+#: templates/class-church-donation.php:62
+msgid "Youth"
+msgstr "युवा"
+
+#: templates/class-church-donation.php:65, templates/class-retreat-registration.php:93
+msgid "Family"
+msgstr "परिवार"
+
+#: templates/class-church-donation.php:68
+msgid "Seniors"
+msgstr "वरिष्ठ"
+
+#: templates/class-church-donation.php:71
+msgid "Ministry"
+msgstr "मंत्रालय"
+
+#: templates/class-church-donation.php:74
+msgid "Where it is needed most"
+msgstr "जहां इसकी सबसे ज्यादा जरूरत है"
+
+#: templates/class-church-donation.php:81, templates/class-file-upload.php:56, templates/class-general-donation.php:70, templates/class-lesson-plan.php:94
+msgid "Additional Comments"
+msgstr "अतिरिक्त टिप्पणियां"
+
+#: templates/class-church-membership.php:21
+msgid "Church Membership Form"
+msgstr "चर्च सदस्यता फार्म"
+
+#: templates/class-church-membership.php:64
+msgid "How long have you been attending our church?"
+msgstr "आप कब से हमारे चर्च में जा रहे हैं?"
+
+#: templates/class-church-membership.php:67
+msgid "Less than a year"
+msgstr "एक साल से कम"
+
+#: templates/class-church-membership.php:70
+msgid "1-2 years"
+msgstr "1-2 साल"
+
+#: templates/class-church-membership.php:73
+msgid "2-3 years"
+msgstr "2-3 साल"
+
+#: templates/class-church-membership.php:76
+msgid "More than 3 years"
+msgstr "3 साल से अधिक"
+
+#: templates/class-church-membership.php:83
+msgid "Will you be leaving another church?"
+msgstr "क्या आप एक और चर्च छोड़ देंगे?"
+
+#: templates/class-church-membership.php:96
+msgid "If yes"
+msgstr "यदि हाँ"
+
+#: templates/class-church-membership.php:102
+msgid "Why do you want to be a church member?"
+msgstr "आप चर्च के सदस्य क्यों बनना चाहते हैं?"
+
+#: templates/class-college-application.php:21
+msgid "College Application Form"
+msgstr "कॉलेज आवेदन फॉर्म"
+
+#: templates/class-college-application.php:52, templates/class-emergency-contact.php:75, templates/class-employee-information.php:124, templates/class-summer-camp-registration.php:145
+msgid "Emergency Contact"
+msgstr "आपातकालीन संपर्क"
+
+#: templates/class-college-application.php:89
+msgid ""
+"Universities that are recipients of federal dollars are required by the Federal government to solicit certain demographic information to meet federal reporting requirements. Applications are requested to provide the following "
+"information voluntarily. This information will not be utilized in a discriminatory manner."
+msgstr ""
+"संघीय सरकार की आवश्यकताओं को पूरा करने के लिए संघीय सरकार द्वारा संघीय जनसांख्यिकीय की आवश्यकता वाले विश्वविद्यालयों को कुछ जनसांख्यिकीय जानकारी प्रस्तुत करने के लिए आवश्यक है। अनुप्रयोगों से अनुरोध है कि वे स्वेच्छा से निम्नलिखित जानकारी प्रदान करें। इस जानकारी का उपयोग "
+"भेदभावपूर्ण तरीके से नहीं किया जाएगा।"
+
+#: templates/class-college-application.php:95
+msgid "Nation of Citizenship"
+msgstr "नागरिकता के राष्ट्र"
+
+#: templates/class-college-application.php:101
+msgid "Race / Origin"
+msgstr "जाति / उत्पत्ति"
+
+#: templates/class-college-application.php:104
+msgid "American Indian or Native Alaskan"
+msgstr "अमेरिकी भारतीय या मूल निवासी अलास्का"
+
+#: templates/class-college-application.php:107
+msgid "Asian or Pacific Islander"
+msgstr "एशियाई या प्रशांत द्वीपसमूह"
+
+#: templates/class-college-application.php:113
+msgid "African American"
+msgstr "अफ्रीकी अमेरिकी"
+
+#: templates/class-college-application.php:116
+msgid "Hispanic"
+msgstr "हिस्पैनिक"
+
+#: templates/class-college-application.php:119, templates/class-tshirt-order.php:89
+msgid "White"
+msgstr "सफेद"
+
+#: templates/class-college-application.php:127
+msgid "Native Language"
+msgstr "देशी भाषा"
+
+#: templates/class-college-application.php:133
+msgid "Religion"
+msgstr "धर्म"
+
+#: templates/class-college-application.php:139, templates/class-enrollment.php:69
+msgid "Gender"
+msgstr "लिंग"
+
+#: templates/class-college-application.php:142, templates/class-enrollment.php:72, templates/class-personal-trainer-signup.php:73
+msgid "Male"
+msgstr "पुरुष"
+
+#: templates/class-college-application.php:145, templates/class-enrollment.php:75, templates/class-personal-trainer-signup.php:76
+msgid "Female"
+msgstr "महिला"
+
+#: templates/class-college-application.php:153
+msgid "Are you a veteran of the U.S. Military?"
+msgstr "क्या आप अमेरिकी सेना के एक अनुभवी हैं?"
+
+#: templates/class-college-application.php:167, templates/class-emergency-contact.php:44, templates/class-employee-information.php:64, templates/class-race-registration.php:49, templates/class-summer-camp-registration.php:43
+msgid "Date of Birth"
+msgstr "जन्म तिथि"
+
+#: templates/class-college-application.php:178
+msgid "This application is for enrollment as:"
+msgstr "इस आवेदन के रूप में नामांकन के लिए है:"
+
+#: templates/class-college-application.php:181
+msgid "Freshman (First time in College) "
+msgstr "फ्रेशमैन (कॉलेज में पहली बार)"
+
+#: templates/class-college-application.php:184
+msgid "Undergraduate Transfer "
+msgstr "पूर्वस्नातक स्थानांतरण"
+
+#: templates/class-college-application.php:187
+msgid "2nd Bachelor's Degree "
+msgstr "द्वितीय स्नातक की डिग्री"
+
+#: templates/class-college-application.php:190
+msgid "Former Student Returning (FSR) "
+msgstr "लौट रहे पूर्व छात्र (FSR)"
+
+#: templates/class-college-application.php:197
+msgid "What is your planned major?"
+msgstr "आपका नियोजित प्रमुख क्या है?"
+
+#: templates/class-college-application.php:203
+msgid "Which campus do you seek admission?"
+msgstr "आप किस परिसर में प्रवेश चाहते हैं?"
+
+#: templates/class-college-application.php:206
+msgid "Campus I"
+msgstr "परिसर 1"
+
+#: templates/class-college-application.php:209
+msgid "Campus II"
+msgstr "परिसर 2"
+
+#: templates/class-college-application.php:212
+msgid "Campus III"
+msgstr "परिसर 3"
+
+#: templates/class-college-application.php:220
+msgid "Housing Preference"
+msgstr "आवास वरीयता"
+
+#: templates/class-college-application.php:223
+msgid "On-campus if available"
+msgstr "यदि उपलब्ध हो तो परिसर में"
+
+#: templates/class-college-application.php:226
+msgid "Off-campus"
+msgstr "ऑफ कैंपस"
+
+#: templates/class-college-application.php:233
+msgid ""
+"If your records have been expunged pursuant to applicable law, you are not required to answer yes to the following questions. If you are unsure whether to answer yes, we strongly suggest that you answer yes and fully disclose all "
+"incidents to avoid any risk of disciplinary action or revocation of your offer of admission."
+msgstr ""
+"यदि आपके रिकॉर्ड को लागू कानून के अनुसार बढ़ा दिया गया है, तो आपको निम्नलिखित प्रश्नों के लिए हां का जवाब देने की आवश्यकता नहीं है। यदि आप अनिश्चित हैं कि क्या हां का जवाब देना है, तो हम दृढ़ता से सुझाव देते हैं कि आप हां में जवाब देते हैं और पूरी तरह से अनुशासनात्मक कार्रवाई या "
+"प्रवेश के अपने प्रस्ताव के निरस्त होने के जोखिम से बचने के लिए सभी घटनाओं का खुलासा करते हैं।"
+
+#: templates/class-college-application.php:239
+msgid "Are you currently or have you ever been charged with or subject to disciplinary action for scholastic or any other type of misconduct at any educational institution?"
+msgstr "क्या आप वर्तमान में या आप पर कभी भी किसी शैक्षणिक संस्थान में विद्वानों या किसी अन्य प्रकार के कदाचार के लिए अनुशासनात्मक कार्रवाई का आरोप लगाया गया है?"
+
+#: templates/class-college-application.php:253, templates/class-college-application.php:273
+msgid "If yes, please explain."
+msgstr "अगर हाँ है, कृपया समझाएँ।"
+
+#: templates/class-college-application.php:259
+msgid ""
+"Have you ever been charged with a violation of the law which resulted in, or if still pending could result in, probation, community service, a jail sentence, or the revocation or suspension of your driver’s license (including traffic "
+"violations which resulted in a fine of $200 or more?)"
+msgstr ""
+"क्या आपने कभी उस कानून के उल्लंघन का आरोप लगाया है, जिसके परिणामस्वरूप, या यदि अभी भी लंबित है, तो परिवीक्षा, सामुदायिक सेवा, जेल की सजा, या आपके चालक लाइसेंस का निरसन या निलंबन हो सकता है (यातायात उल्लंघन सहित) जिसके परिणामस्वरूप जुर्माना हुआ $200 या अधिक की?"
+
+#: templates/class-college-application.php:279
+msgid "High School Information"
+msgstr "हाई स्कूल की जानकारी"
+
+#: templates/class-college-application.php:285, templates/class-enrollment.php:93
+msgid "High School Name"
+msgstr "हाई स्कूल का नाम"
+
+#: templates/class-college-application.php:291
+msgid "High School CEEB Code (6 digits)"
+msgstr "हाई स्कूल CEEB कोड (6 अंक)"
+
+#: templates/class-college-application.php:297
+msgid "Expected Graduation Date"
+msgstr "स्नातक होने की अपेक्षित तारीख"
+
+#: templates/class-college-application.php:308, templates/class-enrollment.php:99
+msgid "High School Address"
+msgstr "हाई स्कूल का पता"
+
+#: templates/class-college-application.php:315
+msgid "High School Phone"
+msgstr "हाई स्कूल फोन"
+
+#: templates/class-college-application.php:322
+msgid "Please provide the names of people in your immediate family who have attended the University."
+msgstr "कृपया अपने तत्काल परिवार के लोगों के नाम प्रदान करें जिन्होंने विश्वविद्यालय में भाग लिया है।"
+
+#: templates/class-college-application.php:354
+msgid "Extracurricular, Personal and Volunteer Activities"
+msgstr "एक्सट्राकरीकुलर, व्यक्तिगत और स्वयंसेवी गतिविधियाँ"
+
+#: templates/class-college-application.php:360
+msgid "Extracurricular Activities"
+msgstr "एक्सट्राकरीकुलर गतिविधियां"
+
+#: templates/class-college-application.php:361
+msgid "List your organizations, position, description of the activity, and hours per week of involvement."
+msgstr "अपने संगठनों, स्थिति, गतिविधि का विवरण और भागीदारी के प्रति सप्ताह घंटे सूचीबद्ध करें।"
+
+#: templates/class-college-application.php:367
+msgid "Talents and Awards"
+msgstr "प्रतिभा और पुरस्कार"
+
+#: templates/class-college-application.php:368
+msgid "List each, a description, the level, and number of years of involvement."
+msgstr "प्रत्येक सूची, एक विवरण, स्तर, और शामिल होने के वर्षों की संख्या।"
+
+#: templates/class-college-application.php:374
+msgid "Community Service Work"
+msgstr "सामुदायिक सेवा कार्य"
+
+#: templates/class-college-application.php:375
+msgid "List the type of work, your role, and hours per week of involvement."
+msgstr "कार्य के प्रकार, अपनी भूमिका, और भागीदारी के प्रति सप्ताह घंटे सूचीबद्ध करें।"
+
+#: templates/class-college-application.php:381
+msgid "Employment"
+msgstr "रोजगार"
+
+#: templates/class-college-application.php:382
+msgid "List the job, your title, description, hours per week, and dates of employment."
+msgstr "नौकरी, अपना शीर्षक, विवरण, प्रति सप्ताह घंटे, और रोजगार की तारीखें सूचीबद्ध करें।"
+
+#: templates/class-college-application.php:388
+msgid "Attach an additional Word, PDF or text document if necessary."
+msgstr "यदि आवश्यक हो तो एक अतिरिक्त Word, PDF या टेक्स्ट दस्तावेज़ संलग्न करें।"
+
+#: templates/class-college-application.php:393
+msgid "Parent Information"
+msgstr "पैरेंट जानकारी"
+
+#: templates/class-college-application.php:394
+msgid "The information requested below is optional, but it may assist in the review of your admission. You are strongly encouraged to complete this section."
+msgstr "नीचे दी गई जानकारी वैकल्पिक है, लेकिन यह आपके प्रवेश की समीक्षा में सहायता कर सकती है। आपको इस अनुभाग को पूरा करने के लिए दृढ़ता से प्रोत्साहित किया जाता है।"
+
+#: templates/class-college-application.php:400
+msgid "Father or Legal Guardian Occupation"
+msgstr "पिता या कानूनी अभिभावक व्यवसाय"
+
+#: templates/class-college-application.php:406
+msgid "Father or Legal Guardian Education"
+msgstr "पिता या कानूनी अभिभावक शिक्षा"
+
+#: templates/class-college-application.php:409, templates/class-college-application.php:438
+msgid "High School or Less"
+msgstr "हाई स्कूल या उससे कम"
+
+#: templates/class-college-application.php:412, templates/class-college-application.php:441
+msgid "Trade or Vocational School"
+msgstr "ट्रेड या वोकेशनल स्कूल"
+
+#: templates/class-college-application.php:415, templates/class-college-application.php:444
+msgid "Some College"
+msgstr "कुछ कॉलेज"
+
+#: templates/class-college-application.php:418, templates/class-college-application.php:447
+msgid "Undergraduate College Degree"
+msgstr "पूर्वस्नातक कॉलेज की डिग्री"
+
+#: templates/class-college-application.php:421, templates/class-college-application.php:450
+msgid "Graduate Degree"
+msgstr "स्नातक डिग्री"
+
+#: templates/class-college-application.php:429
+msgid "Mother or Legal Guardian Occupation"
+msgstr "मां या कानूनी अभिभावक व्यवसाय"
+
+#: templates/class-college-application.php:435
+msgid "Mother or Legal Guardian Education"
+msgstr "माँ या कानूनी अभिभावक शिक्षा"
+
+#: templates/class-college-application.php:458
+msgid "Please indicate your family’s gross income for the most recent tax year. Include both taxed and untaxed income."
+msgstr "कृपया हाल के कर वर्ष के लिए अपने परिवार की सकल आय का संकेत दें। कर और अघोषित आय दोनों को शामिल करें।"
+
+#: templates/class-college-application.php:461
+msgid "$20,000 - $39,999"
+msgstr "$20,000 - $39,999"
+
+#: templates/class-college-application.php:464
+msgid "$40,000 - $59,999"
+msgstr "$40,000 - $59,999"
+
+#: templates/class-college-application.php:467
+msgid "$60,000 - $79,999"
+msgstr "$60,000 - $79,999"
+
+#: templates/class-college-application.php:470
+msgid "$80,000 or more"
+msgstr "$80,000 या अधिक"
+
+#: templates/class-college-application.php:478
+msgid "Do you have family obligations that keep you from participating in extracurricular activities?"
+msgstr "क्या आपके पास पारिवारिक दायित्व हैं जो आपको पाठ्येतर गतिविधियों में भाग लेने से रोकते हैं?"
+
+#: templates/class-college-application.php:484
+msgid "Yes, I have to work to supplement family income. "
+msgstr "हां, मुझे पारिवारिक आय के पूरक के लिए काम करना होगा।"
+
+#: templates/class-college-application.php:487
+msgid "Yes, I provide primary care for family member(s). "
+msgstr "हां, मैं परिवार के सदस्य के लिए प्राथमिक देखभाल प्रदान करता हूं।"
+
+#: templates/class-college-application.php:497
+msgid "If yes or other, please describe:"
+msgstr "यदि हां या अन्य, कृपया वर्णन करें:"
+
+#: templates/class-college-application.php:503
+msgid "For Non-U.S. Citizens Only"
+msgstr "नॉन-यू.एस. के लिए केवल नागरिक"
+
+#: templates/class-college-application.php:509
+msgid "City and Country of Birth"
+msgstr "जन्म का शहर और देश"
+
+#: templates/class-college-application.php:515
+msgid "What is the status of your VISA?"
+msgstr "आपके वीज़ा की स्थिति क्या है?"
+
+#: templates/class-college-application.php:518
+msgid "I currently hold one"
+msgstr "मैं वर्तमान में एक पकड़"
+
+#: templates/class-college-application.php:521
+msgid "I am applying for one"
+msgstr "मैं एक के लिए आवेदन कर रहा हूं"
+
+#: templates/class-college-application.php:529
+msgid "What type of VISA?"
+msgstr "वीज़ा किस प्रकार का है?"
+
+#: templates/class-college-application.php:532
+msgid "F2"
+msgstr "F2"
+
+#: templates/class-college-application.php:535
+msgid "J1"
+msgstr "J1"
+
+#: templates/class-college-application.php:538
+msgid "J2"
+msgstr "J2"
+
+#: templates/class-college-application.php:541, templates/class-simple-rsvp.php:63
+msgid "None"
+msgstr "कोई नहीं"
+
+#: templates/class-college-application.php:552, templates/class-it-service-request.php:79, templates/class-job-application-upload.php:91, templates/class-online-event-registration.php:84, templates/class-online-race-registration.php:124,
+#: templates/class-simple-rsvp.php:85
+msgid "If other"
+msgstr "अगर कोई और"
+
+#: templates/class-college-application.php:558
+msgid "I-94 Expiration Date (MM/YYYY)"
+msgstr "I-94 की समाप्ति तिथि (MM/YYYY)"
+
+#: templates/class-college-application.php:564
+msgid "If you are a permanent immigrant, enter the alien registration number shown on your I-551 form:"
+msgstr "यदि आप एक स्थायी आप्रवासी हैं, तो अपने I-551 फॉर्म में दिखाए गए एलियन पंजीकरण संख्या दर्ज करें:"
+
+#: templates/class-college-application.php:570
+msgid "Which institution issued your last I-20?"
+msgstr "किस संस्था ने आपका अंतिम I-20 जारी किया?"
+
+#: templates/class-college-application.php:576
+msgid "Did you attend?"
+msgstr "आपने भाग लिया?"
+
+#: templates/class-college-application.php:589
+msgid "Please attach a photo of your Alien Registration card."
+msgstr "कृपया अपने एलियन पंजीकरण कार्ड की एक तस्वीर संलग्न करें।"
+
+#: templates/class-college-application.php:594, templates/class-contest-entry.php:68, templates/class-equipment-checkout.php:80, templates/class-video-release.php:63
+msgid "Agreement"
+msgstr "समझौता"
+
+#: templates/class-college-application.php:595
+msgid ""
+"I understand that this application is for admission only for the term indicated. I agree that I am bound by the University’s regulations concerning application deadlines and admission requirements. I agree to the release of any "
+"transcripts and test scores to this institution, including any SAT, Achievement Test, and ACT score reports.\n"
+"\n"
+"\t\tI certify that this information is complete and accurate. I understand that making false or fraudulent statements within this application or residency statement will result in disciplinary action, denial of admission and "
+"invalidation of credit or degrees earned.\n"
+"\n"
+"\t\tIf admitted, I agree to abide by the policies of the Board of Regents and the rules and regulations of the University. Should any information change prior to my entry into the University, I will notify the Office of Admissions.\n"
+"\n"
+"\t\tI understand that the application fee I submit with this application is a non-refundable fee."
+msgstr ""
+"मैं समझता हूं कि यह एप्लिकेशन केवल संकेतित शब्द के लिए प्रवेश के लिए है। मैं सहमत हूं कि मैं आवेदन की समय सीमा और प्रवेश आवश्यकताओं से संबंधित विश्वविद्यालय के नियमों से बाध्य हूं। मैं इस संस्था को कोई भी टेप और परीक्षण स्कोर जारी करने के लिए सहमत हूं, जिसमें किसी भी SAT, उपलब्धि "
+"परीक्षण और ACT स्कोर रिपोर्ट शामिल हैं।\n"
+"\n"
+"मैं प्रमाणित करता हूं कि यह जानकारी पूर्ण और सटीक है। मैं समझता हूं कि इस एप्लिकेशन या रेजिडेंसी स्टेटमेंट में गलत या फर्जी बयान देने के परिणामस्वरूप अनुशासनात्मक कार्रवाई होगी, प्रवेश से इनकार किया जाएगा और क्रेडिट या डिग्री के अमान्यकरण को अर्जित किया जाएगा।\n"
+"\n"
+"यदि स्वीकार किया जाता है, तो मैं बोर्ड ऑफ रीजेंट्स की नीतियों और विश्वविद्यालय के नियमों और विनियमों का पालन करने के लिए सहमत हूं। क्या विश्वविद्यालय में मेरे प्रवेश से पहले कोई सूचना बदलनी चाहिए, मैं प्रवेश कार्यालय को सूचित करूंगा।\n"
+"\n"
+"मैं समझता हूं कि इस आवेदन के साथ मैं जो आवेदन शुल्क जमा करता हूं, वह गैर-वापसी योग्य शुल्क है।"
+
+#: templates/class-college-application.php:607
+msgid "Do you understand and agree to the terms listed above?"
+msgstr "क्या आप ऊपर सूचीबद्ध शर्तों को समझते हैं और उनसे सहमत हैं?"
+
+#: templates/class-college-application.php:610
+msgid "Yes, I understand and agree to the terms listed above. "
+msgstr "हां, मैं ऊपर सूचीबद्ध शर्तों से समझता हूं और सहमत हूं।"
+
+#: templates/class-college-application.php:618
+msgid ""
+"Events, activities, programs and facilities of the University are available to all without regard to race, color, marital status, sex, religion, national origin, disability, age, Vietnam or disabled veteran status as provided by law "
+"and in accordance with the University’s respect for personal dignity."
+msgstr ""
+"विश्वविद्यालय के कार्यक्रम, गतिविधियाँ, कार्यक्रम और सुविधाएँ जाति, रंग, वैवाहिक स्थिति, लिंग, धर्म, राष्ट्रीय मूल, विकलांगता, आयु, वियतनाम या विकलांग वयोवृद्ध स्थिति के संबंध में सभी के लिए उपलब्ध हैं, जैसा कि कानून द्वारा प्रदान किया गया है और विश्वविद्यालय के अनुसार है। "
+"व्यक्तिगत सम्मान के लिए सम्मान।"
+
+#: templates/class-complaint.php:21
+msgid "Complaint Form"
+msgstr "शिकायत फार्म"
+
+#: templates/class-complaint.php:58
+msgid "Date of incident"
+msgstr "घटना की तिथि"
+
+#: templates/class-complaint.php:69
+msgid "Please describe the incident you would like to report."
+msgstr "कृपया उस घटना का वर्णन करें जिसे आप रिपोर्ट करना चाहते हैं।"
+
+#: templates/class-complaint.php:75
+msgid "How would you like to see this incident resolved?"
+msgstr "आप इस घटना को कैसे हल होते देखना चाहेंगे?"
+
+#: templates/class-conference-registration.php:21
+msgid "Conference Registration Form"
+msgstr "सम्मेलन पंजीकरण फॉर्म"
+
+#: templates/class-conference-registration.php:44
+msgid "Which access pass would you like to purchase?"
+msgstr "आप कौन सा एक्सेस पास खरीदना चाहेंगे?"
+
+#: templates/class-conference-registration.php:47
+msgid "Bronze - $199.95"
+msgstr "ब्रोंज - $199.95"
+
+#: templates/class-conference-registration.php:50
+msgid "Silver - $299.95"
+msgstr "सिल्वर - $299.95"
+
+#: templates/class-conference-registration.php:53
+msgid "Gold - $399.95"
+msgstr "गोल्ड - $399.95"
+
+#: templates/class-conference-registration.php:61
+msgid "Which sessions do you plan on attending?"
+msgstr "आप किस सेशन में भाग लेने की योजना बना रहे हैं?"
+
+#: templates/class-conference-registration.php:64
+msgid "Session 1"
+msgstr "सेशन 1"
+
+#: templates/class-conference-registration.php:67
+msgid "Session 2"
+msgstr "सेशन 2"
+
+#: templates/class-conference-registration.php:70
+msgid "Session 3"
+msgstr "सेशन 3"
+
+#: templates/class-conference-registration.php:73
+msgid "Session 4"
+msgstr "सेशन 4"
+
+#: templates/class-conference-registration.php:76
+msgid "Session 5"
+msgstr "सेशन 5"
+
+#: templates/class-conference-registration.php:84
+msgid "Will you be staying overnight?"
+msgstr "क्या तुम रात भर रहोगे?"
+
+#: templates/class-conference-registration.php:98, templates/class-gaming-tournament-registration.php:110
+msgid "Email Newsletter"
+msgstr "ईमेल न्यूज़लेटर"
+
+#: templates/class-conference-registration.php:101
+msgid "I would like to receive email updates regarding future conferences"
+msgstr "मैं भविष्य के सम्मेलनों के बारे में ईमेल अपडेट प्राप्त करना चाहूंगा"
+
+#: templates/class-content-download.php:21
+msgid "Content Download Form"
+msgstr "सामग्री डाउनलोड फार्म"
+
+#: templates/class-content-download.php:37
+msgid "Business Email"
+msgstr "व्यापार ईमेल"
+
+#: templates/class-content-download.php:44, templates/class-health-insurance-quote.php:29, templates/class-online-event-registration.php:113, templates/class-testimonial.php:44, templates/class-webinar-registration.php:44
+msgid "Company"
+msgstr "कंपनी"
+
+#: templates/class-content-download.php:50
+msgid "Please tell us here if you have any other questions, and we'll be in touch shortly."
+msgstr "कृपया हमें यहां बताएं यदि आपके कोई अन्य प्रश्न हैं, और हम जल्द ही संपर्क करेंगे।"
+
+#: templates/class-contest-entry.php:21
+msgid "Contest Entry Form"
+msgstr "प्रतियोगिता प्रवेश फार्म"
+
+#: templates/class-contest-entry.php:71
+msgid "I agree to the Rules of Entry."
+msgstr "मैं प्रवेश के नियमों से सहमत हूं।"
+
+#: templates/class-diet-log.php:21
+msgid "Diet Log Form"
+msgstr "डाइट लॉग फॉर्म"
+
+#: templates/class-diet-log.php:29
+msgid "Diet Type"
+msgstr "डाइट प्रकार"
+
+#: templates/class-diet-log.php:32
+msgid "Atkins"
+msgstr "Atkins"
+
+#: templates/class-diet-log.php:35
+msgid "South Beach"
+msgstr "दक्षिण समुद्र तट"
+
+#: templates/class-diet-log.php:38
+msgid "Paleo"
+msgstr "पैलियो"
+
+#: templates/class-diet-log.php:41
+msgid "Keto"
+msgstr "कीटो"
+
+#: templates/class-diet-log.php:52
+msgid "Meal Type"
+msgstr "भोजन का प्रकार"
+
+#: templates/class-diet-log.php:55
+msgid "Breakfast"
+msgstr "नाश्ता"
+
+#: templates/class-diet-log.php:58, templates/class-family-reunion-registration.php:76
+msgid "Lunch"
+msgstr "दोपहर का भोजन"
+
+#: templates/class-diet-log.php:61
+msgid "Dinner"
+msgstr "रात का भोजन"
+
+#: templates/class-diet-log.php:64
+msgid "Snack"
+msgstr "नाश्ता"
+
+#: templates/class-diet-log.php:72
+msgid "What did you eat?"
+msgstr "तुमने क्या खाया?"
+
+#: templates/class-diet-log.php:78, templates/class-exercise-log.php:52, templates/class-rent-receipt.php:29, templates/class-time-sheet.php:51
+msgid "Date / Time"
+msgstr "दिनांक / समय"
+
+#: templates/class-diet-log.php:89
+msgid "Grams of Carbohydrates"
+msgstr "कार्बोहाइड्रेट के ग्राम"
+
+#: templates/class-diet-log.php:95
+msgid "Grams of Fat"
+msgstr "वसा के ग्राम"
+
+#: templates/class-diet-log.php:101
+msgid "Grams of Protein"
+msgstr "प्रोटीन के ग्राम"
+
+#: templates/class-diet-log.php:107
+msgid "Milligrams of Sodium"
+msgstr "सोडियम के मिलीग्राम"
+
+#: templates/class-diet-log.php:113
+msgid "Total Calories"
+msgstr "कुल कैलोरी"
+
+#: templates/class-dinner-reservation.php:21
+msgid "Dinner Reservation Form"
+msgstr "डिनर आरक्षण फॉर्म"
+
+#: templates/class-dinner-reservation.php:52
+msgid "How would you prefer to get your reservation approval? *"
+msgstr "आप अपनी आरक्षण स्वीकृति कैसे प्राप्त करना पसंद करेंगे? *"
+
+#: templates/class-dinner-reservation.php:65
+msgid "Diet Restrictions"
+msgstr "आहार प्रतिबंध"
+
+#: templates/class-dinner-reservation.php:68, templates/class-simple-rsvp.php:66
+msgid "Vegetarian"
+msgstr "शाकाहारी"
+
+#: templates/class-dinner-reservation.php:71, templates/class-simple-rsvp.php:72
+msgid "Gluten-free"
+msgstr "ग्लूटेन मुक्त"
+
+#: templates/class-dinner-reservation.php:74, templates/class-simple-rsvp.php:75
+msgid "Dairy-free"
+msgstr "डेयरी मुक्त"
+
+#: templates/class-dinner-reservation.php:81, templates/class-prayer-request.php:51, templates/class-video-release.php:52
+msgid "Date"
+msgstr "दिनांक"
+
+#: templates/class-dinner-reservation.php:92
+msgid "What time would you like to join us?"
+msgstr "आप किस समय हमसे जुड़ना चाहेंगे?"
+
+#: templates/class-dinner-reservation.php:95
+msgid "5:00pm"
+msgstr "5:00pm"
+
+#: templates/class-dinner-reservation.php:98
+msgid "5:30pm"
+msgstr "5:30pm"
+
+#: templates/class-dinner-reservation.php:101
+msgid "6:00pm"
+msgstr "6:00pm"
+
+#: templates/class-dinner-reservation.php:104
+msgid "6:30pm"
+msgstr "6:30pm"
+
+#: templates/class-dinner-reservation.php:107
+msgid "7:00pm"
+msgstr "7:00pm"
+
+#: templates/class-dinner-reservation.php:110
+msgid "7:30pm"
+msgstr "7:30pm"
+
+#: templates/class-dinner-reservation.php:113
+msgid "8:00pm"
+msgstr "8:00pm"
+
+#: templates/class-dinner-reservation.php:116
+msgid "8:30pm"
+msgstr "8:30:30pm"
+
+#: templates/class-dinner-reservation.php:119
+msgid "9:00pm"
+msgstr "9:00pm"
+
+#: templates/class-dinner-reservation.php:127
+msgid "Where would you like to sit?"
+msgstr "आप कहां बैठना पसंद करेंगे?"
+
+#: templates/class-dinner-reservation.php:130
+msgid "Inside"
+msgstr "भीतर"
+
+#: templates/class-dinner-reservation.php:133
+msgid "Outside patio"
+msgstr "आँगन के बाहर"
+
+#: templates/class-dinner-reservation.php:140
+msgid "Sitting preference"
+msgstr "बैठे हुए वरीयता"
+
+#: templates/class-dinner-reservation.php:143
+msgid "Table"
+msgstr "तालिका"
+
+#: templates/class-dinner-reservation.php:146
+msgid "Booth"
+msgstr "बूथ"
+
+#: templates/class-dinner-reservation.php:153
+msgid "Additional requests"
+msgstr "अतिरिक्त अनुरोध"
+
+#: templates/class-emergency-contact.php:21
+msgid "Emergency Contact Form"
+msgstr "आपातकालीन संपर्क फ़ॉर्म"
+
+#: templates/class-emergency-contact.php:29, templates/class-event-planner.php:29, templates/class-work-order-request.php:29
+msgid "Your Name"
+msgstr "आपका नाम"
+
+#: templates/class-emergency-contact.php:69
+msgid "Primary Care Provider"
+msgstr "प्रारंभिक देखभाल प्रदाता"
+
+#: templates/class-emergency-contact.php:103, templates/class-online-event-registration.php:51
+msgid "Work Phone"
+msgstr "कार्य फ़ोन"
+
+#: templates/class-emergency-contact.php:117
+msgid "Relationship to the patient"
+msgstr "रोगी से संबंध"
+
+#: templates/class-employee-incident-report.php:21
+msgid "Employee Incident Report Form"
+msgstr "कर्मचारी घटना रिपोर्ट फॉर्म"
+
+#: templates/class-employee-incident-report.php:29
+msgid "Violating employee's name"
+msgstr "कर्मचारी के नाम का उल्लंघन"
+
+#: templates/class-employee-incident-report.php:37
+msgid "Reporting employee's name"
+msgstr "कर्मचारी का नाम रिपोर्टिंग"
+
+#: templates/class-employee-incident-report.php:45
+msgid "Reporting employee's email"
+msgstr "कर्मचारी के ईमेल की रिपोर्ट करना"
+
+#: templates/class-employee-incident-report.php:52
+msgid "Date / Time of incident"
+msgstr "घटना का दिनांक / समय"
+
+#: templates/class-employee-incident-report.php:63
+msgid "What violation has the employee committed?"
+msgstr "कर्मचारी ने क्या उल्लंघन किया है?"
+
+#: templates/class-employee-incident-report.php:66
+msgid "Neglect of Duty"
+msgstr "कर्तव्य की उपेक्षा"
+
+#: templates/class-employee-incident-report.php:69
+msgid "Failure to Follow Instructions"
+msgstr "निर्देशों का पालन करने में विफलता"
+
+#: templates/class-employee-incident-report.php:72
+msgid "Inappropriate Behavior"
+msgstr "अनुचित व्यवहार"
+
+#: templates/class-employee-incident-report.php:75
+msgid "Attendance Related"
+msgstr "उपस्थिति संबंधित"
+
+#: templates/class-employee-incident-report.php:78
+msgid "Damage to Company Property"
+msgstr "कंपनी की संपत्ति को नुकसान"
+
+#: templates/class-employee-incident-report.php:81
+msgid "Theft"
+msgstr "चोरी होना"
+
+#: templates/class-employee-incident-report.php:84
+msgid "Harassment"
+msgstr "उत्पीड़न"
+
+#: templates/class-employee-incident-report.php:87
+msgid "Poor Work Performance"
+msgstr "खराब कार्य प्रदर्शन"
+
+#: templates/class-employee-incident-report.php:90
+msgid "Violation of Company Policy"
+msgstr "कंपनी नीति का उल्लंघन"
+
+#: templates/class-employee-incident-report.php:97
+msgid "Please describe the incident."
+msgstr "कृपया घटना का वर्णन करें।"
+
+#: templates/class-employee-incident-report.php:103
+msgid "Report prepared by"
+msgstr "द्वारा तैयार रिपोर्ट"
+
+#: templates/class-employee-information.php:21
+msgid "Employee Information Form"
+msgstr "कर्मचारी सूचना फॉर्म"
+
+#: templates/class-employee-information.php:29
+msgid "Personal Information"
+msgstr "व्यक्तिगत जानकारी"
+
+#: templates/class-employee-information.php:75
+msgid "Office Information"
+msgstr "कार्यालय की जानकारी"
+
+#: templates/class-employee-information.php:87, templates/class-performance-improvement-plan.php:94
+msgid "Supervisor Name"
+msgstr "सुपरवाइजर का नाम"
+
+#: templates/class-employee-information.php:93, templates/class-it-service-request.php:51, templates/class-meeting-room-registration.php:44
+msgid "Department"
+msgstr "विभाग"
+
+#: templates/class-employee-information.php:99
+msgid "Office Phone"
+msgstr "कार्यालय फोन"
+
+#: templates/class-employee-information.php:106, templates/class-employee-termination.php:49
+msgid "Start Date"
+msgstr "प्रारंभ दिनांक"
+
+#: templates/class-employee-information.php:117
+msgid "Salary"
+msgstr "वेतन"
+
+#: templates/class-employee-referral.php:21
+msgid "Employee Referral Form"
+msgstr "कर्मचारी रेफरल फार्म"
+
+#: templates/class-employee-referral.php:29
+msgid "Employee Information"
+msgstr "कर्मचारी जानकारी"
+
+#: templates/class-employee-referral.php:57
+msgid "Referral Information"
+msgstr "रेफरल जानकारी"
+
+#: templates/class-employee-referral.php:63
+msgid "Candidate's Name"
+msgstr "उम्मीदवार का नाम"
+
+#: templates/class-employee-referral.php:71
+msgid "Candidate's email"
+msgstr "उम्मीदवार का ईमेल"
+
+#: templates/class-employee-referral.php:78
+msgid "Candidate's phone"
+msgstr "उम्मीदवार का फोन"
+
+#: templates/class-employee-referral.php:85
+msgid "Position applied for"
+msgstr "के लिए आवेदित पद"
+
+#: templates/class-employee-referral.php:91
+msgid "Why is this candidate qualified for the position?"
+msgstr "यह उम्मीदवार पद के लिए योग्य क्यों है?"
+
+#: templates/class-employee-termination.php:21
+msgid "Employee Termination Form"
+msgstr "कर्मचारी समाप्ति फॉर्म"
+
+#: templates/class-employee-termination.php:29, templates/class-equipment-checkout.php:29, templates/class-performance-improvement-plan.php:29, templates/class-time-sheet.php:29, templates/class-travel-request.php:29
+msgid "Employee Name"
+msgstr "कर्मचारी का नाम"
+
+#: templates/class-employee-termination.php:37
+msgid "Employee Position"
+msgstr "कर्मचारी की स्थिति"
+
+#: templates/class-employee-termination.php:43
+msgid "Employee Department"
+msgstr "कर्मचारी विभाग"
+
+#: templates/class-employee-termination.php:60
+msgid "End Date"
+msgstr "अंतिम दिनांक"
+
+#: templates/class-employee-termination.php:71
+msgid "Termination status"
+msgstr "समाप्ति की स्थिति"
+
+#: templates/class-employee-termination.php:74
+msgid "Voluntary"
+msgstr "स्वैच्छिक"
+
+#: templates/class-employee-termination.php:77
+msgid "Involuntary"
+msgstr "अनैच्छिक"
+
+#: templates/class-employee-termination.php:84
+msgid "Termination details"
+msgstr "समाप्ति का विवरण"
+
+#: templates/class-employee-termination.php:90
+msgid "Is employee eligible for rehire?"
+msgstr "क्या कर्मचारी पुनर्नियुक्‍ति के लिए योग्य है?"
+
+#: templates/class-employee-termination.php:103
+msgid "Supervisor"
+msgstr "पर्यवेक्षक"
+
+#: templates/class-enrollment.php:21
+msgid "Enrollment Form"
+msgstr "नामांकन फार्म"
+
+#: templates/class-enrollment.php:29
+msgid "Anticipated Start Date"
+msgstr "प्रत्याशित प्रारंभ तिथि"
+
+#: templates/class-enrollment.php:106
+msgid "GPA"
+msgstr "GPA"
+
+#: templates/class-equipment-checkout.php:21
+msgid "Equipment Checkout Form"
+msgstr "उपकरण चेकआउट फॉर्म"
+
+#: templates/class-equipment-checkout.php:37, templates/class-travel-request.php:37
+msgid "Employee ID"
+msgstr "कर्मचारी आईडी"
+
+#: templates/class-equipment-checkout.php:58
+msgid "Equipment Checked Out"
+msgstr "उपकरण की जाँच की गई"
+
+#: templates/class-equipment-checkout.php:61
+msgid "Laptop"
+msgstr "लैपटॉप"
+
+#: templates/class-equipment-checkout.php:64
+msgid "Laptop Carrying Case"
+msgstr "लैपटॉप ले जाने का मामला"
+
+#: templates/class-equipment-checkout.php:67
+msgid "AC Power Cord"
+msgstr "एसी पावर कॉर्ड"
+
+#: templates/class-equipment-checkout.php:70
+msgid "Docking Station"
+msgstr "डॉकिंग स्टेशन"
+
+#: templates/class-equipment-checkout.php:73
+msgid "Bluetooth Mouse"
+msgstr "ब्लूटूथ माउस"
+
+#: templates/class-equipment-checkout.php:83
+msgid "I acknowledge the equipment I have received is in good physical working condition and I will return the equipment in the same condition. I take financial responsibility for any damages to the equipment upon return."
+msgstr "मैं स्वीकार करता हूं कि मुझे जो उपकरण मिले हैं, वे अच्छी शारीरिक स्थिति में हैं और मैं उसी स्थिति में उपकरण वापस कर दूंगा। मैं किसी भी क्षति के लिए वित्तीय जिम्मेदारी उपकरण वापस लेने पर लेता हूं।"
+
+#: templates/class-event-feedback.php:21
+msgid "Event Feedback Form"
+msgstr "इवेंट फीडबैक फॉर्म"
+
+#: templates/class-event-feedback.php:29
+msgid "Please rate your overall experience at our event"
+msgstr "कृपया हमारे कार्यक्रम में अपने समग्र अनुभव को रेट करें"
+
+#: templates/class-event-feedback.php:52
+msgid "Would you return again next year?"
+msgstr "क्या आप अगले साल फिर से लौटेंगे?"
+
+#: templates/class-event-feedback.php:61
+msgid "Undecided"
+msgstr "अनिश्चित"
+
+#: templates/class-event-feedback.php:69
+msgid "What could we have improved?"
+msgstr "हम क्या सुधार कर सकते थे?"
+
+#: templates/class-event-feedback.php:75
+msgid "Do you have any additional feedback?"
+msgstr "क्या आपके पास कोई अतिरिक्त प्रतिक्रिया है?"
+
+#: templates/class-event-planner.php:21
+msgid "Event Planner Form"
+msgstr "इवेंट प्लानर फॉर्म"
+
+#: templates/class-event-planner.php:37
+msgid "Your Email"
+msgstr "आपका ईमेल"
+
+#: templates/class-event-planner.php:44, templates/class-fundraiser-registration.php:29
+msgid "Event Name"
+msgstr "ईवेंट का नाम"
+
+#: templates/class-event-planner.php:51
+msgid "Event Type"
+msgstr "इवेंट का प्रकार"
+
+#: templates/class-event-planner.php:54
+msgid "Banquet"
+msgstr "भोज"
+
+#: templates/class-event-planner.php:57
+msgid "Fund Raiser"
+msgstr "पूंजी रेज़र"
+
+#: templates/class-event-planner.php:60
+msgid "Dinner Party"
+msgstr "डिनर पार्टी"
+
+#: templates/class-event-planner.php:63
+msgid "Wedding"
+msgstr "शादी"
+
+#: templates/class-event-planner.php:74, templates/class-grade-book.php:49
+msgid "Status"
+msgstr "स्थिति"
+
+#: templates/class-event-planner.php:77
+msgid "Planning"
+msgstr "योजना"
+
+#: templates/class-event-planner.php:80
+msgid "In Progress"
+msgstr "प्रगति में"
+
+#: templates/class-event-planner.php:83
+msgid "Finished"
+msgstr "समाप्त"
+
+#: templates/class-event-planner.php:91, templates/class-fundraiser-registration.php:35
+msgid "Event Description"
+msgstr "घटना का विवरण"
+
+#: templates/class-event-planner.php:98
+msgid "Event Begin Date and Time "
+msgstr "घटना की शुरुआत की तारीख और समय"
+
+#: templates/class-event-planner.php:109
+msgid "Event End Date and Time"
+msgstr "ईवेंट की अंतिम दिनांक और समय"
+
+#: templates/class-event-planner.php:127
+msgid "Requirements"
+msgstr "आवश्यकताएँ"
+
+#: templates/class-event-planner.php:130
+msgid "Staffing"
+msgstr "स्टाफिंग"
+
+#: templates/class-event-planner.php:133
+msgid "Catering"
+msgstr "खानपान"
+
+#: templates/class-event-planner.php:136
+msgid "Bar Tending"
+msgstr "बारटेंडिंग"
+
+#: templates/class-event-planner.php:139
+msgid "Security"
+msgstr "सुरक्षा"
+
+#: templates/class-event-planner.php:146
+msgid "Cost Per Person"
+msgstr "प्रति व्यक्ति लागत"
+
+#: templates/class-exercise-log.php:21
+msgid "Exercise Log Form"
+msgstr "व्यायाम लॉग फॉर्म"
+
+#: templates/class-exercise-log.php:29, templates/class-online-race-registration.php:50
+msgid "Dropdown"
+msgstr "ड्रॉपडाउन"
+
+#: templates/class-exercise-log.php:32
+msgid "Running"
+msgstr "चल रहा है"
+
+#: templates/class-exercise-log.php:35
+msgid "Walking"
+msgstr "चलना"
+
+#: templates/class-exercise-log.php:38
+msgid "Swimming"
+msgstr "तैराकी"
+
+#: templates/class-exercise-log.php:41
+msgid "Spinning"
+msgstr "कताई"
+
+#: templates/class-exercise-log.php:44
+msgid "Weights"
+msgstr "तौल"
+
+#: templates/class-exercise-log.php:63
+msgid "Calories burned"
+msgstr "ऊर्जा खर्च"
+
+#: templates/class-exercise-log.php:69
+msgid "Distance traveled"
+msgstr "तय की गई दूरी"
+
+#: templates/class-exercise-log.php:75
+msgid "Maximum pulse"
+msgstr "अधिकतम पल्स"
+
+#: templates/class-exercise-log.php:81
+msgid "Resting pulse"
+msgstr "आराम करने वाली नाड़ी"
+
+#: templates/class-exercise-log.php:87
+msgid "Comments on workout"
+msgstr "कसरत पर टिप्पणियां"
+
+#: templates/class-family-reunion-registration.php:21
+msgid "Family Reunion Registration Form"
+msgstr "परिवार का पुनर्मिलन पंजीकरण फॉर्म"
+
+#: templates/class-family-reunion-registration.php:51
+msgid "What activities do you want to play?"
+msgstr "आप कौन सी गतिविधियाँ खेलना चाहते हैं?"
+
+#: templates/class-family-reunion-registration.php:54
+msgid "Football"
+msgstr "फुटबॉल"
+
+#: templates/class-family-reunion-registration.php:57
+msgid "Baseball"
+msgstr "बेसबॉल"
+
+#: templates/class-family-reunion-registration.php:60
+msgid "Kickball"
+msgstr "किकबॉल"
+
+#: templates/class-family-reunion-registration.php:63
+msgid "Volleyball"
+msgstr "वॉलीबॉल"
+
+#: templates/class-family-reunion-registration.php:70
+msgid "What will you be bringing?"
+msgstr "आप क्या लाएंगे?"
+
+#: templates/class-family-reunion-registration.php:73, templates/class-new-years-party-rsvp.php:73
+msgid "Snacks"
+msgstr "नाश्ता"
+
+#: templates/class-family-reunion-registration.php:79
+msgid "Drinks"
+msgstr "पेय"
+
+#: templates/class-family-reunion-registration.php:82, templates/class-new-years-party-rsvp.php:76, templates/class-recipe-catalog.php:109
+msgid "Dessert"
+msgstr "मिठाई"
+
+#: templates/class-family-reunion-registration.php:89, templates/class-fitness-interest.php:93, templates/class-grade-book.php:89, templates/class-potluck-invitation-rsvp.php:62, templates/class-vendor-contact-information.php:71,
+#: templates/class-work-order-request.php:89
+msgid "Comments"
+msgstr "टिप्पणि"
+
+#: templates/class-file-upload.php:21
+msgid "File Upload Form"
+msgstr "फ़ाइल अपलोड फॉर्म"
+
+#: templates/class-file-upload.php:51
+msgid "File Upload"
+msgstr "फ़ाइल अपलोड"
+
+#: templates/class-fitness-interest.php:21
+msgid "Fitness Interest Form"
+msgstr "फिटनेस रुचि फॉर्म"
+
+#: templates/class-fitness-interest.php:52
+msgid "Best time to call"
+msgstr "अछा समय है कॉल करने का"
+
+#: templates/class-fitness-interest.php:55
+msgid "Mornings"
+msgstr "सुबह"
+
+#: templates/class-fitness-interest.php:58
+msgid "Afternoons"
+msgstr "दोपहर"
+
+#: templates/class-fitness-interest.php:61
+msgid "Evenings"
+msgstr "शाम"
+
+#: templates/class-fitness-interest.php:64
+msgid "Weekends"
+msgstr "सप्ताहांत"
+
+#: templates/class-fitness-interest.php:71
+msgid "Which of the following are important to you?"
+msgstr "निम्नलिखित में से कौन सा आपके लिए महत्वपूर्ण है?"
+
+#: templates/class-fitness-interest.php:74
+msgid "Fat reduction and weight loss"
+msgstr "वसा की कमी और वजन में कमी"
+
+#: templates/class-fitness-interest.php:77
+msgid "Energy and endurance"
+msgstr "ऊर्जा और धीरज"
+
+#: templates/class-fitness-interest.php:80
+msgid "Building lean muscle mass"
+msgstr "दुबला मांसपेशियों का निर्माण"
+
+#: templates/class-fitness-interest.php:83
+msgid "Healthier digestive system"
+msgstr "स्वस्थ पाचन तंत्र"
+
+#: templates/class-fitness-interest.php:86
+msgid "Vitality, longevity, and positive outlook"
+msgstr "जीवन शक्ति, दीर्घायु और सकारात्मक दृष्टिकोण"
+
+#: templates/class-football-league-registration.php:21
+msgid "Football League Registration Form"
+msgstr "फुटबॉल लीग पंजीकरण फॉर्म"
+
+#: templates/class-football-league-registration.php:58
+msgid "Cowboys"
+msgstr "काउबॉय"
+
+#: templates/class-football-league-registration.php:61
+msgid "Jets"
+msgstr "जेट"
+
+#: templates/class-football-league-registration.php:64
+msgid "Patriots"
+msgstr "देशभक्त"
+
+#: templates/class-football-league-registration.php:67
+msgid "Redskins"
+msgstr "रेडस्किन्स"
+
+#: templates/class-football-league-registration.php:70
+msgid "Giants"
+msgstr "दिग्गजों"
+
+#: templates/class-football-league-registration.php:80
+msgid "Quarterback"
+msgstr "क्वार्टरबैक"
+
+#: templates/class-football-league-registration.php:83
+msgid "Running Back"
+msgstr "वापस भागना"
+
+#: templates/class-football-league-registration.php:86
+msgid "Wide Receiver"
+msgstr "विस्तृत ग्रहणकर्ता"
+
+#: templates/class-football-league-registration.php:89
+msgid "Kicker"
+msgstr "दंगेबाज"
+
+#: templates/class-fundraiser-registration.php:21
+msgid "Fundraiser Registration Form"
+msgstr "शिलान्यास पंजीकरण फॉर्म"
+
+#: templates/class-fundraiser-registration.php:41
+msgid "Event Date"
+msgstr "आयोजन दिनांक"
+
+#: templates/class-fundraiser-registration.php:52
+msgid "Company Information"
+msgstr "कंपनी की जानकारी"
+
+#: templates/class-fundraiser-registration.php:58
+msgid "Organization Name"
+msgstr "संगठन का नाम"
+
+#: templates/class-fundraiser-registration.php:64
+msgid "Non-Profit Federal Tax I.D.#"
+msgstr "गैर-लाभकारी संघीय कर आईडी #"
+
+#: templates/class-fundraiser-registration.php:77
+msgid "Company Contact"
+msgstr "कंपनी संपर्क"
+
+#: templates/class-gaming-tournament-registration.php:21
+msgid "Gaming Tournament Registration Form"
+msgstr "गेमिंग टूर्नामेंट पंजीकरण फॉर्म"
+
+#: templates/class-gaming-tournament-registration.php:44
+msgid "Will you be participating or just watching games?"
+msgstr "क्या आप भाग लेंगे या सिर्फ खेल देख रहे होंगे?"
+
+#: templates/class-gaming-tournament-registration.php:47
+msgid "Participating"
+msgstr "इसमें भाग लेने वाले"
+
+#: templates/class-gaming-tournament-registration.php:50
+msgid "Watching"
+msgstr "देख रहे"
+
+#: templates/class-gaming-tournament-registration.php:58
+msgid "If you're participating, which tournaments will you participate in?"
+msgstr "यदि आप भाग ले रहे हैं, तो आप किन प्रतियोगिताओं में भाग लेंगे?"
+
+#: templates/class-gaming-tournament-registration.php:61, templates/class-gaming-tournament-registration.php:80
+msgid "Warhammer"
+msgstr "Warhammer"
+
+#: templates/class-gaming-tournament-registration.php:64, templates/class-gaming-tournament-registration.php:83
+msgid "Lord of the Rings"
+msgstr "अंगूठियों का मालिक"
+
+#: templates/class-gaming-tournament-registration.php:67, templates/class-gaming-tournament-registration.php:86
+msgid "Warhammer 40k"
+msgstr "Warhammer 40k"
+
+#: templates/class-gaming-tournament-registration.php:70, templates/class-gaming-tournament-registration.php:89
+msgid "Magic the Gathering"
+msgstr "महफ़िल में जादू लाना"
+
+#: templates/class-gaming-tournament-registration.php:77
+msgid "If you're watching, which tournaments do you look forward to seeing?"
+msgstr "यदि आप देख रहे हैं, तो आप कौन से टूर्नामेंट देखने के लिए उत्सुक हैं?"
+
+#: templates/class-gaming-tournament-registration.php:96
+msgid "Will you being staying overnight?"
+msgstr "आप रात भर रहोगे?"
+
+#: templates/class-gaming-tournament-registration.php:113
+msgid "I would like to receive email updates on future events"
+msgstr "मैं भविष्य की घटनाओं पर ईमेल अपडेट प्राप्त करना चाहूंगा"
+
+#: templates/class-general-donation.php:21
+msgid "General Donation Form"
+msgstr "सामान्य दान फॉर्म"
+
+#: templates/class-general-donation.php:53
+msgid "Other Options"
+msgstr "अन्य विकल्प"
+
+#: templates/class-general-donation.php:56
+msgid "I prefer to make my donation anonymously."
+msgstr "मैं अपना दान गुमनाम रूप से करना पसंद करता हूं।"
+
+#: templates/class-general-donation.php:59
+msgid "Please sign me up to the newsletter."
+msgstr "कृपया मुझे न्यूज़लेटर पर साइन अप करें।"
+
+#: templates/class-general-donation.php:62
+msgid "I wish to volunteer to help with fundraising."
+msgstr "मैं स्वेच्छा से धन उगाहने में मदद करना चाहता हूं।"
+
+#: templates/class-gift-card-order.php:21
+msgid "Gift Card Order Form"
+msgstr "उपहार कार्ड ऑर्डर फॉर्म"
+
+#: templates/class-gift-card-order.php:29
+msgid "Gift Card Amount"
+msgstr "उपहार कार्ड राशि"
+
+#: templates/class-gift-card-order.php:37
+msgid "Recipient's Name"
+msgstr "प्राप्तकर्ता का नाम"
+
+#: templates/class-gift-card-order.php:45
+msgid "Shipping"
+msgstr "शिपिंग"
+
+#: templates/class-gift-card-order.php:53
+msgid "Purchaser's Name"
+msgstr "ख़रीदार का नाम"
+
+#: templates/class-gift-card-order.php:61
+msgid "Billing Address"
+msgstr "बिलिंग पता"
+
+#: templates/class-girl-scout-order.php:21
+msgid "Girl Scout Cookie Order Form"
+msgstr "लड़की स्काउट कुकी ऑर्डर फॉर्म"
+
+#: templates/class-girl-scout-order.php:29
+msgid "How many boxes of Samoas would you like?"
+msgstr "समोसे के कितने डिब्बे आपको पसंद होंगे?"
+
+#: templates/class-girl-scout-order.php:35, templates/class-girl-scout-order.php:55, templates/class-girl-scout-order.php:75
+msgid "1 - $5"
+msgstr "1 - $5"
+
+#: templates/class-girl-scout-order.php:38, templates/class-girl-scout-order.php:58, templates/class-girl-scout-order.php:78
+msgid "2 - $10"
+msgstr "2 - $10"
+
+#: templates/class-girl-scout-order.php:41, templates/class-girl-scout-order.php:61, templates/class-girl-scout-order.php:81
+msgid "3 - $15"
+msgstr "3 - $15"
+
+#: templates/class-girl-scout-order.php:49
+msgid "How many boxes of Thin Mints would you like?"
+msgstr "Thin Mints के कितने बॉक्स आप पसंद करेंगे?"
+
+#: templates/class-girl-scout-order.php:69
+msgid "How many boxes of Tagalongs would you like?"
+msgstr "Tagalongs के कितने बक्से आप पसंद करेंगे?"
+
+#: templates/class-grade-book.php:21
+msgid "Grade Book Form"
+msgstr "ग्रेड बुक फॉर्म"
+
+#: templates/class-grade-book.php:29
+msgid "Student Name"
+msgstr "छात्र का नाम"
+
+#: templates/class-grade-book.php:37
+msgid "Student ID"
+msgstr "छात्र आईडी"
+
+#: templates/class-grade-book.php:43
+msgid "Assignment name"
+msgstr "असाइनमेंट नाम"
+
+#: templates/class-grade-book.php:52
+msgid "Complete"
+msgstr "पूर्ण"
+
+#: templates/class-grade-book.php:55
+msgid "Late"
+msgstr "देर"
+
+#: templates/class-grade-book.php:58
+msgid "Incomplete"
+msgstr "अपूर्ण"
+
+#: templates/class-grade-book.php:66, templates/class-summer-camp-registration.php:55
+msgid "Grade"
+msgstr "ग्रेड"
+
+#: templates/class-grade-book.php:69
+msgid "A"
+msgstr "ए"
+
+#: templates/class-grade-book.php:72
+msgid "B"
+msgstr "बी"
+
+#: templates/class-grade-book.php:75
+msgid "C"
+msgstr "सी"
+
+#: templates/class-grade-book.php:78
+msgid "D"
+msgstr "डी"
+
+#: templates/class-grade-book.php:81
+msgid "F"
+msgstr "एफ"
+
+#: templates/class-gym-registration.php:21
+msgid "Gym Registration Form"
+msgstr "जिम पंजीकरण फार्म"
+
+#: templates/class-gym-registration.php:44
+msgid "Membership Start Date"
+msgstr "सदस्यता प्रारंभ दिनांक"
+
+#: templates/class-gym-registration.php:55
+msgid "Membership Duration"
+msgstr "सदस्यता अवधि"
+
+#: templates/class-gym-registration.php:58
+msgid "1 month"
+msgstr "1 महीना"
+
+#: templates/class-gym-registration.php:61
+msgid "3 month"
+msgstr "3 महीने"
+
+#: templates/class-gym-registration.php:64
+msgid "6 months"
+msgstr "6 महीने"
+
+#: templates/class-gym-registration.php:67
+msgid "1 year"
+msgstr "1 साल"
+
+#: templates/class-gym-registration.php:70
+msgid "2 year"
+msgstr "2 साल"
+
+#: templates/class-gym-registration.php:73
+msgid "Lifetime"
+msgstr "जीवन काल"
+
+#: templates/class-gym-registration.php:80
+msgid "Pre-existing medical conditions"
+msgstr "पहले से मौजूद चिकित्सीय स्थिति"
+
+#: templates/class-gym-registration.php:83
+msgid "Diabetes"
+msgstr "मधुमेह"
+
+#: templates/class-gym-registration.php:86
+msgid "Heart disease"
+msgstr "हृदय रोग"
+
+#: templates/class-gym-registration.php:89
+msgid "Chest pains"
+msgstr "सीने में दर्द"
+
+#: templates/class-gym-registration.php:92
+msgid "Shortness of breath"
+msgstr "साँसों की कमी"
+
+#: templates/class-gym-registration.php:95
+msgid "Broken bones"
+msgstr "टूटी हुई हड्डियां"
+
+#: templates/class-gym-registration.php:98
+msgid "Allergies"
+msgstr "एलर्जी"
+
+#: templates/class-gym-registration.php:101
+msgid "Heart murmur"
+msgstr "दिल की असामान्य ध्वनि"
+
+#: templates/class-gym-registration.php:104
+msgid "Pneumonia"
+msgstr "निमोनिया"
+
+#: templates/class-gym-registration.php:107
+msgid "Epilepsy"
+msgstr "मिर्गी"
+
+#: templates/class-gym-registration.php:110
+msgid "Tachycardia"
+msgstr "Tachycardia"
+
+#: templates/class-gym-registration.php:113
+msgid "Oedema"
+msgstr "शोफ"
+
+#: templates/class-gym-registration.php:116
+msgid "Heart attack"
+msgstr "दिल का दौरा"
+
+#: templates/class-gym-registration.php:119
+msgid "Recent surgery"
+msgstr "हाल ही में सर्जरी"
+
+#: templates/class-gym-registration.php:122
+msgid "Palpitations"
+msgstr "Palpitations"
+
+#: templates/class-gym-registration.php:125
+msgid "High blood pressure"
+msgstr "उच्च रक्त चाप"
+
+#: templates/class-gym-registration.php:128
+msgid "Low blood pressure"
+msgstr "निम्न रक्त चाप"
+
+#: templates/class-gym-registration.php:131
+msgid "Asthma"
+msgstr "अस्थमा"
+
+#: templates/class-gym-registration.php:134
+msgid "Seizures"
+msgstr "बरामदगी"
+
+#: templates/class-gym-registration.php:137
+msgid "Fainting"
+msgstr "बेहोशी"
+
+#: templates/class-gym-registration.php:145
+msgid "Additional Medical Notes"
+msgstr "अतिरिक्त मेडिकल नोट्स"
+
+#: templates/class-health-insurance-quote.php:21
+msgid "Health Insurance Quote Form"
+msgstr "स्वास्थ्य बीमा उद्धरण फॉर्म"
+
+#: templates/class-health-insurance-quote.php:35
+msgid "Primary Contact Name"
+msgstr "प्राथमिक संपर्क नाम"
+
+#: templates/class-health-insurance-quote.php:43
+msgid "Primary Contact Email"
+msgstr "प्राथमिक संपर्क ईमेल"
+
+#: templates/class-health-insurance-quote.php:50
+msgid "Primary Contact Phone"
+msgstr "प्राथमिक संपर्क फ़ोन"
+
+#: templates/class-health-insurance-quote.php:57
+msgid "Primary Contact Title"
+msgstr "प्राथमिक संपर्क शीर्षक"
+
+#: templates/class-health-insurance-quote.php:63
+msgid "Primary Contact Address"
+msgstr "प्राथमिक संपर्क पता"
+
+#: templates/class-health-insurance-quote.php:70
+msgid "Please tell us about your industry"
+msgstr "कृपया हमें अपने उद्योग के बारे में बताएं"
+
+#: templates/class-health-insurance-quote.php:76
+msgid "How did you hear about us?"
+msgstr "आपको हमारे बारे में कैसे पता चला?"
+
+#: templates/class-height-and-weight.php:21
+msgid "Height and Weight Form"
+msgstr "ऊंचाई और वजन फॉर्म"
+
+#: templates/class-height-and-weight.php:29
+msgid "What is your height in feet and inches? (Remove shoes before measuring.)"
+msgstr "फ़ीट और इंच में आपकी ऊंचाई कितनी है? (मापने से पहले जूते निकालें)\\"
+
+#: templates/class-height-and-weight.php:35
+msgid "Feet"
+msgstr "फ़ीट"
+
+#: templates/class-height-and-weight.php:41
+msgid "Inches"
+msgstr "इंच"
+
+#: templates/class-height-and-weight.php:47
+msgid "What is your current weight in points?"
+msgstr "अंक में आपका वर्तमान वजन क्या है?"
+
+#: templates/class-high-school-reunion-registration.php:21
+msgid "High School Reunion Registration Form"
+msgstr "हाई स्कूल रीयूनियन पंजीकरण फॉर्म"
+
+#: templates/class-high-school-reunion-registration.php:37
+msgid "Spouse or Guest Name"
+msgstr "जीवनसाथी या अतिथि का नाम"
+
+#: templates/class-high-school-reunion-registration.php:58
+msgid "Which events will you be attending?"
+msgstr "आप किन कार्यक्रमों में भाग लेंगे?"
+
+#: templates/class-high-school-reunion-registration.php:61
+msgid "Friday night cookout"
+msgstr "शुक्रवार की रात कुकआउट"
+
+#: templates/class-high-school-reunion-registration.php:64
+msgid "Saturday breakfast"
+msgstr "शनिवार का नाश्ता"
+
+#: templates/class-high-school-reunion-registration.php:67
+msgid "Saturday lunch"
+msgstr "शनिवार दोपहर का भोजन"
+
+#: templates/class-high-school-reunion-registration.php:70
+msgid "Saturday formal dinner"
+msgstr "शनिवार औपचारिक डिनर"
+
+#: templates/class-high-school-reunion-registration.php:77
+msgid "Would you like to pre-order a reunion DVD ($19.95)?"
+msgstr "क्या आप पुनर्मिलन डीवीडी ($19.95) को प्री-ऑर्डर करना चाहेंगे?"
+
+#: templates/class-home-buyer-feedback.php:21
+msgid "Home Buyer Feedback Form"
+msgstr "घर खरीदार फीडबैक फॉर्म"
+
+#: templates/class-home-buyer-feedback.php:29
+msgid "Are you a first-time home buyer, or have you purchased a home before?"
+msgstr "क्या आप पहली बार घर खरीदने वाले हैं, या आपने पहले घर खरीदा है?"
+
+#: templates/class-home-buyer-feedback.php:32
+msgid "First time home buyer"
+msgstr "पहली बार घर खरीदने वाला"
+
+#: templates/class-home-buyer-feedback.php:35
+msgid "Purchased home before"
+msgstr "पहले घर खरीद लिया"
+
+#: templates/class-home-buyer-feedback.php:42
+msgid "How did you begin your most recent search for a home?"
+msgstr "आपने घर के लिए अपनी सबसे हाल ही में खोज कैसे शुरू की?"
+
+#: templates/class-home-buyer-feedback.php:45
+msgid "Searched the internet"
+msgstr "इंटरनेट पर खोज की"
+
+#: templates/class-home-buyer-feedback.php:48
+msgid "Drove through neighborhoods looking for home sales"
+msgstr "घर की बिक्री की तलाश में पड़ोस से गुजरना"
+
+#: templates/class-home-buyer-feedback.php:51
+msgid "Contacted real estate agent"
+msgstr "रियल एस्टेट एजेंट से संपर्क किया"
+
+#: templates/class-home-buyer-feedback.php:54
+msgid "Attended open house event"
+msgstr "ओपन हाउस इवेंट में भाग लिया"
+
+#: templates/class-home-buyer-feedback.php:57
+msgid "Searched magazines"
+msgstr "पत्रिकाओं की खोज की"
+
+#: templates/class-home-buyer-feedback.php:60
+msgid "Searched newspapers"
+msgstr "खोजा गया अखबार"
+
+#: templates/class-home-buyer-feedback.php:67
+msgid "Which sources of information did you use during your most recent search for a home?"
+msgstr "घर के लिए अपनी सबसे हाल की खोज के दौरान आपने किन स्रोतों का उपयोग किया?"
+
+#: templates/class-home-buyer-feedback.php:70, templates/class-home-buyer-feedback.php:126
+msgid "Internet"
+msgstr "इंटरनेट"
+
+#: templates/class-home-buyer-feedback.php:73
+msgid "Newspapers"
+msgstr "समाचार पत्र"
+
+#: templates/class-home-buyer-feedback.php:76
+msgid "Magazines"
+msgstr "पत्रिकाओं"
+
+#: templates/class-home-buyer-feedback.php:79
+msgid "Open houses"
+msgstr "खुले मकान"
+
+#: templates/class-home-buyer-feedback.php:82
+msgid "Real estate agents"
+msgstr "रियल एस्टेट एजेंट"
+
+#: templates/class-home-buyer-feedback.php:85
+msgid "Yard signs"
+msgstr "यार्ड संकेत"
+
+#: templates/class-home-buyer-feedback.php:92
+msgid "Which of the following internet websites did you find most helpful during your most recent search for a home?"
+msgstr "निम्नलिखित में से कौन सी इंटरनेट वेबसाइट आपको अपने घर की हाल की खोज के दौरान सबसे अधिक उपयोगी लगी?"
+
+#: templates/class-home-buyer-feedback.php:95
+msgid "Realtor.com"
+msgstr "Realtor.com"
+
+#: templates/class-home-buyer-feedback.php:98
+msgid "Real estate companies' websites"
+msgstr "रियल एस्टेट कंपनियों की वेबसाइट"
+
+#: templates/class-home-buyer-feedback.php:101
+msgid "Social networking websites"
+msgstr "सोशल नेटवर्किंग वेबसाइट्स"
+
+#: templates/class-home-buyer-feedback.php:104
+msgid "Zillow"
+msgstr "Zillow"
+
+#: templates/class-home-buyer-feedback.php:107
+msgid "Redfin"
+msgstr "Redfin"
+
+#: templates/class-home-buyer-feedback.php:117
+msgid "Where did you find the home you most recently purchased?"
+msgstr "हाल ही में खरीदा गया घर आपको कहां से मिला?"
+
+#: templates/class-home-buyer-feedback.php:120
+msgid "Newspaper"
+msgstr "अखबार"
+
+#: templates/class-home-buyer-feedback.php:123
+msgid "Open house"
+msgstr "खुला घर"
+
+#: templates/class-home-buyer-feedback.php:129
+msgid "Magazine"
+msgstr "पत्रिका"
+
+#: templates/class-home-buyer-feedback.php:132
+msgid "Real estate agent"
+msgstr "रियल एस्टेट एजेंट"
+
+#: templates/class-home-buyer-feedback.php:135
+msgid "Yard sign"
+msgstr "यार्ड संकेत"
+
+#: templates/class-house-inventory.php:21
+msgid "House Inventory Form"
+msgstr "हाउस इन्वेंटरी फॉर्म"
+
+#: templates/class-house-inventory.php:29, templates/class-to-do-list.php:29
+msgid "Item"
+msgstr "आइटम"
+
+#: templates/class-house-inventory.php:35, templates/class-recipe-catalog.php:35, templates/class-to-do-list.php:35
+msgid "Description"
+msgstr "विवरण"
+
+#: templates/class-house-inventory.php:41
+msgid "Appraised Value"
+msgstr "आकलन मान"
+
+#: templates/class-house-inventory.php:48
+msgid "Date Purchased"
+msgstr "खरीदने की तिथि"
+
+#: templates/class-house-inventory.php:59, templates/class-vendor-registration.php:38
+msgid "Manufacturer"
+msgstr "उत्पादक"
+
+#: templates/class-house-inventory.php:65
+msgid "Model"
+msgstr "मॉडल"
+
+#: templates/class-house-inventory.php:71
+msgid "Model Number"
+msgstr "मॉडल संख्या"
+
+#: templates/class-house-inventory.php:77, templates/class-house-inventory.php:94, templates/class-it-asset.php:94
+msgid "Condition"
+msgstr "हालत"
+
+#: templates/class-house-inventory.php:80
+msgid "Like New"
+msgstr "जैसे नए"
+
+#: templates/class-house-inventory.php:83
+msgid "Used"
+msgstr "उपयोग किया गया"
+
+#: templates/class-house-inventory.php:86
+msgid "Poor"
+msgstr "मामूली"
+
+#: templates/class-house-inventory.php:103
+msgid "I don't know"
+msgstr "मुझे नहीं पता"
+
+#: templates/class-it-asset.php:21
+msgid "IT Asset Form"
+msgstr "आईटी एसेट फॉर्म"
+
+#: templates/class-it-asset.php:29
+msgid "Asset Category"
+msgstr "एसेट श्रेणी"
+
+#: templates/class-it-asset.php:32
+msgid "Building Key/Keycard"
+msgstr "बिल्डिंग कुंजी/कुंजी कार्ड"
+
+#: templates/class-it-asset.php:35
+msgid "Cell phone"
+msgstr "सेल फोन"
+
+#: templates/class-it-asset.php:38
+msgid "Desktop Computer"
+msgstr "डेस्कटॉप कंप्यूटर"
+
+#: templates/class-it-asset.php:41
+msgid "Notebook Computer"
+msgstr "नोटबुक कंप्यूटर"
+
+#: templates/class-it-asset.php:44
+msgid "Keyboard"
+msgstr "कीबोर्ड"
+
+#: templates/class-it-asset.php:47
+msgid "Mouse"
+msgstr "माउस"
+
+#: templates/class-it-asset.php:50
+msgid "Monitor"
+msgstr "मॉनिटर"
+
+#: templates/class-it-asset.php:53
+msgid "Printer"
+msgstr "प्रिंटर"
+
+#: templates/class-it-asset.php:61
+msgid "Asset Owner Name"
+msgstr "एसेट मालिक का नाम"
+
+#: templates/class-it-asset.php:69
+msgid "Asset Description"
+msgstr "एसेट विवरण"
+
+#: templates/class-it-asset.php:75
+msgid "Serial #"
+msgstr "सीरियल #"
+
+#: templates/class-it-asset.php:81
+msgid "Model #"
+msgstr "मॉडल #"
+
+#: templates/class-it-asset.php:87
+msgid "Asset Cost"
+msgstr "एसेट लागत"
+
+#: templates/class-it-service-request.php:21
+msgid "IT Service Request Form"
+msgstr "आईटी सेवा अनुरोध फॉर्म"
+
+#: templates/class-it-service-request.php:57
+msgid "What are you having issues with?"
+msgstr "आपके साथ क्या समस्याएँ हैं?"
+
+#: templates/class-it-service-request.php:60
+msgid "Computer"
+msgstr "कंप्यूटर"
+
+#: templates/class-it-service-request.php:63
+msgid "Projector"
+msgstr "प्रोजेक्टर"
+
+#: templates/class-it-service-request.php:66
+msgid "Mobile Device / Tablet"
+msgstr "मोबाइल डिवाइस / टैबलेट"
+
+#: templates/class-it-service-request.php:69
+msgid "Internet Connection / Network"
+msgstr "इंटरनेट कनेक्शन / नेटवर्क"
+
+#: templates/class-it-service-request.php:85
+msgid "Additional Details or Information"
+msgstr "अतिरिक्त विवरण या जानकारी"
+
+#: templates/class-job-application-upload.php:21
+msgid "Job Application Upload Form"
+msgstr "नौकरी आवेदन अपलोड फॉर्म"
+
+#: templates/class-job-application-upload.php:60
+msgid "How did you find out about this position?"
+msgstr "आपको इस स्थिति के बारे में कैसे पता चला?"
+
+#: templates/class-job-application-upload.php:63
+msgid "Current Employee"
+msgstr "वर्तमान कर्मचारी"
+
+#: templates/class-job-application-upload.php:66
+msgid "Career Fair"
+msgstr "करियर फेयर"
+
+#: templates/class-job-application-upload.php:69
+msgid "Newspaper Ad"
+msgstr "अखबार के विज्ञापन"
+
+#: templates/class-job-application-upload.php:72
+msgid "Radio/TV AD"
+msgstr "रेडियो/टीवी विज्ञापन"
+
+#: templates/class-job-application-upload.php:75
+msgid "Search Engine"
+msgstr "खोज इंजन"
+
+#: templates/class-job-application-upload.php:78, templates/class-online-event-registration.php:74, templates/class-online-race-registration.php:114
+msgid "Social Media"
+msgstr "सोशल मीडिया"
+
+#: templates/class-job-application-upload.php:81
+msgid "Craigslist"
+msgstr "Craigslist"
+
+#: templates/class-job-application-upload.php:97
+msgid "Upload your resume"
+msgstr "अपना रेज़्यूमे अपलोड करें"
+
+#: templates/class-job-application-upload.php:103
+msgid "Upload a cover letter"
+msgstr "कवर पत्र अपलोड करें"
+
+#: templates/class-lecture-notes.php:21
+msgid "Lecture Notes Form"
+msgstr "व्याख्यान नोट्स फॉर्म"
+
+#: templates/class-lecture-notes.php:29, templates/class-lesson-plan.php:29
+msgid "Subject"
+msgstr "विषय"
+
+#: templates/class-lecture-notes.php:35
+msgid "Cues"
+msgstr "Cues"
+
+#: templates/class-lecture-notes.php:47
+msgid "Summary"
+msgstr "सारांश"
+
+#: templates/class-lesson-plan.php:21
+msgid "Lesson Plan Form"
+msgstr "पाठ योजना फॉर्म"
+
+#: templates/class-lesson-plan.php:35
+msgid "Teaching Topic"
+msgstr "शिक्षण विषय"
+
+#: templates/class-lesson-plan.php:41
+msgid "Lesson Plan Title"
+msgstr "पाठ योजना शीर्षक"
+
+#: templates/class-lesson-plan.php:47
+msgid "Standards Addressed"
+msgstr "मानकों को जोड़ा गया"
+
+#: templates/class-lesson-plan.php:63
+msgid "Goals/Objectives of Lesson Plans"
+msgstr "उद्देश्य / पाठ योजना के लक्ष्य"
+
+#: templates/class-lesson-plan.php:69
+msgid "Required Materials"
+msgstr "आवश्यक सामग्री"
+
+#: templates/class-lesson-plan.php:72
+msgid "Photos"
+msgstr "तस्वीरें"
+
+#: templates/class-lesson-plan.php:75
+msgid "Electronic Devices"
+msgstr "इलेक्ट्रॉनिक उपकरणों"
+
+#: templates/class-lesson-plan.php:78
+msgid "Paper and Pencil"
+msgstr "कागज और पेंसिल"
+
+#: templates/class-lesson-plan.php:81
+msgid "Audio"
+msgstr "ऑडियो"
+
+#: templates/class-lesson-plan.php:88
+msgid "Step-by-Step Procedure"
+msgstr "चरण-दर-चरण प्रक्रिया"
+
+#: templates/class-maintenance-request.php:21
+msgid "Maintenance Request Form"
+msgstr "अनुरक्षण अनुरोध फॉर्म"
+
+#: templates/class-maintenance-request.php:52, templates/class-rent-receipt.php:62
+msgid "Property Address"
+msgstr "संपत्ति का पता"
+
+#: templates/class-maintenance-request.php:60
+msgid "Priority Level"
+msgstr "प्राथमिकता स्तर"
+
+#: templates/class-maintenance-request.php:77
+msgid "Type of problem"
+msgstr "समस्या का प्रकार"
+
+#: templates/class-maintenance-request.php:80
+msgid "AC"
+msgstr "एसी"
+
+#: templates/class-maintenance-request.php:83
+msgid "Heating"
+msgstr "गरम करना"
+
+#: templates/class-maintenance-request.php:86
+msgid "Plumbing"
+msgstr "पाइपलाइन"
+
+#: templates/class-maintenance-request.php:89
+msgid "Electrical"
+msgstr "विद्युतीय"
+
+#: templates/class-maintenance-request.php:92, templates/class-maintenance-request.php:118
+msgid "Other / NA"
+msgstr "अन्य / NA"
+
+#: templates/class-maintenance-request.php:100
+msgid "Location of problem"
+msgstr "समस्या का स्थान"
+
+#: templates/class-maintenance-request.php:103
+msgid "Living room"
+msgstr "बैठक कक्ष"
+
+#: templates/class-maintenance-request.php:106
+msgid "Kitchen"
+msgstr "रसोई"
+
+#: templates/class-maintenance-request.php:109
+msgid "Bathroom"
+msgstr "बाथरूम"
+
+#: templates/class-maintenance-request.php:112
+msgid "Bedroom"
+msgstr "शयनकक्ष"
+
+#: templates/class-maintenance-request.php:115
+msgid "Patio"
+msgstr "आंगन"
+
+#: templates/class-maintenance-request.php:126
+msgid "Please describe the issue"
+msgstr "कृपया समस्या का वर्णन करें"
+
+#: templates/class-maintenance-request.php:132
+msgid "Does our maintenance team have permission to enter your residence without you present?"
+msgstr "क्या हमारी रखरखाव टीम को आपके निवास में आपके बिना उपस्थित होने की अनुमति है?"
+
+#: templates/class-maintenance-request.php:146
+msgid "Do you have any pets?"
+msgstr "क्या आपके पास कोई पालतू जानवर हैं?"
+
+#: templates/class-meeting-room-registration.php:21
+msgid "Meeting Room Registration Form"
+msgstr "बैठक कक्ष पंजीकरण फॉर्म"
+
+#: templates/class-meeting-room-registration.php:50
+msgid "Which room would you like to reserve?"
+msgstr "आप किस कमरे को आरक्षित करना चाहेंगे?"
+
+#: templates/class-meeting-room-registration.php:53
+msgid "Room A"
+msgstr "कक्ष ए"
+
+#: templates/class-meeting-room-registration.php:56
+msgid "Room B"
+msgstr "कक्ष बी"
+
+#: templates/class-meeting-room-registration.php:59
+msgid "Room C"
+msgstr "कक्ष सी"
+
+#: templates/class-meeting-room-registration.php:67
+msgid "Which time blocks would you like to reserve?"
+msgstr "आप किस समय के ब्लॉक आरक्षित करना चाहेंगे?"
+
+#: templates/class-meeting-room-registration.php:70
+msgid "8:00 - 9:00am"
+msgstr "8:00 - 9:00am"
+
+#: templates/class-meeting-room-registration.php:73
+msgid "9:00 - 10:00am"
+msgstr "9:00 - 10:00am"
+
+#: templates/class-meeting-room-registration.php:76
+msgid "10:00 - 11:00am"
+msgstr "10:00 - 11:00am"
+
+#: templates/class-meeting-room-registration.php:79
+msgid "11:00 - 12:00pm"
+msgstr "11:00 - 12:00pm"
+
+#: templates/class-meeting-room-registration.php:82
+msgid "12:00 - 1:00pm"
+msgstr "12:00 - 1:00pm"
+
+#: templates/class-meeting-room-registration.php:85
+msgid "1:00 - 2:00pm"
+msgstr "1:00 - 2:00pm"
+
+#: templates/class-meeting-room-registration.php:88
+msgid "2:00 - 3:00pm"
+msgstr "2:00 - 3:00pm"
+
+#: templates/class-meeting-room-registration.php:91
+msgid "3:00 - 4:00pm"
+msgstr "3:00 - 4:00pm"
+
+#: templates/class-meeting-room-registration.php:94
+msgid "4:00 - 5:00pm"
+msgstr "4:00 - 5:00pm"
+
+#: templates/class-movie-collection.php:21
+msgid "Movie Collection Form"
+msgstr "मूवी कलेक्शन फॉर्म"
+
+#: templates/class-movie-collection.php:29
+msgid "Title"
+msgstr "शीर्षक"
+
+#: templates/class-movie-collection.php:35
+msgid "Director"
+msgstr "निदेशक"
+
+#: templates/class-movie-collection.php:41, templates/class-music-collection.php:52
+msgid "Producer"
+msgstr "निर्माता"
+
+#: templates/class-movie-collection.php:47, templates/class-music-collection.php:41
+msgid "Release Date"
+msgstr "रिलीज़ की तारीख"
+
+#: templates/class-movie-collection.php:58
+msgid "Length"
+msgstr "लंबाई"
+
+#: templates/class-movie-collection.php:64
+msgid "Actors"
+msgstr "अभिनेता"
+
+#: templates/class-movie-collection.php:70
+msgid "Plot"
+msgstr "प्लॉट"
+
+#: templates/class-movie-collection.php:76, templates/class-music-collection.php:71
+msgid "Review"
+msgstr "समीक्षा"
+
+#: templates/class-movie-collection.php:82, templates/class-music-collection.php:77
+msgid "Rating"
+msgstr "रेटिंग"
+
+#: templates/class-movie-collection.php:85, templates/class-music-collection.php:80, templates/class-online-event-registration.php:93
+msgid "1"
+msgstr "1"
+
+#: templates/class-movie-collection.php:88, templates/class-music-collection.php:83, templates/class-online-event-registration.php:96
+msgid "2"
+msgstr "2"
+
+#: templates/class-movie-collection.php:91, templates/class-music-collection.php:86, templates/class-online-event-registration.php:99
+msgid "3"
+msgstr "3"
+
+#: templates/class-movie-collection.php:94, templates/class-music-collection.php:89, templates/class-online-event-registration.php:102
+msgid "4"
+msgstr "4"
+
+#: templates/class-movie-collection.php:97, templates/class-music-collection.php:92, templates/class-online-event-registration.php:105
+msgid "5"
+msgstr "5"
+
+#: templates/class-music-collection.php:21
+msgid "Music Collection Form"
+msgstr "संगीत संग्रह फॉर्म"
+
+#: templates/class-music-collection.php:29
+msgid "Artist"
+msgstr "कलाकार"
+
+#: templates/class-music-collection.php:35
+msgid "Album"
+msgstr "एल्बम"
+
+#: templates/class-music-collection.php:58
+msgid "Record Label"
+msgstr "रिकॉर्ड लेबल"
+
+#: templates/class-music-collection.php:64
+msgid "Price"
+msgstr "मूल्य"
+
+#: templates/class-neighborhood-events-questionnaire.php:21
+msgid "Neighborhood Events Questionnaire Form"
+msgstr "नेबरहुड इवेंट्स प्रश्नावली फॉर्म"
+
+#: templates/class-neighborhood-events-questionnaire.php:29, templates/class-neighborhood-feedback.php:73
+msgid "How often do you attend events in this neighborhood?"
+msgstr "इस मोहल्ले में आप कितनी बार आयोजनों में शामिल होते हैं?"
+
+#: templates/class-neighborhood-events-questionnaire.php:32, templates/class-neighborhood-events-questionnaire.php:66, templates/class-neighborhood-feedback.php:76, templates/class-neighborhood-feedback.php:98,
+#: templates/class-neighborhood-feedback.php:144
+msgid "Extremely often"
+msgstr "बहुत बार"
+
+#: templates/class-neighborhood-events-questionnaire.php:35, templates/class-neighborhood-events-questionnaire.php:69, templates/class-neighborhood-feedback.php:79, templates/class-neighborhood-feedback.php:101,
+#: templates/class-neighborhood-feedback.php:147
+msgid "Very often"
+msgstr "अक्सर"
+
+#: templates/class-neighborhood-events-questionnaire.php:38, templates/class-neighborhood-events-questionnaire.php:72, templates/class-neighborhood-feedback.php:82, templates/class-neighborhood-feedback.php:104,
+#: templates/class-neighborhood-feedback.php:150
+msgid "Moderately often"
+msgstr "मध्यम अक्सर"
+
+#: templates/class-neighborhood-events-questionnaire.php:41, templates/class-neighborhood-events-questionnaire.php:75, templates/class-neighborhood-feedback.php:85, templates/class-neighborhood-feedback.php:107,
+#: templates/class-neighborhood-feedback.php:153
+msgid "Slightly often"
+msgstr "थोड़ा अक्सर"
+
+#: templates/class-neighborhood-events-questionnaire.php:44, templates/class-neighborhood-events-questionnaire.php:78
+msgid "Never"
+msgstr "कभी नहीँ"
+
+#: templates/class-neighborhood-events-questionnaire.php:51
+msgid "If you do not attend events in this neighborhood, why not?"
+msgstr "यदि आप इस पड़ोस में घटनाओं में शामिल नहीं होते हैं, तो क्यों नहीं?"
+
+#: templates/class-neighborhood-events-questionnaire.php:57, templates/class-neighborhood-feedback.php:129
+msgid "What types of events would you attend if they were held in this neighborhood?"
+msgstr "यदि वे इस मोहल्ले में आयोजित होते हैं तो आप किस प्रकार के कार्यक्रमों में भाग लेंगे?"
+
+#: templates/class-neighborhood-events-questionnaire.php:63, templates/class-neighborhood-feedback.php:95
+msgid "How often do you participate in activities in this neighborhood?"
+msgstr "इस पड़ोस में आप कितनी बार गतिविधियों में भाग लेते हैं?"
+
+#: templates/class-neighborhood-events-questionnaire.php:85, templates/class-neighborhood-feedback.php:117, templates/class-neighborhood-feedback.php:123
+msgid "If you do not participate in activities in this neighborhood, why not?"
+msgstr "यदि आप इस पड़ोस में गतिविधियों में भाग नहीं लेते हैं, तो क्यों नहीं?"
+
+#: templates/class-neighborhood-events-questionnaire.php:91, templates/class-neighborhood-feedback.php:135
+msgid "What types of activities would you participate in if they were available in this neighborhood?"
+msgstr "यदि वे इस पड़ोस में उपलब्ध थे तो आप किस प्रकार की गतिविधियों में भाग लेंगे?"
+
+#: templates/class-neighborhood-feedback.php:21
+msgid "Neighborhood Feedback Form"
+msgstr "नेबरहुड फीडबैक फॉर्म"
+
+#: templates/class-neighborhood-feedback.php:29
+msgid "How many of your neighbors do you know?"
+msgstr "आपके कितने पड़ोसी आपको जानते हैं?"
+
+#: templates/class-neighborhood-feedback.php:32
+msgid "All of them"
+msgstr "उन सभी को"
+
+#: templates/class-neighborhood-feedback.php:35
+msgid "Most of them"
+msgstr "उनमें से अधिकांश"
+
+#: templates/class-neighborhood-feedback.php:38
+msgid "Some of them"
+msgstr "उनमें से कुछ"
+
+#: templates/class-neighborhood-feedback.php:41
+msgid "A few of them"
+msgstr "उनमें से कुछ"
+
+#: templates/class-neighborhood-feedback.php:44
+msgid "None of them"
+msgstr "इनमें से कोई भी नहीं"
+
+#: templates/class-neighborhood-feedback.php:51
+msgid "How strong is the sense of community in this neighborhood?"
+msgstr "इस पड़ोस में समुदाय की भावना कितनी मजबूत है?"
+
+#: templates/class-neighborhood-feedback.php:54
+msgid "Extremely strong"
+msgstr "बेहद मजबूत"
+
+#: templates/class-neighborhood-feedback.php:57
+msgid "Very strong"
+msgstr "बहुत मजबूत"
+
+#: templates/class-neighborhood-feedback.php:60
+msgid "Moderately strong"
+msgstr "मध्यम रूप से मजबूत"
+
+#: templates/class-neighborhood-feedback.php:63
+msgid "Slightly strong"
+msgstr "थोड़ा मजबूत"
+
+#: templates/class-neighborhood-feedback.php:66
+msgid "Not at all strong"
+msgstr "बिल्कुल मजबूत नहीं"
+
+#: templates/class-neighborhood-feedback.php:88, templates/class-neighborhood-feedback.php:110, templates/class-neighborhood-feedback.php:156
+msgid "Not at all often"
+msgstr "अक्सर नहीं"
+
+#: templates/class-neighborhood-feedback.php:141
+msgid "How often do you visit the parks in this neighborhood?"
+msgstr "इस मोहल्ले में आप कितनी बार पार्क जाते हैं?"
+
+#: templates/class-neighborhood-feedback.php:163
+msgid "Are you satisfied with the parks in this neighborhood, neither satisfied nor dissatisfied with them, or dissatisfied with them?"
+msgstr "क्या आप इस मोहल्ले के पार्कों से संतुष्ट हैं, न तो उनसे संतुष्ट हैं और न ही उनसे असंतुष्ट हैं या उनसे असंतुष्ट हैं?"
+
+#: templates/class-neighborhood-feedback.php:166, templates/class-neighborhood-feedback.php:319
+msgid "Extremely satisfied"
+msgstr "बेहद संतुष्ट"
+
+#: templates/class-neighborhood-feedback.php:169, templates/class-neighborhood-feedback.php:322
+msgid "Moderately satisfied"
+msgstr "बिल्कुल संतुष्ट"
+
+#: templates/class-neighborhood-feedback.php:172, templates/class-neighborhood-feedback.php:325
+msgid "Slightly satisfied"
+msgstr "थोड़ा संतुष्ट"
+
+#: templates/class-neighborhood-feedback.php:175
+msgid "Neither satisfied nor dissatisfied"
+msgstr "न संतुष्ट और न ही असंतुष्ट"
+
+#: templates/class-neighborhood-feedback.php:178, templates/class-neighborhood-feedback.php:331
+msgid "Slightly dissatisfied"
+msgstr "थोड़ा असंतुष्ट"
+
+#: templates/class-neighborhood-feedback.php:181, templates/class-neighborhood-feedback.php:337
+msgid "Extremely dissatisfied"
+msgstr "अत्यंत असंतुष्ट"
+
+#: templates/class-neighborhood-feedback.php:188
+msgid "How well are the streets in this neighborhood maintained?"
+msgstr "इस मोहल्ले की गलियां कितनी अच्छी हैं?"
+
+#: templates/class-neighborhood-feedback.php:191
+msgid "Extremely well"
+msgstr "बहुत बढ़िया"
+
+#: templates/class-neighborhood-feedback.php:194
+msgid "Very well"
+msgstr "बहुत अच्छा"
+
+#: templates/class-neighborhood-feedback.php:197
+msgid "Moderately well"
+msgstr "मध्यम अच्छी तरह से"
+
+#: templates/class-neighborhood-feedback.php:200
+msgid "Slightly well"
+msgstr "थोड़ा अच्छा है"
+
+#: templates/class-neighborhood-feedback.php:203
+msgid "Not at all well"
+msgstr "बिलकुल नहीं"
+
+#: templates/class-neighborhood-feedback.php:210
+msgid "How safe do you feel in this neighborhood?"
+msgstr "इस मोहल्ले में आप कितना सुरक्षित महसूस करती हैं?"
+
+#: templates/class-neighborhood-feedback.php:213
+msgid "Extremely safe"
+msgstr "बेहद सुरक्षित"
+
+#: templates/class-neighborhood-feedback.php:216
+msgid "Very safe"
+msgstr "बहुत सुरक्षित"
+
+#: templates/class-neighborhood-feedback.php:219
+msgid "Moderately safe"
+msgstr "मामूली सुरक्षित"
+
+#: templates/class-neighborhood-feedback.php:222
+msgid "Slightly safe"
+msgstr "थोड़ा सुरक्षित"
+
+#: templates/class-neighborhood-feedback.php:225
+msgid "Not at all safe"
+msgstr "बिल्कुल सुरक्षित नहीं"
+
+#: templates/class-neighborhood-feedback.php:232
+msgid "How clean is this neighborhood?"
+msgstr "यह पड़ोस कितना साफ है?"
+
+#: templates/class-neighborhood-feedback.php:235
+msgid "Extremely clean"
+msgstr "बेहद साफ"
+
+#: templates/class-neighborhood-feedback.php:238
+msgid "Very clean"
+msgstr "बहुत साफ"
+
+#: templates/class-neighborhood-feedback.php:241
+msgid "Moderately clean"
+msgstr "मामूली साफ"
+
+#: templates/class-neighborhood-feedback.php:244
+msgid "Slightly clean"
+msgstr "थोड़ा साफ"
+
+#: templates/class-neighborhood-feedback.php:247
+msgid "Not at all clean"
+msgstr "बिल्कुल साफ नहीं"
+
+#: templates/class-neighborhood-feedback.php:254
+msgid "How proud are you to live in this neighborhood?"
+msgstr "इस पड़ोस में रहने के लिए आप कितने गर्व महसूस करते हैं?"
+
+#: templates/class-neighborhood-feedback.php:257
+msgid "Extremely proud"
+msgstr "बेहद गर्व"
+
+#: templates/class-neighborhood-feedback.php:260
+msgid "Very proud"
+msgstr "बहुत गर्व"
+
+#: templates/class-neighborhood-feedback.php:263
+msgid "Moderately proud"
+msgstr "मामूली गर्व"
+
+#: templates/class-neighborhood-feedback.php:266
+msgid "Slightly proud"
+msgstr "थोड़ा गर्व"
+
+#: templates/class-neighborhood-feedback.php:269
+msgid "Not at all proud"
+msgstr "बिल्कुल गर्व नहीं"
+
+#: templates/class-neighborhood-feedback.php:276
+msgid "What do you like most about this neighborhood?"
+msgstr "आपको इस पड़ोस के बारे में सबसे ज्यादा क्या पसंद है?"
+
+#: templates/class-neighborhood-feedback.php:282
+msgid "What do you like least about this neighborhood?"
+msgstr "आपको इस पड़ोस के बारे में क्या पसंद है?"
+
+#: templates/class-neighborhood-feedback.php:288
+msgid "What changes would most improve this neighborhood?"
+msgstr "इस पड़ोस में कौन से बदलाव सबसे बेहतर होंगे?"
+
+#: templates/class-neighborhood-feedback.php:294
+msgid "How promising is the future of this neighborhood?"
+msgstr "इस मोहल्ले का भविष्य कितना आशाजनक है?"
+
+#: templates/class-neighborhood-feedback.php:297
+msgid "Extremely promising"
+msgstr "बेहद होनहार"
+
+#: templates/class-neighborhood-feedback.php:300
+msgid "Very promising"
+msgstr "बहुत होनहार"
+
+#: templates/class-neighborhood-feedback.php:303
+msgid "Moderately promising"
+msgstr "मामूली होनहार"
+
+#: templates/class-neighborhood-feedback.php:306
+msgid "Slightly promising"
+msgstr "थोड़ा होनहार"
+
+#: templates/class-neighborhood-feedback.php:309
+msgid "Not at all promising"
+msgstr "होनहार नहीं"
+
+#: templates/class-neighborhood-feedback.php:316
+msgid "Overall, are you satisfied with your experience living in this neighborhood, neither satisfied nor dissatisfied with it, or dissatisfied with it?"
+msgstr "कुल मिलाकर, क्या आप इस पड़ोस में रहने वाले अपने अनुभव से संतुष्ट हैं, न तो इससे संतुष्ट हैं और न ही इससे असंतुष्ट हैं, या इससे असंतुष्ट हैं?"
+
+#: templates/class-neighborhood-feedback.php:328
+msgid "Neither satisfied or dissatisfied"
+msgstr "न संतुष्ट न असंतुष्ट"
+
+#: templates/class-neighborhood-feedback.php:334
+msgid "Moderately dissatisfied"
+msgstr "मामूली असंतुष्ट"
+
+#: templates/class-new-years-party-rsvp.php:21
+msgid "New Years Party RSVP Form"
+msgstr "नए साल की पार्टी RSVP फॉर्म"
+
+#: templates/class-new-years-party-rsvp.php:37
+msgid "Can you make it?"
+msgstr "क्या आप यह कर सकते हैं?"
+
+#: templates/class-new-years-party-rsvp.php:54
+msgid "How many people will be joining?"
+msgstr "कितने लोग जुड़ेंगे?"
+
+#: templates/class-new-years-party-rsvp.php:57
+msgid "Just me"
+msgstr "सिर्फ़ मैं"
+
+#: templates/class-new-years-party-rsvp.php:60
+msgid "Bringing a friend"
+msgstr "दोस्त लाना"
+
+#: templates/class-new-years-party-rsvp.php:63
+msgid "Showing up with the group"
+msgstr "समूह के साथ दिखा रहा है"
+
+#: templates/class-new-years-party-rsvp.php:70
+msgid "Are you bringing anything else?"
+msgstr "क्या आप कुछ और ला रहे हैं?"
+
+#: templates/class-new-years-party-rsvp.php:79
+msgid "Bubbly beverages"
+msgstr "चुलबुली पेय पदार्थ"
+
+#: templates/class-new-years-party-rsvp.php:86
+msgid "Anything else we should know?"
+msgstr "क्या हमें कुछ और भी पता होना चाहिए?"
+
+#: templates/class-newspaper-subscription.php:21
+msgid "Newspaper Subscription Form"
+msgstr "अख़बार सदस्यता फार्म"
+
+#: templates/class-newspaper-subscription.php:29
+msgid "How often would you like the paper?"
+msgstr "आप कितनी बार पेपर चाहेंगे?"
+
+#: templates/class-newspaper-subscription.php:32
+msgid "Daily: $150"
+msgstr "दैनिक: $150"
+
+#: templates/class-newspaper-subscription.php:35
+msgid "Weekend (Thurs-Sun): $100"
+msgstr "सप्ताहांत (गुरु-रवि): $100"
+
+#: templates/class-newspaper-subscription.php:38
+msgid "Sunday Only: $50"
+msgstr "केवल रविवार: $50"
+
+#: templates/class-online-event-registration.php:21
+msgid "Online Event Registration Form"
+msgstr "ऑनलाइन इवेंट पंजीकरण फॉर्म"
+
+#: templates/class-online-event-registration.php:65, templates/class-online-race-registration.php:102
+msgid "How did you hear about this event?"
+msgstr "आपने इस घटना के बारे में कैसे सुना?"
+
+#: templates/class-online-event-registration.php:68
+msgid "Friend or colleague"
+msgstr "मित्र या सहकर्मी"
+
+#: templates/class-online-event-registration.php:71
+msgid "Radio / TV"
+msgstr "रेडियो / टीवी"
+
+#: templates/class-online-event-registration.php:90
+msgid "Number of tickets needed"
+msgstr "टिकटों की संख्या आवश्यक"
+
+#: templates/class-online-proposal.php:21
+msgid "Online Proposal Form"
+msgstr "ऑनलाइन प्रस्ताव फॉर्म"
+
+#: templates/class-online-proposal.php:51
+msgid "Please describe your proposal"
+msgstr "कृपया अपने प्रस्ताव का वर्णन करें"
+
+#: templates/class-online-proposal.php:57
+msgid "Do you need funds for this proposal?"
+msgstr "क्या आपको इस प्रस्ताव के लिए धन की आवश्यकता है?"
+
+#: templates/class-online-race-registration.php:21
+msgid "Online Race Registration Form"
+msgstr "ऑनलाइन रेस पंजीकरण फॉर्म"
+
+#: templates/class-online-race-registration.php:44
+msgid "Company (if applicable)"
+msgstr "कंपनी (यदि लागू हो)"
+
+#: templates/class-online-race-registration.php:53, templates/class-race-registration.php:32
+msgid "5k"
+msgstr "5k"
+
+#: templates/class-online-race-registration.php:56
+msgid "Half marathon"
+msgstr "हाफ मैराथन"
+
+#: templates/class-online-race-registration.php:59, templates/class-race-registration.php:41
+msgid "Marathon"
+msgstr "मैराथन"
+
+#: templates/class-online-race-registration.php:67
+msgid "Running speed"
+msgstr "रनिंग स्पीड"
+
+#: templates/class-online-race-registration.php:70
+msgid "Slower"
+msgstr "और धीमा"
+
+#: templates/class-online-race-registration.php:73
+msgid "Moderate"
+msgstr "मध्यम"
+
+#: templates/class-online-race-registration.php:76
+msgid "Faster"
+msgstr "और तेज"
+
+#: templates/class-online-race-registration.php:83
+msgid "Shirt size"
+msgstr "शर्ट का नाप"
+
+#: templates/class-online-race-registration.php:86, templates/class-race-registration.php:64, templates/class-tshirt-order.php:56
+msgid "Small"
+msgstr "छोटा"
+
+#: templates/class-online-race-registration.php:92, templates/class-race-registration.php:70, templates/class-tshirt-order.php:62
+msgid "Large"
+msgstr "बड़ा"
+
+#: templates/class-online-race-registration.php:95, templates/class-race-registration.php:73, templates/class-tshirt-order.php:65
+msgid "Extra Large"
+msgstr "ज्यादा बड़ा"
+
+#: templates/class-online-race-registration.php:105, templates/class-webinar-registration.php:56
+msgid "Word of mouth"
+msgstr "मुंह की बात"
+
+#: templates/class-online-race-registration.php:108
+msgid "Participated in the past"
+msgstr "अतीत में भाग लिया"
+
+#: templates/class-online-race-registration.php:111, templates/class-volunteer-recruitment.php:135, templates/class-webinar-registration.php:59
+msgid "Advertisement"
+msgstr "विज्ञापन"
+
+#: templates/class-online-race-registration.php:130
+msgid "Comments or Requests"
+msgstr "टिप्पणियां या अनुरोध"
+
+#: templates/class-parental-consent.php:21
+msgid "Parental Consent Form"
+msgstr "पैतृक सहमति फॉर्म"
+
+#: templates/class-parental-consent.php:29
+msgid "Child Name"
+msgstr "बच्चे का नाम"
+
+#: templates/class-parental-consent.php:37
+msgid "Child Classroom / Teacher"
+msgstr "बाल कक्षा / शिक्षक"
+
+#: templates/class-parental-consent.php:43
+msgid "Parent Name"
+msgstr "पैरेंट नाम"
+
+#: templates/class-parental-consent.php:51
+msgid "Parent Email"
+msgstr "पैरेंट ईमेल"
+
+#: templates/class-parental-consent.php:58
+msgid "Parent Phone Number"
+msgstr "पैरेंट फ़ोन नंबर"
+
+#: templates/class-parental-consent.php:65
+msgid "Emergency Contact Number"
+msgstr "आपातकालीन संपर्क नंबर"
+
+#: templates/class-parental-consent.php:72
+msgid "Special Instructions"
+msgstr "विशेष निर्देश"
+
+#: templates/class-parental-consent.php:78
+msgid "Parental Consent for Child"
+msgstr "बच्चे के लिए अभिभावक की सहमति"
+
+#: templates/class-parental-consent.php:81
+msgid "Yes, I provide consent"
+msgstr "हां, मैं सहमति प्रदान करता हूं"
+
+#: templates/class-parental-consent.php:84
+msgid "No, I do not provide consent"
+msgstr "नहीं, मैं सहमति प्रदान नहीं करता हूं"
+
+#: templates/class-partnership-agreement.php:21
+msgid "Partnership Agreement Form"
+msgstr "पार्टनरशिप एग्रीमेंट फॉर्म"
+
+#: templates/class-partnership-agreement.php:29
+msgid "Partner 1 Name"
+msgstr "सहभागी 1 नाम"
+
+#: templates/class-partnership-agreement.php:37
+msgid "Partner 1 Company"
+msgstr "सहभागी 1 कंपनी"
+
+#: templates/class-partnership-agreement.php:44
+msgid "Partner 1 Email"
+msgstr "सहभागी 1 ईमेल"
+
+#: templates/class-partnership-agreement.php:51
+msgid "Partner 1 Phone"
+msgstr "सहभागी 1 फ़ोन"
+
+#: templates/class-partnership-agreement.php:59
+msgid "Partner 1 Address"
+msgstr "सहभागी 1 पता"
+
+#: templates/class-partnership-agreement.php:67
+msgid "Partner 2 Name"
+msgstr "सहभागी 2 नाम"
+
+#: templates/class-partnership-agreement.php:75
+msgid "Partner 2 Company"
+msgstr "सहभागी 2 कंपनी"
+
+#: templates/class-partnership-agreement.php:82
+msgid "Partner 2 Email"
+msgstr "सहभागी 2 ईमेल"
+
+#: templates/class-partnership-agreement.php:89
+msgid "Partner 2 Phone"
+msgstr "सहभागी 2 फोन"
+
+#: templates/class-partnership-agreement.php:96
+msgid "Partner 2 Address"
+msgstr "सहभागी 2 पता"
+
+#: templates/class-partnership-agreement.php:104
+msgid "Partnership Description"
+msgstr "साझेदारी का वर्णन"
+
+#: templates/class-partnership-agreement.php:110
+msgid "Terms of Agreement"
+msgstr "समझौते की शर्तें"
+
+#: templates/class-partnership-agreement.php:116
+msgid "Agreement valid until"
+msgstr "समझौते तक मान्य"
+
+#: templates/class-partnership-agreement.php:127
+msgid "Partnership Contribution"
+msgstr "साझेदारी में योगदान"
+
+#: templates/class-partnership-agreement.php:133
+msgid "The present partnership agreement form is signed today under the rule of the present laws and regulations"
+msgstr "वर्तमान कानून और नियमों के नियम के तहत वर्तमान भागीदारी समझौते पर आज हस्ताक्षर किए गए हैं"
+
+#: templates/class-party-invitation-rsvp.php:21
+msgid "Party Invitation RSVP Form"
+msgstr "पार्टी निमंत्रण RSVP फॉर्म"
+
+#: templates/class-party-invitation-rsvp.php:37
+msgid "Will you be attending?"
+msgstr "आप भाग लेंगे?"
+
+#: templates/class-party-invitation-rsvp.php:51
+msgid "How many additional guests?"
+msgstr "कितने अतिरिक्त मेहमान?"
+
+#: templates/class-performance-improvement-plan.php:21
+msgid "Performance Improvement Plan Form"
+msgstr "प्रदर्शन सुधार योजना फॉर्म"
+
+#: templates/class-performance-improvement-plan.php:37
+msgid "Areas of improvement (Check all that apply)"
+msgstr "सुधार के क्षेत्र (लागू होने वाले सभी की जाँच करें)"
+
+#: templates/class-performance-improvement-plan.php:40
+msgid "Efficacy"
+msgstr "क्षमता"
+
+#: templates/class-performance-improvement-plan.php:43
+msgid "Attendance"
+msgstr "उपस्थिति"
+
+#: templates/class-performance-improvement-plan.php:46
+msgid "Quality"
+msgstr "गुणवत्ता"
+
+#: templates/class-performance-improvement-plan.php:49
+msgid "Teamwork"
+msgstr "टीमवर्क"
+
+#: templates/class-performance-improvement-plan.php:52
+msgid "Productivity"
+msgstr "उत्पादकता"
+
+#: templates/class-performance-improvement-plan.php:55
+msgid "Professional Conduct"
+msgstr "व्यावसायिक आचरण"
+
+#: templates/class-performance-improvement-plan.php:65
+msgid "Please describe the reason(s) for submitting this plan."
+msgstr "कृपया इस योजना को प्रस्तुत करने का कारण बताएं।"
+
+#: templates/class-performance-improvement-plan.php:71
+msgid "Improvement Goals"
+msgstr "सुधार के लक्ष्य"
+
+#: templates/class-performance-improvement-plan.php:77
+msgid "Performance Goals"
+msgstr "प्रदर्शन लक्ष्य"
+
+#: templates/class-performance-improvement-plan.php:83
+msgid "Date for improvements to be completed"
+msgstr "सुधार पूरा करने की तारीख"
+
+#: templates/class-personal-trainer-signup.php:21
+msgid "Personal Trainer Sign-Up Form"
+msgstr "पर्सनल ट्रेनर साइन-अप फॉर्म"
+
+#: templates/class-personal-trainer-signup.php:43
+msgid "Weight (lbs)"
+msgstr "वजन (एलबीएस)"
+
+#: templates/class-personal-trainer-signup.php:70
+msgid "Trainer Preference"
+msgstr "ट्रेनर वरीयता"
+
+#: templates/class-personal-trainer-signup.php:79, templates/class-sponsorship-request.php:66
+msgid "No preference"
+msgstr "कोई वरीयता नहीं"
+
+#: templates/class-personal-trainer-signup.php:86
+msgid "Desired Days"
+msgstr "वांछित दिन"
+
+#: templates/class-personal-trainer-signup.php:89, templates/class-volunteer-recruitment.php:98
+msgid "Monday"
+msgstr "सोमवार"
+
+#: templates/class-personal-trainer-signup.php:92, templates/class-volunteer-recruitment.php:101
+msgid "Tuesday"
+msgstr "मंगलवार"
+
+#: templates/class-personal-trainer-signup.php:95, templates/class-volunteer-recruitment.php:104
+msgid "Wednesday"
+msgstr "बुधवार"
+
+#: templates/class-personal-trainer-signup.php:98, templates/class-volunteer-recruitment.php:107
+msgid "Thursday"
+msgstr "गुरुवार"
+
+#: templates/class-personal-trainer-signup.php:101, templates/class-volunteer-recruitment.php:110
+msgid "Friday"
+msgstr "शुक्रवार"
+
+#: templates/class-personal-trainer-signup.php:108
+msgid "Desired Times"
+msgstr "वांछित समय"
+
+#: templates/class-personal-trainer-signup.php:114
+msgid "Select a package"
+msgstr "एक पैकेज चुनें"
+
+#: templates/class-personal-trainer-signup.php:117
+msgid "Fitness Assessment"
+msgstr "फिटनेस आकलन"
+
+#: templates/class-personal-trainer-signup.php:120
+msgid "One session"
+msgstr "एक सत्र"
+
+#: templates/class-personal-trainer-signup.php:123
+msgid "4 weekly sessions"
+msgstr "4 साप्ताहिक सत्र"
+
+#: templates/class-personal-trainer-signup.php:126
+msgid "12 weekly sessions"
+msgstr "12 साप्ताहिक सत्र"
+
+#: templates/class-pledge-drive.php:21
+msgid "Pledge Drive Form"
+msgstr "प्रतिज्ञा ड्राइव फार्म"
+
+#: templates/class-pledge-drive.php:58
+msgid "I am pledging support to this campaign as a/an :"
+msgstr "मैं इस अभियान को ए/एन के रूप में समर्थन देने का वचन दे रहा हूं:"
+
+#: templates/class-pledge-drive.php:61
+msgid "Student: $20"
+msgstr "छात्र: $20"
+
+#: templates/class-pledge-drive.php:64
+msgid "Individual: $45"
+msgstr "व्यक्ति: $45"
+
+#: templates/class-pledge-drive.php:67
+msgid "Family: $60"
+msgstr "परिवार: $60"
+
+#: templates/class-pledge-drive.php:70
+msgid "Sustainer: $150"
+msgstr "सस्टेनर: $150"
+
+#: templates/class-pledge-drive.php:73
+msgid "Friend: $300"
+msgstr "दोस्त: $300"
+
+#: templates/class-pledge-drive.php:76
+msgid "Patron: $500"
+msgstr "संरक्षक: $500"
+
+#: templates/class-pledge-drive.php:79
+msgid "Benefactor: $1000"
+msgstr "लाभार्थी: $1000"
+
+#: templates/class-pledge-drive.php:87
+msgid "In Memory Of"
+msgstr "की याद में"
+
+#: templates/class-pledge-drive.php:93
+msgid "In Honor Of"
+msgstr "के सम्मान में"
+
+#: templates/class-potluck-invitation-rsvp.php:21
+msgid "Potluck Invitation RSVP Form"
+msgstr "Potluck निमंत्रण RSVP फॉर्म"
+
+#: templates/class-potluck-invitation-rsvp.php:37
+msgid "Are you coming?"
+msgstr "क्या तुम आ रहे हो?"
+
+#: templates/class-potluck-invitation-rsvp.php:43
+msgid "Yes, with a guest!"
+msgstr "हां, एक अतिथि के साथ!"
+
+#: templates/class-potluck-invitation-rsvp.php:46
+msgid "I'm not sure yet"
+msgstr "अभी मैं पूरी तरह से आश्वस्त नहीं हूँ"
+
+#: templates/class-potluck-invitation-rsvp.php:49
+msgid "Can't make it"
+msgstr "नहीं बना सकते"
+
+#: templates/class-potluck-invitation-rsvp.php:56
+msgid "What are you bringing?"
+msgstr "आप क्या ला रहे हैं?"
+
+#: templates/class-prayer-request.php:21
+msgid "Prayer Request Form"
+msgstr "प्रार्थना अनुरोध फॉर्म"
+
+#: templates/class-prayer-request.php:62
+msgid "Prayer request / intention"
+msgstr "प्रार्थना अनुरोध / इरादा"
+
+#: templates/class-race-registration.php:21
+msgid "Race Registration Form"
+msgstr "रेस पंजीकरण फार्म"
+
+#: templates/class-race-registration.php:29
+msgid "Which race will you participate in?"
+msgstr "आप किस रेस में भाग लेंगे?"
+
+#: templates/class-race-registration.php:35
+msgid "10k"
+msgstr "10k"
+
+#: templates/class-race-registration.php:38
+msgid "Half Marathon"
+msgstr "हाफ मैराथन"
+
+#: templates/class-race-registration.php:61
+msgid "What size t-shirt do you wear?"
+msgstr "आप किस आकार की टी-शर्ट पहनते हैं?"
+
+#: templates/class-recipe-catalog.php:21
+msgid "Recipe Catalog Form"
+msgstr "नुस्खा कैटलॉग फॉर्म"
+
+#: templates/class-recipe-catalog.php:29
+msgid "Recipe Name"
+msgstr "नुस्खा का नाम"
+
+#: templates/class-recipe-catalog.php:41
+msgid "Cuisine"
+msgstr "भोजन"
+
+#: templates/class-recipe-catalog.php:44
+msgid "African"
+msgstr "अफ्रीकी"
+
+#: templates/class-recipe-catalog.php:47
+msgid "American"
+msgstr "अमेरिकी"
+
+#: templates/class-recipe-catalog.php:50
+msgid "Asian"
+msgstr "एशियाई"
+
+#: templates/class-recipe-catalog.php:53
+msgid "Caribbean"
+msgstr "कैरिबियन"
+
+#: templates/class-recipe-catalog.php:56
+msgid "Chinese"
+msgstr "चीनी"
+
+#: templates/class-recipe-catalog.php:59
+msgid "French"
+msgstr "फ्रेंच"
+
+#: templates/class-recipe-catalog.php:62
+msgid "Greek"
+msgstr "यूनानी"
+
+#: templates/class-recipe-catalog.php:65
+msgid "Indian"
+msgstr "भारतीय"
+
+#: templates/class-recipe-catalog.php:68
+msgid "Italian"
+msgstr "इटैलियन"
+
+#: templates/class-recipe-catalog.php:71
+msgid "Japanese"
+msgstr "जापानी"
+
+#: templates/class-recipe-catalog.php:74
+msgid "Mexican"
+msgstr "मैक्सिकन"
+
+#: templates/class-recipe-catalog.php:77
+msgid "Middle Eastern"
+msgstr "मध्य पूर्वी"
+
+#: templates/class-recipe-catalog.php:80
+msgid "Moroccan"
+msgstr "मोराक्को"
+
+#: templates/class-recipe-catalog.php:83
+msgid "Spanish"
+msgstr "स्पैनिश"
+
+#: templates/class-recipe-catalog.php:86
+msgid "Thai"
+msgstr "थाई"
+
+#: templates/class-recipe-catalog.php:97
+msgid "Dish type"
+msgstr "डिश प्रकार"
+
+#: templates/class-recipe-catalog.php:100
+msgid "Appetizer"
+msgstr "क्षुधावर्धक"
+
+#: templates/class-recipe-catalog.php:103
+msgid "Beverage"
+msgstr "पेय"
+
+#: templates/class-recipe-catalog.php:106
+msgid "Bread"
+msgstr "ब्रेड"
+
+#: templates/class-recipe-catalog.php:112
+msgid "Main"
+msgstr "मुख्य"
+
+#: templates/class-recipe-catalog.php:115, templates/class-wedding-invitation-rsvp.php:60, templates/class-wedding-invitation-rsvp.php:98, templates/class-workshop-registration.php:67
+msgid "Salad"
+msgstr "सलाद"
+
+#: templates/class-recipe-catalog.php:118
+msgid "Soup"
+msgstr "सूप"
+
+#: templates/class-recipe-catalog.php:121
+msgid "Side dish"
+msgstr "साइड डिश"
+
+#: templates/class-recipe-catalog.php:129
+msgid "Primary ingredient"
+msgstr "प्राथमिक सामग्री"
+
+#: templates/class-recipe-catalog.php:135
+msgid "Ingredients"
+msgstr "सामग्री"
+
+#: templates/class-recipe-catalog.php:141
+msgid "Instructions"
+msgstr "निर्देश"
+
+#: templates/class-recipe-catalog.php:147
+msgid "Prep time"
+msgstr "तैयारी का समय"
+
+#: templates/class-recipe-catalog.php:153
+msgid "Cook time"
+msgstr "खाना बनाने का समय"
+
+#: templates/class-recipe-catalog.php:159
+msgid "Number of servings"
+msgstr "सर्विंग्स की संख्या"
+
+#: templates/class-recipe-catalog.php:165
+msgid "Source"
+msgstr "स्रोत"
+
+#: templates/class-rent-receipt.php:21
+msgid "Rent Receipt Form"
+msgstr "किराया रसीद फॉर्म"
+
+#: templates/class-rent-receipt.php:40
+msgid "Tenant Name"
+msgstr "टेनेंट नाम"
+
+#: templates/class-rent-receipt.php:48
+msgid "Tenant Email"
+msgstr "टेनेंट ईमेल"
+
+#: templates/class-rent-receipt.php:55
+msgid "Amount Paid"
+msgstr "राशि का भुगतान"
+
+#: templates/class-rent-receipt.php:69
+msgid "Payment Type"
+msgstr "भुगतान प्रकार"
+
+#: templates/class-rent-receipt.php:72
+msgid "Cash"
+msgstr "नकद"
+
+#: templates/class-rent-receipt.php:75
+msgid "Check"
+msgstr "चेक"
+
+#: templates/class-rent-receipt.php:78
+msgid "Money order"
+msgstr "मनी आर्डर"
+
+#: templates/class-rent-receipt.php:85
+msgid "Payment Received By"
+msgstr "द्वारा प्राप्त भुगतान"
+
+#: templates/class-retreat-registration.php:21
+msgid "Retreat Registration Form"
+msgstr "रिट्रीट पंजीकरण फॉर्म"
+
+#: templates/class-retreat-registration.php:59
+msgid "Arrival Date"
+msgstr "आगमन तिथि"
+
+#: templates/class-retreat-registration.php:70, templates/class-travel-request.php:86
+msgid "Departure Date"
+msgstr "प्रस्थान तिथि"
+
+#: templates/class-retreat-registration.php:81
+msgid "Accommodation Status"
+msgstr "आवास की स्थिति"
+
+#: templates/class-retreat-registration.php:84
+msgid "Single"
+msgstr "एकल"
+
+#: templates/class-retreat-registration.php:87
+msgid "Couple"
+msgstr "युगल"
+
+#: templates/class-retreat-registration.php:90
+msgid "Group"
+msgstr "समूह"
+
+#: templates/class-retreat-registration.php:96
+msgid "Roommate Selected"
+msgstr "रूममेट चयनित"
+
+#: templates/class-retreat-registration.php:99
+msgid "Need Roommate"
+msgstr "रूममेट की जरूरत है"
+
+#: templates/class-retreat-registration.php:102
+msgid "Without Accommodations"
+msgstr "बिना आवास के"
+
+#: templates/class-retreat-registration.php:110
+msgid "Special Needs"
+msgstr "विशेष आवश्यकताएं"
+
+#: templates/class-school-id-registration.php:21
+msgid "School ID Registration Form"
+msgstr "स्कूल आईडी पंजीकरण फार्म"
+
+#: templates/class-school-id-registration.php:37
+msgid "Expected Year of Graduation"
+msgstr "ग्रेजुएशन की उम्मीद का साल"
+
+#: templates/class-school-id-registration.php:64
+msgid "School ID"
+msgstr "स्कूल आईडी"
+
+#: templates/class-simple-rsvp.php:21
+msgid "Simple RSVP Form"
+msgstr "सरल RSVP फॉर्म"
+
+#: templates/class-simple-rsvp.php:37
+msgid "Are you able to attend?"
+msgstr "क्या आप भाग लेने में सक्षम हैं?"
+
+#: templates/class-simple-rsvp.php:54
+msgid "How many guests will you be bringing?"
+msgstr "आप कितने मेहमानों को ला पाएंगे?"
+
+#: templates/class-simple-rsvp.php:60
+msgid "Do you or your guest(s) have any dietary restrictions?"
+msgstr "क्या आपके या आपके मेहमान के पास कोई आहार प्रतिबंध है?"
+
+#: templates/class-simple-rsvp.php:69
+msgid "Vegan"
+msgstr "शाकाहारी"
+
+#: templates/class-simple-rsvp.php:91
+msgid "Please elaborate on any dietary restrictions that apply, or let us know if there's anything else you'd like to tell us. Hope to see you soon"
+msgstr "कृपया लागू होने वाले किसी भी आहार प्रतिबंध के बारे में विस्तार से बताएं, या हमें बताएं कि क्या कुछ और है जो आप हमें बताना चाहते हैं। आपसे मिलने की उम्मीद है"
+
+#: templates/class-ski-lodge-registration.php:21
+msgid "Ski Lodge Registration Form"
+msgstr "स्की लॉज पंजीकरण फार्म"
+
+#: templates/class-ski-lodge-registration.php:58
+msgid "Booking Information"
+msgstr "बुकिंग जानकारी"
+
+#: templates/class-ski-lodge-registration.php:64
+msgid "Ski Resort"
+msgstr "स्की रिसोर्ट"
+
+#: templates/class-ski-lodge-registration.php:70
+msgid "Preferred Lodge"
+msgstr "पसंदीदा लॉज"
+
+#: templates/class-ski-lodge-registration.php:73
+msgid "Lodge A"
+msgstr "लॉज ए"
+
+#: templates/class-ski-lodge-registration.php:76
+msgid "Lodge B"
+msgstr "लाज बी"
+
+#: templates/class-ski-lodge-registration.php:79
+msgid "Lodge C"
+msgstr "लाज सी"
+
+#: templates/class-ski-lodge-registration.php:87
+msgid "Check In Date"
+msgstr "चेक इन दिनांक"
+
+#: templates/class-ski-lodge-registration.php:98
+msgid "Check Out Date"
+msgstr "चेक आउट दिनांक"
+
+#: templates/class-ski-lodge-registration.php:109
+msgid "Total number of guests"
+msgstr "मेहमानों की कुल संख्या"
+
+#: templates/class-ski-lodge-registration.php:115
+msgid "Special Requests"
+msgstr "विशेष अनुरोध"
+
+#: templates/class-sponsorship-request.php:21
+msgid "Sponsorship Request Form"
+msgstr "प्रायोजन अनुरोध फार्म"
+
+#: templates/class-sponsorship-request.php:29
+msgid "Company or Group Requesting Sponsorship"
+msgstr "प्रायोजन अनुरोध कंपनी या समूह"
+
+#: templates/class-sponsorship-request.php:57
+msgid "Preferred Contact Method"
+msgstr "पसंदीदा संपर्क विधि"
+
+#: templates/class-sponsorship-request.php:73
+msgid "Please describe the event or program that the sponsorship will support."
+msgstr "कृपया उस घटना या कार्यक्रम का वर्णन करें जिसका प्रायोजन समर्थन करेगा।"
+
+#: templates/class-sponsorship-request.php:79
+msgid "Please indicate which sponsorship level you are seeking."
+msgstr "कृपया इंगित करें कि आप किस प्रायोजन स्तर की तलाश कर रहे हैं।"
+
+#: templates/class-sponsorship-request.php:82
+msgid "Platinum"
+msgstr "प्लेटिनम"
+
+#: templates/class-sponsorship-request.php:85
+msgid "Gold"
+msgstr "स्वर्ण"
+
+#: templates/class-sponsorship-request.php:88
+msgid "Silver"
+msgstr "चांदी"
+
+#: templates/class-sponsorship-request.php:95
+msgid "Additional Comments / Requests"
+msgstr "अतिरिक्त टिप्पणियाँ / अनुरोध"
+
+#: templates/class-summer-camp-registration.php:21
+msgid "Summer Camp Registration Form"
+msgstr "समर कैंप पंजीकरण फार्म"
+
+#: templates/class-summer-camp-registration.php:29
+msgid "Child Information"
+msgstr "बच्चे की जानकारी"
+
+#: templates/class-summer-camp-registration.php:58
+msgid "1st Grade"
+msgstr "1 ग्रेड"
+
+#: templates/class-summer-camp-registration.php:61
+msgid "2nd Grade"
+msgstr "2 ग्रेड"
+
+#: templates/class-summer-camp-registration.php:64
+msgid "3rd Grade"
+msgstr "3 ग्रेड"
+
+#: templates/class-summer-camp-registration.php:67
+msgid "4th Grade"
+msgstr "4 ग्रेड"
+
+#: templates/class-summer-camp-registration.php:70
+msgid "5th Grade"
+msgstr "5 ग्रेड"
+
+#: templates/class-summer-camp-registration.php:73
+msgid "6th Grade"
+msgstr "6 ग्रेड"
+
+#: templates/class-summer-camp-registration.php:76
+msgid "7th Grade"
+msgstr "7 ग्रेड"
+
+#: templates/class-summer-camp-registration.php:79
+msgid "8th Grade"
+msgstr "8 ग्रेड"
+
+#: templates/class-summer-camp-registration.php:88
+msgid "Name of School"
+msgstr "स्कूल का नाम"
+
+#: templates/class-summer-camp-registration.php:94
+msgid "Parent/Guardian Information"
+msgstr "अभिभावक / अभिभावक सूचना"
+
+#: templates/class-summer-camp-registration.php:131
+msgid "Section Divider"
+msgstr "खंड विभाजक"
+
+#: templates/class-summer-camp-registration.php:153
+msgid "Medical Concerns"
+msgstr "चिकित्सा संबंधी चिंताएँ"
+
+#: templates/class-super-bowl-party-rsvp.php:21
+msgid "Super Bowl Party RSVP Form"
+msgstr "सुपर बाउल पार्टी RSVP फॉर्म"
+
+#: templates/class-super-bowl-party-rsvp.php:37
+msgid "Will you make it?"
+msgstr "क्या आप इसे बनाएंगे?"
+
+#: templates/class-super-bowl-party-rsvp.php:40
+msgid "Yes, I'll be there"
+msgstr "हां, मैं वहां रहूंगा"
+
+#: templates/class-super-bowl-party-rsvp.php:43
+msgid "No, I can't handle it"
+msgstr "नहीं, मैं इसे संभाल नहीं सकता"
+
+#: templates/class-super-bowl-party-rsvp.php:51
+msgid "You're bringing..."
+msgstr "आप ला रहे हैं …"
+
+#: templates/class-super-bowl-party-rsvp.php:57
+msgid "Any guests?"
+msgstr "कोई मेहमान?"
+
+#: templates/class-super-bowl-party-rsvp.php:63
+msgid "The winning team will be"
+msgstr "विजेता टीम होगी"
+
+#: templates/class-super-bowl-party-rsvp.php:69
+msgid "Guess the final score"
+msgstr "अंतिम स्कोर का अनुमान है"
+
+#: templates/class-support-ticket.php:21
+msgid "Support Ticket Form"
+msgstr "समर्थन टिकट फॉर्म"
+
+#: templates/class-support-ticket.php:44
+msgid "What can we help you with today?"
+msgstr "आज हम आपकी क्या मदद कर सकते हैं?"
+
+#: templates/class-support-ticket.php:47
+msgid "General question"
+msgstr "सामान्य प्रश्न"
+
+#: templates/class-support-ticket.php:50
+msgid "Feature request"
+msgstr "सुविधा का अनुरोध"
+
+#: templates/class-support-ticket.php:53
+msgid "Bug report"
+msgstr "बग रिपोर्ट"
+
+#: templates/class-support-ticket.php:56
+msgid "My account"
+msgstr "मेरा खाता"
+
+#: templates/class-support-ticket.php:66
+msgid "Your Website"
+msgstr "आपकी वेबसाइट"
+
+#: templates/class-support-ticket.php:72
+msgid "Issues / Message"
+msgstr "मुद्दे / संदेश"
+
+#: templates/class-takeout-order.php:21
+msgid "Takeout Order Form"
+msgstr "टेकआउट ऑर्डर फॉर्म"
+
+#: templates/class-takeout-order.php:29
+msgid "What type of pizza would you like?"
+msgstr "आप किस प्रकार का पिज्जा पसंद करेंगे?"
+
+#: templates/class-takeout-order.php:32
+msgid "Cheese"
+msgstr "पनीर"
+
+#: templates/class-takeout-order.php:35
+msgid "Pepperoni (+ $0.50)"
+msgstr "पेपरोनी (+ $0.50)"
+
+#: templates/class-takeout-order.php:38
+msgid "Sausage (+ $0.50)"
+msgstr "सॉसेज (+ $0.50)"
+
+#: templates/class-takeout-order.php:47
+msgid "How many pizzas would you like to order?"
+msgstr "आप कितने पिज्जा ऑर्डर करना चाहेंगे?"
+
+#: templates/class-takeout-order.php:50
+msgid "1 - $10"
+msgstr "1 - $10"
+
+#: templates/class-takeout-order.php:53
+msgid "2 - $20"
+msgstr "2 - $20"
+
+#: templates/class-takeout-order.php:56
+msgid "3 - $30"
+msgstr "3 - $30"
+
+#: templates/class-testimonial.php:21
+msgid "Testimonial Form"
+msgstr "प्रशंसापत्र फॉर्म"
+
+#: templates/class-testimonial.php:56
+msgid "Which product/service do you use?"
+msgstr "आप किस उत्पाद / सेवा का उपयोग करते हैं?"
+
+#: templates/class-testimonial.php:59
+msgid "Product A"
+msgstr "उत्पाद ए"
+
+#: templates/class-testimonial.php:62
+msgid "Product B"
+msgstr "उत्पाद बी"
+
+#: templates/class-testimonial.php:65
+msgid "Service A"
+msgstr "सेवा ए"
+
+#: templates/class-testimonial.php:68
+msgid "Service B"
+msgstr "सेवा बी"
+
+#: templates/class-testimonial.php:76
+msgid "Tell us what you think about the product/service."
+msgstr "हमें बताएं कि आप उत्पाद / सेवा के बारे में क्या सोचते हैं।"
+
+#: templates/class-testimonial.php:82
+msgid "May we post your testimonial (or a portion of it) on our website?"
+msgstr "क्या हम आपकी प्रशंसापत्र (या इसका एक भाग) हमारी वेबसाइट पर पोस्ट कर सकते हैं?"
+
+#: templates/class-time-sheet.php:21
+msgid "Time Sheet Form"
+msgstr "टाइम शीट फॉर्म"
+
+#: templates/class-time-sheet.php:37
+msgid "Project / Client"
+msgstr "परियोजना / ग्राहक"
+
+#: templates/class-time-sheet.php:40
+msgid "Acme Corp"
+msgstr "एक्मे कॉर्प"
+
+#: templates/class-time-sheet.php:43
+msgid "John Doe LLC"
+msgstr "जॉन डो LLC"
+
+#: templates/class-time-sheet.php:62
+msgid "Hours"
+msgstr "घंटे"
+
+#: templates/class-time-sheet.php:68
+msgid "Hourly Rate"
+msgstr "प्रति घंटा की दर"
+
+#: templates/class-to-do-list.php:21
+msgid "To Do List Form"
+msgstr "सूची फॉर्म करने के लिए"
+
+#: templates/class-to-do-list.php:58
+msgid "Category"
+msgstr "श्रेणी"
+
+#: templates/class-to-do-list.php:61
+msgid "Personal"
+msgstr "व्यक्तिगत"
+
+#: templates/class-to-do-list.php:64
+msgid "Home"
+msgstr "घर"
+
+#: templates/class-to-do-list.php:67
+msgid "Business"
+msgstr "व्यापार"
+
+#: templates/class-to-do-list.php:75
+msgid "Due Date"
+msgstr "नियत दिनांक"
+
+#: templates/class-travel-request.php:21
+msgid "Travel Request Form"
+msgstr "यात्रा अनुरोध फॉर्म"
+
+#: templates/class-travel-request.php:43
+msgid "Manager / Supervisor"
+msgstr "प्रबंधक / पर्यवेक्षक"
+
+#: templates/class-travel-request.php:49
+msgid "Reason for travel"
+msgstr "यात्रा का कारण"
+
+#: templates/class-travel-request.php:55
+msgid "Travel arrangements needed"
+msgstr "यात्रा व्यवस्था की जरूरत"
+
+#: templates/class-travel-request.php:58
+msgid "Flight"
+msgstr "फ्लाइट"
+
+#: templates/class-travel-request.php:61
+msgid "Hotel"
+msgstr "होटल"
+
+#: templates/class-travel-request.php:64
+msgid "Rental Car"
+msgstr "किराए की कार"
+
+#: templates/class-travel-request.php:74
+msgid "Departure City"
+msgstr "प्रस्थान शहर"
+
+#: templates/class-travel-request.php:80
+msgid "Arrival City"
+msgstr "आगमन शहर"
+
+#: templates/class-travel-request.php:97
+msgid "Return Date"
+msgstr "वापसी की दिनांक"
+
+#: templates/class-tshirt-order.php:21
+msgid "Tshirt Order Form"
+msgstr "टीशर्ट ऑर्डर फॉर्म"
+
+#: templates/class-tshirt-order.php:29
+msgid "T-Shirt Details"
+msgstr "टी शर्ट विवरण"
+
+#: templates/class-tshirt-order.php:35
+msgid "Design"
+msgstr "डिजाइन"
+
+#: templates/class-tshirt-order.php:38
+msgid "Ninja Shirt"
+msgstr "निंजा शर्ट"
+
+#: templates/class-tshirt-order.php:41
+msgid "Robot Shirt"
+msgstr "रोबोट शर्ट"
+
+#: templates/class-tshirt-order.php:44
+msgid "Pirate Shirt"
+msgstr "पायरेट शर्ट"
+
+#: templates/class-tshirt-order.php:53
+msgid "Size"
+msgstr "आकार"
+
+#: templates/class-tshirt-order.php:74
+msgid "Color"
+msgstr "रंग"
+
+#: templates/class-tshirt-order.php:77
+msgid "Red"
+msgstr "लाल"
+
+#: templates/class-tshirt-order.php:80
+msgid "Blue"
+msgstr "नीला"
+
+#: templates/class-tshirt-order.php:83
+msgid "Green"
+msgstr "हरा"
+
+#: templates/class-tshirt-order.php:86
+msgid "Black"
+msgstr "काला"
+
+#: templates/class-tshirt-order.php:98
+msgid "Your Details"
+msgstr "आपका विवरण"
+
+#: templates/class-tshirt-order.php:127
+msgid "Gift"
+msgstr "उपहार"
+
+#: templates/class-tshirt-order.php:130
+msgid "This is a gift"
+msgstr "यह एक उपहार है"
+
+#: templates/class-vendor-contact-information.php:21
+msgid "Vendor Contact Information Form"
+msgstr "विक्रेता संपर्क जानकारी फॉर्म"
+
+#: templates/class-vendor-contact-information.php:29
+msgid "Vendor Name"
+msgstr "विक्रेता का नाम"
+
+#: templates/class-vendor-contact-information.php:42
+msgid "Contact Name"
+msgstr "संपर्क नाम"
+
+#: templates/class-vendor-registration.php:21
+msgid "Vendor Registration Form"
+msgstr "विक्रेता पंजीकरण फार्म"
+
+#: templates/class-vendor-registration.php:29
+msgid "Company's Legal Name"
+msgstr "कंपनी का कानूनी नाम"
+
+#: templates/class-vendor-registration.php:35
+msgid "Business Type"
+msgstr "व्यवसाय का प्रकार"
+
+#: templates/class-vendor-registration.php:41
+msgid "Distributor"
+msgstr "वितरक"
+
+#: templates/class-vendor-registration.php:44
+msgid "Service Provider"
+msgstr "सेवा प्रदाता"
+
+#: templates/class-vendor-registration.php:52
+msgid "What kind of products/services does your company offer?"
+msgstr "आपकी कंपनी किस तरह के उत्पादों / सेवाओं की पेशकश करती है?"
+
+#: templates/class-vendor-registration.php:58
+msgid "Company Website"
+msgstr "कंपनी की वेबसाइट"
+
+#: templates/class-vendor-registration.php:64
+msgid "Company Founding Year"
+msgstr "कंपनी का स्थापना वर्ष"
+
+#: templates/class-vendor-registration.php:70
+msgid "Company Address"
+msgstr "कंपनी का पता"
+
+#: templates/class-vendor-registration.php:77
+msgid "Name of person representing the company"
+msgstr "कंपनी का प्रतिनिधित्व करने वाले व्यक्ति का नाम"
+
+#: templates/class-veterinarian-patient-intake.php:21
+msgid "Veterinarian Patient Intake Form"
+msgstr "पशुचिकित्सा रोगी इंटेक फॉर्म"
+
+#: templates/class-veterinarian-patient-intake.php:29
+msgid "Owner Information"
+msgstr "मालिक जानकारी"
+
+#: templates/class-veterinarian-patient-intake.php:65
+msgid "Pet Information"
+msgstr "पालतू जानकारी"
+
+#: templates/class-veterinarian-patient-intake.php:85
+msgid "Species and Breed"
+msgstr "प्रजाति और नस्ल"
+
+#: templates/class-veterinarian-patient-intake.php:92
+msgid "Please describe the problem or issue"
+msgstr "कृपया समस्या या मुद्दा का वर्णन करें"
+
+#: templates/class-video-release.php:21
+msgid "Video Release Form"
+msgstr "वीडियो रिलीज फार्म"
+
+#: templates/class-video-release.php:29
+msgid "Name of Individual Being Recorded"
+msgstr "व्यक्तिगत होने का नाम दर्ज है"
+
+#: templates/class-video-release.php:37
+msgid "Conditions"
+msgstr "शर्तेँ"
+
+#: templates/class-video-release.php:39
+msgid ""
+"<em>(Please note, this example form does not constitute a fully written and usable photography release. The content here is merely for example purposes.</em>\n"
+"\t\t\t\t\t\t\t<p>I hereby grant the XYZ COMPANY, its directors, officers, employees, agents, and designers (collectively “XYZ COMPANY”) non-revocable permission to capture my image and likeness in videotapes, motion pictures, "
+"recordings, or any other media (collectively “Images”). I acknowledge that XYZ COMPANY will own such Images and further grant the XYZ COMPANY permission to copyright, display, publish, distribute, use, modify, print and reprint such "
+"Images in any manner whatsoever related to XYZ COMPANY business, including without limitation, publications, advertisements, brochures, web site images, or other electronic displays and transmissions thereof. I further waive any right "
+"to inspect or approve the use of the Image by the XYZ COMPANY prior to its use. I forever release and hold the XYZ COMPANY harmless from any and all liability arising out of the use of the Images in any manner or media whatsoever, and "
+"waive any and all claims and causes of action relating to use of the Images, including without limitation, claims for invasion of privacy rights or publicity. </p>\n"
+"\t\t\t\t\t\t\t<p>I hereby warrant that I am eighteen (18) years old or more and competent to contract in my own name or, if I am less than eighteen years old, that my parent or guardian has signed this release form below. This release "
+"is binding on me and my heirs, assignees and personal representatives.</p>"
+msgstr ""
+"<em>(कृपया ध्यान दें, यह उदाहरण फ़ॉर्म पूरी तरह से लिखित और प्रयोग करने योग्य फ़ोटोग्राफ़ी रिलीज़ नहीं करता है। यहाँ सामग्री उदाहरण के उद्देश्यों के लिए है।</em>\n"
+"<p>मैं एक्सवाईजेड कंपनी, उसके निदेशकों, अधिकारियों, कर्मचारियों, एजेंटों, और डिजाइनरों (सामूहिक रूप से “एक्सवाईजेड कंपनी”) को गैर-प्रतिशोधात्मक अनुमति देता हूं, जो वीडियो, वीडियो, रिकॉर्डिंग, या किसी अन्य मीडिया में मेरी छवि और समानता को पकड़ने की अनुमति देता है। (सामूहिक रूप "
+"से “छवियाँ”)। मैं स्वीकार करता हूं कि XYZ कंपनी ऐसी छवियों का स्वामी होगी और XYZ कंपनी को कॉपीराइट, प्रदर्शन, प्रकाशन, वितरण, उपयोग, संशोधन, प्रिंट और पुनर्मुद्रण की अनुमति देगी और किसी भी तरह से XYZ कंपनी के व्यवसाय से संबंधित किसी भी तरीके से पुनर्मुद्रण, प्रकाशन, "
+"प्रकाशन, सहित विज्ञापन, ब्रोशर, वेब साइट चित्र, या अन्य इलेक्ट्रॉनिक डिस्प्ले और इसके प्रसारण। मैं इसके उपयोग से पहले XYZ कंपनी द्वारा छवि के उपयोग के निरीक्षण या अनुमोदन के लिए किसी भी अधिकार को माफ करता हूं। मैं हमेशा एक्सवाईजेड कंपनी को किसी भी तरह से या मीडिया से "
+"किसी भी तरह से और किसी भी तरह से मीडिया के उपयोग से उत्पन्न होने वाली किसी भी और सभी दायित्व से हानिरहित रखता हूं, और किसी भी और सभी दावों और कार्यों के कारणों को माफ कर देता हूं, जिसमें बिना किसी सीमा के शामिल है। गोपनीयता अधिकार या प्रचार पर आक्रमण के दावे।</"
+"p>\n"
+"<p>मैं इस तरह से वारंट करता हूं कि मैं अठारह (18) साल या उससे अधिक पुराना हूं और अपने नाम से अनुबंध करने के लिए सक्षम हूं या, अगर मैं अठारह साल से कम उम्र का हूं, तो मेरे माता-पिता या अभिभावक ने इस रिलीज फॉर्म पर हस्ताक्षर किए हैं। यह रिलीज़ मेरे और मेरे उत्तराधिकारियों, "
+"असाइनमेंट और व्यक्तिगत प्रतिनिधियों के लिए बाध्यकारी है।</p>"
+
+#: templates/class-video-release.php:66
+msgid "I agree to the conditions above."
+msgstr "मैं उपरोक्त शर्तों से सहमत हूं।"
+
+#: templates/class-volunteer-recruitment.php:21
+msgid "Volunteer Recruitment Form"
+msgstr "स्वयंसेवी भर्ती फार्म"
+
+#: templates/class-volunteer-recruitment.php:29
+msgid "Which programs are you interested in volunteering for?"
+msgstr "किन कार्यक्रमों में आपकी रुचि है?"
+
+#: templates/class-volunteer-recruitment.php:32
+msgid "Homelessness"
+msgstr "बेघर"
+
+#: templates/class-volunteer-recruitment.php:35
+msgid "Child abuse and neglect"
+msgstr "बाल शोषण और उपेक्षा"
+
+#: templates/class-volunteer-recruitment.php:38
+msgid "Drug and alcohol addiction"
+msgstr "ड्रग और शराब की लत"
+
+#: templates/class-volunteer-recruitment.php:41
+msgid "Medical research"
+msgstr "चिकित्सा अनुसंधान"
+
+#: templates/class-volunteer-recruitment.php:44
+msgid "Health and safety"
+msgstr "स्वास्थ्य और सुरक्षा"
+
+#: templates/class-volunteer-recruitment.php:54
+msgid "Which events are you interested in volunteering for?"
+msgstr "आप किन घटनाओं में रुचि रखते हैं?"
+
+#: templates/class-volunteer-recruitment.php:57
+msgid "Annual walk-a-thon"
+msgstr "वार्षिक वॉक-ए-थॉन"
+
+#: templates/class-volunteer-recruitment.php:60
+msgid "Quarterly raffle"
+msgstr "त्रैमासिक जुआ"
+
+#: templates/class-volunteer-recruitment.php:63
+msgid "Black-tie Gala"
+msgstr "ब्लैक-टाई पर्व"
+
+#: templates/class-volunteer-recruitment.php:73
+msgid "How many hours per week would you be able to dedicate?"
+msgstr "आप प्रति सप्ताह कितने घंटे समर्पित कर पाएंगे?"
+
+#: templates/class-volunteer-recruitment.php:76
+msgid "3 hour or less"
+msgstr "3 घंटे या उससे कम"
+
+#: templates/class-volunteer-recruitment.php:79
+msgid "3 to 5 hours"
+msgstr "3 से 5 घंटे"
+
+#: templates/class-volunteer-recruitment.php:82
+msgid "5 to 10 hours"
+msgstr "5 से 10 घंटे"
+
+#: templates/class-volunteer-recruitment.php:85
+msgid "10 to 20 hours"
+msgstr "10 से 20 घंटे"
+
+#: templates/class-volunteer-recruitment.php:88
+msgid "20 or more hours"
+msgstr "20 या अधिक घंटे"
+
+#: templates/class-volunteer-recruitment.php:95
+msgid "What days of the week are you available?"
+msgstr "सप्ताह के कौन से दिन उपलब्ध हैं?"
+
+#: templates/class-volunteer-recruitment.php:113
+msgid "Saturday"
+msgstr "शनिवार"
+
+#: templates/class-volunteer-recruitment.php:116
+msgid "Sunday"
+msgstr "रविवार"
+
+#: templates/class-volunteer-recruitment.php:123
+msgid "Please list any relevant experiences you have that you feel would benefit any of the above programs or events."
+msgstr "कृपया अपने पास मौजूद किसी भी प्रासंगिक अनुभव को सूचीबद्ध करें जो आपको लगता है कि उपरोक्त कार्यक्रमों या घटनाओं में से किसी एक को फायदा होगा।"
+
+#: templates/class-volunteer-recruitment.php:129
+msgid "How did you find out about our organization?"
+msgstr "आपको हमारे संगठन के बारे में कैसे पता चला?"
+
+#: templates/class-volunteer-recruitment.php:132
+msgid "Direct mail"
+msgstr "डायरेक्ट मेल"
+
+#: templates/class-volunteer-recruitment.php:138
+msgid "Online Search"
+msgstr "ऑनलाइन खोज"
+
+#: templates/class-volunteer-recruitment.php:141
+msgid "Friend / Family"
+msgstr "दोस्त / परिवार"
+
+#: templates/class-volunteer-recruitment.php:144
+msgid "Business Colleague "
+msgstr "व्यापार सहयोगी"
+
+#: templates/class-webinar-registration.php:21
+msgid "Webinar Registration Form"
+msgstr "वेबिनार पंजीकरण फॉर्म"
+
+#: templates/class-webinar-registration.php:50
+msgid "How did you hear about this webinar?"
+msgstr "आपने इस वेबिनार के बारे में कैसे सुना?"
+
+#: templates/class-webinar-registration.php:53
+msgid "Social media"
+msgstr "सोशल मीडिया"
+
+#: templates/class-wedding-invitation-rsvp.php:21
+msgid "Wedding Invitation RSVP Form"
+msgstr "शादी का निमंत्रण RSVP फॉर्म"
+
+#: templates/class-wedding-invitation-rsvp.php:37
+msgid "Are you attending?"
+msgstr "क्या तुम शामिल हो रहे हो?"
+
+#: templates/class-wedding-invitation-rsvp.php:51
+msgid "Your meal selection"
+msgstr "आपका भोजन चयन"
+
+#: templates/class-wedding-invitation-rsvp.php:54, templates/class-wedding-invitation-rsvp.php:92, templates/class-workshop-registration.php:61
+msgid "Chicken"
+msgstr "चिकन"
+
+#: templates/class-wedding-invitation-rsvp.php:57, templates/class-wedding-invitation-rsvp.php:95, templates/class-workshop-registration.php:64
+msgid "Fish"
+msgstr "मछली"
+
+#: templates/class-wedding-invitation-rsvp.php:67
+msgid "Are you bringing a guest?"
+msgstr "क्या आप एक अतिथि ला रहे हैं?"
+
+#: templates/class-wedding-invitation-rsvp.php:81
+msgid "Guest Name"
+msgstr "अतिथि का नाम"
+
+#: templates/class-wedding-invitation-rsvp.php:89
+msgid "Guest meal selection"
+msgstr "अतिथि भोजन चयन"
+
+#: templates/class-work-order-request.php:21
+msgid "Work Order Request Form"
+msgstr "वर्क आर्डर अनुरोध फॉर्म"
+
+#: templates/class-work-order-request.php:51
+msgid "Building Number"
+msgstr "भवन संख्या"
+
+#: templates/class-work-order-request.php:57
+msgid "Room Number"
+msgstr "कमरा नंबर"
+
+#: templates/class-work-order-request.php:63
+msgid "Request Type"
+msgstr "अनुरोध का प्रकार"
+
+#: templates/class-work-order-request.php:66
+msgid "General maintenance"
+msgstr "सामान्य रखरखाव"
+
+#: templates/class-work-order-request.php:69
+msgid "Repairs"
+msgstr "मरम्मत"
+
+#: templates/class-work-order-request.php:72
+msgid "Housekeeping"
+msgstr "गृह व्यवस्था"
+
+#: templates/class-work-order-request.php:75
+msgid "Safety issue"
+msgstr "सुरक्षा का मुद्दा"
+
+#: templates/class-work-order-request.php:78
+msgid "Event setup/tear down"
+msgstr "इवेंट सेटअप / फाड़ दो"
+
+#: templates/class-workshop-registration.php:21
+msgid "Workshop Registration Form"
+msgstr "कार्यशाला पंजीकरण फार्म"
+
+#: templates/class-workshop-registration.php:58
+msgid "Select a meal preference"
+msgstr "भोजन की प्राथमिकता चुनें"
+
+#: templates/class-workshop-registration.php:70
+msgid "At noon we will break for a one hour lunch."
+msgstr "दोपहर में हम एक घंटे के लंच के लिए ब्रेक लेंगे।"

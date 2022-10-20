@@ -1,0 +1,49 @@
+.ha-control-image-selector-wrapper {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display:         flex;
+	overflow-y: scroll; 
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	margin-top: 10px;
+	margin-right: -6px;
+	margin-left: -6px;
+	max-height: 160px;
+}
+.ha-control-image-selector-wrapper input[type="radio"] {
+	position: absolute;
+	opacity: 0;
+}
+.ha-control-image-selector-wrapper .ha-image-selector-label {
+	overflow: hidden;
+	-webkit-box-flex: 0;
+	-webkit-flex: 0 0 calc((100% - 18px) / 3);
+	    -ms-flex: 0 0 calc((100% - 18px) / 3);
+	        flex: 0 0 calc((100% - 18px) / 3); 
+	margin: 3px;
+	padding: 3px;
+	border: 3px solid transparent;
+	border-radius: 4px;
+	opacity: .5;
+	cursor: pointer;
+
+	-webkit-user-select: none;
+	   -moz-user-select: none;
+	    -ms-user-select: none;
+	        user-select: none;
+}
+.ha-control-image-selector-wrapper .ha-image-selector-label img,
+.ha-control-image-selector-wrapper .ha-image-selector-label svg {
+	width: 100%; 
+	height: 100%;
+}
+.ha-control-image-selector-wrapper input:checked + .ha-image-selector-label {
+	border-color: #a4afb7;
+	opacity: 1;
+}
+
+.elementor-context-menu-list__item__icon .hm {
+	color: #eee;
+}

@@ -1,0 +1,486 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WPForms Drop Uploader\n"
+"POT-Creation-Date: 2018-05-15 12:29+0300\n"
+"PO-Revision-Date: 2018-05-15 12:29+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wpf-drop-uploader.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/class-drop-uploader.php:16
+msgid "Drop Uploader"
+msgstr ""
+
+#: classes/class-drop-uploader.php:157
+msgid ""
+"Enter text for the form field label. Field labels are recommended and can be "
+"hidden in the Advanced Settings."
+msgstr ""
+
+#: classes/class-drop-uploader.php:158
+msgid "Label"
+msgstr ""
+
+#: classes/class-drop-uploader.php:167
+msgid "Enter text for the form field description."
+msgstr ""
+
+#: classes/class-drop-uploader.php:168
+msgid "Description"
+msgstr ""
+
+#: classes/class-drop-uploader.php:178
+msgid ""
+"Check this option to mark the field required. A form will not submit unless "
+"all required fields are provided."
+msgstr ""
+
+#: classes/class-drop-uploader.php:179
+msgid "Required"
+msgstr ""
+
+#: classes/class-drop-uploader.php:195
+msgid "Enter code for the form field."
+msgstr ""
+
+#: classes/class-drop-uploader.php:196
+msgid "Code"
+msgstr ""
+
+#: classes/class-drop-uploader.php:223
+msgid "Choices"
+msgstr ""
+
+#: classes/class-drop-uploader.php:224 classes/class-drop-uploader.php:340
+msgid "Add choices for the form field."
+msgstr ""
+
+#: classes/class-drop-uploader.php:225
+msgid "Bulk Add"
+msgstr ""
+
+#: classes/class-drop-uploader.php:263 classes/class-drop-uploader.php:378
+msgid "Remove Image"
+msgstr ""
+
+#: classes/class-drop-uploader.php:271 classes/class-drop-uploader.php:386
+msgid "Upload Image"
+msgstr ""
+
+#: classes/class-drop-uploader.php:288
+msgid "post type"
+msgstr ""
+
+#: classes/class-drop-uploader.php:292
+msgid "taxonomy"
+msgstr ""
+
+#: classes/class-drop-uploader.php:303
+#, php-format
+msgid "Choices are dynamically populated from the %1$s %2$s."
+msgstr ""
+
+#: classes/class-drop-uploader.php:339
+msgid "Items"
+msgstr ""
+
+#: classes/class-drop-uploader.php:417
+msgid ""
+"Images are not cropped or resized. For best results, they should be the same "
+"size and 250x250 pixels or smaller."
+msgstr ""
+
+#: classes/class-drop-uploader.php:427
+msgid "Use image choices"
+msgstr ""
+
+#: classes/class-drop-uploader.php:428
+msgid "Check this option to enable using images with the choices."
+msgstr ""
+
+#: classes/class-drop-uploader.php:456
+msgid "Image Choice Style"
+msgstr ""
+
+#: classes/class-drop-uploader.php:457
+msgid "Select the style for the image choices."
+msgstr ""
+
+#: classes/class-drop-uploader.php:470
+msgid "Modern"
+msgstr ""
+
+#: classes/class-drop-uploader.php:471
+msgid "Classic"
+msgstr ""
+
+#: classes/class-drop-uploader.php:472
+msgid "None"
+msgstr ""
+
+#: classes/class-drop-uploader.php:499
+msgid "Set maximum file size"
+msgstr ""
+
+#: classes/class-drop-uploader.php:500
+msgid "Max File size"
+msgstr ""
+
+#: classes/class-drop-uploader.php:507
+msgid "Set maximum number of files, that can be uploaded"
+msgstr ""
+
+#: classes/class-drop-uploader.php:508
+msgid "Files Amount"
+msgstr ""
+
+#: classes/class-drop-uploader.php:515
+msgid "Set what file types are allowed"
+msgstr ""
+
+#: classes/class-drop-uploader.php:516
+msgid "File types"
+msgstr ""
+
+#: classes/class-drop-uploader.php:529
+msgid "Enter text for the default form field value."
+msgstr ""
+
+#: classes/class-drop-uploader.php:530
+msgid "Show Smart Tags"
+msgstr ""
+
+#: classes/class-drop-uploader.php:531
+msgid "Default Value"
+msgstr ""
+
+#: classes/class-drop-uploader.php:541
+msgid "Select the default form field size."
+msgstr ""
+
+#: classes/class-drop-uploader.php:543
+msgid "Small"
+msgstr ""
+
+#: classes/class-drop-uploader.php:544
+msgid "Medium"
+msgstr ""
+
+#: classes/class-drop-uploader.php:545
+msgid "Large"
+msgstr ""
+
+#: classes/class-drop-uploader.php:547
+msgid "Field Size"
+msgstr ""
+
+#: classes/class-drop-uploader.php:560
+msgid "Advanced Options"
+msgstr ""
+
+#: classes/class-drop-uploader.php:571
+msgid "Enter text for the form field placeholder."
+msgstr ""
+
+#: classes/class-drop-uploader.php:572
+msgid "Placeholder Text"
+msgstr ""
+
+#: classes/class-drop-uploader.php:582
+msgid ""
+"Enter CSS class names for the form field container. Class names should be "
+"separated with spaces."
+msgstr ""
+
+#: classes/class-drop-uploader.php:584
+msgid "Show Layouts"
+msgstr ""
+
+#: classes/class-drop-uploader.php:587
+msgid "CSS Classes"
+msgstr ""
+
+#: classes/class-drop-uploader.php:596
+msgid "Check this option to hide the form field label."
+msgstr ""
+
+#: classes/class-drop-uploader.php:598
+msgid "Hide Label"
+msgstr ""
+
+#: classes/class-drop-uploader.php:606
+msgid "Check this option to hide the form field sub-label."
+msgstr ""
+
+#: classes/class-drop-uploader.php:608
+msgid "Hide Sub-Labels"
+msgstr ""
+
+#: classes/class-drop-uploader.php:616
+msgid "Select the layout for displaying field choices."
+msgstr ""
+
+#: classes/class-drop-uploader.php:618
+msgid "One Column"
+msgstr ""
+
+#: classes/class-drop-uploader.php:619
+msgid "Two Columns"
+msgstr ""
+
+#: classes/class-drop-uploader.php:620
+msgid "Three Columns"
+msgstr ""
+
+#: classes/class-drop-uploader.php:621
+msgid "Inline"
+msgstr ""
+
+#: classes/class-drop-uploader.php:623
+msgid "Choice Layout"
+msgstr ""
+
+#: classes/class-drop-uploader.php:632
+msgid "Select auto-populate method to use."
+msgstr ""
+
+#: classes/class-drop-uploader.php:634
+msgid "Off"
+msgstr ""
+
+#: classes/class-drop-uploader.php:635 classes/class-drop-uploader.php:656
+msgid "Post Type"
+msgstr ""
+
+#: classes/class-drop-uploader.php:636 classes/class-drop-uploader.php:667
+msgid "Taxonomy"
+msgstr ""
+
+#: classes/class-drop-uploader.php:638
+msgid "Dynamic Choices"
+msgstr ""
+
+#: classes/class-drop-uploader.php:678
+#, php-format
+msgid "Select %s to use for auto-populating field choices."
+msgstr ""
+
+#: classes/class-drop-uploader.php:680
+#, php-format
+msgid "Dynamic %s Source"
+msgstr ""
+
+#: classes/class-drop-uploader.php:771 wpf-drop-uploader.php:86
+msgid "Drop files here, or"
+msgstr ""
+
+#: classes/class-drop-uploader.php:771 wpf-drop-uploader.php:88
+msgid "Browse"
+msgstr ""
+
+#: wpf-drop-uploader.php:97
+msgid "Only one file allowed"
+msgstr ""
+
+#: wpf-drop-uploader.php:98
+msgid "File type is not allowed"
+msgstr ""
+
+#: wpf-drop-uploader.php:99
+msgid "Files, bigger than"
+msgstr ""
+
+#: wpf-drop-uploader.php:100
+msgid "is not allowed"
+msgstr ""
+
+#: wpf-drop-uploader.php:101
+msgid "Only"
+msgstr ""
+
+#: wpf-drop-uploader.php:102
+msgid "files allowed"
+msgstr ""
+
+#: wpf-drop-uploader.php:323
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: wpf-drop-uploader.php:326
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+
+#: wpf-drop-uploader.php:329
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: wpf-drop-uploader.php:332
+msgid "No file was uploaded"
+msgstr ""
+
+#: wpf-drop-uploader.php:335
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: wpf-drop-uploader.php:338
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: wpf-drop-uploader.php:341
+msgid "File upload stopped by extension"
+msgstr ""
+
+#: wpf-drop-uploader.php:344
+msgid "Unknown upload error"
+msgstr ""
+
+#: wpf-drop-uploader.php:349
+msgid "File not recieved"
+msgstr ""
+
+#: wpf-settings.php:13 wpf-settings.php:23
+msgid "WPForms Drop Uploader Settings"
+msgstr ""
+
+#: wpf-settings.php:74
+msgid "Drop Uploader Style"
+msgstr ""
+
+#: wpf-settings.php:76
+msgid "Drop Uploader Options"
+msgstr ""
+
+#: wpf-settings.php:80
+msgid "Border Color"
+msgstr ""
+
+#: wpf-settings.php:82
+msgid "Border Hover Color"
+msgstr ""
+
+#: wpf-settings.php:84
+msgid "Progress Bar Color"
+msgstr ""
+
+#: wpf-settings.php:86
+msgid "Border Thickness"
+msgstr ""
+
+#: wpf-settings.php:88
+msgid "Title Color"
+msgstr ""
+
+#: wpf-settings.php:90
+msgid "Icon Color"
+msgstr ""
+
+#: wpf-settings.php:92
+msgid "Browse Link CSS Classes"
+msgstr ""
+
+#: wpf-settings.php:94
+msgid "Uploader Icon"
+msgstr ""
+
+#: wpf-settings.php:96
+msgid "File Icon"
+msgstr ""
+
+#: wpf-settings.php:98
+msgid "Drop Files Here text"
+msgstr ""
+
+#: wpf-settings.php:100
+msgid "Browse text"
+msgstr ""
+
+#: wpf-settings.php:102
+msgid "Time Show Errors"
+msgstr ""
+
+#: wpf-settings.php:104
+msgid "Layout"
+msgstr ""
+
+#: wpf-settings.php:106
+msgid "Attach Files"
+msgstr ""
+
+#: wpf-settings.php:110
+msgid "Store Files"
+msgstr ""
+
+#: wpf-settings.php:202 wpf-settings.php:206
+msgid "Use icons from"
+msgstr ""
+
+#: wpf-settings.php:202 wpf-settings.php:206
+msgid "this pack"
+msgstr ""
+
+#: wpf-settings.php:210 wpf-settings.php:214
+msgid "If empty - will be used default translation"
+msgstr ""
+
+#: wpf-settings.php:218
+msgid "sec"
+msgstr ""
+
+#: wpf-settings.php:225
+msgid "Thumbnails"
+msgstr ""
+
+#: wpf-settings.php:227
+msgid "List"
+msgstr ""
+
+#: wpf-settings.php:233
+msgid "Attach uploaded files to email."
+msgstr ""
+
+#: wpf-settings.php:237
+msgid "Set this checkbox, if you want to send attached files as a zip archive."
+msgstr ""
+
+#: wpf-settings.php:241
+msgid "Send links to uploaded files in email."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPForms Drop Uploader"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://codecanyon.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WPForms Drop Uploader WordPress plugin allows you to add powerful Drag &amp; "
+"Drop File Uploading area to your Form, that was built with WPForms. You can "
+"add several file uploading areas for one form and set file maximum size and "
+"file type for each of them."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "borisolhor"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://codecanyon.net/user/borisolhor"
+msgstr ""
